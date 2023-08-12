@@ -1,0 +1,80 @@
+@use "critical_modules/globals" as g;
+
+.entry-metadata {
+	padding-left: 1em;
+	padding-right: 1em;
+	margin-bottom: 1em;
+	margin-top: 0.725em;
+	gap: 0.25em;
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+
+	font-style: italic;
+	line-height: 0.9em;
+
+	a, span {
+		opacity: 0.775;
+	}
+
+	a {
+		text-decoration: underline;
+		text-decoration-thickness: 0.1em;
+		transition: color 0.3s, opacity 0.3s;
+		&:hover {
+			opacity: 1.0;
+			@include g.themed() {
+				color: g.t("def-near-black");
+			}
+		}
+	}
+}
+
+.single-post {
+	.entry-metadata {
+		justify-content: center;
+	}
+}
+
+// @TODO: terrible implementation, but not too important right now
+// Should replace with `em` units + automatic loop
+
+.entry-icon {
+	background-image: url(metadata_icons.png);
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 0.1em;
+}
+
+.entry-icon-date {
+	background-position-x: 0px;
+}
+
+.entry-icon-reading-time {
+	background-position-x: -20px;
+}
+
+.entry-icon-category {
+	background-position-x: -40px;
+}
+
+.entry-icon-author {
+	background-position-x: -60px;
+}
+
+.entry-icon-comments {
+	background-position-x: -80px;
+}
+
+.entry-icon-edit {
+	background-position-x: -100px;
+}
+
+.entry-icon-parent {
+	background-position-x: -120px;
+}

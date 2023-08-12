@@ -1,0 +1,1259 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+
+
+
+
+
+
+
+
+
+<title>Een eigen WordPress thema ontwikkelen – deel 3 | Blog | Tiamo Pastoor</title>
+
+
+
+
+<link rel="canonical" href="https://tiamopastoor.com/blog/2021/2021-03-16-een-eigen-wordpress-thema-ontwikkelen-deel-3/" />
+<link rel="icon" type="image/png" href="https://tiamopastoor.com/favicon.png" />
+
+
+
+<link rel="stylesheet" type="text/css" href="/css/critical.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Truculenta:wght@700&display=swap">
+    
+</noscript>
+</head>
+<body>
+	 <header>
+	<div class="menu-container">
+		<nav class="menu">
+			<ul class="no-bullets flex-list">
+				<li class="priority-1"><a href="/books">Books</a></li>
+				<li class="priority-2"><a href="/blog">Blog</a></li>
+				<li class="priority-3"><a href="/info/about/">About</a></li>
+				<li class="center-logo-faker"><a href="/" class="center-logo-fake"></a></li>
+				<li class="priority-1"><button class="gotoBottomButton">Go to Menu</button></li>
+				<li class="priority-2"><a href="/books/the-saga-of-life/">Saga of Life</a></li>
+				<li class="priority-3"><a href="/series/wildebyte-arcades/">Wildebyte</a></li>
+			</ul>
+		</nav>
+	</div>
+	<div class="center-logo-container">
+		<div class="center-logo"></div>
+	</div>
+</header>
+ 
+	
+	
+	
+	
+	
+	<main>
+		<div class="center-container">
+			<div class="double-view vertical layout-reversed single-post">
+				
+				
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+<div class="left-side hide-caption">
+    <section class="sketchy-box">
+    
+    <figure>
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Een eigen WordPress thema ontwikkelen – deel 3'</span>
+		</figcaption><picture><img 
+				src="/default_thumbnails/default_vertical_miscellaneous.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Header / Cover Image for &#39;Een eigen WordPress thema ontwikkelen – deel 3&#39;"
+				title="Header / Cover Image for &#39;Een eigen WordPress thema ontwikkelen – deel 3&#39;"
+				width="2481"
+				height="877"
+				class=""
+			/></picture>
+</figure>
+    </section>
+</div>
+
+
+
+				<div class="right-side">
+					<article class="sketchy-box">
+						<h1>Een eigen WordPress thema ontwikkelen – deel 3</h1>
+						<div>
+							
+
+
+
+
+
+<div class="entry-metadata">
+    <span class="entry-icon entry-icon-date"></span>
+    
+    <span>March 16, 2021</span>
+
+    <span class="entry-icon entry-icon-comments"></span>
+    <span>
+        
+
+
+
+
+
+
+    
+    
+        
+        <a href="/language/nl">Dutch</a>
+    
+
+    </span>
+
+    
+        <span class="entry-icon entry-icon-reading-time"></span>
+        
+        
+        
+        <span>7 minute(s)</span>
+    
+
+    
+    
+
+    
+</div>
+						</div>
+						
+
+    <aside class="toc" id="toc" data-status="hidden">
+        <button class="toc-button striped-link" id="toc-button">
+            <span>Toggle Table of Contents</span>
+        </button>
+        <div class="toc-content" id="toc-content" style="display: none;">
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#moeite-met-menus">Moeite met menu&rsquo;s</a>
+      <ul>
+        <li><a href="#menu-invullen">Menu invullen</a></li>
+        <li><a href="#menu-opvragen--stylen">Menu opvragen &amp; stylen</a></li>
+        <li><a href="#waarom-een-menu">Waarom een menu?</a></li>
+        <li><a href="#waarom-géén-menu">Waarom géén menu?</a></li>
+        <li><a href="#mijn-conclusie">Mijn conclusie</a></li>
+      </ul>
+    </li>
+    <li><a href="#sidebars--widgets">Sidebars &amp; Widgets</a></li>
+    <li><a href="#pagination">Pagination</a></li>
+    <li><a href="#thumbnails">Thumbnails</a></li>
+    <li><a href="#reacties">Reacties</a></li>
+    <li><a href="#opmerkingen-over-semantics">Opmerkingen over semantics</a></li>
+    <li><a href="#het-design-van-ndhu">Het design van NDHU</a></li>
+  </ul>
+</nav>
+        </div>
+    </aside>
+
+						<div class="article-content">
+							<p>Welkom bij deel 3 van de artikelenreeks over het ontwikkelen van je eigen WordPress thema.</p>
+<p>Inmiddels heb je geleerd over de algemene structuur en &ldquo;the loop&rdquo;, wat genoeg zou moeten zijn om al een 99% functionerend blog te krijgen. (Een homepage met je laatste artikelen, alleenstaande pagina&rsquo;s, opvragen van informatie zoals de <em>auteur</em> en <em>datum</em> van een artikel.)</p>
+<p>Maar natuurlijk zijn er vele randzaken die je (waarschijnlijk) wilt opnemen in je blog. Denk aan <em>comments</em>, of meerdere <em>pagina&rsquo;s</em> op je homepage (met slechts een paar artikelen per pagina), of <em>menu&rsquo;s</em>.</p>
+<p>Daar gaat dit laatste deel over!</p>
+<h2 id="moeite-met-menus">Moeite met menu&rsquo;s</h2>
+<p>In deze sectie zal ik je uitleggen hoe je een menu kan inladen (die je hebt ingesteld middels de WordPress interface).</p>
+<p>Maar vervolgens zal ik uitleggen waarom ik deze hele functionaliteit uiteindelijk weer heb weggegooid. Mijn blog gebruikt nu slechts een <em>zeer minimaal</em> menu, met de hand gemaakt, en alle andere navigatie of informatie staat in de <em>footer</em>.</p>
+<div class="remark">Waarom besteed ik hier dan tijd aan? Omdat ik in het algemeen wil adviseren om geen gigantische menu&rsquo;s meer te gebruiken of je header té vol te stoppen. Bovendien is het een goede introductie tot het volgende thema: <em>widgets</em>.</div>
+<h3 id="menu-invullen">Menu invullen</h3>
+<p>In deel 1 (in <code>functions.php</code>) hebben we al een menu geregistreerd met het systeem.</p>
+<p>Daardoor kan je gewoon, in de WP interface, naar <strong>Weergave &gt; Menu&rsquo;s</strong> en direct werken aan je menu.</p>
+<p>Het is vrij vanzelfsprekend. Links kan je berichten/pagina&rsquo;s/wat dan ook selecteren om toe te voegen. Door te slepen en te klikken kan je de elementen anders rangschikken en invullen.</p>
+<p>Vergeet het niet op te slaan als je tevreden bent.</p>
+<h3 id="menu-opvragen--stylen">Menu opvragen &amp; stylen</h3>
+<p>Oké, het menu is bekend bij WP, en het heeft de juiste inhoud. Maar hoe laten we het zien? Hoe vragen we het op?</p>
+<p>Daarvoor gebruik we de functie <code>wp_nav_menu();</code></p>
+<p>Afhankelijk van wat je <em>in</em> de functie stopt, kan je het alvast een bepaalde structuur of style geven. Alleen het eerste argument, <em>welk menu je precies wilt laten zien</em>, is vereist. (Zie zoals altijd de documentatie: <a href="https://developer.wordpress.org/reference/functions/wp_nav_menu/">wp_nav_menu</a>.)</p>
+<h3 id="waarom-een-menu">Waarom een menu?</h3>
+<p>Het idee van een menu is om mensen snel over de website te laten bewegen én de belangrijkste pagina&rsquo;s/inhoud uit te lichten.</p>
+<p>Het is ook best handig en logisch. Ik zeg zeker niet dat iedereen nu meteen het idee van een &ldquo;menu in de header&rdquo; moet weggooien.</p>
+<p>Maar ik zie dit soort menu&rsquo;s steeds simpeler worden en langzaam verdwijnen, en ik denk dat het een goede ontwikkeling is. Bijna elke website met een volwaardige menu is voor mij onbruikbaar op mobiel en compleet overweldigend op de computer.</p>
+<div class="remark">Serieus, wie vond het een goed idee om twintig grote links naast elkaar bovenaan elke pagina te zetten? En bewegende, flitsende advertenties aan de zijkant van alle artikelen?</div>
+<h3 id="waarom-géén-menu">Waarom géén menu?</h3>
+<p>Ook bij dit blog zijn er enkele problemen:</p>
+<p><strong>Probleem #1:</strong> Dit blog kent veel inhoud. Het oude menu had 10+ onderdelen, paste niet op één pagina (daarom moest je het eerst uitklappen door erop te klikken), en dat werd alleen maar erger. Met elk nieuw project wilde ik wéér een snelle link naar die pagina hebben.</p>
+<p><strong>Probleem #2:</strong> Als men op kleinere schermen kijkt, is er geen <em>ruimte</em> voor een menu. Je kan hoogstens enkele icoontjes of woorden laten zien, dan houdt het op.</p>
+<div class="remark"><p>Vrijwel iedereen lost dit op door het menu te vervangen door het &ldquo;hamburgericoontje&rdquo;. Als je daarop klikt, vouwt het <em>hele menu</em> uit.</p>
+<p>Ik vind het een acceptabele oplossing, maar niet ideaal. Je moet als gebruiker extra klikken én het geeft je een excuus om niet minimalistisch te zijn en je menu gestroomlijnd te houden. Bovendien snapt niet iedereen wat elk icoontje betekent.</p>
+</div>
+<p><strong>Probleem #3:</strong> Ik wil niet dat mensen constant <em>langs het menu moeten scrollen</em>. Het menu moet dermate klein zijn, dat hij binnen handbereik is zo nodig, maar dat je er nooit langs hoeft.</p>
+<div class="remark">Het is daarom eigenlijk raar dat we menu&rsquo;s bovenaan plaatsen. Je moet er <em>altijd</em> langs en <em>altijd</em> naar kijken voordat je met de inhoud kan beginnen. Ik vind het logischer om al die navigatie in de footer te zetten.</div>
+<h3 id="mijn-conclusie">Mijn conclusie</h3>
+<p>Na lang nadenken en proberen, concludeerde ik dat dit blog het beste geen (groot) menu kan hebben.</p>
+<p>Waarom? Alle projecten die ik doe staan al geregistreerd op mijn <em>portfolio website</em> (<a href="https://rodepanda.com">Rode Panda</a>). Daar heb ik die website nou precies voor ontworpen! Het doet niks anders, het heeft geen bellen en toeters, het laat gewoon <em>al mijn werk zien</em>.</p>
+<p>Ik vond het onnodig en verwarrend om constant alles <em>dubbel</em> in te voeren en te verwijzen. Dus er komt één knop bovenaan de website en die leidt direct naar mijn portfolio.</p>
+<p>Daarnaast zie ik dat de &ldquo;Over mij&rdquo; pagina altijd vaak wordt bezocht op websites. Iedereen wil heel graag een gezicht bij een website hebben. Als ze een leuk artikel of twee hebben gelezen, willen ze kijken wie het eigenlijk heeft geschreven en of die misschien nog meer heeft gedaan. Dus dat is de tweede knop.</p>
+<p>De laatste knop leidt je rechtstreeks naar de <em>footer</em> onderaan de pagina. Binnen een halve seconde ben je naar beneden gescrollt.</p>
+<p>In die footer staan een handvol <em>widgets:</em> zoeken op de website, abbonneren, laatste berichten, belangrijke pagina&rsquo;s, meer werk van mij, enzovoort. Uit de weg, maar makkelijk te vinden als je het nodig hebt.</p>
+<p>Dus laten we nu eens praten over die widgets.</p>
+<h2 id="sidebars--widgets">Sidebars &amp; Widgets</h2>
+<p>Hopelijk zit mijn verhaal over <em>sidebars</em> nog vers in je geheugen: een sidebar is een plek die automatisch al je <em>widgets</em> laat zien.</p>
+<p>Een sidebar moet je registreren in <code>functions.php</code> onder een zelfbedachte naam. Vervolgens kan je in de WP interface, bij &ldquo;Widgets&rdquo;, automatisch elementen erin plaatsen.</p>
+<p>Als laatste moet je dan natuurlijk die sidebar oproepen op de juiste plek in je code.</p>
+<p>Dit is mijn <code>sidebar.php</code>, die letterlijk alleen de widgets opvraagt:</p>
+<p>En dit is een regeltje in mijn <code>footer.php</code> die deze sidebar oproept en laat zien:</p>
+<p>Hartstikke simpel en klein!</p>
+<div class="remark">Natuurlijk, als je veel <em>verschillende</em> sidebars hebt, zal je meer argumenten moeten doorgeven aan deze functies. (Of meerdere bestanden maken, zoals <code>sidebar-primary.php</code> en <code>sidebar-secondary.php</code>) Maar dat is voor de meesten niet aan de orde.</div>
+<h2 id="pagination">Pagination</h2>
+<p>Als je &ldquo;the loop&rdquo; gebruikt, zal WP ook meteen de pagina-navigatie voor je regelen. Immers, het systeem weet precies welke artikelen het nu moet laten zien, en of er nog artikelen daarvóór of daarná komen.</p>
+<p>Dus als je onderaan de pagina knoppen wilt met &ldquo;volgende pagina&rdquo; en &ldquo;vorige pagina&rdquo;, hoef je dit slechts aan het systeem te vragen.</p>
+<div class="remark">Bij de <em>instellingen</em> van WP kan je kiezen hoeveel berichten hij laat zien <em>per pagina</em>, of deze navigati nummers gebruikt of alleen tekst, etcetera. Dit geldt in het algemeen: als WP iets voor je regelt, kan je dat bij de instellingen nog een beetje <em>tweaken</em>.</div>
+<h2 id="thumbnails">Thumbnails</h2>
+<p>WordPress werkt volgens het systeem van &ldquo;vaste groottes&rdquo;.</p>
+<p>Eerst moet je in <code>functions.php</code> zelf een aantal groottes registreren.</p>
+<div class="example">Je zegt &ldquo;small&rdquo; is 100×100, &ldquo;medium&rdquo; is 300×300, en &ldquo;large&rdquo; is 800×800</div>
+<p>Als je een plaatje uploadt, maakt WP automatisch een versie aan <em>in elke geregistreerde grootte</em>.</p>
+<p>Vervolgens kan je een plaatje dus oproepen in je thema <em>met een specifieke grootte</em>.</p>
+<div class="example">Op de homepage krijgt elk bericht maar een klein beetje ruimte, dus laat je de &ldquo;small&rdquo; versie zien. Als je op een bericht klikt, en naar diens pagina gaat, wil je het plaatje zo groot mogelijk laten zien en kiest &ldquo;large&rdquo;</div>
+<p>Dit systeem is heel handig &hellip; als je het nodig hebt. Als je vooral blogt (en dus weinig <em>featured images</em> toevoegt aan je pagina&rsquo;s), of je ontwerp wil alle plaatjes gewoon op ware grootte, dan kan je dit negeren.</p>
+<p>In dat geval heeft WP één <em>default size</em> genaamd &ldquo;full&rdquo;. (Die laat een plaatje zien zonder te bewerken of wat dan ook.)</p>
+<p>Dit is hoe je groottes registreert in <code>functions.php</code>:</p>
+<p>En zo roep je ze op, bijvoorbeeld boven de titel van de blogpost die je laat zien. (Nog steeds binnenin <em>the loop</em>, natuurlijk, want dit is informatie die <em>specifiek bij één artikel hoort</em>.)</p>
+<h2 id="reacties">Reacties</h2>
+<p>Als laatste wil ik praten over reacties/comments. Deze zijn iets ingewikkelder, want je hebt natuurlijk meerdere stappen:</p>
+<ul>
+<li>Als er geen comments zijn, laat niks zien of een melding zoals &ldquo;Nog geen reacties!&rdquo;</li>
+<li>Zo wel, laat dan alle comments zien.</li>
+<li>Als het er veel zijn, geef de comments dan óók een eigen paginanavigatie.</li>
+<li>En laat daaronder altijd het formulier zien om een nieuwe reactie te plaatsen.</li>
+</ul>
+<p>Gelukkig regelt WP dit ook grotendeels voor jou. Wederom kan je bij de <em>instellingen</em> neerzetten hoe reacties moeten worden weergegeven (hoeveel per pagina? profielfoto&rsquo;s erbij?) &hellip; en dan hoef je het alleen nog op te vragen.</p>
+<p>Ten eerste, maak het bestand <code>comments.php</code> aan en plaats dit erin:</p>
+<p>Daarna kan je het overal waar je wilt opvragen! Waarschijnlijk wil je het laten zien <em>onderaan</em> een artikel, dus dan doe je dit:</p>
+<p>Ik noem dit vooral &ldquo;moeilijker&rdquo; omdat je nog moet <em>ontdekken</em> hoe WP precies alles structureert en noemt. Pas als je dat exact weet, kan je het er mooi uit laten zien binnen jouw eigen ontwerp.</p>
+<h2 id="opmerkingen-over-semantics">Opmerkingen over semantics</h2>
+<p>Zo, dat waren de belangrijkste onderdelen (in mijn ogen) en hoe je deze opzet!</p>
+<p>WordPress heeft een prima <em>documentation</em> die vrijwel al je vragen zal beantwoorden, nu je weet hoe je moet beginnen.</p>
+<p>Je wilt specifieke informatie hebben van een artikel? Kijk of er een standaardfunctie voor is. Zo niet, kijk naar alle eigenschappen die de <code>$post</code> variabele heeft.</p>
+<p>Je wilt de zoekfunctie ondersteunen? Maak <code>search.php</code> aan. Vindt uit hoe je de zoekstring kan ophalen, zodat je kan laten zien &ldquo;U zocht naar DITENDIT&rdquo;. Plaats <strong>the loop</strong> in het bestand en WP regelt de rest!</p>
+<p>Ik wil daarom alleen nog iets zeggen over <em>semantics</em>.</p>
+<p>Wat betekent dat? Nou, dat de HTML-tags (en volgorde) die je gebruikt ook de <strong>structuur</strong> van je website weerspiegelen.</p>
+<div class="example">Gebruik <code>&lt;header&gt;</code> voor de header. Gebruik <code>&lt;article&gt;</code> voor één artikel. Gebruik <code>&lt;aside&gt;</code> voor kleine opmerkingen of details aan de zijkant, niet de hoofdcontent. Gebruik <code>&lt;nav&gt;</code> voor navigatie.</div>
+<p>Waarom is dit belangrijk? Het zorgt dat zoekmachines je site véél beter kunnen lezen en categoriseren. Het zorgt tevens dat mensen met een handicap je site beter kunnen gebruiken.</p>
+<div class="example">Veel browsers hebben bijv. een &ldquo;screen reader&rdquo; knop die alle frutsels weghaalt en alleen de hoofdtekst zwart-wit weergeeft. Dit werkt alleen als de browser precies kan lezen <em>wat</em> de hoofdtekst is op jouw website, <em>wat</em> de koppen zijn, etc.</div>
+<p>WordPress regelt het hele systeem op de achtergrond, maar jij bent nog steeds verantwoordelijk voor een site die <em>werkt</em>, er <em>mooi uitziet</em>, en <em>goed communiceert met computers/Google/browsers</em>.</p>
+<h2 id="het-design-van-ndhu">Het design van NDHU</h2>
+<p>Na al dat werk om een functionerend blog te krijgen, dat communiceert met WordPress en werkt op al mijn oude content, zou je bijna vergeten dat dit pas de helft van het werk is.</p>
+<p>De andere helft is het ontwerpen van het thema zelf.</p>
+<p>Aangezien dit niet direct gerelateerd is aan WordPress, en deze pagina al véél te lang is geworden, zal ik daar niks mee over zeggen. (Ik heb alleen een kort artikel over de update van het blog met een paar details over de stijl: <a href="/blog/2021/2021-03-01-niet-dat-het-uitmaakt-een-grote-update/">Niet Dat Het Uitmaakt: Een grote update!</a>)</p>
+<p>Oftewel, hier houdt het op.</p>
+<p>Ik hoop dat ik je heb geholpen om je eigen thema van de grond te krijgen en iets moois te maken!</p>
+<p>Als iets nog onduidelijk is, laat het maar weten.</p>
+<p>Als je iets moois hebt gemaakt aan de hand van deze handleiding, laat het maar zien.</p>
+<p>Veel plezier met je zojuist verweven status van <em>WordPress Wizard,</em> vaarwel.</p>
+
+						</div>
+					</article>
+					
+
+<div class="related-posts">
+    <h3>Related Posts</h3>
+    <ul class="no-bullets related-posts-list">
+        
+            
+
+
+
+<section class="minimal-grid-item sketchy-box vertical">
+	<a href="/blog/2023/2023-08-04-schrijftip-samenvatting-en-door/">
+		<div class="double-view vertical">
+			
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+<div class="left-side hide-caption">
+    
+    
+    <figure>
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Schrijftip: samenvatting en door'</span>
+		</figcaption><picture><img 
+				src="/default_thumbnails/default_vertical_miscellaneous.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Header / Cover Image for &#39;Schrijftip: samenvatting en door&#39;"
+				title="Header / Cover Image for &#39;Schrijftip: samenvatting en door&#39;"
+				width="2481"
+				height="877"
+				class=" no-click"
+			/></picture>
+</figure>
+    
+</div>
+
+
+			<div class="right-side">
+				<div class="minimal-post-title">Schrijftip: samenvatting en door</div>
+			</div>
+		</div>
+	</a>
+</section>
+        
+            
+
+
+
+<section class="minimal-grid-item sketchy-box vertical">
+	<a href="/blog/2023/2023-07-24-schrijftip-hopen-dat-het-deze-keer-goed-gaat/">
+		<div class="double-view vertical">
+			
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+<div class="left-side hide-caption">
+    
+    
+    <figure>
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Schrijftip: hopen dat het deze keer goed gaat'</span>
+		</figcaption><picture><img 
+				src="/default_thumbnails/default_vertical_miscellaneous.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Header / Cover Image for &#39;Schrijftip: hopen dat het deze keer goed gaat&#39;"
+				title="Header / Cover Image for &#39;Schrijftip: hopen dat het deze keer goed gaat&#39;"
+				width="2481"
+				height="877"
+				class=" no-click"
+			/></picture>
+</figure>
+    
+</div>
+
+
+			<div class="right-side">
+				<div class="minimal-post-title">Schrijftip: hopen dat het deze keer goed gaat</div>
+			</div>
+		</div>
+	</a>
+</section>
+        
+            
+
+
+
+<section class="minimal-grid-item sketchy-box vertical">
+	<a href="/blog/2023/2023-07-11-de-levenssaga-cyclus-2-deel-1/">
+		<div class="double-view vertical">
+			
+
+
+
+
+
+
+
+
+
+<div class="left-side hide-caption">
+    
+    
+    <figure>
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'De Levenssaga: cyclus 2 (deel 1)'</span>
+		</figcaption><picture><img 
+				src="/uploads/2022/10/levenssaga_website_header-1.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Header / Cover Image for &#39;De Levenssaga: cyclus 2 (deel 1)&#39;"
+				title="Header / Cover Image for &#39;De Levenssaga: cyclus 2 (deel 1)&#39;"
+				width="1532"
+				height="470"
+				class=" no-click"
+			/></picture>
+</figure>
+    
+</div>
+
+
+			<div class="right-side">
+				<div class="minimal-post-title">De Levenssaga: cyclus 2 (deel 1)</div>
+			</div>
+		</div>
+	</a>
+</section>
+        
+    </ul>
+</div>
+
+				</div>
+			</div>
+		</div>
+	</main>
+
+	<div class="footer-transition"></div>
+
+<footer>
+	<div class="footer-content">
+		<aside>
+			<h3>Latest / Upcoming Project</h3>
+			
+			
+			
+			
+			
+				
+				
+				
+				
+			
+			
+
+
+
+
+
+
+
+
+
+<div class="hide-caption image-top-margin">
+    
+    
+    <figure>
+		
+	
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Onverslaanbaar'</span>
+		</figcaption><picture>Cannot find image:staticonverslaanbaar_cover.webp</picture>
+</figure>
+    
+</div>
+
+
+			
+
+			<div><p>Jinny ontmoet de man van haar dromen en zijn vrienden op een feest. Ze vieren dat Quinten zojuist miljonair is geworden dankzij een wereldberoemde bestseller genaamd &ldquo;Onverslaanbaar&rdquo;: een episch boek dat alles goed doet en jong en oud gek maakt.</p>
+<p>Ze verheugt zich op een spannende avond, …</p></div>
+			<a class="striped-link" href="/books/onverslaanbaar/"><span>Read More!</span></a>
+		</aside>
+		<aside>
+			<h3>Latest Posts</h3>
+			<nav>
+				<ul class="no-bullets flex-list">
+					
+					
+						<li>
+							<a href="/blog/2023/2023-08-10-filmrecensie-nimona-2023/" class="striped-link">
+								<span>Filmrecensie: Nimona (2023)</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/blog/diaries/diary-wildebyte-unfinished-game/" class="striped-link">
+								<span>[Diary] Wildebyte (Book 1)</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/blog/2023/2023-08-07-serierecensie-shadow-bone-seizoen-2/" class="striped-link">
+								<span>Serierecensie: Shadow &amp; Bone (seizoen 2)</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/blog/2023/2023-08-04-schrijftip-samenvatting-en-door/" class="striped-link">
+								<span>Schrijftip: samenvatting en door</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/blog/2023/2023-08-02-filmrecensie-oppenheimer-2023/" class="striped-link">
+								<span>Filmrecensie: Oppenheimer (2023)</span>
+							</a>
+						</li>
+					
+				</ul>
+			</nav>
+		</aside>
+		<aside>
+			
+			<h3>Latest Books</h3>
+			<nav>
+				<ul class="no-bullets flex-list">
+					
+					
+						<li>
+							<a href="/books/wildebyte-ghost-code/" class="striped-link">
+								<span>Ghost Code</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/books/onverslaanbaar/" class="striped-link">
+								<span>Onverslaanbaar</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/books/wildebyte-rulebreaker-recipes/" class="striped-link">
+								<span>Rulebreaker Recipes</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/books/wildebyte-secrets-of-sweettooth/" class="striped-link">
+								<span>Secrets of Sweettooth</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/books/wildebyte-unfinished-game/" class="striped-link">
+								<span>Unfinished Game</span>
+							</a>
+						</li>
+					
+				</ul>
+			</nav>
+		</aside>
+		<aside>
+			<h3>Updates & Support</h3>
+			<p>Most of my work is completely free and accessible to anyone! As such, I ask you to support me if you can.</p>
+			<p>You can do so via Patreon, where you can also subscribe to <strong>updates</strong> on all projects.</p>
+			<p>
+				<a href="https://patreon.com/tiamopastoor" class="striped-link">
+					<img decoding="async" style="float:left; width: 2.25em;" src="/css/patreon logo.png" loading="lazy">
+					<span>Support me on Patreon!</span>
+				</a>
+			</p>
+			<p>Or support me on Ko-Fi:</p>
+			<p>
+				<a href="https://ko-fi.com/tiamopastoor" class="striped-link">
+					<img decoding="async" style="float:left; width: 2.25em;" src="/css/kofi_logo.png" loading="lazy">
+					<span>Support me on Ko-Fi!</span>
+				</a>
+			</p>
+			<p>Or via Buy me a Coffee:</p>
+			<p>
+				<a href="https://www.buymeacoffee.com/tiamopastoor" class="striped-link">
+					<img decoding="async" style="float:left; width: 1.25em; margin-top: 0.25em; margin-left: 0.25em;" src="/css/bmac_logo.png" loading="lazy">
+					<span>Buy me a Coffee!</span>
+				</a>
+			</p>
+		</aside>
+		<aside>
+			<h3>Miscellaneous</h3>
+			<ul class="no-bullets flex-list">
+				<li><a href="/info/about/" class="striped-link"><span>About Me</span></a></li>
+				<li><button id="darkModeButton" class="striped-link"><span>Light / Dark Mode</span></button></li>
+				<li><button id="randomProjectButton" class="striped-link"><span>Random Page</span></button></li>
+				<li><button class="gotoTopButton striped-link"><span>Go to Top</span></button></li>
+			</ul>
+		</aside>
+		<aside>
+			<h3>Categories</h3>
+			
+
+
+
+
+
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+
+
+
+
+<ul class="no-bullets flex-list">
+     
+        <li>
+            <a href="/categories/miscellaneous/" class="striped-link" title="All pages with categories <em>miscellaneous</em>">
+                <span>Miscellaneous <sup class="taxonomy-count">(464)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/anecdotes/" class="striped-link" title="All pages with categories <em>anecdotes</em>">
+                <span>Anecdotes <sup class="taxonomy-count">(107)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/games/" class="striped-link" title="All pages with categories <em>games</em>">
+                <span>Games <sup class="taxonomy-count">(102)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/reviews/" class="striped-link" title="All pages with categories <em>reviews</em>">
+                <span>Reviews <sup class="taxonomy-count">(87)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/cartoons/" class="striped-link" title="All pages with categories <em>cartoons</em>">
+                <span>Cartoons <sup class="taxonomy-count">(56)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/film-reviews/" class="striped-link" title="All pages with categories <em>film-reviews</em>">
+                <span>Film reviews <sup class="taxonomy-count">(47)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/book-reviews/" class="striped-link" title="All pages with categories <em>book-reviews</em>">
+                <span>Book reviews <sup class="taxonomy-count">(30)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/poems/" class="striped-link" title="All pages with categories <em>poems</em>">
+                <span>Poems <sup class="taxonomy-count">(28)</sup></span>
+            </a>
+        </li>
+    
+</ul>
+		</aside>
+		<aside>
+			<h3>Tags</h3>
+			
+
+
+
+
+
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+
+
+
+
+<ul class="no-bullets flex-list">
+     
+        <li>
+            <a href="/tags/mystery/" class="striped-link" title="All pages with tags <em>mystery</em>">
+                <span>Mystery <sup class="taxonomy-count">(10)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/game/" class="striped-link" title="All pages with tags <em>game</em>">
+                <span>Game <sup class="taxonomy-count">(8)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/adventure/" class="striped-link" title="All pages with tags <em>adventure</em>">
+                <span>Adventure <sup class="taxonomy-count">(6)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/technology/" class="striped-link" title="All pages with tags <em>technology</em>">
+                <span>Technology <sup class="taxonomy-count">(6)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/coding/" class="striped-link" title="All pages with tags <em>coding</em>">
+                <span>Coding <sup class="taxonomy-count">(5)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/computer/" class="striped-link" title="All pages with tags <em>computer</em>">
+                <span>Computer <sup class="taxonomy-count">(5)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/fantastical/" class="striped-link" title="All pages with tags <em>fantastical</em>">
+                <span>Fantastical <sup class="taxonomy-count">(5)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/education/" class="striped-link" title="All pages with tags <em>education</em>">
+                <span>Education <sup class="taxonomy-count">(4)</sup></span>
+            </a>
+        </li>
+    
+</ul>
+		</aside>
+		<aside>
+			<h3>My Websites</h3>
+			<p>This website is for all my books and writing work. I have separate websites for work in other areas (such as games).</p>
+			<p>Check them out!</p>
+			<ul class="no-bullets flex-list">
+				<li><a href="https://pandaqi.com" class="striped-link"><span>Pandaqi (Games)</span></a></li>
+				<li><a href="https://pandaqi.com/tutorials" class="striped-link"><span>Pandaqi (Tutorials)</span></a></li>
+				<li><a href="https://eltroubadour.com" class="striped-link"><span>El Troubadour (Music)</span></a></li>
+				<li><a href="https://rodepanda.com" class="striped-link"><span>Red Panda (Portfolio)</span></a></li>
+			</ul>
+		</aside>
+	</div>
+
+	<div class="credits">
+		Tiamo Pastoor 2016&mdash;2023 · 
+		All rights reserved&copy; · 
+		Made with <a href="https://gohugo.io">Hugo</a> · 
+		<a href="/info/about/">About Me</a> · 
+		<a href="https://rodepanda.com">My Portfolio</a> · 
+		<a href="https://pandaqi.com">My Game Studio</a> · 
+		<button class="gotoTopButton">Go to Top</button>
+	</div>
+</footer>
+
+	
+    
+    <script async defer>
+		const head = document.getElementsByTagName("head")[0];
+		let cssLink = document.createElement("link");
+	
+		cssLink.rel = "stylesheet";
+		cssLink.href = "\/css\/style.css";
+		cssLink.type = "text/css";
+	
+		head.appendChild(cssLink);
+	</script>
+
+<span style="display:none;" id="hidden-hugo-metadata" data-pages="/blog/2021/2021-12-12-de-universiteit-niet-te-ontsnappen/,/blog/2017/2017-08-18-hdt-6-bent-zelf-zwaluw/,/blog/2023/2023-01-20-filmrecensie-see-how-they-run-2022/,/blog/2017/2017-05-13-wat-nog-het-ergste-is/,/blog/2018/2018-11-19-datumprikkers-de-eeuwige-laatste/,/blog/2018/2018-04-15-over-humor-iv/,/blog/2018/2018-12-14-serierecensie-anne/,/blog/2018/2018-11-23-filmrecensie-captain-fantastic/,/blog/2018/2018-06-13-aan-alle-mensen-die-9/,/blog/2016/2016-11-12-hair/,/blog/2020/2020-08-10-de-hoogopgeleide-stoelendans/,/blog/2018/2018-02-27-klimaatverandering-deel-3/,/blog/2019/2019-02-14-de-blauwe-vinkjes/,/blog/2021/2021-03-26-omgaan-met-opstapelende-fouten/,/blog/2017/2017-11-18-december-kronieken-kerstman-staat-op-deel-3/,/blog/2016/2016-12-11-verdachte-verduisteringen/,/blog/2019/2019-02-12-filmrecensie-snowpiercer-2013/,/blog/2017/2017-03-21-risk-deel-2/,/blog/2022/2022-08-18-schrijftip-de-omgekeerde-metafoor/,/blog/2022/2022-10-16-illegaal-downloaden/,/blog/2017/2017-01-25-woordenwissel/,/blog/2023/2023-08-10-filmrecensie-nimona-2023/,/blog/2017/2017-12-17-aan-alle-mensen-die-7/,/blog/2021/2021-08-05-verschillende-leerstijlen/,/blog/2021/2021-01-23-rode-panda-update-2021/,/blog/2022/2022-12-08-de-slapende-assistente/,/blog/2016/2016-12-05-de-groeten/,/blog/2021/2021-02-09-boekrecensie-his-dark-materials-philip-pullman-1996-2002/,/blog/2017/2017-01-05-onderbuikgevoel/,/blog/diaries/dagboek-jij-moet-het-eerst-zeggen/,/blog/2021/2021-11-10-pen-lenen/,/blog/2017/2017-09-07-halli-galli/,/blog/2018/2018-01-19-beledigingsrecht/,/blog/2023/2023-04-10-wat-kahoot-ons-leert-over-spellen/,/blog/2022/2022-01-04-novembermaand-spellenmaand/,/blog/2017/2017-07-26-de-enige-waarheid/,/blog/2021/2021-09-07-praktijkles/,/blog/2020/2020-07-09-kunnen-we-de-wereld-niet-opnieuw-opstarten/,/blog/2018/2018-03-25-over-humor-i/,/blog/2020/2020-01-09-een-dagje-duo/,/blog/2021/2021-08-21-de-wisselfout-van-van-bommel/,/blog/2021/2021-05-10-cambridge-advanced-english/,/blog/2021/2021-05-03-de-vloek-van-de-programmeur-deel-6/,/blog/2018/2018-11-09-negatieve-stimulering-in-het-onderwijs/,/blog/2019/2019-05-13-over-lost-de-tv-serie/,/blog/2018/2018-11-12-osiris-2/,/blog/2022/2022-10-15-lets-game-it-out/,/blog/2020/2020-10-11-unstable-universe/,/blog/2020/2020-03-28-online-surveillantie/,/blog/2023/2023-06-09-draft2digital-een-recensie-en-uitleg/,/blog/2022/2022-12-09-de-fragiliteit-van-spellen-maken/,/blog/diaries/dagboek-levenssaga-cyclus-1/,/blog/2023/2023-01-10-het-genreprobleem-voor-de-jeugd/,/blog/2016/2016-11-07-openbaar-vervoer/,/blog/2020/2020-07-11-tablets-op-de-basisschool/,/blog/2022/2022-12-20-schrijftip-personages-met-diepgang/,/books/onverslaanbaar/,/blog/2020/2020-03-07-art-hockey/,/blog/2021/2021-12-13-windup-wizards/,/blog/2017/2017-03-31-post-handtekening/,/blog/2020/2020-02-06-een-mobiele-game-uitbrengen-deel-1/,/blog/2021/2021-07-29-wie-leest-nou-nog-boeken/,/blog/2021/2021-11-30-stiekem-onbereikbaar/,/blog/2021/2021-10-04-problemen-met-cloudflare/,/blog/2018/2018-05-20-boekrecensie-13-reasons-why/,/blog/2016/2016-11-17-tijdloze-toekomst/,/blog/2022/2022-09-26-boekrecensie-schuld-mel-wallis-de-vries/,/blog/2018/2018-11-02-de-dierenbandiet/,/books/wildebyte-secrets-of-sweettooth/,/blog/2021/2021-11-07-napoleon-hypothetisch/,/blog/2017/2017-04-09-vooroordelen/,/info/support/,/blog/2017/2017-10-10-zij-en-hun-hen/,/blog/2018/2018-09-04-le-conte-de-fees/,/blog/2019/2019-11-30-de-mobiele-markt-waar-gratis-te-duur-is/"></span>
+
+
+<script async defer src="/js/lib-functionality.min.js"></script>
+
+<div id="overlay-image" style="display: none;">
+	<img id="overlay-image-src">
+	<div class="overlay-image-instruction">(click anywhere to close)</div>
+</div>
+</body>
+</html>

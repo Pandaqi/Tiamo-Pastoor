@@ -1,0 +1,73 @@
+@use "critical_modules/globals" as g;
+
+.footer-transition {
+	background-image: url(footer_graphic.webp);
+	margin-bottom: -5em;
+
+	min-height: min(35vw, 280px);
+	background-repeat: repeat-x;
+	background-position: center;
+	background-position-y: 0px;
+	background-size: contain;
+	
+	@media all and (max-width: g.$breakpoint-medium)
+	{
+		margin-bottom: -150px;
+	}
+
+	@media all and (max-width: g.$breakpoint-small)
+	{
+		margin-bottom: -50px;
+	}
+}
+
+footer {
+	padding-bottom: 2.5em;
+	font-size: 0.85em;
+	line-height: 1.45em;
+
+	h3 {
+		font-size: 1.66em;
+		padding-bottom: 1.33em;
+		padding-top: 0.75em;
+	}
+
+	.taxonomy-count {
+		opacity: 0.7;
+	}
+
+	aside {
+		padding: 0.33em;
+	}
+
+	.image-top-margin {
+		margin-top: 1em;
+	}
+
+	.credits {
+		max-width: g.$breakpoint-medium;
+		margin: auto;
+		text-align: center;
+		padding: 1em;
+		margin-top: 4em;
+
+		a, button {
+			font-weight: bold;
+			text-decoration: underline;
+			text-decoration-thickness: 0.1em;
+			font-family: g.$body-font;
+			font-size: 1em;
+			background: none;
+			border: none;
+			cursor: pointer;
+			transition: color 0.3s;
+
+			@include g.themed() {
+				color: g.t("def-footer-color");
+				&:hover {
+					color: g.t("color-links-footer-hover"); // rgb(255, 150, 10);
+				}
+			}
+		}
+	}
+}

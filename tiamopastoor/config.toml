@@ -1,0 +1,58 @@
+baseURL = 'https://tiamopastoor.com'
+languageCode = 'en-us'
+title = 'Tiamo Pastoor | Books'
+
+theme = "tiamopastoor"
+summaryLength = 30
+paginate = 10
+
+[taxonomies]
+categories = "categories"
+tags = "tags"
+genre = "genre"
+language = "language"
+age = "age"
+booktype = "booktype"
+series = "series"
+phase = "phase"
+
+[params]
+  testOnlyCriticalStyle = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      typographer = true
+    
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+
+[[related.indices]]
+  name = 'categories'
+  weight = 100
+
+[[related.indices]]
+  name = 'tags'
+  weight = 80
+
+[[related.indices]]
+  name = 'age'
+  weight = 50
+
+[[related.indices]]
+  name = 'genre'
+  weight = 50
+
+[[related.indices]]
+  name = 'booktype'
+  weight = 20
+
+[[related.indices]]
+  name = 'language'
+  weight = 20
+

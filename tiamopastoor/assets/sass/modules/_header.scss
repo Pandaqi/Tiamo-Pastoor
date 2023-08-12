@@ -1,0 +1,85 @@
+@use "critical_modules/globals" as g;
+
+header {
+	position: relative;
+	z-index: 1000;
+	
+	@media all and (max-width: g.$breakpoint-medium)
+	{
+		.priority-3 { display: none; }
+	}
+
+	@media all and (max-width: g.$breakpoint-small)
+	{
+		.priority-2 { display: none; }
+	}
+	
+	.menu-container {
+		mask-image: url(header_mask.webp);
+		mask-repeat: repeat;
+		mask-size: contain;
+		mask-position: center;
+	
+		-webkit-mask-image: url(header_mask.webp);
+		-webkit-mask-repeat: repeat;
+		-webkit-mask-size: contain;
+		-webkit-mask-position: center;
+	
+		padding-bottom: 2em;
+
+		@include g.themed() {
+			background-color: g.t("def-header-background");
+		}
+	}
+
+	li:not(.center-logo-faker) {
+		a, button {
+			cursor: pointer;
+			border: none;
+			font-family: g.$header-font;
+			font-size: 1em;
+			padding: 0.25em;
+			border-radius: 0.25em;
+			transition: color 0.3s, background-color 0.3s;
+
+			@include g.themed() {
+				background-color: g.t("def-header-menu-background");
+				color: g.t("def-header-menu-color");
+				&:hover {
+					background-color: g.t("def-header-menu-color");
+					color: g.t("def-header-menu-background");
+				}
+			}
+		}
+	}
+		
+	.center-logo-container {
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 0;
+		height: 8em;
+		pointer-events: none;
+	}
+
+	.center-logo-fake {
+		width: 8em;
+		height: 8em;
+		margin-bottom: -6em;
+		display: block;
+	}
+
+	.center-logo {
+		width: 8em;
+		height: 8em;
+		background-size: 100%;
+		background-repeat: no-repeat;
+		margin: auto;
+		display: block;
+		filter: drop-shadow(0 0 4px #212121);
+
+		@include g.themed() {
+			background-image: g.t("img-header-icon");
+		}
+	}
+}

@@ -1,0 +1,94 @@
+@use "critical_modules/globals" as g;
+
+// banner links (for tags, metadata, ...)
+.banner-link {
+	text-decoration: none;
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 0.25em;
+    margin-bottom: 0.25em;
+
+	display: inline-block;
+
+	border-style: solid;
+
+	border-image-slice: 5 35 5 35 fill;
+	border-image-width: 1em;
+	border-image-outset: 1em;
+	border-image-repeat: stretch stretch;
+
+	transition: filter 0.3s, transform 0.3s;
+
+	@include g.themed() {
+		color: g.t("color-tags-foreground");
+		border-image-source: g.t("img-tag");
+	}
+}
+
+a.banner-link, button.banner-link {
+	&:hover {
+		filter: drop-shadow(0 0 2px #333) hue-rotate(180deg);
+		transform: scale(1.05);
+	}
+}
+
+.banner-link-wide {
+	width: 100%;
+	text-align: center;
+	font-family: g.$header-font;
+	font-size: 1.25em;
+	padding-top: 0.25em;
+	padding-bottom: 0.25em;
+}
+
+.banner-link-wide-container {
+	padding-right: 2.5em; // to compensate for the huge borders being created for the border image
+}
+
+.banner-link-small-container {
+	font-size: 0.66em;
+}
+
+// striped links (for custom buttons
+// (used to be more-link and interesting-link)
+.striped-link {
+	width: 100%;
+	display: block;
+	text-align: center;
+
+	@include g.themed() {
+		background-color: g.t("color-buttons-background");
+		border: 0.125em solid g.t("color-buttons-foreground"); //#6b7127;
+	}
+
+	background-image: url(read_more_bg_image.png);
+	font-family: g.$header-font;
+	font-size: 1.0em;
+	cursor: pointer;
+	transition: transform 0.3s, filter 0.3s, background-position 0.3s;
+	margin-top: 0.2em;
+
+	padding: 0.2em;
+	font-weight: normal;
+	font-variant: none;
+
+	&:hover {
+		transform: scale(1.02);
+		background-position-x: 100px;
+		filter: hue-rotate(60deg) drop-shadow(0 0 2px #000);
+		border-color: transparent;
+		font-weight: normal;
+	}
+
+	span {
+		@include g.themed() {
+			color: g.t("color-buttons-foreground");
+			background-color: g.t("color-buttons-background");
+		}
+		border-radius: 0.4em;
+		padding: 0.2em;
+		margin: 0.2em;
+		display: inline-block;
+		font-family: g.$header-font;
+	}
+}

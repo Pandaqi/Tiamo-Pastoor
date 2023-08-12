@@ -1,0 +1,41 @@
+@use "critical_modules/globals" as g;
+
+.entry-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(12em, 16em)); /* "auto" can also be a keyword here */
+	justify-content: center;
+	grid-gap: 0.25em;
+
+	.double-view {
+		gap: 1em;
+	}
+
+	section.vertical {
+		grid-row: span 2;
+	}
+
+	section.horizontal {
+		grid-column: span 2;
+
+		& > .left-side, & > .right-side {
+			width: auto;
+		}
+
+		img {
+			margin: auto;
+			min-width: 10em;
+			max-height: 20em;
+			width: auto;
+		}
+	}
+
+	@media all and (max-width: g.$breakpoint-small)
+	{
+		grid-template-columns: auto;
+
+		section.vertical, section.horizontal { 
+			grid-column: span 1;
+			grid-row: span 1;
+		}
+	}
+}

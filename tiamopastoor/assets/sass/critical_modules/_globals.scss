@@ -1,0 +1,154 @@
+$body-font: 'Alegreya', Georgia, serif;
+$header-font: 'Truculenta', Arial, sans-serif;
+//$spice-font: 'Pacifico', 'Segoe Script', cursive;
+$code-font: 'Inconsolata', Courier, monospace;
+
+$breakpoint-largest: 1340px;
+$breakpoint-medium: 960px;
+$breakpoint-small: 720px;
+$breakpoint-tiniest: 450px;
+
+$def-font-size: calc(15px + 0.390625vw);
+$def-line-height: 1.45em;
+$def-padding: 1.0em;
+$def-margin: 1.0em;
+
+@mixin flex-center() {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+@mixin remove-standard-list-style() {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+        margin: 0.25em;
+        padding: 0;
+        display: inline-block;
+    }
+}
+
+/* THEMES */
+// Code & Ideas learned from this great article: https://medium.com/@katiemctigue/how-to-create-a-dark-mode-in-sass-609f131a3995
+$themes: (
+    light: (
+        img-bg-pattern: url(background_pattern_opaque.webp),
+        img-sketchybox: url(border_image.png),
+        img-banner: url(title_border_image_red.png),
+        img-tag: url(inline_banner.webp),
+        img-header-icon: url(header_logo.webp),
+
+        def-font-color: #212121,
+        def-near-black: #212121,
+        def-near-white: #FCFCFC,
+        def-bg-color: #c0c681, 
+        def-transparent-container: rgba(0,0,0,0.15),
+
+        def-header-background: #cce5ff,
+        def-header-menu-color: #FCFCFC,
+        def-header-menu-background: #4978aa,
+
+        def-footer-color: #FCFCFC,
+        def-footer-background: #51532F,
+
+        color-progress-foreground: #c0c681,
+        color-progress-background: #292c04,
+
+        color-buttons-background: #c0c681, // #A9AE6C,
+        color-buttons-midground: #8e953e,
+        color-buttons-foreground: #292c04,
+
+        color-banners-background: #f6a9a9,
+        color-banners-midground: #e15554,
+        color-banners-foreground: #480909,
+
+        color-tags-background: #cce5ff,
+        color-tags-midground: #2a5078,
+        color-tags-foreground: #051d36,
+
+        def-review-color: #cce5ff,
+
+        color-links: #372a63,
+        color-links-hover: #583cb4, // #3A6EA5, 
+        color-links-footer-hover: #beaaff,       
+    ),
+
+    // @TODO
+    dark: (
+        img-bg-pattern: url(background_pattern_opaque_inverted.webp),
+        img-sketchybox: url(border_image_inverted.png),
+        img-banner: url(title_border_image_inverted.png),
+        img-tag: url(inline_banner_inverted.webp),
+        img-header-icon: url(header_logo_inverted.webp),
+
+        def-font-color: #FCFCFC,
+        def-near-black: #FCFCFC,
+        def-near-white: #212121,
+        def-bg-color: #151700, 
+        def-transparent-container: rgba(255,255,255,0.15),
+
+        def-header-background: #2a5078,
+        def-header-menu-color: #051d36,
+        def-header-menu-background: #cce5ff,
+
+        def-footer-color: #FCFCFC,
+        def-footer-background: #51532F,
+
+        color-progress-foreground: #c0c681,
+        color-progress-background: #292c04,
+
+        color-buttons-foreground: #c0c681,
+        color-buttons-midground: #8e953e,
+        color-buttons-background: #292c04,
+
+        color-banners-foreground: #f6a9a9,
+        color-banners-midground: #e15554,
+        color-banners-background: #480909,
+
+        color-tags-foreground: #cce5ff,
+        color-tags-midground: #2a5078,
+        color-tags-background: #051d36,
+
+        def-review-color: #cce5ff,
+
+        color-links:  #beaaff,
+        color-links-hover: white,  
+        color-links-footer-hover: #beaaff,
+    ),
+);
+
+@mixin themed-same-level {
+    @each $theme, $map in $themes {
+        &.theme-#{$theme} {
+          $theme-map: () !global;
+          @each $key, $submap in $map {
+            $value: map-get(map-get($themes, $theme), '#{$key}');
+            $theme-map: map-merge($theme-map, ($key: $value)) !global;
+          }
+          @content;
+          $theme-map: null !global;
+        }
+      } 
+}
+
+@mixin themed() {
+  @each $theme, $map in $themes {
+    .theme-#{$theme} & {
+      $theme-map: () !global;
+      @each $key, $submap in $map {
+        $value: map-get(map-get($themes, $theme), '#{$key}');
+        $theme-map: map-merge($theme-map, ($key: $value)) !global;
+      }
+      @content;
+      $theme-map: null !global;
+    }
+  }
+}
+
+@function t($key) {
+  @return map-get($theme-map, $key);
+}

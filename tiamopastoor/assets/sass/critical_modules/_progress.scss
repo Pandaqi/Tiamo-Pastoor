@@ -1,0 +1,11 @@
+@use "critical_modules/globals" as g;
+
+.book-progress {
+    display: flex;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	gap: 1em;
+	padding: 0.5em;
+	font-family: g.$header-font;
+}

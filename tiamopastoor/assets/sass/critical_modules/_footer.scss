@@ -1,0 +1,18 @@
+@use "critical_modules/globals" as g;
+
+footer {
+
+	@include g.themed() {
+		color: g.t("def-footer-color");
+		background-color: g.t("def-footer-background");
+	}
+
+	// this is "sidebar" in old NDHU theme
+	.footer-content {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(100px, 300px));
+		grid-gap: 2em 0.5em;
+		justify-content: center;
+		margin: auto;
+	}
+}

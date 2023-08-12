@@ -1,0 +1,1829 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+
+
+
+
+
+
+
+
+
+<title>Exploding Kittens | Blog | Tiamo Pastoor</title>
+
+
+
+
+<link rel="canonical" href="https://tiamopastoor.com/blog/2023/2023-03-12-exploding-kittens/" />
+<link rel="icon" type="image/png" href="https://tiamopastoor.com/favicon.png" />
+
+
+
+<link rel="stylesheet" type="text/css" href="/css/critical.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Truculenta:wght@700&display=swap">
+    
+</noscript>
+</head>
+<body>
+	 <header>
+	<div class="menu-container">
+		<nav class="menu">
+			<ul class="no-bullets flex-list">
+				<li class="priority-1"><a href="/books">Books</a></li>
+				<li class="priority-2"><a href="/blog">Blog</a></li>
+				<li class="priority-3"><a href="/info/about/">About</a></li>
+				<li class="center-logo-faker"><a href="/" class="center-logo-fake"></a></li>
+				<li class="priority-1"><button class="gotoBottomButton">Go to Menu</button></li>
+				<li class="priority-2"><a href="/books/the-saga-of-life/">Saga of Life</a></li>
+				<li class="priority-3"><a href="/series/wildebyte-arcades/">Wildebyte</a></li>
+			</ul>
+		</nav>
+	</div>
+	<div class="center-logo-container">
+		<div class="center-logo"></div>
+	</div>
+</header>
+ 
+	
+	
+	
+	
+	
+	<main>
+		<div class="center-container">
+			<div class="double-view horizontal layout-reversed single-post">
+				
+				
+
+
+
+
+
+
+
+
+
+<div class="left-side hide-caption">
+    <section class="sketchy-box">
+    
+    <figure>
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Exploding Kittens'</span>
+		</figcaption><picture><img 
+				src="/blog/2023/2023-03-12-exploding-kittens/exploding_kittens_cover.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Header / Cover Image for &#39;Exploding Kittens&#39;"
+				title="Header / Cover Image for &#39;Exploding Kittens&#39;"
+				width="1080"
+				height="1920"
+				class=""
+			/></picture>
+</figure>
+    </section>
+</div>
+
+
+
+				<div class="right-side">
+					<article class="sketchy-box">
+						<h1>Exploding Kittens</h1>
+						<div>
+							
+
+
+
+
+
+<div class="entry-metadata">
+    <span class="entry-icon entry-icon-date"></span>
+    
+    <span>March 12, 2023</span>
+
+    <span class="entry-icon entry-icon-comments"></span>
+    <span>
+        
+
+
+
+
+
+
+    
+    
+        
+        <a href="/language/nl">Dutch</a>
+    
+
+    </span>
+
+    
+        <span class="entry-icon entry-icon-reading-time"></span>
+        
+        
+        
+        <span>19 minute(s)</span>
+    
+
+    
+    
+
+    
+</div>
+						</div>
+						
+
+    <aside class="toc" id="toc" data-status="hidden">
+        <button class="toc-button striped-link" id="toc-button">
+            <span>Toggle Table of Contents</span>
+        </button>
+        <div class="toc-content" id="toc-content" style="display: none;">
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#wat-is-het-idee">Wat is het idee?</a></li>
+    <li><a href="#waarom-is-het-een-slecht-spel">Waarom is het een slecht spel?</a>
+      <ul>
+        <li><a href="#helemaal-niet-simpel">Helemaal niet simpel</a></li>
+        <li><a href="#geen-enkele-controle-over-wat-dan-ook">Geen enkele controle over wat dan ook</a></li>
+        <li><a href="#hoe-je-zoiets-zou-kunnen-verbeteren">Hoe je zoiets zou kunnen verbeteren</a></li>
+        <li><a href="#natuurlijk-is-het-niet-allemaal-slecht">Natuurlijk is het niet allemaal slecht</a></li>
+        <li><a href="#update-nieuwe-spelregels">Update! Nieuwe spelregels</a></li>
+      </ul>
+    </li>
+    <li><a href="#de-simulatie">De simulatie</a></li>
+    <li><a href="#strategieën">Strategieën</a>
+      <ul>
+        <li><a href="#betere-categorieën">Betere categorieën</a></li>
+        <li><a href="#opmerking-over-betere-code">Opmerking over betere code</a></li>
+        <li><a href="#voorlopige-resultaten">Voorlopige resultaten</a></li>
+        <li><a href="#nog-meer-voorlopige-resultaten">Nog meer voorlopige resultaten</a></li>
+        <li><a href="#nog-betere-categorieën">Nog betere categorieën</a></li>
+      </ul>
+    </li>
+    <li><a href="#de-game-loop">De game loop</a></li>
+    <li><a href="#resultaten">Resultaten</a>
+      <ul>
+        <li><a href="#winnende-strategie-individueel">Winnende strategie (individueel)</a></li>
+        <li><a href="#winnende-strategie-combinatie">Winnende strategie (combinatie)</a></li>
+        <li><a href="#beste-startkaarten">Beste startkaarten</a></li>
+      </ul>
+    </li>
+    <li><a href="#filmpjes">Filmpjes</a>
+      <ul>
+        <li><a href="#filmpje-1">Filmpje 1</a></li>
+        <li><a href="#filmpje-2">Filmpje 2</a></li>
+        <li><a href="#filmpje-3">Filmpje 3</a></li>
+        <li><a href="#filmpje-4">Filmpje 4</a></li>
+        <li><a href="#filmpje-5">Filmpje 5</a></li>
+      </ul>
+    </li>
+    <li><a href="#conclusie">Conclusie</a></li>
+    <li><a href="#bronnen--discussie">Bronnen &amp; Discussie</a></li>
+  </ul>
+</nav>
+        </div>
+    </aside>
+
+						<div class="article-content">
+							<p><em>Exploding Kittens</em> is een van de meest bekende en populaire spellen van het afgelopen decennium. Bij kinderen, bij studenten, bij families.</p>
+<p>Ik heb dit spel <em>redelijk</em> veel gespeeld, in allerlei verschillende groepen, en elke keer wist ik niet wat ik ervan moest denken.</p>
+<p>Nu weet ik het. Ik vind het een slecht spel. In dit artikel leg ik kort uit waarom, maar ga vooral een simulatie schrijven om te testen <em>wat de beste strategie is</em>! Want ik betwijfel dus of er überhaupt een strategie is voor dit spel. Maar wie weet bewijst de simulatie mijn ongelijk en blijkt het een geweldig spel dat écht niet afhangt van geluk.</p>
+<p>Wil je alleen de resultaten? Scroll dan naar <strong>Resultaten / Conclusie</strong> onderaan de pagina.</p>
+<p>Deze simulatie werd dermate ingewikkeld dat ik ook <em>filmpjes</em> ben gaan maken van hoe de computer potjes speelt, die vind je ook onderaan. (Het is niet zo indrukwekkend als het lijkt. Je ziet simpelweg welke kaarten er worden gespeeld, wie er afvalt, etcetera.)</p>
+<p>De simulatie is geschreven in Rust en is hier gratis te downloaden: <a href="https://drive.google.com/drive/folders/1jOTmsvTvHqqXFGfwH3TjWe8-3-o1oGPq">Exploding Kittens (Source Code)</a></p>
+<h2 id="wat-is-het-idee">Wat is het idee?</h2>
+<p>Tijdens je beurt speel je zoveel kaarten als je wilt en trekt dan een kaart van de stapel.</p>
+<p>Als je een &ldquo;Exploding Kitten&rdquo; trekt (die je niet kan tegenhouden), explodeer je en ligt uit het spel. Als je hem wel tegenhoudt, mag je hem zelf terugleggen in de stapel <em>op een geheime plek</em>.</p>
+<p>Alle andere kaarten hebben allerlei speciale acties die helpen met, tja, niet opblazen.</p>
+<h2 id="waarom-is-het-een-slecht-spel">Waarom is het een slecht spel?</h2>
+<p>De uitleg hierboven is simpel en klinkt leuk, toch? Jij probeert andere spelers <em>Exploding Kittens</em> aan te smeren en jezelf veilig te stellen.</p>
+<p>Als het spel daadwerkelijk daarover zou gaan, zou het een goed spel zijn geweest! Maar het doet eigenlijk niks met dit concept.</p>
+<h3 id="helemaal-niet-simpel">Helemaal niet simpel</h3>
+<p>Men noemt dit spel vaak &ldquo;super simpel om te leren en te spelen&rdquo;. Dat klinkt wederom redelijk, <em>maar het is helemaal niet simpel</em>.</p>
+<p>De spelregels staan bomvol uitzonderingen en extra regeltjes.</p>
+<p>De &ldquo;Aanvalskaart&rdquo; zorgt dat de volgende speler twee beurten moet doen &hellip; maar als <em>zij</em> een aanvalskaart spelen, hoeven ze maar één beurt te doen en moet de <em>volgende</em> speler twee beurten doen.</p>
+<p>Je kunt bepaalde kaarten combineren. Een paar doet iets anders dan een trio, doet iets anders dan vijf verschillende.</p>
+<p>Een Nope kaart kan gespeeld &ldquo;voordat de actie begint&rdquo; wat absoluut de <em>meest vage</em> spelregel is die ik ooit heb gezien. Wat telt als &ldquo;actie&rdquo;? Sommige beurten hebben uiteindelijk meerdere &ldquo;acties&rdquo;? Is het spelen van de kaart zelf niet een actie? Wat als je een Favor kaart speelt, waarbij je dus iemand moet kiezen om van te stelen: als je jouw slachtoffer al hebt aangewezen, mag je kaart <em>dan</em> nog worden ge-nopet?</p>
+<p>Er zijn <em>nog steeds</em> constant discussies online over wat specifieke kaarten nou precies doen, en hoe je ze precies wel of niet mag gebruiken. En zelfs als de makers een officieel antwoord geven, zitten daar vaak gaten in, of snappen mensen het niet. (Elke uitbreidingen zorgde voor méér uitzonderingen en vage combinaties als je bepaalde kaarten na elkaar speelde.)</p>
+<p>Tijdens het programmeren van deze simulatie heb ik minstens vijf keer een heel stuk opnieuw moeten schrijven. Want ik dacht dat een regel op een bepaalde manier werkte&mdash;zo had ik het misschien altijd gespeeld&mdash;totdat ik kritische vragen ging stellen en online discussies nalezen.</p>
+<p>Het is echt <em>géén simpel gestroomlijnd spel.</em> Elke keer als we het weer erbij pakten, vergaten we de helft van de regels, totdat iemand na een mislukt eerste potje nog eens lang naar de spelregels keek. En een paar potjes later opnieuw, als we zo&rsquo;n uitzondering tegenkomen.</p>
+<p>De meeste kaartspellen zullen simpeler zijn en minder uitzonderingen hebben. (<em>Uitzonderingen</em> zijn erger dan <em>meer regels</em>. Want ze vragen je hoofd om iets te onthouden, maar met een soort asterisk naar een voetnoot die alleen soms relevant is. Dan kan je beter een extra duidelijke regel bedenken.)</p>
+<h3 id="geen-enkele-controle-over-wat-dan-ook">Geen enkele controle over wat dan ook</h3>
+<p>Je hebt <em>één moment van controle.</em> Het terug stoppen van die <em>Exploding Kitten</em>.</p>
+<p>Alle andere kaarten manipuleren wel dingen (schudden, de bovenste drie bekijken, je beurt overslaan), maar niet op een interessante manier. Nadat je de stapel hebt geschud &hellip; staat de volgende speler letterlijk voor een leeg canvas, alle informatie van daarvoor is waardeloos geworden. Er is geen andere manier om de stapel te manipuleren of kaarten van andere spelers te weten te komen.</p>
+<p>Vaak heb je geen idee of je dood gaat. Of je weet dat je dood gaat, maar kan niks eraan doen, en dat is op geen enkele manier <em>jouw schuld</em>. Je weet te weinig en je kan te weinig definitief beïnvloeden.</p>
+<p>Dus je denkt dat je controle hebt&mdash;maar je bent eigenlijk een passieve figurant in een spel van kansen dat zichzelf speelt.</p>
+<p>Uitbreidingen proberen dit ietsje te verbeteren. Maar dat is verre van genoeg, en het voegt <em>nog</em> meer regels en uitzonderingen toe.</p>
+<p>Veel potjes zijn gewoon &hellip; saai en zielloos. Iedereen trekt kaarten, iedereen speelt willekeurige kaarten want het maakt toch allemaal niet uit, soms explodeert iemand en daar had diegene niks aan kunnen doen, totdat iemand <em>toevallig</em> twee &ldquo;Defuse&rdquo; kaarten pakt en het spel toevallig wint.</p>
+<h3 id="hoe-je-zoiets-zou-kunnen-verbeteren">Hoe je zoiets zou kunnen verbeteren</h3>
+<p>Natuurlijk wil ik even ideeën geven over hoe je zoiets beter had kunnen doen.</p>
+<p>Ten eerste, haal al die uitzonderingen weg. Vergeet dat idee van combo&rsquo;s: het is alleen maar bedoeld om het deck een beetje op te vullen. Nieuwe regels: elke kaart doet één duidelijk ding, altijd, en dat is het.</p>
+<p>Ten tweede kan je de kaarten kleurrijker maken</p>
+<ul>
+<li>&ldquo;Leg deze kaart voor je neer. Als jij de eerste bent die vanaf nu ontploft, redt deze kaart jou. Als iemand anders eerder ontploft, ontplof jij met hen mee!&rdquo;</li>
+<li>&ldquo;Vraag om een kaartsoort. Elke speler die deze heeft, moet deze aan jou geven. Maar als ze die kaart <em>allemaal</em> hebben, moet jij elke speler een kaart van jezelf geven.&rdquo;</li>
+<li>&ldquo;Wissel zoveel kaarten met een andere speler als je wilt. Maar voor elke gewisselde kaart, moet je een kaart trekken aan het einde van je beurt.&rdquo;</li>
+</ul>
+<p>Het zijn maar snelle ideeën. Als je hier langer over nadenkt, en het uittest en balanceert, weet ik zeker dat je honderden kaarten kan bedenken die je daadwerkelijk <em>strategie</em>, <em>variatie</em> en <em>goede keuzes</em> geven.</p>
+<h3 id="natuurlijk-is-het-niet-allemaal-slecht">Natuurlijk is het niet allemaal slecht</h3>
+<p>Het spel is natuurlijk populair geworden met een reden. De <em>art style</em> is simpel, duidelijk, kleurrijk en uitnodigend. De kernregel is wel degelijk heel slim en goed. Er zijn natuurlijk veel <em>moeilijkere</em> spellen dan dit. En niet iedereen speelt een spel voor diepgang of, tja, het spel.</p>
+<p>Daarom twijfelde ik al die tijd. Maar ik heb nu toch besloten dat, mocht ik de keuze hebben, ik liever een ander kaartspelletje aan een groep introduceer. Eentje die beter en leuker is&mdash;en tegelijkertijd simpeler.</p>
+<h3 id="update-nieuwe-spelregels">Update! Nieuwe spelregels</h3>
+<p>Tijdens het schrijven van deze simulatie, kwam ik meerdere <em>verschillende</em> versies van de spelregels tegen. Dus ik besloot om de <em>laatste versie</em> op te zoeken&mdash;en die is behoorlijk anders, maar lost wel wat van mijn problemen op.</p>
+<p><strong>Verandering 1:</strong> Aanvalskaarten tellen op. Dus als jij een aanval speelt, en de ander speelt er ook één, dan moet de volgende speler ineens <strong>vier beurten</strong> doen.</p>
+<p><strong>Verandering 2:</strong> de &ldquo;vijf verschillende kaarten&rdquo;-combo is &hellip; weg! Ik weet eigenlijk niet of dit een verbetering is. Het is in ieder geval een versimpeling.</p>
+<p><strong>Verandering 3:</strong> de combo&rsquo;s worden duidelijk neergezet als een <em>uitbreiding</em>. Leer ze pas nadat je bekend bent met het spel. Dat is goed.</p>
+<p><strong>Verandering 4:</strong> je mag <em>alle</em> kaarten (met hetzelfde icoontje) gebruiken voor combinaties, niet alleen de kattenkaarten. Dit is een versimpeling én verbetering van de regels die ik in geen enkele eerdere groep heb gebruikt&mdash;want we wisten het niet.</p>
+<p><strong>Verandering 5:</strong> je begint met 7 kaarten (+Defuse), dat waren er eerst 4.</p>
+<p>Ik ga zeker deze laatste versie gebruiken voor de simulatie. Het is mooi om te zien dat ze blijven leren en de regels updaten naarmate ze meer informatie krijgen over wat werkt. (Maakt de code wel weer een stukje lastiger &hellip; argh.)</p>
+<h2 id="de-simulatie">De simulatie</h2>
+<p>Hoe simuleer je zo&rsquo;n spel? Hoe gaan we de beste strategie vinden?</p>
+<p>Nou &hellip;</p>
+<ul>
+<li>Ik schrijf een programma dat potjes <em>Exploding Kittens</em> kan spelen.</li>
+<li>Elke speler krijgt een willekeurige lijst met (vooraf bedachte) strategieën toegewezen.</li>
+<li>De <em>winnende strategieën</em> van elk potje worden opgeslagen.</li>
+<li>Zo speelt de computer miljoenen potjes.</li>
+<li>Aan het einde hebben we een getal, per strategie, dat zegt <em>hoe vaak</em> die heeft gewonnen. Degene met het hoogste aantal moet wel de beste strategie zijn.</li>
+</ul>
+<p>De basis hiervan is relatief simpel. Je maakt een lijst met alle kaarten in het spel, deelt die uit onder de spelers, en gaat door de beurten heen (in een eindeloze <em>loop</em>) totdat één speler overblijft. (Dit heb ik al vaker gedaan bij eerdere simulaties, dus die code heb ik gekopieerd.)</p>
+<p>Het probleem komt natuurlijk van &hellip;</p>
+<ul>
+<li>De juiste regels opvolgen bij het spelen van kaarten. (Al die uitzonderingen &hellip; )</li>
+<li>Strategieën bedenken die ergens op slaan en die opvolgen</li>
+</ul>
+<h2 id="strategieën">Strategieën</h2>
+<p>Toen ik begon met deze simulatie, zag ik drie keuzes:</p>
+<ul>
+<li>Welke kaart(en) je speelt in je beurt</li>
+<li>Wie je als slachtoffer kiest (als je kaart dat toestaat).</li>
+<li>Waar je een <em>Exploding Kitten</em> terug stopt als die is geëxplodeerd.</li>
+</ul>
+<p>Bij alle keuzes schrijf ik als eerste altijd de &ldquo;willekeurig&rdquo; optie. Want ja, dat kan altijd. En het is een goede meetlat om de andere strategieën langs te leggen.</p>
+<p>Ook lijken sommige strategieën achterlijk. Maar ik voeg ze toch toe, want je weet maar nooit, en het doet nooit kwaad om alles te proberen. (Als spelontwerper kan ik bevestigen dat spelers nooit zo logisch denken als je zou willen :p En op andere momenten denken ze juist <em>superlogisch</em> en bedenken iets dat jij nooit eerder had gezien.)</p>
+<p>Maar zoals altijd, tijdens het simuleren leerde ik pas wat <em>echt</em> belangrijk is, en hoeveel meer losse &ldquo;keuzes&rdquo; je hebt in dit spel. Dus hieronder staat in het kort dat proces van verbetering.</p>
+<h3 id="betere-categorieën">Betere categorieën</h3>
+<p>Ik besefte dat ik de strategieën verder kon splitsen. Zo maak je ze specifieker en dat is altijd beter. Bijvoorbeeld, een strategie die alleen maar gaat over <em>hoe je jouw Nope kaarten gebruikt</em> of een strategie die alleen maar gaat over <em>hoe jij combo&rsquo;s spaart (of niet)</em>.</p>
+<p>Dus dat heb ik zoveel mogelijk gedaan.</p>
+<p>De uiteindelijke categorieën zijn:</p>
+<ul>
+<li><strong>Play:</strong> of je kaarten speelt in je beurt, en zo ja, welke</li>
+<li><strong>Nope:</strong> hoe je met Nope kaarten omgaat</li>
+<li><strong>Combo</strong>: hoe je met combo&rsquo;s omgaat</li>
+<li><strong>Kitten</strong>: ****hoe je een Exploding Kitten teruglegt in de stapel</li>
+<li><strong>Victim:</strong> hoe jij een slachtoffer kiest (als een actie slachtoffers heeft, gaat vooral over <em>stelen</em> van een kaart)</li>
+</ul>
+<p>Ook gebruiken <strong>alle</strong> spelers een paar algemene principes die elke speler automatisch zal doen bij dit spel. (Als je het niet doet, is elke andere strategie toch zinloos :p)</p>
+<ul>
+<li>Als je wéét dat er een Kitten aankomt, en je hebt een kaart om dit te omzeilen, doe dit.</li>
+<li>Speel geen Future kaart als je die toekomst toch niet kan veranderen.</li>
+<li>Als je zelf nog X beurten moet doen, leg dan niet de kitten terug op de eerste X plaatsen van de stapel.</li>
+<li>Volgens de regels mag je katkaarten doodleuk op zichzelf spelen, maar ja, ze doen dan niks. Dus doe dat niet. Wacht tot je ze kan gebruiken in een <em>combo</em>. =&gt; Op dezelfde manier, geef de voorkeur aan <em>kattenkaarten</em> gebruiken voor combo&rsquo;s, in plaats van andere actiekaarten die op zichzelf waardevoller zijn.</li>
+</ul>
+<h3 id="opmerking-over-betere-code">Opmerking over betere code</h3>
+<p>Ook heb ik eindelijk geleerd hoe je dingen beter structureert in mijn nieuwe programmeertaal (Rust). En hoe je &ldquo;tests&rdquo; schrijft: een snelle manier om op elk moment te testen of de belangrijkste stukken code nog wel werken zoals ze horen.</p>
+<p>Dat was namelijk het probleem bij vorige simulaties. Dan ging er <em>iets</em> mis&mdash;maar ik had geen idee wat. En geen snelle manier om de &ldquo;usual suspects&rdquo; uit te sluiten. Voor je het weet zoek je een half uur op de verkeerde plek, omdat je ervan uit ging dat een ander stuk code sowieso werkte (want dat deed het gisteren nog wel!) &hellip; en dat was natuurlijk je grootste fout.</p>
+<p>Nu kan ik na elke grote verandering alle tests runnen, die binnen een paar seconden checken of alle onderdelen van de simulatie nog wel werken. Ja, ik voel me nu écht een professionele programmeur :p En ja, het heeft grote fouten gevonden <em>voordat</em> ik er last van kreeg.</p>
+<p>(Zoals dat de code om de Exploding Kitten terug te stoppen in de stapel één stapje te ver ging. Dus de strategie &ldquo;leg hem bovenop&rdquo;, legde hem juist als tweede (onder de bovenste kaart). Vrij cruciaal dat ik dat snel ontdekte.)</p>
+<h3 id="voorlopige-resultaten">Voorlopige resultaten</h3>
+<p>Terwijl ik bezig ben, maak ik graag al links en rechts grafieken. De <em>Nope</em>, <em>Kitten</em> en <em>Play</em> strategieën waren al (grotendeels) ingebouwd, de rest was totaal willekeurig (en &ldquo;dom&rdquo;).</p>
+<div class="image-gallery">
+<p>
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 first test combo result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/first_test_combo_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 first test combo result"
+				title="Uploads 2023 01 first test combo result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 first test kitten result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/first_test_kitten_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 first test kitten result"
+				title="Uploads 2023 01 first test kitten result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 first test nope result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/first_test_nope_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 first test nope result"
+				title="Uploads 2023 01 first test nope result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 first test play result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/first_test_play_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 first test play result"
+				title="Uploads 2023 01 first test play result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 first test victim result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/first_test_victim_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 first test victim result"
+				title="Uploads 2023 01 first test victim result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure></p>
+</div> 
+<p>Wat zien we dan?</p>
+<ul>
+<li>De Kitten terug bovenop leggen loont toch het meest (<em>Top</em>). De tweede beste (<em>TopCond = Top Conditional</em>) betekent alleen bovenop leggen als de speler na jou bijna geen kaarten heeft.</li>
+<li>Alle Nope tactieken liggen dicht bij elkaar, maar de winnaar is &ldquo;<em>Direct</em>&rdquo;: gebruik ze alleen als jij <em>direct</em> wordt aangevallen. De tweede beste strategie is als je de Nope kaarten &ldquo;zelden&rdquo; gebruikt. Dit suggereert dat je dus in &rsquo;t algemeen voorzichtig moet zijn met je Nopes.</li>
+<li>De Play strategieën zijn het meest teleurstellend. Alles verliest van &ldquo;<em>Willekeurig</em>&rdquo;: besluit met 50% kans of je een kaart speelt of niet, steeds opnieuw, tot je beurt voorbij is. Gemiddeld speel je dan twee kaarten per beurt (0.5 * 1 + 0.25 * 2 + 0.125 * 3 + &hellip; = 2). Maar dat is alleen als je potentieel oneindig kaarten hebt, in de praktijk is het eerder ~1.5 kaart per beurt.
+<ul>
+<li>Hopelijk is dat anders zodra alles in de simulatie zit.</li>
+</ul>
+</li>
+</ul>
+<p>Het kan zijn dat het spel inderdaad zo willekeurig en &ldquo;strategieloos&rdquo; is zoals ik hierboven uitlegde. Het kan ook zijn dat de missende onderdelen (combo&rsquo;s, kaarten stelen, slimmer zijn met <em>welke</em> kaarten je speelt) cruciaal zijn voor het spel.</p>
+<h3 id="nog-meer-voorlopige-resultaten">Nog meer voorlopige resultaten</h3>
+<p>Inmiddels zijn de <em>victim</em> en <em>combo</em> strategieën (en onderliggende mechanismes) toegevoegd. Ook waren enkele foutjes in de simulatie opgelost, hoewel dat geen grote dingen waren.</p>
+<p>Daarom zijn zulke tussentijdse resultaten best handig.</p>
+<div class="image-gallery">
+<p>
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 second test combo result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/second_test_combo_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 second test combo result"
+				title="Uploads 2023 01 second test combo result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 second test kitten result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/second_test_kitten_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 second test kitten result"
+				title="Uploads 2023 01 second test kitten result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 second test nope result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/second_test_nope_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 second test nope result"
+				title="Uploads 2023 01 second test nope result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 second test play result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/second_test_play_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 second test play result"
+				title="Uploads 2023 01 second test play result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 second test victim result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/second_test_victim_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 second test victim result"
+				title="Uploads 2023 01 second test victim result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure></p>
+</div> 
+<p>Wat zien we hier?</p>
+<ul>
+<li>Ja, de <em>Play</em> strategieën krijgen nu meer variatie. De winnaar is om <em>niks te spelen</em> zolang je nog veilig bent (je hebt een Defuse kaart). Willekeurig spelen, echter, blijft het goed doen.</li>
+<li>De keuze voor je slachtoffer is ook vrij logisch. De winnaar is <em>DefuseProb</em>. Vraag een Defuse van de speler met de meeste kans ( <em>= probability</em>) om er één te hebben ( = nog niet ontploft).</li>
+<li>De <em>Nope</em> strategieën liggen dicht bij elkaar. Maar elke directe aanval tegenhouden, zeker als je geen Defuse hebt, wint toch weer.</li>
+<li>En je combo&rsquo;s <em>meteen gebruiken</em> (en dus veel vragen naar <em>combokaarten</em>) loont!</li>
+</ul>
+<h3 id="nog-betere-categorieën">Nog betere categorieën</h3>
+<p>Maar hoe meer <em>Play</em> strategieën ik inbouwde, hoe meer ik het gevoel had dat ik nog verder moest splitsen.</p>
+<p>Bijvoorbeeld, het feit dat &ldquo;de Kitten bovenop terugleggen&rdquo; altijd zo geweldig scoort vond ik verdacht. Totdat ik realiseerde dat heel veel spelers <em>niks (intelligents) doen met hun &ldquo;bekijk de toekomst&rdquo; kaarten</em>, want dat is slechts één strategie van velen.</p>
+<p>Nu ik langer dit spel analyseer, en potjes kan laten printen door de computer, zie ik beter welke dingen echt losse (cruciale) beslissingen zijn. Zoals dat Combo&rsquo;s en Nope kaarten stiekem de kern van het spel zijn (gemiddeld genomen).</p>
+<p>Dus dat soort categorieën probeer ik dan los te trekken. De nieuwe toevoegingen zijn:</p>
+<ul>
+<li><strong>Future:</strong> hoe je omgaat met de toekomst bekijken. Altijd? Alleen als je geen Defuse hebt? Alleen als je de toekomst kunt veranderen?
+<ul>
+<li><em>Als</em> je kiest om hem te spelen, doe je dat altijd meteen (als eerste in je beurt). Dat leek me een algemene regel die elke speler volgt, want er is absoluut geen reden om dit later te doen.</li>
+<li>Dit beïnvloedt ook de kans dat je de Future kaart van andere spelers steelt.</li>
+</ul>
+</li>
+<li><strong>Answer:</strong> hoe je reageert op de situatie dat de speler <em>voor jou</em> een kitten heeft teruggelegd.</li>
+<li><strong>Combo</strong> is gesplitst in drie.
+<ul>
+<li>Kans op gebruiken/vragen</li>
+<li>Voorkeur voor 2 of 3</li>
+<li>Voorkeur voor katkaarten of alle kaarten. (Ik dacht dat alle kaarten gebruiken voor combo&rsquo;s dom was &hellip; maar die strategie scoort vooralsnog vaak als de beste.)</li>
+</ul>
+</li>
+<li><strong>Nope</strong> is gesplitst in vier.
+<ul>
+<li>Kans op gebruiken</li>
+<li>Specifieke override (situatie waarin je het sowieso doet, of echt niet, etcetera)</li>
+<li>Verdedigend nopen (hoe direct moet jij worden aangevallen voordat je de actie nopet)</li>
+<li>Kans op multinope (hoe groot is de kans dat jij lekker meedoet als men begint te Nopen door meer olie op het vuur te gooien?)</li>
+</ul>
+</li>
+</ul>
+<p>In eerste instantie was het ook mogelijk om Nope kaarten te vragen (als je kaarten stal van een andere speler). Totdat ik dus de regeldiscussies online las, waarin 90% het erover eens was dat je een steelactie kunt Nopen, <em>zelfs als iemand al heeft gezegd welke kaart ze van wie willen hebben.</em> Tja, als je dan een Nope kaart hebt, dan Nope je die hele steelactie natuurlijk.</p>
+<p>Dus die optie is geheel verdwenen uit de simulatie. Maakte toch al niet zoveel verschil, omdat het met de huidige regels dus een bizarre keuze was om te maken.</p>
+<h2 id="de-game-loop">De game loop</h2>
+<p>Uiteindelijk werd de simulatie dermate complex dat ik een schets moest maken van de algemene gameplay loop. Deze deel ik hier ter verduidelijking van hoe alles samenwerkt in de simulatie.
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 exploding kittens algorithm sketches result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/Exploding-Kittens-Algorithm-Sketches_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 exploding kittens algorithm sketches result"
+				title="Uploads 2023 01 exploding kittens algorithm sketches result"
+				width="1600"
+				height="1014"
+				class=""
+			/></picture>
+</figure></p>
+<p>Het moeilijkste deel was:</p>
+<ul>
+<li>Hoe zorg je ervoor dat spelers geen 100% achterlijke zetten doen &hellip;</li>
+<li>&hellip; zonder afbreuk te doen aan de gevarieerde strategieën die ze moeten volgen?</li>
+</ul>
+<p>Bijvoorbeeld, als iemand een &ldquo;See The Future&rdquo; kaart heeft, is het alleen zinvol om die te gebruiken als je die toekomst ook kunt <em>veranderen</em>. Anders speel je een kaart zonder reden en zonder consequentie. Dat is een simpele regel, makkelijk te programmeren.</p>
+<p>Maar &hellip; je kan natuurlijk andere spelers gaan vragen om zulke kaarten. Misschien heb je wél 3 &ldquo;Favor&rdquo; kaarten, waardoor je drie kansen hebt om een actiekaart van iemand te krijgen (die de stapel verandert). Zodra je die hebt, speel je jouw Future kaart en doet een geweldige zet.</p>
+<p>Andersom, als iemand de strategie heeft waarbij hij Future kaarten héél belangrijk vindt, zal diegene zijn &ldquo;Favor&rdquo; dus willen inzetten om zo&rsquo;n Future kaart te vragen bij anderen.</p>
+<p>Ik zocht een simpele, schone manier voor de simulatie om hier wijs uit te worden. Dat werd bovenstaand diagram.</p>
+<p>Bij volgende simulaties maak ik dit waarschijnlijk vanaf het begin. Dat zal de kwaliteit van de code ook ten goede komen :p</p>
+<h2 id="resultaten">Resultaten</h2>
+<p>Eindelijk, eindelijk. Alles ingebouwd, alles getest, de simulatie speelt razendsnel geweldige potjes <em>Exploding Kittens</em>.</p>
+<p>Wil je dit zelf ervaren? Run dan zelf de code en zet in de <em>config</em> &ldquo;print_gameplay&rdquo; naar &ldquo;true&rdquo;. (Moet je wel maar één potje simuleren, anders print hij wel <em>heel veel.</em>) Dan noemt de computer precies wie aan de beurt is, wat ze doen, of ze ontploffen, etcetera.</p>
+<p>Wat krijg je dan als resultaat?</p>
+<h3 id="winnende-strategie-individueel">Winnende strategie (individueel)</h3>
+<p>In de volgende plaatjes zoeken we dus steeds de grafiek die het <em>hoogste</em> is: die gemiddeld het meeste potjes heeft gewonnen.</p>
+<p><em>Klik op een plaatje om deze fullscreen te bekijken.</em></p>
+<div class="image-gallery">
+<p>
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 final answer result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/final_answer_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 final answer result"
+				title="Uploads 2023 01 final answer result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 final combo pref result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/final_combo_pref_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 final combo pref result"
+				title="Uploads 2023 01 final combo pref result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 final combo result 1</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/final_combo_result-1.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 final combo result 1"
+				title="Uploads 2023 01 final combo result 1"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 final combo type result 1</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/final_combo_type_result-1.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 final combo type result 1"
+				title="Uploads 2023 01 final combo type result 1"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 final future result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/final_future_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 final future result"
+				title="Uploads 2023 01 final future result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 final kitten result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/final_kitten_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 final kitten result"
+				title="Uploads 2023 01 final kitten result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 final nope custom result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/final_nope_custom_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 final nope custom result"
+				title="Uploads 2023 01 final nope custom result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 final nope defend result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/final_nope_defend_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 final nope defend result"
+				title="Uploads 2023 01 final nope defend result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 final nope result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/final_nope_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 final nope result"
+				title="Uploads 2023 01 final nope result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 final play result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/final_play_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 final play result"
+				title="Uploads 2023 01 final play result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure> 
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 final victim result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/final_victim_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 final victim result"
+				title="Uploads 2023 01 final victim result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure></p>
+</div> 
+<h3 id="winnende-strategie-combinatie">Winnende strategie (combinatie)</h3>
+<p>Vervolgens kunnen we dit dubbel checken door speler 0 al deze &ldquo;beste strategieën&rdquo; te geven (elk potje opnieuw) en de grafiek te maken <em>per speler</em>. We hopen dat speler 0 flink vaker wint dan de rest.
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 fixed strategy per player check result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/fixed_strategy_per_player_check_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 fixed strategy per player check result"
+				title="Uploads 2023 01 fixed strategy per player check result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure></p>
+<p>Jup, dat is vrij overtuigend.</p>
+<p>Ook zie je bijna altijd bij spellen dat de spelers rondom speler 0 (1 en 3) hierdoor worden beïnvloed. Meestal is de speler <em>na</em> de goede speler de pineut.</p>
+<h3 id="beste-startkaarten">Beste startkaarten</h3>
+<p>We slaan op met welke kaarten de winnende speler begon. Zo krijgen we een idee welke kaarten je graag wilt hebben vanaf het begin. Of zien we dat het niet uitmaakt.
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2023 01 frequency for winner per starting card result</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/frequency_for_winner_per_starting_card_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2023 01 frequency for winner per starting card result"
+				title="Uploads 2023 01 frequency for winner per starting card result"
+				width="900"
+				height="600"
+				class=""
+			/></picture>
+</figure></p>
+<p>Ah, eindelijk iets interessants!</p>
+<ul>
+<li>De beste kaart om te hebben aan het begin is de <strong>Favor.</strong></li>
+<li>Daarna komt <strong>Attack.</strong></li>
+<li>Daarna komt <strong>Skip</strong>, en de <strong>Kattenkaarten</strong> (allemaal ongeveer gelijk natuurlijk).</li>
+<li>Daarna <strong>Nope</strong>.</li>
+<li>En dan de rest.</li>
+</ul>
+<p>Ja, deze grafiek compenseert voor hoe vaak een kaart voorkomt in de stapel. (Hoe vaker hij voorkomt, hoe meer kans je sowieso hebt om hem in je hand te hebben.)</p>
+<h2 id="filmpjes">Filmpjes</h2>
+<p>Ik kon moeilijk zien of alles definitief goed ging in de simulatie. (Er zijn <em>zoveel</em> strategieën en <em>zoveel</em> verschillende regels / kaartsoorten, dat allemaal printen op het scherm is te onoverzichtelijk.)</p>
+<p>Dus ik besloot weer te doen wat ik vroeger ook leuk vond: filmpjes maken van hoe de computer een potje speelt!</p>
+<p>Dit werkt als volgt:</p>
+<ul>
+<li>Na elke beurt laat ik de computer een <em>plaatje</em> maken van de huidige toestand. (Dus ik teken gekleurde vierkanten om te laten zien welke kaarten elke speler heeft. Ik schrijf naast de speler wat ze hebben gedaan op hun beurt.)</li>
+<li>Uiteindelijk krijg je zo ~30 plaatjes. (Het gemiddelde potje met 4 spelers duurt zo&rsquo;n 30 beurten.)</li>
+<li>Die speel ik na elkaar af in een filmpje.</li>
+</ul>
+<p>Zo <em>zie</em> je een potje gespeeld worden door de computer. Deze filmpjes bleken essentieel in het ontdekken van enkele zeldzame (maar grote) fouten in mijn simulatie 🙂</p>
+<p>Hieronder staan de eerste vijf filmpjes die ik liet maken.</p>
+<p>En ja, ze zijn niet adembenemend mooi. Dit is de eerste keer dat ik met Rust plaatjes maak. In de toekomst kan ik misschien het <em>plaatje</em> van de kaart gebruiken in plaats van gekleurde vierkanten, maar ach.</p>
+<div class="remark">Als je zelf filmpjes wil maken, run je de simulatie één keer en zet <code>create_gamestate_video</code> aan in de config. Onderaan de config staat ook een FFMPEG commando om van die plaatjes een filmpje te maken.</div>
+<h3 id="filmpje-1">Filmpje 1</h3>
+<figure>
+<pre><code>&lt;video controls&gt;
+    &lt;source src=&quot;/uploads/2023/01/exploding_kittens_game_1.mp4&quot; /&gt;
+&lt;/video&gt;
+</code></pre>
+</figure>
+<p>Goed voorbeeld van de willekeurigheid van dit spel. De bovenste speler trekt meteen aan het begin <em>twee keer een Exploding Kitten</em>. Dat kon diegene totaal niet zien aankomen. Dit voorkom je alleen met een hele agressieve strategie (speel gewoon al je kaarten op elke beurt).</p>
+<p>Maar ja, met zo&rsquo;n strategie ben je na twee rondes uit je kaarten, dus dat doet niemand. Dus ligt diegene na een paar rondes al compleet uit het spel &hellip; en daar kan niemand iets aan doen.</p>
+<h3 id="filmpje-2">Filmpje 2</h3>
+<figure>
+<pre><code>&lt;video controls&gt;
+    &lt;source src=&quot;/uploads/2023/01/exploding_kittens_game_2.mp4&quot; /&gt;
+&lt;/video&gt;
+</code></pre>
+</figure>
+<p>In het algemeen zie je dat mensen die toevallig een Defuse stelen of van de stapel trekken, vrijwel altijd winnen.</p>
+<p>Ook zie je een speler soms iets semi-doms doen. Bijvoorbeeld, eerst de stapel schudden, en dan <em>alsnog</em> een tweede kaart spelen om zichzelf te verdedigen tegen een Kitten&mdash;waarom dan überhaupt schudden? :p</p>
+<p>Maar onthoudt dat de computer simpelweg z&rsquo;n strategieën precies opvolgt, wat dat dan ook is. Écht domme dingen heb ik er uitgehaald.</p>
+<h3 id="filmpje-3">Filmpje 3</h3>
+<figure>
+<pre><code>&lt;video controls&gt;
+    &lt;source src=&quot;/uploads/2023/01/exploding_kittens_3.mp4&quot; /&gt;
+&lt;/video&gt;
+</code></pre>
+</figure>
+<p>Nog een voorbeeld van die willekeurigheid. De onderste speler komt toevallig aan <em>drie Defuse kaarten</em>. Tja, je kon echt wel voorspellen wie er ging winnen vanaf dat moment :p</p>
+<p>Ook zie je hier hoe sommige strategieën wat met elkaar botsen. De linkerspeler wil &ldquo;Always&rdquo; een combo spelen, maar tegelijkertijd &ldquo;Never&rdquo; een kaart spelen. Die tweede is leidend, dus de speler speelt geen enkele combo het hele potje.</p>
+<p>In toekomstige simulaties ga ik kijken hoe ik dit soort dingen voorkom, want het is vrij zinloze data in zo&rsquo;n simulatie.</p>
+<h3 id="filmpje-4">Filmpje 4</h3>
+<figure>
+<pre><code>&lt;video controls&gt;
+    &lt;source src=&quot;/uploads/2023/01/exploding_kittens_4.mp4&quot; /&gt;
+&lt;/video&gt;
+</code></pre>
+</figure>
+<p>Dit vind ik meer een gemiddeld potje. Er gebeurt niet zo veel, er zijn geen geweldige zetten, en uiteindelijk eindigt het vrij snel in een anti-climax. Maar dat is dus te verwachten, met zoveel strategieën die mogelijk hele domme acties tot gevolg hebben.</p>
+<h3 id="filmpje-5">Filmpje 5</h3>
+<figure>
+<pre><code>&lt;video controls&gt;
+    &lt;source src=&quot;/uploads/2023/01/exploding_kittens_5.mp4&quot; /&gt;
+&lt;/video&gt;
+</code></pre>
+</figure>
+<p>De onderste speler heeft een grote voorkeur voor combo&rsquo;s, en dat zie je ook meteen als ze rond ~20 seconden een combo van 3 spelen. Maar &hellip; ze krijgen geen kaart! Huh? Wat? De meeste mensen zouden in deze situatie een Defuse vragen van wie dan ook, want <em>iedereen moet nog een Defuse hebben</em>.</p>
+<p>Maar ik kan dat soort aannames niet maken in zo&rsquo;n simulatie. Het hele idee is juist om te <em>testen</em>, uit zoveel mogelijk ideeën, wat de beste is. Als ik de simulatie vol stop met honderd van dit soort regeltjes, doe ik niets anders dan een AI schrijven die <em>in mijn ogen</em> redelijk Exploding Kittens kan spelen. (De speler vroeg een andere kaart die de speler niet had, daarom kreeg diegene niks.)</p>
+<p>Dit gebeurt richting het einde opnieuw met de speler rechts. Die heeft als strategie om agressieve kaarten te vragen &hellip; maar diens slachtoffer heeft dat niet, dus die krijgt niks voor z&rsquo;n 3 cattermelons :p</p>
+<h2 id="conclusie">Conclusie</h2>
+<p><strong>Dus hoe win je een potje Exploding Kittens?</strong></p>
+<p>Met onmeetbare teleurstelling moet ik zeggen dat mijn hypothese waarheid is gebleken.</p>
+<p>Het spel is <strong>nogal willekeurig</strong> en beloont vooral <strong>niks doen en afwachten.</strong></p>
+<p>Bijna alle strategieën, hoezeer ze ook uiteenlopen, hoe <em>dom</em> sommige ook lijken, scoren nagenoeg hetzelfde.</p>
+<ul>
+<li><strong>Play?</strong> Speel geen enkele kaart zolang je een Defuse hebt. (Dus gebruik je andere strategieën voor kaarten spelen pas zodra je &ldquo;onveilig&rdquo; bent.)</li>
+<li><strong>Combo&rsquo;s?</strong> Geef de __voorkeur aan combo&rsquo;s vragen en gebruiken, het liefste van twee kaarten. Kattenkaarten of alle kaarten maakt niet uit.</li>
+<li><strong>Nope?</strong> Gebruik ze met grote kans als je direct wordt aangevallen, anders nooit. (Tja, hét moment waarvoor de kaart gemaakt lijkt.) Wachten met inzetten tot de laatste rondes van het spel loont ook.</li>
+<li><strong>Kittens?</strong> Stop ze bovenop terug. Ga ook <em>altijd</em>, voor de zekerheid, ervan uit dat de speler voor jou dat heeft gedaan.</li>
+<li><strong>Future?</strong> Vaak of altijd de toekomst bekijken loont. Op willekeurige momenten de toekomst bekijken staat op de tweede plek &hellip;</li>
+<li><strong>Stelen?</strong> Vraag naar een Defuse (als je een kaart mag noemen). Kies iemand die nog niet is ontploft, of kies steeds een <em>verschillend</em> slachtoffer. (Deze is het meest interessant. Ik heb geen idee waarom, maar deze strategie heeft <em>consistent</em> hoog gescoord gedurende de ontwikkeling.)</li>
+</ul>
+<p>Maar zoals de grafieken aantonen, kies een andere strategie, of &ldquo;kies willekeurig&rdquo;, en het maakt weinig uit. Je hebt gewoon té weinig informatie en té weinig controle over welke kaarten je krijgt (of wat andere spelers jou aandoen).</p>
+<p>Daardoor zien deze grafieken er ook wat stom uit. Er zijn niet echt uitschieters naar boven of beneden. Dus je kijkt naar allemaal staafgrafieken waarbij je moet inzoomen om überhaupt verschil te ontdekken.</p>
+<p>Ach ja, al die moeite was niet voor niets. Nu heb ik tenminste data om mijn gevoel over dit spel te ondersteunen 🙂</p>
+<h2 id="bronnen--discussie">Bronnen &amp; Discussie</h2>
+<p>De uitslag suggereert nu dat Exploding Kittens inderdaad simpelweg een heel willekeurig spel is, waarbij een paar &ldquo;overduidelijke&rdquo; tactieken werken (zoals &ldquo;vraag om een Defuse kaart van de speler met de meeste kans om er eentje te hebben&rdquo;), en de rest niks uitmaakt.</p>
+<p>Het nadeel van deze techniek is dat <em>bluf</em> en het vermogen om je <em>aan te passen</em> tijdens het spel niet echt bestaan. Ook worden alle strategieën los getest en opgeslagen, dus we weten minder over hoe sterk specifieke <em>combinaties</em> zijn.</p>
+<p>Dus in een toekomstige simulatie zou ik kunnen kijken naar tactieken die meer <em>inspelen</em> (en veranderen) op wat andere mensen doen, hoewel de huidige tactieken dat ook al vrij geavanceerd doen.</p>
+<p>Ook zou ik de uitbreidingen erbij kunnen simuleren. Ik heb 99% van de code toch al: het zou vooral betekenen dat ik de nieuwe kaarten toevoeg.</p>
+<p>Ik doe deze simulaties ook vooral om te oefenen met een nieuwe programmeertaal én om meer te leren over <em>game design</em>. Immers kan je zo vlug testen of je spel last heeft van problemen zoals &hellip;</p>
+<ul>
+<li>Té veel geluk</li>
+<li>Eén overduidelijke winnende strategie</li>
+<li>Een groot voordeel voor de eerste (of laatste) speler</li>
+<li>Grote variatie in hoe lang potjes duren</li>
+</ul>
+<p>Mijn simulatie was retesnel &hellip; tot vlak voor het einde. Toen heb ik heel veel code toegevoegd voor debuggen (zoals de filmpjes maken, tekst printen van spelverloop, etcetera) en is het ergens een stuk langzamer geworden. Ooit heb ik meer verstand van Rust en zal ik weten wat ik daar fout heb gedaan. Ach ja, hij speelt alsnog 100,000 potjes in iets meer dan een minuut, dus ik vind het acceptabel.</p>
+<p>Dit vond ik waardevolle bronnen tijdens dit project:</p>
+<ul>
+<li><a href="https://www.reddit.com/r/ExplodingKittens/comments/k4fcfi/new_card_ideas_looking_for_feedback_on_mechanic/">https://www.reddit.com/r/ExplodingKittens/comments/k4fcfi/new_card_ideas_looking_for_feedback_on_mechanic/</a></li>
+<li><a href="https://startyourmeeples.com/2019/05/24/how-to-win-exploding-kittens/">https://startyourmeeples.com/2019/05/24/how-to-win-exploding-kittens/</a></li>
+<li><a href="https://samdecrock.medium.com/7-rules-to-excel-at-exploding-kittens-7034c48b36e1">https://samdecrock.medium.com/7-rules-to-excel-at-exploding-kittens-7034c48b36e1</a></li>
+</ul>
+
+						</div>
+					</article>
+					
+
+<div class="related-posts">
+    <h3>Related Posts</h3>
+    <ul class="no-bullets related-posts-list">
+        
+            
+
+
+
+<section class="minimal-grid-item sketchy-box vertical">
+	<a href="/blog/2023/2023-08-01-mantis-simulatie/">
+		<div class="double-view vertical">
+			
+
+
+
+
+
+
+
+
+
+<div class="left-side hide-caption">
+    
+    
+    <figure>
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Mantis (Simulatie)'</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/mantis_board_game-1.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Header / Cover Image for &#39;Mantis (Simulatie)&#39;"
+				title="Header / Cover Image for &#39;Mantis (Simulatie)&#39;"
+				width="600"
+				height="600"
+				class=" no-click"
+			/></picture>
+</figure>
+    
+</div>
+
+
+			<div class="right-side">
+				<div class="minimal-post-title">Mantis (Simulatie)</div>
+			</div>
+		</div>
+	</a>
+</section>
+        
+            
+
+
+
+<section class="minimal-grid-item sketchy-box vertical">
+	<a href="/blog/2023/2023-07-21-photomone/">
+		<div class="double-view vertical">
+			
+
+
+
+
+
+
+
+
+
+<div class="left-side hide-caption">
+    
+    
+    <figure>
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Photomone'</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/03/photomone_header.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Header / Cover Image for &#39;Photomone&#39;"
+				title="Header / Cover Image for &#39;Photomone&#39;"
+				width="2481"
+				height="877"
+				class=" no-click"
+			/></picture>
+</figure>
+    
+</div>
+
+
+			<div class="right-side">
+				<div class="minimal-post-title">Photomone</div>
+			</div>
+		</div>
+	</a>
+</section>
+        
+            
+
+
+
+<section class="minimal-grid-item sketchy-box horizontal">
+	<a href="/blog/2023/2023-07-18-spelrecensie-happy-little-dinosaurs/">
+		<div class="double-view horizontal">
+			
+
+
+
+
+
+
+
+
+
+<div class="left-side hide-caption">
+    
+    
+    <figure>
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Spelrecensie: Happy Little Dinosaurs'</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/05/happy_little_dinosaurs.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Header / Cover Image for &#39;Spelrecensie: Happy Little Dinosaurs&#39;"
+				title="Header / Cover Image for &#39;Spelrecensie: Happy Little Dinosaurs&#39;"
+				width="550"
+				height="730"
+				class=" no-click"
+			/></picture>
+</figure>
+    
+</div>
+
+
+			<div class="right-side">
+				<div class="minimal-post-title">Spelrecensie: Happy Little Dinosaurs</div>
+			</div>
+		</div>
+	</a>
+</section>
+        
+    </ul>
+</div>
+
+				</div>
+			</div>
+		</div>
+	</main>
+
+	<div class="footer-transition"></div>
+
+<footer>
+	<div class="footer-content">
+		<aside>
+			<h3>Latest / Upcoming Project</h3>
+			
+			
+			
+			
+			
+				
+				
+				
+				
+			
+			
+
+
+
+
+
+
+
+
+
+<div class="hide-caption image-top-margin">
+    
+    
+    <figure>
+		
+	
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Onverslaanbaar'</span>
+		</figcaption><picture>Cannot find image:staticonverslaanbaar_cover.webp</picture>
+</figure>
+    
+</div>
+
+
+			
+
+			<div><p>Jinny ontmoet de man van haar dromen en zijn vrienden op een feest. Ze vieren dat Quinten zojuist miljonair is geworden dankzij een wereldberoemde bestseller genaamd &ldquo;Onverslaanbaar&rdquo;: een episch boek dat alles goed doet en jong en oud gek maakt.</p>
+<p>Ze verheugt zich op een spannende avond, …</p></div>
+			<a class="striped-link" href="/books/onverslaanbaar/"><span>Read More!</span></a>
+		</aside>
+		<aside>
+			<h3>Latest Posts</h3>
+			<nav>
+				<ul class="no-bullets flex-list">
+					
+					
+						<li>
+							<a href="/blog/2023/2023-08-10-filmrecensie-nimona-2023/" class="striped-link">
+								<span>Filmrecensie: Nimona (2023)</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/blog/diaries/diary-wildebyte-unfinished-game/" class="striped-link">
+								<span>[Diary] Wildebyte (Book 1)</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/blog/2023/2023-08-07-serierecensie-shadow-bone-seizoen-2/" class="striped-link">
+								<span>Serierecensie: Shadow &amp; Bone (seizoen 2)</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/blog/2023/2023-08-04-schrijftip-samenvatting-en-door/" class="striped-link">
+								<span>Schrijftip: samenvatting en door</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/blog/2023/2023-08-02-filmrecensie-oppenheimer-2023/" class="striped-link">
+								<span>Filmrecensie: Oppenheimer (2023)</span>
+							</a>
+						</li>
+					
+				</ul>
+			</nav>
+		</aside>
+		<aside>
+			
+			<h3>Latest Books</h3>
+			<nav>
+				<ul class="no-bullets flex-list">
+					
+					
+						<li>
+							<a href="/books/wildebyte-ghost-code/" class="striped-link">
+								<span>Ghost Code</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/books/onverslaanbaar/" class="striped-link">
+								<span>Onverslaanbaar</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/books/wildebyte-rulebreaker-recipes/" class="striped-link">
+								<span>Rulebreaker Recipes</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/books/wildebyte-secrets-of-sweettooth/" class="striped-link">
+								<span>Secrets of Sweettooth</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/books/wildebyte-unfinished-game/" class="striped-link">
+								<span>Unfinished Game</span>
+							</a>
+						</li>
+					
+				</ul>
+			</nav>
+		</aside>
+		<aside>
+			<h3>Updates & Support</h3>
+			<p>Most of my work is completely free and accessible to anyone! As such, I ask you to support me if you can.</p>
+			<p>You can do so via Patreon, where you can also subscribe to <strong>updates</strong> on all projects.</p>
+			<p>
+				<a href="https://patreon.com/tiamopastoor" class="striped-link">
+					<img decoding="async" style="float:left; width: 2.25em;" src="/css/patreon logo.png" loading="lazy">
+					<span>Support me on Patreon!</span>
+				</a>
+			</p>
+			<p>Or support me on Ko-Fi:</p>
+			<p>
+				<a href="https://ko-fi.com/tiamopastoor" class="striped-link">
+					<img decoding="async" style="float:left; width: 2.25em;" src="/css/kofi_logo.png" loading="lazy">
+					<span>Support me on Ko-Fi!</span>
+				</a>
+			</p>
+			<p>Or via Buy me a Coffee:</p>
+			<p>
+				<a href="https://www.buymeacoffee.com/tiamopastoor" class="striped-link">
+					<img decoding="async" style="float:left; width: 1.25em; margin-top: 0.25em; margin-left: 0.25em;" src="/css/bmac_logo.png" loading="lazy">
+					<span>Buy me a Coffee!</span>
+				</a>
+			</p>
+		</aside>
+		<aside>
+			<h3>Miscellaneous</h3>
+			<ul class="no-bullets flex-list">
+				<li><a href="/info/about/" class="striped-link"><span>About Me</span></a></li>
+				<li><button id="darkModeButton" class="striped-link"><span>Light / Dark Mode</span></button></li>
+				<li><button id="randomProjectButton" class="striped-link"><span>Random Page</span></button></li>
+				<li><button class="gotoTopButton striped-link"><span>Go to Top</span></button></li>
+			</ul>
+		</aside>
+		<aside>
+			<h3>Categories</h3>
+			
+
+
+
+
+
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+
+
+
+
+<ul class="no-bullets flex-list">
+     
+        <li>
+            <a href="/categories/miscellaneous/" class="striped-link" title="All pages with categories <em>miscellaneous</em>">
+                <span>Miscellaneous <sup class="taxonomy-count">(464)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/anecdotes/" class="striped-link" title="All pages with categories <em>anecdotes</em>">
+                <span>Anecdotes <sup class="taxonomy-count">(107)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/games/" class="striped-link" title="All pages with categories <em>games</em>">
+                <span>Games <sup class="taxonomy-count">(102)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/reviews/" class="striped-link" title="All pages with categories <em>reviews</em>">
+                <span>Reviews <sup class="taxonomy-count">(87)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/cartoons/" class="striped-link" title="All pages with categories <em>cartoons</em>">
+                <span>Cartoons <sup class="taxonomy-count">(56)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/film-reviews/" class="striped-link" title="All pages with categories <em>film-reviews</em>">
+                <span>Film reviews <sup class="taxonomy-count">(47)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/book-reviews/" class="striped-link" title="All pages with categories <em>book-reviews</em>">
+                <span>Book reviews <sup class="taxonomy-count">(30)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/poems/" class="striped-link" title="All pages with categories <em>poems</em>">
+                <span>Poems <sup class="taxonomy-count">(28)</sup></span>
+            </a>
+        </li>
+    
+</ul>
+		</aside>
+		<aside>
+			<h3>Tags</h3>
+			
+
+
+
+
+
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+
+
+
+
+<ul class="no-bullets flex-list">
+     
+        <li>
+            <a href="/tags/mystery/" class="striped-link" title="All pages with tags <em>mystery</em>">
+                <span>Mystery <sup class="taxonomy-count">(10)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/game/" class="striped-link" title="All pages with tags <em>game</em>">
+                <span>Game <sup class="taxonomy-count">(8)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/adventure/" class="striped-link" title="All pages with tags <em>adventure</em>">
+                <span>Adventure <sup class="taxonomy-count">(6)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/technology/" class="striped-link" title="All pages with tags <em>technology</em>">
+                <span>Technology <sup class="taxonomy-count">(6)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/coding/" class="striped-link" title="All pages with tags <em>coding</em>">
+                <span>Coding <sup class="taxonomy-count">(5)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/computer/" class="striped-link" title="All pages with tags <em>computer</em>">
+                <span>Computer <sup class="taxonomy-count">(5)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/fantastical/" class="striped-link" title="All pages with tags <em>fantastical</em>">
+                <span>Fantastical <sup class="taxonomy-count">(5)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/education/" class="striped-link" title="All pages with tags <em>education</em>">
+                <span>Education <sup class="taxonomy-count">(4)</sup></span>
+            </a>
+        </li>
+    
+</ul>
+		</aside>
+		<aside>
+			<h3>My Websites</h3>
+			<p>This website is for all my books and writing work. I have separate websites for work in other areas (such as games).</p>
+			<p>Check them out!</p>
+			<ul class="no-bullets flex-list">
+				<li><a href="https://pandaqi.com" class="striped-link"><span>Pandaqi (Games)</span></a></li>
+				<li><a href="https://pandaqi.com/tutorials" class="striped-link"><span>Pandaqi (Tutorials)</span></a></li>
+				<li><a href="https://eltroubadour.com" class="striped-link"><span>El Troubadour (Music)</span></a></li>
+				<li><a href="https://rodepanda.com" class="striped-link"><span>Red Panda (Portfolio)</span></a></li>
+			</ul>
+		</aside>
+	</div>
+
+	<div class="credits">
+		Tiamo Pastoor 2016&mdash;2023 · 
+		All rights reserved&copy; · 
+		Made with <a href="https://gohugo.io">Hugo</a> · 
+		<a href="/info/about/">About Me</a> · 
+		<a href="https://rodepanda.com">My Portfolio</a> · 
+		<a href="https://pandaqi.com">My Game Studio</a> · 
+		<button class="gotoTopButton">Go to Top</button>
+	</div>
+</footer>
+
+	
+    
+    <script async defer>
+		const head = document.getElementsByTagName("head")[0];
+		let cssLink = document.createElement("link");
+	
+		cssLink.rel = "stylesheet";
+		cssLink.href = "\/css\/style.css";
+		cssLink.type = "text/css";
+	
+		head.appendChild(cssLink);
+	</script>
+
+<span style="display:none;" id="hidden-hugo-metadata" data-pages="/blog/2021/2021-12-12-de-universiteit-niet-te-ontsnappen/,/blog/2017/2017-08-18-hdt-6-bent-zelf-zwaluw/,/blog/2023/2023-01-20-filmrecensie-see-how-they-run-2022/,/blog/2017/2017-05-13-wat-nog-het-ergste-is/,/blog/2018/2018-11-19-datumprikkers-de-eeuwige-laatste/,/blog/2018/2018-04-15-over-humor-iv/,/blog/2018/2018-12-14-serierecensie-anne/,/blog/2018/2018-11-23-filmrecensie-captain-fantastic/,/blog/2018/2018-06-13-aan-alle-mensen-die-9/,/blog/2016/2016-11-12-hair/,/blog/2020/2020-08-10-de-hoogopgeleide-stoelendans/,/blog/2018/2018-02-27-klimaatverandering-deel-3/,/blog/2019/2019-02-14-de-blauwe-vinkjes/,/blog/2021/2021-03-26-omgaan-met-opstapelende-fouten/,/blog/2017/2017-11-18-december-kronieken-kerstman-staat-op-deel-3/,/blog/2016/2016-12-11-verdachte-verduisteringen/,/blog/2019/2019-02-12-filmrecensie-snowpiercer-2013/,/blog/2017/2017-03-21-risk-deel-2/,/blog/2022/2022-08-18-schrijftip-de-omgekeerde-metafoor/,/blog/2022/2022-10-16-illegaal-downloaden/,/blog/2017/2017-01-25-woordenwissel/,/blog/2023/2023-08-10-filmrecensie-nimona-2023/,/blog/2017/2017-12-17-aan-alle-mensen-die-7/,/blog/2021/2021-08-05-verschillende-leerstijlen/,/blog/2021/2021-01-23-rode-panda-update-2021/,/blog/2022/2022-12-08-de-slapende-assistente/,/blog/2016/2016-12-05-de-groeten/,/blog/2021/2021-02-09-boekrecensie-his-dark-materials-philip-pullman-1996-2002/,/blog/2017/2017-01-05-onderbuikgevoel/,/blog/diaries/dagboek-jij-moet-het-eerst-zeggen/,/blog/2021/2021-11-10-pen-lenen/,/blog/2017/2017-09-07-halli-galli/,/blog/2018/2018-01-19-beledigingsrecht/,/blog/2023/2023-04-10-wat-kahoot-ons-leert-over-spellen/,/blog/2022/2022-01-04-novembermaand-spellenmaand/,/blog/2017/2017-07-26-de-enige-waarheid/,/blog/2021/2021-09-07-praktijkles/,/blog/2020/2020-07-09-kunnen-we-de-wereld-niet-opnieuw-opstarten/,/blog/2018/2018-03-25-over-humor-i/,/blog/2020/2020-01-09-een-dagje-duo/,/blog/2021/2021-08-21-de-wisselfout-van-van-bommel/,/blog/2021/2021-05-10-cambridge-advanced-english/,/blog/2021/2021-05-03-de-vloek-van-de-programmeur-deel-6/,/blog/2018/2018-11-09-negatieve-stimulering-in-het-onderwijs/,/blog/2019/2019-05-13-over-lost-de-tv-serie/,/blog/2018/2018-11-12-osiris-2/,/blog/2022/2022-10-15-lets-game-it-out/,/blog/2020/2020-10-11-unstable-universe/,/blog/2020/2020-03-28-online-surveillantie/,/blog/2023/2023-06-09-draft2digital-een-recensie-en-uitleg/,/blog/2022/2022-12-09-de-fragiliteit-van-spellen-maken/,/blog/diaries/dagboek-levenssaga-cyclus-1/,/blog/2023/2023-01-10-het-genreprobleem-voor-de-jeugd/,/blog/2016/2016-11-07-openbaar-vervoer/,/blog/2020/2020-07-11-tablets-op-de-basisschool/,/blog/2022/2022-12-20-schrijftip-personages-met-diepgang/,/books/onverslaanbaar/,/blog/2020/2020-03-07-art-hockey/,/blog/2021/2021-12-13-windup-wizards/,/blog/2017/2017-03-31-post-handtekening/,/blog/2020/2020-02-06-een-mobiele-game-uitbrengen-deel-1/,/blog/2021/2021-07-29-wie-leest-nou-nog-boeken/,/blog/2021/2021-11-30-stiekem-onbereikbaar/,/blog/2021/2021-10-04-problemen-met-cloudflare/,/blog/2018/2018-05-20-boekrecensie-13-reasons-why/,/blog/2016/2016-11-17-tijdloze-toekomst/,/blog/2022/2022-09-26-boekrecensie-schuld-mel-wallis-de-vries/,/blog/2018/2018-11-02-de-dierenbandiet/,/books/wildebyte-secrets-of-sweettooth/,/blog/2021/2021-11-07-napoleon-hypothetisch/,/blog/2017/2017-04-09-vooroordelen/,/info/support/,/blog/2017/2017-10-10-zij-en-hun-hen/,/blog/2018/2018-09-04-le-conte-de-fees/,/blog/2019/2019-11-30-de-mobiele-markt-waar-gratis-te-duur-is/"></span>
+
+
+<script async defer src="/js/lib-functionality.min.js"></script>
+
+<div id="overlay-image" style="display: none;">
+	<img id="overlay-image-src">
+	<div class="overlay-image-instruction">(click anywhere to close)</div>
+</div>
+</body>
+</html>

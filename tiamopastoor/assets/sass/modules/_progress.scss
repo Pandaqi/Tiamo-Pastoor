@@ -1,0 +1,102 @@
+@use "critical_modules/globals" as g;
+
+.book-progress {
+	text-decoration: none;
+    border-radius: 0.5em;
+	transition: transform 0.3s, filter 0.3s;
+
+	&:hover {
+		transform: scale(1.025);
+		filter: brightness(110%);
+	}
+
+	@include g.themed() {
+		background-color: g.t("def-transparent-container");
+	}
+
+	@media all and (max-width: g.$breakpoint-small)
+	{
+		flex-wrap: wrap;
+	}
+}
+
+progress {
+	width: 100%;
+	border-radius: 0.2em; 
+	height: 1em;
+	box-shadow: 0 0 0.25em black;
+
+	&::-webkit-progress-bar {
+		@include g.themed() {
+			background-color: g.t("color-progress-background");
+		}
+		border-radius: 0.2em;
+	}
+	
+	&::-webkit-progress-value {
+		@include g.themed() {
+			background-color: g.t("color-progress-foreground");
+		}
+		border-radius: 0.2em;
+	}
+
+	&::-moz-progress-bar {
+		@include g.themed() {
+			background-color: g.t("color-progress-background");
+		}
+		border-radius: 0.2em;
+	}
+
+	&::-moz-progress-value {
+		@include g.themed() {
+			background-color: g.t("color-progress-foreground");
+		}
+		border-radius: 0.2em;
+	}
+}
+
+.word-counts-container {
+	display: flex;
+	flex-wrap: nowrap;
+	align-items: center;
+	align-content: center;
+	width: 100%;
+	justify-content: space-between;
+
+	@media all and (max-width: g.$breakpoint-small)
+	{
+		flex-wrap: wrap;
+
+		.word-count-heading {
+			width: 100%;
+			text-align: center;
+		}
+	}
+
+	.word-count-heading {
+		font-family: g.$header-font;
+	}
+
+	.word-count-number {
+		font-size: 2.25em;
+		line-height: 1em;
+		text-align: center;
+		display: block;
+	}
+
+	.word-count-label {
+		font-style: italic;
+		text-align: center;
+		display: block;
+	}
+}
+
+.book-progress-list {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5em;
+
+	.book-progress {
+		width: 100%;
+	}
+}

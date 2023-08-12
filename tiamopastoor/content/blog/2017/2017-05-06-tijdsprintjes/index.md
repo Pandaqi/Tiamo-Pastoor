@@ -1,0 +1,27 @@
+---
+title: Tijdsprintjes
+author: tiamopastoor
+date: 2017-05-06T16:00:36+00:00
+language: nl
+categories:
+  - Miscellaneous
+
+---
+Iedereen herinnert zich nog wel die dagen op de middelbare school, of misschien zelfs de universiteit of je werkplek, waar je urenlang naar de klok blijft kijken totdat die _eindelijk_ je vrijheid inluidt. Waar je het grootste deel van de dagen andere zaken aan je hoofd hebt en wordt verrast dat het al zo laat is, heb je soms ook dagen waarop tijd niet langzamer lijkt te kunnen gaan. Je hebt zin in een voetbalwedstrijd vanavond, ineens duurt het avondeten je veel te lang. Andersom, je hebt de hele dag niks gepland en besluit lekker in bed series te gaan kijken, maar voor je het weet ben je teleurgesteld omdat het alweer middernacht is.
+
+Het is lastig om te zeggen dat tijd soms _langzamer dan normaal_ gaat, of _sneller dan normaal---_want wat is normaal? Wat voor de een normaal gesproken uren duurt, kan voor de ander maar tien minuten kosten elke dag. Waar de een in secondes denkt, denkt de ander in minuten. Waar de een het al vervelend vindt om een halfuur in de auto te moeten op weg ergens heen, kan de ander zich makkelijk vier uur vermaken. Toch, met al deze verschillende beelden van tijd, denk ik dat iedereen het fenomeen dat ik hierboven beschreef wel kent. En omdat iedereen een andere standaard heeft, noem ik dit fenomeen _tijdsprintjes_.
+
+
+Tijdsprintjes zijn interessant. Niet omdat ze goed zijn, niet omdat ze slecht zijn, maar juist omdat ze in een grijs gebied zitten. De meeste mensen hebben geen vat op deze tijdsprintjes, en de ene keer zijn ze blij dat de tijd snel vervloog ("mijn god wat was die lunchlezing saai"), terwijl ze de andere keer meer tijd hadden willen hebben ("meh, waarom moet vakantie nou altijd zo snel voorbij gaan").
+
+In meer filosofische zin denken mensen vaak dat tijdsprintjes kostbare tijd van ze hebben gestolen. Als iets te snel ging, zeggen ze "ik had meer tijd willen hebben om mijn passie te achtervolgen", of "ik had maar tijd willen doorbrengen met mijn grootmoeder toen ze nog leefde", of "waarom krijgen we maar drie uur voor zo'n ontiegelijk lang tentamen". Als iets te langzaam gaat, is de meest gehoorde respons "ugh, denk eens aan al die nuttige dingen die ik in die tijd had kunnen doen".
+
+Maar mensen zijn dus ook in gevecht met deze tijdsprintjes, omdat ze leed verzachten, omdat ze je even helemaal gefocust laten zijn op het leven en niet alle regeltjes er omheen. "Tijd heelt alle wonden" is één van de weinige spreekwoorden waarvan ik uit ervaring weet dat het honderdtwintig procent waar is. ("Van een mug een olifant maken" is mij bijvoorbeeld nog nooit gelukt, geen idee welke dronken gast dat ooit voor elkaar heeft gekregen. Misschien was het Harry Potter wel.)
+
+Als mensen tekenen vergeten ze vaak de tijd. Sterker nog, men zegt dat je pas in een goede, gefocuste creatieve flow zit als je tijd vergeet, en het maakt je niks uit. Je kunt urenlang naar lijnen en kleuren staren, totdat je uiteindelijk een heel nieuw kunstwerk hebt gecreëerd, maar je hebt _nul_ besef hoe laat het is wanneer je klaar bent. Je zou dan kunnen denken "verdorie, heb ik gewoon 10 uur aan deze ene rot tekening gewerkt". Ik deed dat ook enorm vaak toen ik net met tekenen begon. Maar het moment waarop alles pas (soort van) ging werken, was toen ik aan het einde dacht "wat fijn dat ik alweer 10 uur van mijn leven heb doorgebracht zonder ongelukkig te zijn".
+
+Want dat is het leven ook---een hele berg tijd waarvan je niet weet hoe hoog hij is, maar je moet het wel allemaal doorstaan. Ik weet niet of er een God is, of dat er iets is wat ons leven en onze psyche bestuurt, maar als dat zo is vind ik dat hij er een puinhoop van heeft gemaakt. Goede, lieve mensen moeten soms jaren van pijn doorstaan, terwijl vreselijke mensen alles kunnen maken wat ze willen en gelukkig oud worden. Mensen met veel motivatie en positieve energie worden, als er maar genoeg slechte tijd in hun leven voorkomt, naar beneden gehaald en komen misschien niet meer naar boven. Allemaal omdat tijd te lang duurde voor hen.
+
+En daarom vind ik het belangrijk dat iedereen tijdsprintjes blijft ervaren, en er achteraf ook positief tegenaan kijkt. Ik vind het belangrijk dat je iets vindt in je leven wat daar voor kan zorgen. Ik vind het ook belangrijk dat je er iets van zegt als je het idee hebt uren te verspillen met nietsdoen tijdens college, of op je werk, of waar dan ook. Als ik in een college zit, en ik kan het niet helpen dat ik constant naar de tijd kijk en alleen maar wacht tot het is afgelopen, dan zorg ik dat dat niet weer gebeurt. Ik ga iets nuttigs doen, ik kom misschien de volgende keer niet meer en doe wel (zo goed en kwaad als dat gaat) zelfstandig studiewerk.
+
+Tijd is inderdaad belangrijk. Je vind misschien dat je te weinig hebt en dat je er meer mee had kunnen doen, maar _juist_ daar zijn de tijdsprintjes voor gemaakt. Als jij ergens in slaap valt en pas tegen het einde van de dag wakker wordt, heb jij urenlang in mentale en fysieke rust doorgebracht. Als je even kort iets voor een eigen projectje wil doen, maar voor je het weet is het uren later en heb je veel meer gedaan, dan heb je uren gevuld met iets waar je blij van werd en passie voor hebt. Beter kan het niet.

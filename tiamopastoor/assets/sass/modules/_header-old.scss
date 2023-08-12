@@ -1,0 +1,166 @@
+@use "critical_modules/globals" as g;
+
+header {
+	background-color: transparent;
+	margin: 0;
+
+	width: 100%;
+
+	background-image: url(header_graphic.webp);
+	background-position-y: min(calc(-280px + 35vw), 0px);
+}
+
+header ul {
+	margin-top: 0px;
+}
+
+header .sub-menu {
+	margin-left: 30px;
+}
+
+header, .footer-transition {
+	min-height: min(35vw, 280px);
+	background-repeat: repeat-x;
+	background-position: center;
+	background-position-y: 0px;
+	background-size: contain;
+}
+
+.welcome-message, .header-buttons {
+	max-width: 1080px;
+	margin: auto;
+	font-size: 24px;
+	padding: 10px;
+}
+
+.header-buttons {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.button-container {
+	max-width: 500px;
+	text-align: right;
+
+	@media all and (max-width: g.$breakpoint-medium)
+	{
+		max-width: 300px;
+		width: 100%;
+	}
+
+	a {
+		width: 128px;
+		height: 128px;
+		background-image: url(header_icons.webp);
+		background-size: cover;
+		display: inline-block;
+	
+		filter: drop-shadow(0 0 2px darkblue);
+		transition: transform 0.3s, filter 0.3s;
+
+		@media all and (max-width: g.$breakpoint-medium)
+		{
+			width: 64px;
+			height: 64px;
+		}
+
+		&:hover {
+			filter: drop-shadow(0 0 5px darkblue);
+			transform: scale(1.1);
+		}
+	}
+	
+}
+
+.about-me-btn {
+	background-position-x: 0px;
+	&:hover {
+		background-position-x: -128px;
+	}
+
+	@media all and (max-width: g.$breakpoint-medium)
+	{
+		background-position-x: 0px;
+		&:hover {
+			background-position-x: -64px;
+		}
+	}
+}
+
+.portfolio-btn {
+	background-position-x: -256px;
+	&:hover {
+		background-position-x: -384px;
+	}
+
+	@media all and (max-width: g.$breakpoint-medium)
+	{
+		background-position-x: -128px;
+		&:hover {
+			background-position-x: -192px;
+		}
+	}
+}
+
+.footer-btn {
+	background-position-x: -512px;
+	&:hover {
+		background-position-x: -640px;
+	}
+
+	@media all and (max-width: g.$breakpoint-medium)
+	{
+		background-position-x: -256px;
+		&:hover {
+			background-position-x: -320px;
+		}
+	}
+}
+
+.website-tagline {
+	font-size: 16px;
+	font-family: g.$header-font;
+	line-height: 120%;
+	color: #51532F;
+	text-align: center;
+
+	@media all and (max-width: g.$breakpoint-medium)
+	{
+		text-align: left;
+	}
+
+	@media all and (max-width: g.$breakpoint-small)
+	{
+		display: none;
+	}
+}
+
+.website-name {
+	font-family: g.$header-font;
+	font-size: min(6vw, 30px);
+	color: #3A6EA5;
+	padding: 20px;
+	line-height: 100%;
+	padding-left: 0px;
+
+	span {
+		display: block;
+	}
+
+	a {
+		text-decoration: none;
+		color: inherit;
+	}
+
+	@media all and (max-width: g.$breakpoint-small)
+	{
+		padding: 0;
+		max-width: 200px;
+
+		span {
+			display: inline-block;
+			width: 5px;
+		}
+	}
+}

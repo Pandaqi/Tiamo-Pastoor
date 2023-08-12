@@ -1,0 +1,111 @@
+@use "critical_modules/globals" as g;
+
+// Basic formatting for all special blocks
+.remark, .example, .review-blurb, .review-rating, .update {
+	padding: 0.4em;
+	margin-bottom: 1em;
+    margin-top: 1em;
+	border-radius: 0.4em;
+
+	p:first-child {
+		display: inline;
+	}
+
+	p:last-child {
+		margin-bottom: 0;
+	}
+
+	&::before {
+		display: inline-block;
+		font-family: g.$header-font;
+		font-style: normal;
+		font-weight: 900;
+		margin-right: 0.25em;
+	}
+}
+
+// Examples
+.example {
+	@include g.themed() {
+		color: g.t("def-near-black");
+		background-color: g.t("def-near-white");
+	}
+}
+
+.example::before {
+	content: "Example |";
+}
+
+// Remarks
+.remark {
+	@include g.themed() {
+		background-color: g.t("color-buttons-background");
+		color: g.t("color-buttons-foreground");
+	}
+
+	font-style: italic;
+	em { font-style: normal; }
+}
+
+.remark::before {
+	content: "Remark |";
+}
+
+
+// Updates
+.update {
+	@include g.themed() {
+		background-color: g.t("color-banners-background");
+		color: g.t("color-banners-foreground");
+	}
+}
+
+.update::before {
+	content: "Update |";
+}
+
+// Blockquotes / Indented
+// @TODO: The "through-link" was removed; also remove from content
+.indented, blockquote {
+	margin-left: 2.5em;
+	padding-left: 0.4em;
+	@include g.themed() {
+		border-left: 0.2em solid g.t("color-banners-foreground");
+	}
+}
+
+
+// Reviews
+.review-rating, .review-blurb {
+	clear: both;
+	text-align: center;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+
+	@include g.themed() {
+		background-color: g.t("color-tags-midground");
+		color: g.t("def-review-color");
+	}
+}
+
+.review-blurb::before {
+	content: "My Review |";
+}
+
+.review-rating {
+	font-size: 2em;
+	border-radius: 0.25em;
+	@media all and (max-width: g.$breakpoint-tiniest) {
+		font-size: 1em;
+	}
+}
+
+.review-blurb {
+	font-style: italic;
+	em { font-style: normal; }
+}
+
+// if right after one another, push close together
+.review-rating + .review-blurb {
+	margin-top: -0.5em;
+}

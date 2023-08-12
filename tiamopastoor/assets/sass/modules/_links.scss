@@ -1,0 +1,55 @@
+@use "critical_modules/globals" as g;
+
+@mixin inline-link()
+{	
+	font-weight: bold;
+	text-decoration: underline;
+	text-decoration-style: solid;
+	text-decoration-thickness: 0.135em;
+	transition: color 0.3s;
+}
+
+@mixin base-link-colors()
+{
+	@include g.themed() {
+		color: g.t("color-links");
+		&:hover {
+			color: g.t("color-links-hover");
+		}
+	}
+}
+
+.inline-link {
+	@include inline-link();
+	@include base-link-colors();
+}
+
+.header-link {
+	display: block;
+	transition: filter 0.3s;
+	&:hover {
+		filter: hue-rotate(180deg);
+	}
+}
+
+.standalone-element p {
+	a {
+		@include inline-link();
+
+		@include g.themed() {
+			color: g.t("color-buttons-foreground");
+			&:hover {
+				color: g.t("color-links-hover");
+			}
+		}
+	}
+}
+
+article {
+	p, ul, ol {
+		a {
+			@include inline-link();
+			@include base-link-colors();
+		}
+	}
+}

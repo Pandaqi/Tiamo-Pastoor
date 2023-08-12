@@ -1,0 +1,73 @@
+// @TODO: Disabled and not updated to SASS
+
+@use "critical_modules/globals" as g;
+
+.comment-body {
+	padding: 20px;
+	box-sizing: border-box;
+	background-color: rgba(255,255,255,0.5);
+	max-width: 540px;
+	margin-top: 10px;
+}
+
+.comment-body .reply {
+	float: right;
+	margin-top: -10px;
+	font-size: 16px;
+	font-style: italic;
+}
+
+.comment-body .comment-meta {
+	opacity: 0.66;
+	font-style: italic;
+}
+
+.comment-body .fn {
+	display: block;
+}
+
+.comment-author {
+	float: left;
+	text-align: center;
+	margin-right: 20px;
+}
+
+.comment-author .avatar {
+	clip-path: circle(25px at center);
+}
+
+.comment-author .says {
+	display: none;
+}
+
+.comment-list {
+	padding-left: 0px;
+}
+
+.children {
+	padding-left: 70px;
+}
+
+.comment-list, .children {
+	list-style-type: none;
+}
+
+#commentform textarea {
+	background-color: rgba(0,0,0, 0.45);
+	font-size: 20px;
+	max-height: 150px;
+}
+
+.comment-form-comment, .form-submit {
+	margin: 0;
+}
+
+.comment-form a {
+	color: rgba(0,0,0,0.45);
+	border-color: rgba(0,0,0,0.45);
+}
+
+.comment-form a:hover {
+	color: rgb(24, 79, 61);
+	border-color: rgb(24, 79, 61);
+}

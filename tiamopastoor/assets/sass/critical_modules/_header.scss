@@ -1,0 +1,32 @@
+@use "critical_modules/globals" as g;
+
+header {
+	font-family: g.$header-font;
+	margin-bottom: 2.5em;
+
+	.menu-container {
+		.menu {
+			ul {
+				flex-wrap: nowrap;
+				margin-top: 0;
+				justify-content: center;
+				align-items: center;
+				align-content: center;
+	
+				li {
+					text-align: center;
+				}
+	
+				li:not(.center-logo-faker) {
+					margin: 0.5em;
+					width: 5em;
+				}
+	
+				li.center-logo-faker {
+					width: 8em;
+					margin: 0;
+				}
+			}
+		}
+	}
+}

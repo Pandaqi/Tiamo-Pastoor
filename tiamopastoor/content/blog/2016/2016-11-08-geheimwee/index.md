@@ -1,0 +1,23 @@
+---
+title: Geheimwee
+author: tiamopastoor
+date: 2016-11-08T15:00:51+00:00
+language: nl
+categories:
+  - Miscellaneous
+
+---
+Ik vond heimwee vroeger altijd een raar fenomeen. Dan gingen we drie dagen op kamp in groep 7 of 8, constant samen leuke dingen doen, en dan waren er altijd kinderen die aan het einde van de eerste dag terug wilden. Dan stonden ze huilend bij de begeleiding en zeiden dat ze hun eigen bedje en papa en mama misten. Vervolgens moest halsoverkop één van de ouders naar dat afgelegen hutje reizen om zijn of haar kind op te halen. Resultaat? Iemand heeft zich één dag op kamp eenzaam gevoeld, en in plaats van dat die persoon drie memorabele, leuke dagen heeft beleefd, zit diegene gewoon thuis hetzelfde te doen als altijd. (Wat meestal betekent dat je wel iets wil doen, maar eigenlijk niks nuttigs doet.)
+
+Ik snapte het niet, aangezien ik blij was als ik eens verlost was van de "saaie" of "eentonige" toestand elke dag, thuis of op school. Maar, zo realiseer ik me nu, valt heimwee veel breder te trekken. En, als je het zo opvat, weet ik zeker dat iedereen het van tijd tot tijd meemaakt. In plaats van dat _heimwee_ het gevoel is dat je terug wilt naar je huis, of misschien zelfs dat je terug wilt naar vroeger, is _heimwee_ het gevoel dat je een thuisbasis mist. _Heimwee_ is wanneer je ergens bent, maar het liefst ergens anders zou zijn, zonder dat daar nou echt een reden voor aan te wijzen is. Blijkbaar is h_eimwee_ iets dat mensen nodig hebben; blijkbaar hebben wij van tijd tot tijd behoefte aan lekker niks doen en helemaal binnen onze kleinste comfort zone blijven.
+
+
+Gedurende mijn peuter, kleuter en tienerjaren was ik vrijwel altijd thuis. Ik logeerde nooit, omdat ik het nut niet zag van slaapspullen naar een andere plek slepen, om daar vervolgens minder comfortabel, minder lang te slapen. (Ik was een erg eh efficiënt kind.) Maar toen ik ouder werd kwamen er natuurlijk hier en daar reizen van school waarbij je ruim een week met vrienden op kamers zat en jezelf moest zien te onderhouden. Nooit had ik het gevoel dat ik weer thuis wilde zijn omdat ik thuis miste, maar na dag na dag in een nieuwe omgeving weer nieuwe dingen doen raakte ik gestrest en oververmoeid. De laatste dagen begon ik toch naar mijn eigen warme bedje thuis te verlangen, en werd ik zelfs ziek, ook al was het erg leuk en ontspannen op de reis.
+
+Nog erger dan sentimentele gevoelens bij een _plaats_, echter, zijn gevoelens bij een _groep mensen_. Aan het einde van zo'n verre reis met je hele jaargang raakte je gehecht aan de mensen, en begon je er ook op te rekenen dat ze om je heen waren. Als je dan ineens thuis bent, voelt het leeg. Ja, er zijn andere mensen om je heen. Ja, je hebt al je spullen weer en kunt weer alles doen waar je zin in hebt (in zekere zin). Maar je mist iets. Als je met z'n vijven aan tafel eet, mis je de andere 40 mensen, al sprak je maar een paar van hen. Als je 's avonds een film kijkt, mis je jouw vrienden waarmee je laatst nog filmavond keek. De film word niet ineens slechter, jij bent niet ineens in een minder leuke of comfortabele ruimte, maar het gevoel van gemis maakt solo film kijken stukken minder gezellig.
+
+En zo heb ik dus ook het probleem dat ik stiekem, diep van binnen, vaak zit met een groot gemis---en ik weet zeker dat ik niet de enige ben. Een gevoel van leegte, omdat alleen maar voor jezelf dingen doen, of alleen maar elke dag dezelfde dingen doen, niet bevredigend is. Een gevoel van leegte, omdat je niet kunt kiezen tussen waar je wil zijn of wat je wil doen, omdat je hoe dan ook heimwee zult krijgen naar het alternatief dat je _niet_ besloot te doen. Een gevoel van leegte, omdat het zoveel leuker was om samen met je vrienden die tafeltennistafel te bouwen, of om samen met je vriend 's nachts bij het kaarslicht een goed gesprek te hebben. In plaats daarvan ga je alleen naar bed, of werk je je elke dag urenlang kapot voor je school of vaste baan, of ga je na school meteen naar huis ook al had je graag uren op school nagepraat met je vrienden.
+
+Een gevoel van eenzaamheid, omdat je geen idee hebt of je vrienden of familie dit gevoel delen. Heimwee wordt geheimwee, en de enige oplossing is de ander vragen: zeg, voel jij soms ook geheimwee?
+
+(Of, in sommige gevallen, het alternatief: zeg, heb jij binnenkort nog iets te doen? Want, zo leert de praktijk, er is een grote kans dat mensen niet op een vraag reageren als er een woord in zit dat ze niet kennen. Zo kan ik best vragen: "vind jij filosofische blogs schrijven niet een beetje epriberende bezigheden? Of ben ik nu aan het confabuleren?" Maar dan knik je waarschijnlijk snel je hoofd en zoekt nieuwe vrienden.)

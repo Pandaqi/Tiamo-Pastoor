@@ -1,0 +1,43 @@
+---
+title: Balans
+author: tiamopastoor
+date: 2017-04-06T19:01:59+00:00
+language: nl
+categories:
+  - Miscellaneous
+
+---
+Karma. Ik heb altijd in karma geloofd. Niet als een soort magische, goddelijke entiteit die door ieders leven verweven zit, maar gewoon als een goed principe om je aan te houden. Wie goed doet, wie goed ontmoet. Iedereen die positieve energie in zijn of andermans leven stopt, krijgt daar vroeg of laat positieve energie voor terug. Het is de manier waarop de hele wereld in balans blijft, want het wordt toch een erg hopeloos bestaan als alle positiviteit die je ergens in stopt, zomaar verdwijnt en nooit meer terugkomt.
+
+Op diezelfde manier is alles eigenlijk in balans. De zomer wisselt de winter af, en andersom. Wanneer een bepaalde diersoort te groot groeit, wordt de populatie weer kleiner omdat ze zich niet allemaal kunnen voeden. Wanneer iemand te hard traint gaat zijn lichaam pijn doen en moet hij rust nemen. Wanneer iemand te hard en te lang heeft zitten studeren, komt er een moment dat er gewoon niks meer in het hoofd bij kan. Alles wil in balans blijven.
+
+En dat vergeten mensen nogal vaak. Sterker nog, die tegenwerkende kracht zien ze als "oneerlijk" of ze zeggen "de wereld haat mij". Bijvoorbeeld, iemand die teveel met gebogen rug zit, krijgt een hoop fysieke klachten. Maar als mensen dan rechtop proberen te zitten, dan gaan ze vaak juist té rechtop zitten of hun spieren te veel aanspannen, en krijgen ze dáár weer heel veel last van.
+
+
+Mensen, en daarbij ik ook, denken altijd dat er één optimaal punt is. Dat harder werken altijd beter is dan luieren. Dat nóg harder trainen en nóg meer groente eten altijd beter is. Dat nog meer studeren en extra vakken oppakken altijd de betere keuze is. Maar dat is niet zo, jammer genoeg. Je hele leven lang zul je rond een balans heen zwabberen. De ene keer doe je net weer te veel, wordt je teruggetrokken door stress en vermoeidheid. De andere keer doe je net weer te weinig, wordt je aangewakkerd door boze bazen of je eigen gevoel dat je iets productiefs moet doen.
+
+En dat is niet erg, dat is juist het leuke van het leven. Altijd maar weer dingen uitproberen en zoeken naar wat het leukste, en het beste, en het mooiste is. Wat wél vervelend is, is als de klachten fysiek worden. Je kunt motivatie hebben wat je wil, als je negentig procent van de tijd ziek in bed moet liggen vanwege stress ga je weinig bereiken. Je kunt enorm slim zijn, maar als je zestien uur op een dag moet slapen om van je oververmoeidheid bij te komen, schiet je weinig op. Je kunt oh zo gezond leven, maar als jij jezelf te hard pusht, komt er weer die tegenwerkende kracht die wil dat je rust neemt. En dat is waarom, in mijn ogen, nu stress, burn-out, oververmoeidheid, depressie allemaal steeds meer voorkomende "ziektes" zijn. Mensen zijn vergeten om met de natuur mee te gaan, om in balans te blijven, en in plaats daarvan gaan denken dat het altijd maar extremer moet.
+
+En mensen waartegen je dit zegt zijn het er niet mee eens. Ze zeggen dat ze wel degelijk soms even een avondje vrij nemen, of even uitslapen. Maar dat stelt niks voor natuurlijk, zeker niet als je op je avondje vrij dus de hele tijd denkt aan dat to-do lijstje dat op je koelkast is geplakt. Want, ga maar na, wanneer heb jij voor het laatst niks gedaan? Wanneer heb je voor het laatst "rust nemen" ingepland? Wanneer heb jij een spel gespeeld, of gewoon in de avondzon gezeten, zonder te denken "verdorie, ik moet nog zoveel doen eigenlijk"? Vraag het ook eens aan je vrienden of familie---wanneer hebben zij zich voor het laatst verveeld, zonder dat ze daar meteen weer vanaf probeerden te komen?
+
+Een ander verweer is dat mensen zeggen dat ze geen rust kunnen nemen, want dan krijgen ze nóóit hun werk af. Ze zouden graag willen, zo luidt het antwoord, maar het kan gewoon niet met al die dingen die ze moeten doen. En ik heb ook lang zo gedacht. Ik heb altijd enorm veel dingen in mijn hoofd gehad die ik wilde doen; ik wilde mooie, bijzonder, nieuwe dingen maken. En tegelijkertijd had ik de harde werkelijkheid met school, studie, geld verdienen, waarvan ik ook begreep waarom het moest. En misschien is dat wel de reden dat ik nu al meer dan anderhalf jaar bijna niks gedaan krijg vanwege klachten die de huisarts omschrijft als "stress of burn-out gerelateerde klachten". Het zijn fysieke, bestaande klachten die erg veel pijn doen en dingen kapot maken, maar toch kan het goed zijn dat "gebrek aan balans" de hele reden voor hun bestaan is.
+
+Ik heb nu gerateld over wat balans is, en hoe belangrijk het is, en hoeveel mensen dat vergeten. Maar het belangrijkste is natuurlijk: _hoe dan_? Met balans, net als met al het andere in het leven, verwacht men een handleiding. Tips en tricks. Principes, regeltjes, dingen die altijd goed zijn om te doen of onthouden. Nou, het spijt me, die zijn er niet.
+
+Balans moet je zelf zoeken. Het enige dat ik weet, en wat je misschien een "regel" kunt noemen, is dat je naar je lichaam moet luisteren. Mentale dingen uitten zich altijd in het lichaam, en dus ook die uit je onderbewustzijn. Je hoofd kan je van alles wijs maken. Je hoofd kan je zeggen dat het goed is om zo hard te werken, en dat het fout is om te zitten niksen. Je hoofd kan je zeggen dat het stom is om tot later te wachten, je moet nu al die dingen doen! Maar je lichaam liegt niet. Je lichaam luistert niet naar je hoofd, en laat je wel weten wanneer het mis zit. En dat is het cruciale moment; het moment dat jij iets voelt, en tegen jezelf zegt "zal wel niks zijn", of "meh even door de pijn heen, ik heb écht geen tijd om ziek te worden nu"
+
+De samenleving moet leren dat het oké is om te zeggen dat iets niet kan---genoeg is genoeg. Het moet oké zijn voor middelbare scholieren om ergens aan te kunnen kloppen en te zeggen "ik doe echt mijn best, maar ik krijg het gewoon niet voor elkaar om al het huiswerk te maken, en goed te eten, en op tijd in bed te liggen". Het moet oké zijn voor studenten om een jaar uit te lopen omdat ze nog op zoek zijn naar wat ze willen in het leven, of gewoonweg nog uitgeput zijn van vorig semester---en dat moeten ze kunnen doen zonder duizenden euro's extra kosten te maken, of door werkgevers als lui of dom te worden beschouwd. Het moet oké zijn dat werknemers vrije dagen nemen als ze nog niet ziek zijn, om langere ziekte te voorkomen. "Ik heb vandaag geen puf" of "ik heb vandaag geen inspiratie" zijn valide redenen om een dag rust te nemen van je werk. Je wilt toch dat iemand kwaliteit en creativiteit levert, in plaats van iemand de dood in duwen?
+
+Dat zijn mijn gedachten. Hoe hard ik ook probeer, de hele samenleving is er op gebouwd dat er geen balans is, en dat is in strijd met alles wat ik voel en zie. Ik wil wel nog harder mijn best doen, want ik weet dat tenminste een aantal mensen daar vrolijk van worden, en ik weet dat het mijn "carrière goed zal doen" of mij later meer geld oplevert. Maar hoe belangrijk is dat als iemand misschien wel vijf jaar soms ineens neervalt omdat hij geen adem meer krijgt, allemaal omdat die balans zoek is? Niet. Het is niet belangrijk, dat is het antwoord.
+
+Als afsluitende anekdote: mijn klachten zijn het verlies van zicht (zonder dat er iets mis is met mijn ogen, volgens de oogarts) en verlies van mijn stem (zonder dat er iets mis is met mijn keel). Het nare is dat beide in direct verband staan met de dingen die ik het liefst wil. 
+
+Ik heb altijd graag muziek gemaakt, en ik wilde altijd professioneel zanger worden, maar vanwege mijn stemproblemen kan ik niet eens meer praten. Waarschijnlijk heb ik jaren geleden teveel stemoefeningen gedaan, te veel dingen geforceerd, maar er was niemand om mij dat te vertellen. 
+
+Iets anders dat ik graag zou worden is (spellen/website) ontwerper, of tekenaar, of schrijver. Hierbij is kunnen zien (en lezen) toch bijzonder belangrijk, maar misschien juist omdat ik te veel aan mijn beeldscherm gekluisterd zat en te hard focuste op het werk, doen mijn ogen nu magische dingen. En dan niet de goede magische dingen.
+
+{{% remark %}}
+Niet om op te scheppen, maar als ik een sport doe speel ik de meeste mensen met gemak van de baan. Ik heb mijn hele leven gesport, ik heb een soort van idee wat ik doe. Maar ook hier heeft stress en té hard trainen (en te weinig rust nemen, of goed eten) er voor gezorgd dat ik al hartkloppingen krijg bij het oplopen van een trap. (Al moet ik zeggen, als je er over nadenkt is dat zwaarder dan je denkt. Fietsen is veel makkelijker.) 
+
+Dit is mijn verhaal, misschien ben ik alleen in mijn rare samenloop van omstandigheden, maar ik heb sterk het gevoel dat dat niet zo is. Dus ik hoop dat iemand geholpen wordt door deze post, en zo niet heeft het mij tenminste nog een beetje geholpen :p
+{{% /remark %}}

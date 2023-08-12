@@ -1,0 +1,47 @@
+@use "critical_modules/globals" as g;
+
+.entry-grid-item, .minimal-grid-item {
+	transition: filter 0.3s, transform 0.3s;
+	position: relative;
+
+	&:hover {
+		filter: drop-shadow(0 4px 8px #000) brightness(108%);
+		transform: scale(1.05);
+		z-index: 10000;
+	}
+
+	& > a {
+		width: 100%;
+		height: 100%;
+		display: block;
+	}
+}
+
+.entry-grid {
+	.banner-link-small-container {
+		margin-top: 2em;
+	}
+
+	h2 {
+		font-size: 1.5em;
+		padding-bottom: 0.8em;
+	}
+}
+
+.minimal-grid-item {
+	a {
+		display: block;
+		width: 100%;
+		height: 100%;
+	}
+
+	.minimal-post-title {
+		font-family: g.$header-font;
+	}
+
+	.double-view {
+		align-items: center;
+		align-content: center;
+		gap: 0.5em;
+	}
+}

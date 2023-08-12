@@ -1,0 +1,1520 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+
+
+
+
+
+
+
+
+
+<title>Hoe ik de Levenssaga website ontwikkelde | Blog | Tiamo Pastoor</title>
+
+
+
+
+<link rel="canonical" href="https://tiamopastoor.com/blog/2023/2023-01-22-hoe-ik-de-levenssaga-website-ontwikkelde/" />
+<link rel="icon" type="image/png" href="https://tiamopastoor.com/favicon.png" />
+
+
+
+<link rel="stylesheet" type="text/css" href="/css/critical.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Truculenta:wght@700&display=swap">
+    
+</noscript>
+</head>
+<body>
+	 <header>
+	<div class="menu-container">
+		<nav class="menu">
+			<ul class="no-bullets flex-list">
+				<li class="priority-1"><a href="/books">Books</a></li>
+				<li class="priority-2"><a href="/blog">Blog</a></li>
+				<li class="priority-3"><a href="/info/about/">About</a></li>
+				<li class="center-logo-faker"><a href="/" class="center-logo-fake"></a></li>
+				<li class="priority-1"><button class="gotoBottomButton">Go to Menu</button></li>
+				<li class="priority-2"><a href="/books/the-saga-of-life/">Saga of Life</a></li>
+				<li class="priority-3"><a href="/series/wildebyte-arcades/">Wildebyte</a></li>
+			</ul>
+		</nav>
+	</div>
+	<div class="center-logo-container">
+		<div class="center-logo"></div>
+	</div>
+</header>
+ 
+	
+	
+	
+	
+	
+	<main>
+		<div class="center-container">
+			<div class="double-view vertical layout-reversed single-post">
+				
+				
+
+
+
+
+
+
+
+
+
+<div class="left-side hide-caption">
+    <section class="sketchy-box">
+    
+    <figure>
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Hoe ik de Levenssaga website ontwikkelde'</span>
+		</figcaption><picture><img 
+				src="/uploads/2022/10/levenssaga_website_header-1.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Header / Cover Image for &#39;Hoe ik de Levenssaga website ontwikkelde&#39;"
+				title="Header / Cover Image for &#39;Hoe ik de Levenssaga website ontwikkelde&#39;"
+				width="1532"
+				height="470"
+				class=""
+			/></picture>
+</figure>
+    </section>
+</div>
+
+
+
+				<div class="right-side">
+					<article class="sketchy-box">
+						<h1>Hoe ik de Levenssaga website ontwikkelde</h1>
+						<div>
+							
+
+
+
+
+
+<div class="entry-metadata">
+    <span class="entry-icon entry-icon-date"></span>
+    
+    <span>January 22, 2023</span>
+
+    <span class="entry-icon entry-icon-comments"></span>
+    <span>
+        
+
+
+
+
+
+
+    
+    
+        
+        <a href="/language/nl">Dutch</a>
+    
+
+    </span>
+
+    
+        <span class="entry-icon entry-icon-reading-time"></span>
+        
+        
+        
+        <span>27 minute(s)</span>
+    
+
+    
+    
+
+    
+</div>
+						</div>
+						
+
+    <aside class="toc" id="toc" data-status="hidden">
+        <button class="toc-button striped-link" id="toc-button">
+            <span>Toggle Table of Contents</span>
+        </button>
+        <div class="toc-content" id="toc-content" style="display: none;">
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#stap-1-waarom-een-website">Stap 1: waarom een website?</a></li>
+    <li><a href="#stap-2-hoe-voeren-we-de-verhalen-in">Stap 2: hoe voeren we de verhalen in?</a>
+      <ul>
+        <li><a href="#systemen">Systemen</a></li>
+        <li><a href="#structuur">Structuur</a></li>
+        <li><a href="#specifieke-vormgeving">Specifieke vormgeving</a></li>
+      </ul>
+    </li>
+    <li><a href="#stap-3-het-belangrijkste-doel">Stap 3: het belangrijkste doel</a>
+      <ul>
+        <li><a href="#het-gewenste-verhaal-vinden">Het gewenste verhaal vinden</a></li>
+        <li><a href="#het-eerste-hoofdstuk">Het eerste hoofdstuk</a></li>
+        <li><a href="#makkelijk-doorlezen">Makkelijk doorlezen</a></li>
+        <li><a href="#naar-het-volgende-verhaal">Naar het volgende verhaal</a></li>
+      </ul>
+    </li>
+    <li><a href="#stap-4-de-essentiële-tekst">Stap 4: de essentiële tekst</a>
+      <ul>
+        <li><a href="#lettertypes">Lettertypes</a></li>
+      </ul>
+    </li>
+    <li><a href="#stap-5-hoe-laten-we-een-verhaal-zien">Stap 5: hoe laten we &ldquo;een verhaal&rdquo; zien?</a>
+      <ul>
+        <li><a href="#icoontjes">Icoontjes</a></li>
+        <li><a href="#de-dubbele-titel">De dubbele titel</a></li>
+        <li><a href="#kleuren">Kleuren</a></li>
+      </ul>
+    </li>
+    <li><a href="#stap-6-de-header">Stap 6: de header</a>
+      <ul>
+        <li><a href="#extra-decoratie">Extra decoratie</a></li>
+      </ul>
+    </li>
+    <li><a href="#stap-7-de-footer">Stap 7: de footer</a></li>
+    <li><a href="#stap-8-de-hoofdpagina-van-verhalen">Stap 8: de hoofdpagina van verhalen</a></li>
+    <li><a href="#stap-9-details-details">Stap 9: details, details</a>
+      <ul>
+        <li><a href="#over-knoppen">Over knoppen</a></li>
+        <li><a href="#over-beschrijvingen">Over beschrijvingen</a></li>
+        <li><a href="#subtiele-decoratie">Subtiele decoratie</a></li>
+        <li><a href="#over-de-structuur">Over de structuur</a></li>
+        <li><a href="#over-hulpmiddelen">Over hulpmiddelen</a></li>
+      </ul>
+    </li>
+    <li><a href="#stap-10-vorm-versus-functie">Stap 10: vorm versus functie</a></li>
+    <li><a href="#stap-11-de-zoekfunctie">Stap 11: de zoekfunctie</a>
+      <ul>
+        <li><a href="#sneller-en-beter">Sneller en beter</a></li>
+        <li><a href="#nóg-sneller-en-beter">Nóg sneller en beter</a></li>
+      </ul>
+    </li>
+    <li><a href="#conclusie-een-bijzonder-project">Conclusie: een bijzonder project</a></li>
+  </ul>
+</nav>
+        </div>
+    </aside>
+
+						<div class="article-content">
+							<p>De Levenssaga is een erg experimenteel project. Het is een raamvertelling van korte verhalen. Het probeert de hele geschiedenis van de aarde op een soort &ldquo;fantasy&rdquo; manier te behandelen. Ik schreef het eerste verhaal toen ik dertien was.</p>
+<p>Maar in dit artikel zal ik uitleggen hoe het meest opvallende tot stand kwam: <strong>de levenssaga <em>is</em> een website_._</strong></p>
+<p>Het project is niet toevallig digitaal beschikbaar. Het project <em>is</em> een website. Puur ontwikkeld om zo makkelijk mogelijk, en zonder afleiding, alles te vinden en te lezen.</p>
+<p>Dit project is hier te bezoeken en te lezen: <a href="https://delevenssaga.nl/">De Levenssaga</a>!</p>
+<p>Hoe kwam dit tot stand? Waarom koos ik hiervoor? Welke problemen kwam ik tegen?</p>
+<h2 id="stap-1-waarom-een-website">Stap 1: waarom een website?</h2>
+<p><strong>Eerste reden:</strong> de wereld verandert. Het is cliché, ik weet het, maar het is de waarheid.</p>
+<p>De hoeveelheid mensen die leest vanaf hun mobiel, computer, of e-reader is groeiende. Ik weet dat veel kinderen enorm zouden genieten van bepaalde boeken <em>als je hen kan overtuigen om het een kans te geven.</em></p>
+<p>Maar video&rsquo;s en schermen leiden af. Fysieke boeken worden door de ouders niet zo snel meer gekocht. Zeker dikke boeken voelen intimiderend.</p>
+<p>Dus ik dacht: kan ik een schrijfproject bedenken dat geheel digitaal kan worden aangeboden?</p>
+<p>Maar &hellip;</p>
+<ul>
+<li>Elke keer een nieuwe website oprichten voor een nieuw boek is duur en onzinnig. Voor je het weet heb je twintig verschillende domeinnamen, met hun eigen systemen, die je allemaal moet bijhouden en betalen.</li>
+<li>Alle boeken op één website is net zo onhandig. Je kan elk boek geen eigen uiterlijk of plekje geven, je hebt geen duidelijke landingspagina voor specifieke projecten, die ene website wordt <em>gigantisch</em>.</li>
+</ul>
+<p>En toen vond ik een oud project terug. Iets dat praktisch al af was en ik eigenlijk direct wilde uitgeven: <em>De Levenssaga</em>.</p>
+<p>En het paste perfect. Het is een collectie van korte verhalen in een raamvertelling. Dus elk verhaal staat op zichzelf, maar <em>samen</em> vertellen ze een gigantisch samenhangend verhaal. Het project was opgezet om altijd te kunnen groeien, altijd te kunnen veranderen.</p>
+<p>Het project gaat tevens over <em>het ontstaan van leven</em>. En daarin speelt evolutie natuurlijk de hoofdrol: de soort die het beste mee verandert met omstandigheden zal overleven. Dus dit project is ook gemaakt om mee te veranderen met de tijden.</p>
+<p><strong>Tweede reden:</strong> websites zijn <em>ideaal</em>! Als je het slim opzet, kan je met één druk op de knop alles aanpassen. Ook kan je zo&rsquo;n website exporteren tot een formaat dat je fysiek kan printen. Na een paar dagen zwoegen, leerde ik hoe je die website omzet in een .epub (voor e-readers) of een .pdf (om te printen).</p>
+<p>Iets dat vele uren handmatig werk zou kosten in een ander programma, is zo op te lossen als je een website hebt.</p>
+<div class="example">Als ik besluit dat alle kopjes van alle hoofstukken anders moeten, kan ik dat doen met een regeltje code. In Word of InDesign was dit minstens een ramp geweest. Sommige dingen die websites met gemak doen kunnen die programma&rsquo;s <em>in het algeheel niet</em>.</div>
+<p>Het nadeel is natuurlijk dat je heel goed moet <em>weten hoe websites werken</em>. Maar dat weet ik, dus dan zie ik alleen maar voordelen.</p>
+<h2 id="stap-2-hoe-voeren-we-de-verhalen-in">Stap 2: hoe voeren we de verhalen in?</h2>
+<h3 id="systemen">Systemen</h3>
+<p>Ik hoefde niet lang na te denken hierover. Ik koos voor het <strong>Hugo</strong> systeem waarin je pagina&rsquo;s schrijft in <strong>Markdown</strong>.</p>
+<p><strong>Hugo</strong> is een &ldquo;static site generator&rdquo;. Dat betekent dat je de website geheel (offline) op je computer kan maken en vormgeven met duizenden superhandige hulpmiddelen. Zodra je tevreden bent, <em>exporteer</em> je dit als een &ldquo;statische website&rdquo;: folders en bestanden, niks meer en niks minder. Deze kan je simpelweg naar je server uploaden en je bent klaar.</p>
+<p><em>Waarom is dit handig?</em> Het is <em>heel snel</em>. Want de server hoeft niks meer uit te rekenen of te vragen aan een database. Je website is een verzameling kleine tekstbestanden die een computer uit 1980 nog snel kan laden.</p>
+<p>Daarnaast heb je dus hele krachtige manieren om de website aan te passen. Ik hoef bijvoorbeeld maar één regel code te schrijven om Hugo dingen te laten zien als &ldquo;categorieën&rdquo;. Het maakt dan voor elke categorie automatisch overzichtspagina&rsquo;s aan. (En het kan natuurlijk meer dingen doen, zoals uitrekenen hoeveel er in zo&rsquo;n categorie zit, of links aanmaken. Zo heeft de website een pagina met alle personages uit alle verhalen waarop je kan klikken.)</p>
+<p><strong>Markdown</strong> is een universele opmaaktaal die is gemaakt om zo min mogelijk in de weg te zitten terwijl je schrijft. Dus 99% van de tijd typ ik alsof ik in Word bezig ben. Maar als ik iets schuingedrukt wil, bijvoorbeeld, zet ik er sterretjes omheen: <em>*dit is schuingedrukt*</em>. (In plaats van de sneltoets te gebruiken of op het icoontje in een programma te klikken.)</p>
+<p><em>Waarom is dit handig?</em> Het is snel en flexibel. Deze bestanden kan je in <em>elk denkbaar programma</em> openen en editen. Ik kan binnen een minuut gigantische operaties toepassen op alle bestanden van de hele levenssaga als ik wil.</p>
+<p>Daarnaast kan je &ldquo;frontmatter&rdquo; toevoegen. Dus ik kan elk verhaal of elk hoofdstuk makkelijk voorzien van extra informatie, zoals die &ldquo;categorieën&rdquo; of notities.</p>
+<p>Het overzetten van de oude verhalen was wel een flink karwei. Ik begon dit project bijna 15 jaar geleden, en in die tijd heb ik allemaal verschillende programma&rsquo;s gebruikt. Dus alle oude verhalen hadden weer een <em>ander</em> bestandsformaat :p Maar dat was prima, want ik moest die verhalen toch flink editen om de kwaliteit op te krikken.</p>
+<h3 id="structuur">Structuur</h3>
+<p>De oude verhalen waren allemaal ongeveer 15,000 woorden in ongeveer 5 hoofdstukken.</p>
+<p>Dit was te lang. Toen ik dit invoerde, zag ik dat pagina&rsquo;s een muur van tekst werden.</p>
+<p>Het nadeel van een website is dat het dus niet is opgedeeld in fysieke pagina&rsquo;s. Een hoofdstuk is ook echt <em>het hele hoofdstuk in één klap onder elkaar.</em> Dus digitale verhalen moeten, in mijn ogen, in meer stukjes worden gehakt.</p>
+<p>Dus de verhalen moesten tussen 10,000-15,000 woorden en verdeeld in 10 hoofdstukken. Dan is het ongeveer 1,000 woorden per hoofdstuk, wat in een boek 4-5 pagina&rsquo;s zou zijn.</p>
+<p>Dus voor elk verhaal maak ik een nieuwe folder aan (met de titel van het verhaal):</p>
+<ul>
+<li>Elk hoofdstuk heeft zijn eigen bestand.</li>
+<li>Er is een <em>outline</em> bestand met een samenvatting van het verhaal.</li>
+<li>Er is een <em>notes</em> bestand met alle notities en opmerkingen die ik heb.</li>
+<li>Er is een &ldquo;_index.md&rdquo; bestand wat een soort van de &ldquo;hoofdpagina&rdquo; is. Dáár zet ik alle informatie over het verhaal neer en dat zie je als je op een verhaal klikt.</li>
+</ul>
+<p>Herinner: de website <em>is</em> de levenssaga. Er is geen geheime andere folder op mijn computer. Wat online staat, is wat ik heb geschreven en zelf heb gebruikt. Daarom zijn mijn <em>outline</em> en <em>notities</em> ook beschikbaar.</p>
+<p>(In eerste instantie was dit niet het geval. Maar ik merkte dat het veel handiger was om alles bij elkaar te houden, zelfs als het betekende dat ik moest uitkijken niet per ongeluk spoilers te geven in mijn notities. Dit is <em>wederom</em> een experimenteel deel van het project :p)</p>
+<h3 id="specifieke-vormgeving">Specifieke vormgeving</h3>
+<p>Ook de presentatie/vormgeving van de verhalen verandert als het een website is. Dit leerde ik al snel toen ik de verhalen invoerde:</p>
+<ul>
+<li>Gebruik dubbele haakjes voor dialoog (&ldquo;bla bla&rdquo;). Enkele haakjes (of andere methodes) zijn te onzichtbaar op veel schermen.</li>
+<li>Zorg dat je lettertype een eigen <em>schuine variant</em> heeft. De browser houdt je soms voor de gek door simpelweg de letters schuin te zetten van een lettertype dat dit niet ondersteunt, wat altijd lelijk is.</li>
+<li>Een liggende streep, ook wel <em>em dash</em>, doe je met <em>drie streepjes</em> (—). Niet met <em>twee</em> (&mdash;).</li>
+<li>Laat bovendien géén ruimte eromheen, want dat is in mijn ogen minder duidelijk en geeft je browser kans om zinnen op hele rare plekken af te breken.
+<ul>
+<li>Onhandig: &ldquo;Hij had gelijk – een zeldzame gebeurtenis.&rdquo;</li>
+<li>Beter: &ldquo;Hij had gelijk&mdash;een zeldzame gebeurtenis.&rdquo;</li>
+</ul>
+</li>
+<li>Drie puntjes (&hellip;) worden door markdown automatisch omgezet in het ellipsis karakter, zoals het hoort.</li>
+<li>Gebruik <em>kortere paragrafen</em> en <em>grotere lettertypes</em> dan je in een boek zou doen. Dit is wederom iets dat simpelweg beter leest op schermen, die een lagere resolutie hebben dan geprinte boeken.</li>
+</ul>
+<p>Hèhè, nu kon ik eindelijk de website gaan vormgeven.</p>
+<h2 id="stap-3-het-belangrijkste-doel">Stap 3: het belangrijkste doel</h2>
+<p>Wat heeft de hoogste prioriteit bij deze website?</p>
+<ul>
+<li>Makkelijk het gewenste verhaal vinden</li>
+<li>Makkelijk het eerste hoofdstuk beginnen</li>
+<li>Makkelijk door het verhaal heen lezen</li>
+<li>En vervolgens makkelijk naar het <em>volgende</em> verhaal gaan</li>
+</ul>
+<h3 id="het-gewenste-verhaal-vinden">Het gewenste verhaal vinden</h3>
+<p>Eerst wilde ik de thuispagina meteen laten beginnen met het eerste verhaal. Maar dat was verwarrend en onhandig.</p>
+<p>Toen wilde ik de verhalen oplopend laten zien (dus eerste verhaal boven, tweede verhaal daaronder, etcetera). Maar dat was opnieuw onhandig. Want dan kunnen lezers dus nooit de nieuwste/laatste verhalen snel vinden, terwijl over tijd mensen vooral <em>daarnaar</em> zullen zoeken.</p>
+<p>Vandaar dat ik zeg &ldquo;makkelijk het <em>gewenste</em> verhaal vinden&rdquo;. Dit is met grote kans het <em>eerste</em> of het <em>laatste</em> verhaal.</p>
+<p>Dus de thuispagina sorteert de verhalen aflopend (nieuwste eerst). Maar daarboven staat een tekstje van twee regels (want meer lezen mensen echt niet).</p>
+<blockquote>
+<p>&ldquo;Welkom bij <em>De Levenssaga</em> <span style="text-decoration: underline;">(?)</span> Begin bij het <span style="text-decoration: underline;">eerste verhaal</span>, of lees een van de laatste verhalen hieronder, of <span style="text-decoration: underline;">zoek een specifiek verhaal</span>.&rdquo;</p>
+</blockquote>
+<p>Je weet waar je bent en wat alles voorstelt. Je hebt links naar de pagina over de levenssaga, het eerste verhaal, de laatste paar verhalen, en een manier om specifieker te zoeken.</p>
+<p>Deze &ldquo;specifieke zoekmethode&rdquo; is simpelweg een lijst van categorieën (bundel, genre, tijdperk, &hellip;) waarop je kunt klikken. Onderaan de pagina staat wel een algemene zoekbalk, maar dat is geen geweldige manier om door zo&rsquo;n website te zoeken. (Daarover dadelijk meer.)</p>
+<h3 id="het-eerste-hoofdstuk">Het eerste hoofdstuk</h3>
+<p>Dit kwam pas <em>laat</em> in de ontwikkeling. Bij de eerste versie, als je op een boek klikte, kreeg je de lijst van alle hoofdstukken waarop je kon klikken.</p>
+<p>Dus je had eigenlijk <em>twee</em> stappen nodig: klik op het verhaal, klik op het eerste hoofdstuk. (Waarbij je waarschijnlijk per ongeluk ziet hoe andere hoofdstukken beginnen &hellip; )</p>
+<p>Nu staat er dus een knop bovenaan met &ldquo;Begin met lezen!&rdquo; die dit probleem oplost.</p>
+<h3 id="makkelijk-doorlezen">Makkelijk doorlezen</h3>
+<p>Dit is vrij simpel. Onderaan elk hoofdstuk staan twee grote knoppen om naar het hoofdstuk hiervoor of hierna te gaan.</p>
+<p>Ze staan niet bovenaan. Ik wil zo <em>min</em> mogelijk dingen boven de tekst plaatsen, want daar zou je <em>elke keer langs moeten scrollen</em> als je wilt lezen. Daarnaast is de kans klein dat je helemaal aan het <em>begin</em> van een hoofdstuk beseft dat je naar een andere wilt.</p>
+<h3 id="naar-het-volgende-verhaal">Naar het volgende verhaal</h3>
+<p>Ook dit kwam laat in de ontwikkeling. Het kwam gewoon niet in mij op, totdat ik de website had gevuld met verhalen en het zelf testte alsof ik een lezer was.</p>
+<p>Eerst eindigde het verhaal en stond er dus &ldquo;Geen volgend hoofdstuk :(&rdquo; en dat was het.</p>
+<p>Ik wilde dat niet <em>vervangen</em>, want dat werd verwarrend en inconsistent. (De knop links gaat naar het vorige <em>hoofdstuk</em>, maar de knop rechts naar het volgende <em>verhaal</em>.)</p>
+<p>Dus daar <em>onder</em> staat een grote knop om meteen naar het volgende verhaal te gaan.</p>
+<h2 id="stap-4-de-essentiële-tekst">Stap 4: de essentiële tekst</h2>
+<p>De tweede prioriteit is dat de tekst van de verhalen zo duidelijk en leesbaar mogelijk wordt gepresenteerd.</p>
+<p>(<em>Is dit niet de eerste prioriteit?</em> Nee, want als niemand het verhaal überhaupt kan vinden, maakt het niet uit hoe leesbaar het is. Het lijkt stom, en ik ontkende dit lang, maar dat is wat ik heb geleerd. Marketing en die eerste &ldquo;drempel&rdquo; overkomen is belangrijker dan de inhoud van je product.)</p>
+<p>De meeste websites die ik erg fijn vind lezen, doen het volgende:</p>
+<ul>
+<li>De tekst is een vrij <em>nauwe kolom</em>. (Zinnen zijn zo&rsquo;n 45-80 karakters breed. De levenssaga zit aan de hoge kant daarvan, want je kan ook té kort worden.)</li>
+<li>De tekst is links uitgelijnd. (Alsjeblieft, centreer nooit je tekst.)</li>
+<li>De <em>kolom</em> is niet gecentreerd, maar staat meer naar de linkerkant. (Ik denk dat wij dit fijner vinden om dat we van links naar rechts lezen.)</li>
+<li>De enige kop is die met de titel van het hoofdstuk, en die is significant groter/dikker dan de tekst.</li>
+<li>Vrij hoge regelhoogte (&ldquo;line height&rdquo;), dus veel witruimte tussen regels.</li>
+<li>Vrij grote lettergrootte (&ldquo;font size&rdquo;).</li>
+<li>En natuurlijk een mooi, stabiel, leesbaar lettertype.</li>
+</ul>
+<p>Ik wilde geen plaatjes tussen de tekst door, of andere fratsen die zouden afleiden. Het onderscheid tussen <em>titel</em> en <em>inhoud</em> moet overduidelijk zijn.</p>
+<p>Nogmaals, de website <em>is</em> de levenssaga en 100% bedoeld om zo fijn mogelijk te lezen.</p>
+<h3 id="lettertypes">Lettertypes</h3>
+<p>En dan is de belangrijkste keuze dus het <strong>lettertype.</strong></p>
+<p>Tot vlak voor lancering gebruikte ik het standaardlettertype <strong>Georgia</strong>. Hier is niks mis mee. Elk apparaat heeft het. Het is specifiek ontwikkeld als sierlijk &ldquo;boeklettertype&rdquo; voor het web (door het dikker te maken).</p>
+<p>Maar echt mooi of uniek is het dus niet. Na lang twijfelen besefte ik ineens: <em>waarom zou ik een keuze maken? Waarom laat ik bezoekers niet zelf hun favoriete lettertype kiezen?</em> <em>Iedereen heeft eigen voorkeuren, schermen, instellingen.</em></p>
+<p>Dus ik verzamelde zo&rsquo;n 15 lettertypes met compleet andere stijlen, die gratis beschikbaar zijn en ik als &ldquo;altijd goed leesbaar&rdquo; beschouw. En ik maakte een knop waarmee je dit overzicht opent en een nieuwe kan kiezen.</p>
+<p><em>Hoe vind ik zulke lettertypes?</em> Google Fonts is geweldig. Maar het komt vooral neer op ervaring en veel zoekwerk. Ik heb lang geleden veel typografie bestudeerd en focus onbewust op allerlei eigenschappen die mij vertellen of iets &ldquo;goed leesbaar&rdquo; is of niet. (Ze noemen dit vaak &ldquo;workhorse fonts&rdquo;: perfect leesbaar op elke grootte, in elke samenstelling, in elke tekst.) Zelfs dan kan ik makkelijk een half uur het internet afzoeken en niks vinden dat past.</p>
+<p><em>Hoe bouw je dynamische inhoud in een statische website? (Ofwel: hoe heb je dit gemaakt?)</em> Met JavaScript. Als jij op een lettertype klikt, slaat hij de naam op in je <em>local storage</em>. Bovenin elke pagina zit een stukje code dat deze informatie leest en vervolgens de link opzoekt waar dit lettertype staat.</p>
+<p>In de <em>stylesheet</em> zitten een hoop <em>classes</em> met diezelfde namen. Deze classes laden dus dat specifieke lettertype, en eventueel andere aanpassingen. (Sommige lettertypes vallen véél groter uit dan andere, dus die moeten dan een beetje gekrompen om consistent te blijven.)</p>
+<p>Uiteindelijk plakt JavaScript de <em>link</em> naar het lettertype in de header (zodat het wordt geladen) en plakt de juiste <em>class</em> op de body (het hele document).</p>
+<p>Je kan al deze code vrijuit bekijken door de website te bezoeken en op F12 te klikken.</p>
+<h2 id="stap-5-hoe-laten-we-een-verhaal-zien">Stap 5: hoe laten we &ldquo;een verhaal&rdquo; zien?</h2>
+<p>Een link? Een knop met tekst? Een plaatje?</p>
+<p>Plaatjes zijn niet ideaal. Ze maken de website langzamer én zouden betekenen dat ik voor elk verhaal een uniek plaatje moet tekenen. (Want ik ga géén ongerelateerde <em>stock images</em> van internet plukken :p)</p>
+<p>Maar kleine links of knoppen zijn makkelijk te missen. En de website ziet er dan snel &ldquo;leeg&rdquo; uit, zeker als er nog maar 5-10 verhalen zijn.</p>
+<p>Dus ik houd erg van lekker grote knoppen. &ldquo;Chunky&rdquo; noem ik het vaak in de code. Het voorkomt ook dat Google je mails stuurt over &ldquo;té kleine klikbare elementen op mobiel!!!!&rdquo;</p>
+<p>Een verhaal wordt dus weergegeven als een groot vierkant (wel met ronde hoeken voor een zachter uiterlijk). Daarin staat de titel en een handmatig geschreven &ldquo;blurb&rdquo;: een paar zinnen marketing die het verhaal moeten uitleggen en interessant maken.</p>
+<h3 id="icoontjes">Icoontjes</h3>
+<p>Maar een website met <em>niks dan tekst</em> vond ik ook niet ideaal. Plaatjes, en zeker icoontjes, helpen enorm met snel begrijpen wat iets voorstelt, en zouden fijne variatie brengen.</p>
+<p>Dus ik besloot wél voor elk verhaal een icoontje te maken. Deze staat bovenaan in dit vierkant, en is tevens te zien op alle andere plekken waar je de titel van een verhaal ziet.</p>
+<p>De icoontjes zijn simpel. Ze worden vaak redelijk klein weergegeven, dus ik heb de eerste icoontjes meerdere keren opnieuw gedaan om dat ik té veel detail en té dunne lijnen gebruikte.</p>
+<p>Maar het voegt echt veel toe. Ik navigeer zelf regelmatig puur op basis van de icoontjes. Maar ik ken ze dan ook goed, want ik heb ze getekend :p</p>
+<h3 id="de-dubbele-titel">De dubbele titel</h3>
+<p><em>Waarom staat de titel overal dubbel?</em> Eerst klein en in hoofdletters, daarna de supergrote opvallende variant.</p>
+<p>Nou, dat weet ik ook niet, maar ik vind dit <em>mooi</em> en <em>fijn</em>.</p>
+<p>Op de meeste pagina&rsquo;s is alleen de bovenste titel klikbaar (en brengt je terug naar de hoofdpagina). Dat vind ik eleganter dan als ik die gigantische dikke titel klikbaar maak, door bijvoorbeeld een lijntje eronder te zetten.</p>
+<p>Daarnaast past het kleine icoontje mooier naast een <em>kleine</em> titel.</p>
+<p>Maar buiten die redenen heb ik dit zo gemaakt omdat het simpelweg professioneel eruitzag. Ik zag het op veel andere websites.</p>
+<h3 id="kleuren">Kleuren</h3>
+<p>De icoontjes herinnerden mij dat andere manieren (dan tekst) om hiërarchie aan te brengen altijd gewenst zijn.</p>
+<p>Dus ik gaf elk tijdperk een eigen kleur. En verhalen uit dat tijdperk worden gehuld in die tinten, zowel de samenvatting (dat vierkant), als de pagina&rsquo;s met het verhaal zelf.</p>
+<p>Het is altijd een balans tussen &ldquo;contrasterende, duidelijke kleuren&rdquo; en &ldquo;het moet geen onleesbare regenboog worden&rdquo;.</p>
+<p>Daarnaast leggen de kleuren uit waar elk tijdperk over gaat. De twee &ldquo;conflicten&rdquo; hebben de agressieve kleuren oranje en rood. De &ldquo;eerste stappen&rdquo; is natuurlijk groen. De &ldquo;vondst van floria&rdquo;, die vooral gaat over het woestijngebied Floria, is gelig. De ruimtereis heeft <em>omgekeerde</em> kleuren, want het is het enige tijdperk in de toekomst, en is diep donkerblauw.</p>
+<p>Oftewel, met minimale middelen, heb je nu een website waarbij:</p>
+<ul>
+<li>Elk verhaal lekker groot en klikbaar is</li>
+<li>(Hetzelfde voor alle andere links, die zijn een afgeleide van deze hoofd &ldquo;class&rdquo;.)</li>
+<li>Icoontjes helpen met verhalen herkennen en de tekst opbreken.</li>
+<li>Kleur helpt met variatie en meteen weten waarbij een verhaal hoort</li>
+</ul>
+<h2 id="stap-6-de-header">Stap 6: de header</h2>
+<p>Zoals ik eerder al zei: ik wil <em>zo min mogelijk bovenaan een website hebben</em>.</p>
+<p>Het is ruis. Het is rotzooi waar iemand <em>elke keer</em> langs moet kijken of scrollen.</p>
+<p>Maar de tekst op een pagina in een boek begint ook niet bij het absolute begin van de pagina. Sterker nog, redelijk veel <em>fysieke</em> boeken hebben headers waarin je ziet in welk hoofdstuk je bent, of waarin iets van decoratie staat.</p>
+<p>Dus ik wilde een minimale header met de allerbelangrijkste navigatie:</p>
+<ul>
+<li>Logo + tekst van de Levenssaga (zodat je weet waar je bent)</li>
+<li>Klikbare naam van je huidige boek (als van toepassing)</li>
+<li>Naam van je huidige hoofdstuk (als van toepassing)</li>
+<li>De knop om je lettertype/lay-out aan te passen.</li>
+<li>Een knop met een grote pijl omlaag, want in de <em>footer</em> staat de rest :p</li>
+</ul>
+<p>Deze techniek zie je op <em>al</em> mijn websites. Want het werkt wonderbaarlijk. Je hebt geen rotzooi bovenaan je pagina waar mensen langs moeten. Je &ldquo;verkleint&rdquo; niet het zichtbare deel van je website. Tegelijkertijd mis je niks en kan je onderaan meer dan genoeg kwijt.</p>
+<p>(Maar zonder een grote knop met een grote pijl, zullen bezoekers dit soms niet doorhebben, en bespaar je natuurlijk scrollwerk.)</p>
+<p>Ik twijfelde of de &ldquo;over&rdquo; knop hier nog bij moest. Maar dat is een pagina die <em>sommige</em> lezers misschien <em>eenmaal</em> bezoeken, dus nee.</p>
+<h3 id="extra-decoratie">Extra decoratie</h3>
+<p>Deze verhalen zijn zeker ook voor kinderen/jongeren. En dan is zo&rsquo;n blokkerige website met een dunne vierkante header wat karig.</p>
+<p>Dus voor de <em>homepage</em> besloot ik een variant te maken waarbij het logo naar het midden gaat en er meer decoratie is.</p>
+<p>Decoratie moet de <em>verhalen</em> niet in de weg gaan zitten. Maar bij de header/footer, en de thuispagina, kan ik het best inzetten.</p>
+<p>Uiteindelijk heb ik veel plaatjes opgezocht van sprookjesboeken, van die symbolen/lettertypes/visuele grapjes die je in zo&rsquo;n vergeeld magisch Disneyboek zou vinden, en daar wat van overgenomen.</p>
+<h2 id="stap-7-de-footer">Stap 7: de footer</h2>
+<p>De meeste navigatie en informatie moest dus naar de footer. Hier kom je dus alleen aan het einde van een verhaal/boekpagina of als je specifiek ernaar zoekt.</p>
+<p>Wat is dan het belangrijkste?</p>
+<ul>
+<li>Knoppen naar elk <strong>tijdperk</strong>: dit is de <em>beste</em> verdeling die er is. De verhalen zullen altijd gelijk verdeeld zijn over de tijdperken en het worden er nooit meer of minder.</li>
+<li>Knoppen naar de <strong>laatste verhalen</strong>. Deze vind je immers alleen op de voorpagina, maar het zou fijn zijn als je ze ook vanaf alle andere plekken kon vinden. (En dit vind ik nuttiger dan de <em>eerste verhalen</em> geven. En zeker nuttiger dan een lijst <em>willekeurige verhalen</em>.)</li>
+<li>Standaard <strong>navigatie:</strong> thuispagina, terug naar boven, over dit project algemene zoekbalk.</li>
+<li>Knoppen die <strong>mij</strong> helpen: bezoek mijn portfolio, doneer/steun dit project</li>
+</ul>
+<p>Die laatste moet je niet onderschatten. Ik vergat dit jarenlang. Maar als je nooit iemand <em>vraagt</em> om je te steunen, als je nooit uitlegt dat het helemaal gratis is en je nergens geld aan verdient, dan krijg je het ook nooit.</p>
+<p>Ook voeg ik altijd een &ldquo;willekeurig&rdquo; knop toe. Sommige mensen voelen zich avontuurlijk, of weten niet wat ze willen, en dan is dit een geweldige manier om de computer iets voor je te laten beslissen :p Ook deze moet je niet onderschatten.</p>
+<p>En helemaal onderaan schrijf ik de kleine lettertjes. De startdatum van de website. Wie het heeft gemaakt, met welk systeem, andere opmerkingen. Zoals je een handtekening zet, of copyright tekst in het colofon aan het begin van je fysieke boek.</p>
+<p>Het is wederom iets dat technisch gezien weinig betekent (het is niet dat zo&rsquo;n zinnetje nou de doorslag gaat zijn in copyrightzaken), maar het maakt de website af en staat/voelt professioneel.</p>
+<p><em>Waarom gebruik je geen &ldquo;sidebar&rdquo;? Of iets anders dan deze hele simpele structuur?</em> Nou, omdat het de boel een stuk minder simpel maakt, terwijl je er praktisch niks voor terugkrijgt. Ik zie niet wat iemand zou willen doen dat maar dan 1-3 logische klikken kost.</p>
+<p>Een balk aan de zijkant toevoegen levert weer véél visuele ruis op. Daarbovenop wordt het internet nu vooral via mobiel bekeken, waar zo&rsquo;n balk altijd moet worden weggehaald.</p>
+<p>(Sidebars werden vooral populair toen mensen beseften dat ze er een hele hoop advertenties in konden plaatsen. Ik heb lang geleden gezegd nooit advertenties te gebruiken, of pop-ups, of iets in die richting. Daar houd ik me ook aan. En dan worden websites ineens heel &hellip; simpel.)</p>
+<h2 id="stap-8-de-hoofdpagina-van-verhalen">Stap 8: de hoofdpagina van verhalen</h2>
+<p>Hiermee heb ik het meeste gestoeid.</p>
+<p>In het originele idee voor de Levenssaga begon elk verhaal met een voorpagina inclusief gedichtje. Dit wilde ik behouden! Maar &hellip; hoe laat je dit duidelijk zien? Het moet eigenlijk wel bovenaan, boven de hoofdstukken. Maar dat duwt de hoofdstukken zelf weer te ver naar beneden.</p>
+<p>En wil ik het icoontje nog groter laten zien? Wil ik een aparte voorkant tekenen, iets dat ik sowieso zal moeten doen als ik de verhalen als <em>fysieke boeken</em> wil uitgeven? Laat ik die dan ernaast zien, of op de achtergrond?</p>
+<p><em>Onder</em> het boek wilde ik dus extra informatie laten zien. De outline, de notities, het tijdperk, de karakters die in het boek zitten, etcetera. Maar dat zijn gigantische spoilers. Moet dit geen aparte pagina zijn, of moeilijker te vinden?</p>
+<p>Vragen, vragen, vragen.</p>
+<p>Uiteindelijk koos ik het volgende.</p>
+<p>Het <strong>gedichtje</strong> wordt &ldquo;voorpagina&rdquo; genoemd. Op die manier blijf je bij de originele gedachte erachter en is (hopelijk) duidelijk dat het dus <em>de voorpagina van het verhaal is</em>. Niet het verhaal zelf.</p>
+<p>Het wordt schuingedrukt, in niet al te grote letters, en gecentreerd. Maar mocht ik voorkanten gaan tekenen, dan zullen die <em>ernaast</em> komen: plaatje links, gedichtje rechts.</p>
+<p>Door hieronder de grote knop &ldquo;Begin direct met lezen!&rdquo; te zetten, voelt het allemaal logisch. Je leest het gedichtje, je weet waar het verhaal ongeveer over gaat&mdash;begin met lezen!</p>
+<p>Hierdoor wordt het hoofdstukkenoverzicht naar onderen geduwd en neergezet als een extra hulpmiddel voor als je niet vanaf het begin wilt beginnen.</p>
+<p>De <strong>extra informatie</strong> heb ik op dezelfde pagina gezet, open en bloot. Dat was het duidelijkst en het mooist, ook voor mij. (Ik zet er wel groot <em>spoilers!</em> bij.)</p>
+<p>Ook is de hoeveelheid over tijd flink gegroeid. Ik hield steeds meer bij per verhaal. Want, ik zeg het een laatste keer, de website <em>is</em> de levenssaga :p</p>
+<p>Door alles netjes op te schrijven en een eigen (klikbare) categorie te maken, is de website meteen een soort <em>Wikipedia</em> van zichzelf. Stel ik schrijf een verhaal over de Zandkoning, dan klik ik op die naam en zie meteen alles waarin dit personage speelt! Stel een <em>lezer</em> houdt heel erg van de Zandkoning, dan vindt diegene net zo makkelijk alle verhalen daarover.</p>
+<p>Hier zie je dus de kracht van Hugo, van een publieke webversie van een verhaal, en van netjes &ldquo;metadata&rdquo; bijhouden van wat je schrijft.</p>
+<h2 id="stap-9-details-details">Stap 9: details, details</h2>
+<h3 id="over-knoppen">Over knoppen</h3>
+<p>Ik vind knoppen/links het duidelijkst als ze <em>contrast wisselen</em>. Dus als het eerst donkere tekst op een lichte achtergrond is, wil ik dat dit <em>omdraait</em> als je er met de muis overheen gaat: lichte tekst op donkere achtergrond.</p>
+<p>Dit kan je makkelijk doen in CSS door simpelweg &ldquo;filter: invert();&rdquo; te gebruiken. Maar soms doe ik het handmatig, als dat beter werkt.</p>
+<p>(De &ldquo;verhaalblokken&rdquo; doen dit niet, want die zijn <em>zo groot</em> dat dit een nogal ingrijpend effect zou zijn. Zij worden simpelweg een stuk lichter, via &ldquo;filter: brightness(30%);&rdquo;)</p>
+<h3 id="over-beschrijvingen">Over beschrijvingen</h3>
+<p>Die grote &ldquo;verhaalblokken&rdquo; hebben dus een titel en daaronder een beschrijving/samenvatting. Voor verhalen voer ik dit handmatig in. Ik probeer in 1-2 zinnen het verhaal uit te leggen en interesse te lokken.</p>
+<p>Maar voor hoofdstukken doe ik dit niet. Daar pakt het gewoon de eerste paar zinnen.</p>
+<p>Dat was een probleem. Hugo snijdt deze &ldquo;samenvatting&rdquo; af <em>aan het einde van de zin</em>, als je X aantal karakters bent gepasseerd. Het gevolg is dat sommige hoofdstukken een superlange beschrijving hadden (want ze begonnen toevallig met wat lange zinnen), en andere een superkorte.</p>
+<p>Daarnaast gaf dit de impressie dat deze samenvattingen óók met de hand waren geschreven. Mensen waren verbaasd toen ze het hoofdstuk lazen en dezelfde beginzinnen opnieuw lazen.</p>
+<p>Dus ik schreef een eigen functie. Die snijdt de eerste paar zinnen af na X aantal <em>woorden</em>, en voegt altijd een ellipsis (&hellip;) toe om duidelijk te maken: &ldquo;dit is het begin van het verhaal, hierna gaat het verder&rdquo;</p>
+<p>Kleine details, maken denk ik veel verschil.</p>
+<h3 id="subtiele-decoratie">Subtiele decoratie</h3>
+<p>In eerste instantie had ik een vrij simpel logo gemaakt, maar wel in kleur.</p>
+<p>Maar &hellip; alle andere icoontjes waren zwart-wit. En het was onmogelijk om deze kleuren te laten passen bij alle <em>andere</em> kleuren (van de tijdperken) op de website.</p>
+<p>Dus ik maakte een zwart-wit (transparante) versie van het logo, die zie je nu linksbovenaan.</p>
+<p>Ik maakte ook een variant de andere kant op: gedetailleerder, volledig kleur, die ik <em>groot</em> wilde laten zien op de voorpagina. Ik heb tientallen decoraties uitgetest voordat ik uitkwam op deze krullen aan de zijkant en de tekst erdoorheen geschreven. (De rest was te onduidelijk op kleine grootte, paste niet bij de stijl, was te overheersend, etcetera.)</p>
+<p>Want hoe meer ik naar de website keek, hoe meer ik voelde dat de voorpagina mooier en indrukwekkender moest zijn dan één zin en daaronder de lijst met verhalen.</p>
+<p>Dus ik plaatste een extra gekleurd blok, met het grote (gedetailleerde) logo links en de openingstekst rechts.</p>
+<p>Die tekst heb ik opgedeeld in kleine zinnetjes. (Gewoon door de komma te vervangen door een punt.) Ik had het idee dat kinderen dat beter zouden kunnen lezen.</p>
+<p>Ook stond er een vraagteken waarop je kon klikken. Die bracht je naar de &ldquo;over&rdquo; pagina. Maar dit was slecht te zien, want een vraagteken is nou niet bepaald een aandachttrekkende symbool. Dus ik besloot deze link uit te schrijven tot &ldquo;wat is dit?&rdquo;.</p>
+<p>Deze verbeteringen waren geweldig, maar alsnog miste er iets. Het waren nu slechts gekleurde blokken. De hele website was gekleurde blokken!</p>
+<p>Dus ik wilde nog twee dingen doen: de blokken een beetje opbreken, en iets van een grote <em>header</em> maken voor de voorpagina.</p>
+<p><strong>Blokken opbreken:</strong> hiervoor kwam ik uit bij mijn oude vriend &ldquo;border-image&rdquo;. Je kan een plaatje invoeren en die wordt dan door de website in stukjes gesneden en rondom de rand van je element geplaatst. Na wat gegoochel met de settings, kreeg ik die golfjes uit het logo netjes rondom de verhaalblokken. (Door het op deze manier te doen, groeien ze automatisch mee met verschillende schermformaten. Dat kan niet als ik gewoon één plaatje had gemaakt en die over de verhaalblokken had gelegd.)</p>
+<p>Ik gebruik altijd de <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Border-image_generator">border-image tool</a> van Mozilla om hiermee te spelen.</p>
+<p><strong>Header:</strong> dit was het lastigst. Want de levenssaga gaat over zoiets algemeens &hellip; hoe geef je dat weer in een plaatje? Iets dat er mooi uitziet, maar ook simpel en abstract? Iets dat kinderen zou aanspreken, maar volwassenen niet wegstuurt omdat het er kinderachtig uitziet? Iets dat niet clasht met de vele andere kleuren op de website?</p>
+<p>Uiteindelijk kwam ik steeds terug op twee ideeën: <em>levensboom</em> en <em>tijdlijn</em>. Ik moest denken aan dingen zoals de <a href="https://shop-eu.kurzgesagt.org/products/evolution-poster?variant=37879773757629">Kurtzgesagt poster van evolutie</a>. Een combinatie tussen een tijdlijn en simpele iconen/figuren van belangrijke delen daarvan. Die figuren kunnen dan silhouetten zijn, de tijdlijn kan van links naar rechts over het scherm lopen.</p>
+<p>Dus toen heb ik geprobeerd om zoiets te maken en te verwerken achter/rondom de voorpagina. Dit is iets waarover ik het meeste twijfelde en waarop ik het meeste vast zat. Dus dit zal in de loop van tijd nog wel veranderen. (Ik zal kijken of ik een diepgaander artikel kan schrijven over dit hele proces.)</p>
+<h3 id="over-de-structuur">Over de structuur</h3>
+<p>In eerste instantie was er één folder (&ldquo;books&rdquo;) waarin alle verhalen zaten.</p>
+<p>De URL naar verhalen was dan &ldquo;delevenssaga.nl/books/BOEKTITEL&rdquo;</p>
+<p>Maar zelfs met ~15 verhalen vond ik deze folder erg vol worden en wilde ik al een betere structuur. Dus toen heb ik alles omgeschreven om eerst alles in te delen per <em>cyclus</em>.</p>
+<p>De URL naar verhalen werd dan automatisch &ldquo;delevenssaga.nl/books/cyclusnaam/BOEKTITEL&rdquo;</p>
+<p>En elke folder zou nooit een belachelijke hoeveelheid inhoud krijgen.</p>
+<p>Zoiets is <em>meer werk dan je denkt</em>. Want alle code was al lang en breed ingesteld op de oude structuur. Maar ik wist uit ervaring dat dit essentieel was. Ik zou mezelf later hartelijk bedanken voor een veel betere en vooral <em>specifiekere</em> structuur.</p>
+<h3 id="over-hulpmiddelen">Over hulpmiddelen</h3>
+<p>Toen ik met de website begon, was het vooral bedoeld voor <em>mezelf</em>. Dus de opmaak was erg kaal en ik hoefde alleen de hoofdstukken aan te kunnen klikken. Maar het groeide, ik besloot dat het publiek zou worden, dat het <em>de</em> Levenssaga zou worden.</p>
+<p>En zo kwamen in een laat stadium allemaal extra hulpmiddelen. (Net zoals het kiezen van je eigen lettertype.) Deze besefte ik pas toen ik zelf de afgemaakte website wilde gebruiken en teruglezen.</p>
+<p>De grootste is <strong>bijhouden wat iemand heeft gelezen.</strong> Dit gaat automatisch. Ik wilde geen extra knoppen zodat lezer <em>zelf</em> moesten aangeven of ze ergens klaar mee waren, mede omdat 99% van de mensen dat <em>gaat vergeten</em>.</p>
+<p>Dus het is een combinatie van gokwerk en simpele dingen bijhouden. Voor elk verhaal houdt de website een <em>getal</em> bij. Dit getal geeft aan wat het <em>laatste hoofdstuk is dat je hebt gelezen</em>.</p>
+<ul>
+<li>Als je een verhaal aanklikt, of de grote knop &ldquo;begin met lezen&rdquo;, gaat het getal naar 0.</li>
+<li>Als je een hoofdstuk leest en <em>naar het einde scrollt</em>, gaat het getal naar dit hoofdstuk.</li>
+<li>Als je zelf op de knop naar het volgende hoofdstuk klikt, gaat het getal ook naar dit hoofdstuk.</li>
+<li>Zodra je het hele boek hebt gelezen, staat het getal dus op 10 als het goed is.</li>
+</ul>
+<p>Als je bent begonnen aan een verhaal, verschijnt een tweede grote knop: &ldquo;lees verder&rdquo;</p>
+<p>Het getal gaat nooit <em>omlaag</em>. Het kiest altijd het hoogste hoofdstuk dat je las. Het <em>reset</em> als je opnieuw op de knop &ldquo;begin met lezen&rdquo; drukt. (Zodat je verhalen <em>opnieuw</em> kunt lezen, en het nog steeds netjes je voortgang bijhoudt!)</p>
+<p>Voor de gebruiker verander ik dit in iets dat duidelijker is.</p>
+<ul>
+<li>Getal bestaat niet? &ldquo;Ongelezen&rdquo;</li>
+<li>Getal = 0? &ldquo;Begonnen&rdquo;</li>
+<li>Getal = 10? &ldquo;Uitgelezen&rdquo;</li>
+<li>Ander getal? &ldquo;Laatst gelezen hoofdstuk: <getal>&rdquo;</li>
+</ul>
+<p>Een ander hulpmiddel is voor mijzelf: de <strong>leesbaarheidsscore.</strong> Dit is een script dat enkele dingen telt (lettergrepen, woorden, zinnen) en op basis van de Nederlandse coëfficiënten de Flesch-Kincaid score uitrekent. Dit is natuurlijk geen perfecte formule, maar het geeft een <em>indicatie</em> hoe moeilijk het verhaal is om te lezen. En als dit erg hoog is, moet ik mezelf achter de oren krabben en kijken waar het misging.</p>
+<h2 id="stap-10-vorm-versus-functie">Stap 10: vorm versus functie</h2>
+<p>Als je tot zover hebt gelezen, zal je hebben gemerkt dat de <em>inhoud</em> en de <em>vorm</em> elkaar nogal beïnvloeden.</p>
+<p>Ik heb de verhalen opgedeeld in 10 hoofdstukken omdat dit beter las en mooier eruit zag <em>op een website</em>. Dus de inhoud is aangepast puur vanwege de vorm.</p>
+<p>Andersom heb ik de website dus veranderd op basis van de inhoud. Zo gebruik ik regelmatig schuingedrukte woorden/zinnen in deze verhalen, om nadruk te leggen of als je in iemands gedachten zit. Dus ik moest lettertypes hebben die hier een hele mooie variant voor hadden.</p>
+<p>Misschien wel het beste voorbeeld zijn de &ldquo;drop caps&rdquo;. Zo noem je het als de eerste letter van een tekst veel groter en sierlijker is, zoals je bij oude werken vaak ziet. Waarom? Omdat het hielp met het begin (of jouw huidige plek) vinden in een stuk tekst. Omdat het een meer aantrekkelijke/mooie introductie is dan gewoon &hellip; beginnen aan de lap tekst.</p>
+<p>Anderzijds kan je hier dus hele sierlijke letters voor pakken, die door velen al worden geassocieerd met &ldquo;sprookjes&rdquo; of &ldquo;legendes&rdquo;.</p>
+<p>Dus ik wilde per se mooie traditionele drop caps.</p>
+<p>Maar &hellip; sommige hoofdstukken begonnen met <em>dialoog</em>. Dus ze begonnen met dubbele haakjes. Dat is natuurlijk hartstikke lelijk op deze manier! (Ik kon geen voorbeeld vinden waarin ik begon met iets nóg gekkers, maar dat zou sowieso ook lelijk zijn geweest.)</p>
+<p>Dus ik heb uiteindelijk het begin van een stuk of 10 hoofdstukken moeten <em>veranderen</em>, puur vanwege de <em>vorm</em> waarin de verhalen worden gepresenteerd.</p>
+<p>(Er zijn altijd discussies over of je wel met dialoog een scene/hoofdstuk moet beginnen. En hoewel ik niet denk dat het een doodzonde is, zoals sommige andere schrijvers, is het inderdaad iets dat ik vroeger deed maar nu vrijwel nooit meer zou doen.)</p>
+<p>Tevens ga ik soms <em>binnen een hoofdstuk</em> naar twee verschillende scenes. Nu deed ik dat door simpelweg een witregel en een hekje (#) te plaatsen.</p>
+<p>Maar <em>drop caps</em> zijn juist ideaal om aan te geven: &ldquo;hé, dit is een hele nieuwe scene/sectie!&rdquo;. Dus ik verving al die hekjes door een &ldquo;horizontal rule&rdquo;. (Dat is een HTML element dat, tja, een horizontale lijn maakt, bedoeld als manier om dingen van elkaar te scheiden.) Zo kan ik makkelijk aangeven wanneer een nieuwe scene begint, want in Markdown hoef je alleen &ldquo;___&rdquo; te typen voor zo&rsquo;n HR.</p>
+<p>Vervolgens plaatst de website automatisch een nieuwe drop cap op de eerste letter ná een HR.</p>
+<p>Door te spelen met de vorm, is de inhoud veranderd. En efficiënter geworden.</p>
+<p>In mijn ogen is het nooit &ldquo;vorm <em>versus</em> inhoud&rdquo;, maar simpelweg dat vorm en inhoud elkaar constant zouden moeten beïnvloeden.</p>
+<h2 id="stap-11-de-zoekfunctie">Stap 11: de zoekfunctie</h2>
+<p>Omdat het een statische website betreft, is dit ook iets dat een andere aanpak nodig heeft.</p>
+<p>Normaal gesproken leest je website constant informatie uit een <em>database</em>. Een zoekopdracht is niks anders dan de database vragen &ldquo;hé geef mij alle artikelen waarin dit woord voorkomt&rdquo; en dat resultaat laten zien.</p>
+<p>Maar deze website hééft geen database en verstuurt nooit verzoeken.</p>
+<p>Wat dan? Dan moeten we weer een JavaScript oplossing gebruiken.</p>
+<p>Ik koos voor het redelijk bekende <strong>LunrJS</strong>. Het werkt als volgt:</p>
+<ul>
+<li>Op de zoekpagina laat ik Hugo een groot object printen met <em>alle</em> artikelen, hun inhoud, en hun metadata (zoals titel en tijdperk).</li>
+<li>Vervolgens kan je dat omzetten in een &ldquo;Lunr Index&rdquo; (met enkele regels standaardcode).</li>
+<li>Vervolgens kan je deze index vragen stellen in de vorm van zoektermen: idx.search(&ldquo;zoekterm&rdquo;)</li>
+<li>Dat geeft resultaten terug. Ik <em>loop</em> daar doorheen en laat ze allemaal zien.</li>
+</ul>
+<p>Het probleem hier is dat dit <em>elke keer ter plekke moet worden uitgerekend</em>. Het kan prima 2-5 seconden duren, omdat hij die hele grote index moet bouwen én raadplegen.</p>
+<p>Eerst moest ik, echter, wat kleinere probleempjes oplossen:</p>
+<ul>
+<li>Hij zoekt nu alleen op exacte termen. Zoek je op &ldquo;hondje&rdquo; dan vindt hij &ldquo;hond&rdquo; niet. Dit los je op door &ldquo;~<getal>&rdquo; achter de zoekterm te plaatsen. Dat getal geeft aan hoeveel karakters een match ervan af mag zitten. (Dit noem ik zelf <em>search fuzziness</em>.)</li>
+<li>Lunr sorteert zelf op basis van relevantie, dus dat is fijn. Maar het leek me wel handig om de gebruiker ook te vertellen hoe sterk de match was. Sterker nog, ik kan vertellen welke woorden je exact hebt gematcht!</li>
+<li>Hele algemene zoekopdrachten geven <em>alles</em> als resultaat. Dat is overweldigend om weer te geven. Dus ik geef alleen alles weer met een score die hoog genoeg is.</li>
+<li>(Sommige browsers hebben een functie dat je &ldquo;#:~:text=<iets>&rdquo; achter je URL kunt zetten. Als de pagina laadt, scrolt deze direct naar de eerste overeenkomst met <iets>, en markeert deze. Ik plaats zo de zoekterm achter de URL. Kost mij vijf seconden, levert heel wat op in sommige browsers.)</li>
+</ul>
+<h3 id="sneller-en-beter">Sneller en beter</h3>
+<p>Oké, hoe voorkomen we dat de &ldquo;zoekindex&rdquo; steeds opnieuw moet worden gebouwd? Nou, door hem één keer te bouwen, dan op te slaan in een JSON bestand, en <em>dat</em> in te laden.</p>
+<p>Als je slim bent, kan je dit vast automatiseren. Maar ik heb het zo gedaan:</p>
+<ul>
+<li>Als ik de website aanpas op mijn computer (&ldquo;localhost&rdquo;), dan bouwt hij de index steeds opnieuw.</li>
+<li>Eens in de zoveel tijd kopieer ik die variabele en plak het in dat JSON bestand. (Zodra ik weer een of twee verhalen heb toegevoegd die nu dus missen in de zoekresultaten.)</li>
+<li>Als ik <em>niet</em> op localhost zit (dus het is de online website), leest hij dat JSON bestand, in plaats van dat hij de index zelf opbouwt.</li>
+</ul>
+<p>Merk op dat er eigenlijk <em>twee</em> dingen zijn die dit systeem nodig heeft: een lijst met de <em>inhoud van de website</em>, en een <em>index om snel mee te zoeken</em>. De index wordt ter plekke afgeleid uit de inhoud. Maar ik heb ze allebei nodig.</p>
+<p>Ik zou die index ook kunnen opslaan. Het zou nog veel meer tijd schelen. Maar dat bestand zou op dit moment <em>4 mB</em> zijn, wat veel te groot is en te langzaam laadt.</p>
+<p>Dat is het nadeel van dit project. Zelfs met 10 verhalen hebben we al 100 hoofdstukken en zo&rsquo;n 120,000 woorden. Dat is <em>véél</em> om doorheen te zoeken.</p>
+<p>Dus de <em>inhoud</em> opslaan is ook al 800 kB op dit punt. Rest ons de laatste uitdaging: <em>hoe krijgen we dit bestand vele malen kleiner?</em></p>
+<p>Daarvoor moeten we dieper nadenken over waarvoor een zoekfunctie wordt gebruikt. Niemand zoekt op leestekens, of standaardwoorden als &ldquo;de&rdquo; en &ldquo;het&rdquo;. Ze zoeken op specifieke, unieke dingen die een verhaal zou kunnen hebben.</p>
+<p>Dus ik schreef een stuk code om <em>alles</em> weg te strippen waarvan ik dacht dat het weg kon. Ik begon met leestekens en lidwoorden: het bestand werd 650 kB.</p>
+<p>Toen merkte ik dat veel leestekens werden gemist omdat ze in HTML vorm stonden. (Een linker-dubbel-haakje is &ldquo;, maar kan ook via HTML geschreven als “) Die gingen ook weg. Ik verhoogde de standaardwoorden naar dingen zoals <em>hij, zij, ik, er, te</em> ..</p>
+<p>Het bestand werd exact 600 kB.</p>
+<p>Maar we kunnen nog verder. Veelvoorkomende werkwoorden als <em>zei, dacht, liep</em>. Voorzetsels zoals <em>naar, bij, achter</em>. Voegwoorden zoals <em>want, maar, en</em>.</p>
+<h3 id="nóg-sneller-en-beter">Nóg sneller en beter</h3>
+<p>Toen leerde ik een hoop over <em>regular expressions</em>. (Dat is een manier om met een kort stukje code een tekst op hele specifieke manieren te manipuleren. Zoals dus een hele lijst specifieke woorden weghalen, <em>mits</em> ze worden omringd door witruimte. Want je wilt niet &ldquo;er&rdquo; weghalen als dit het begin is van &ldquo;ervaren&rdquo;, bijvoorbeeld.</p>
+<p>En toen kwam ik erachter de Go (de taal waarin Hugo werkt) een achterlijke keuze maakte. Ze ondersteunen iets genaamd &ldquo;look ahead assertions&rdquo; niet. Dus zodra meerdere van die woorden naast elkaar stonden, zou hij alleen de <em>eerste</em> vervangen (en de rest negeren).</p>
+<p>Waarom? Nou, hij ziet &ldquo;hé, een spatie, dat woord, en weer een spatie =&gt; ik vervang dat geheel door één spatie&rdquo;. Maar dan is hij al bij het volgende woord. Hij is die spatie al voorbij, dus het woord erna gaat nooit voldoen aan de regel &ldquo;spatie-woord-spatie&rdquo;.</p>
+<p>De oplossing was simpel en stom: alle spaties verdubbelen. En aan het einde alle dubbele spaties weer terugbrengen tot één :p</p>
+<p>Na al die moeite is het bestand terug tot 500 kB.</p>
+<p>De server die ik gebruik kan zoiets gelukkig nog kleiner maken. Het gebruikt Brotli compressie, wat het bestand naar 150 kB brengt. (GZip compressie, wat jarenlang de standaard was, levert 180 kB op.) Ja, dat scheelt enorm! Mijn bestand laat zich dan ook <em>heel goed comprimeren</em>, omdat het lange blokken natuurlijke tekst zijn. Daarin zitten veel patronen en hergebruikte karakters.</p>
+<p>Het is nog steeds niet ideaal. Zeker als je bedenkt dat deze dus steeds groter zal worden. Stel we zijn bij 10 cycli, dan is dit bestand dus 1.5 mB om te laden, de eerste keer dat je probeert iets te zoeken op de website.</p>
+<p>Maar voor nu is het acceptabel en werkt het prima. Tegen de tijd dat we bij 10 cycli zijn, zal het internet ook wel weer flink zijn veranderd.</p>
+<p>(Een bonus van dit systeem is dat je allerlei geavanceerde manieren van zoeken er gratis bijkrijgt. Deze karakters/codes die je kan gebruiken leg ik uit onderaan de zoekpagina. Het is vrij simpel, maar werkt vaak beter dan alleen een paar woorden geven.)</p>
+<h2 id="conclusie-een-bijzonder-project">Conclusie: een bijzonder project</h2>
+<p>De website heeft een hele simpele lay-out. Het is echt volledig ingericht op makkelijk schrijven (achter de schermen) en makkelijk lezen, op snel laden en snel navigeren.</p>
+<p>Het was sowieso de moeite waard om dit experiment aan te gaan. Ik denk ook dat het goed is gelukt en hoop dat deze website nog jarenlang veel mensen mag verblijden. En mag groeien tot iets groots.</p>
+<p>Hopelijk was dit artikel leerzaam. Hopelijk legde het genoeg uit over <em>hoe</em> of <em>waarom</em> ik dingen wel/niet heb gedaan.</p>
+<p>En natuurlijk zal de website in de toekomst nog veranderen. Naarmate ik meer feedback krijg, nieuwe hulpmiddelen bedenk, misschien toch overal een plaatje voor wil hebben.</p>
+<p>Hopelijk vindt iemand dit project, raakt geïnspireerd, en bouwt een nog beter &ldquo;website schrijfproject&rdquo;. Want dit idee is dermate bijzonder dat ik de meeste dingen zelf moest uitvogelen. En de tijd zal leren of ik de juiste keuzes heb gemaakt.</p>
+<p>Geniet van de levenssaga. Tot het volgende experimentele project!</p>
+
+						</div>
+					</article>
+					
+
+<div class="related-posts">
+    <h3>Related Posts</h3>
+    <ul class="no-bullets related-posts-list">
+        
+            
+
+
+
+<section class="minimal-grid-item sketchy-box vertical">
+	<a href="/blog/2023/2023-08-04-schrijftip-samenvatting-en-door/">
+		<div class="double-view vertical">
+			
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+<div class="left-side hide-caption">
+    
+    
+    <figure>
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Schrijftip: samenvatting en door'</span>
+		</figcaption><picture><img 
+				src="/default_thumbnails/default_vertical_miscellaneous.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Header / Cover Image for &#39;Schrijftip: samenvatting en door&#39;"
+				title="Header / Cover Image for &#39;Schrijftip: samenvatting en door&#39;"
+				width="2481"
+				height="877"
+				class=" no-click"
+			/></picture>
+</figure>
+    
+</div>
+
+
+			<div class="right-side">
+				<div class="minimal-post-title">Schrijftip: samenvatting en door</div>
+			</div>
+		</div>
+	</a>
+</section>
+        
+            
+
+
+
+<section class="minimal-grid-item sketchy-box vertical">
+	<a href="/blog/2023/2023-07-24-schrijftip-hopen-dat-het-deze-keer-goed-gaat/">
+		<div class="double-view vertical">
+			
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+<div class="left-side hide-caption">
+    
+    
+    <figure>
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Schrijftip: hopen dat het deze keer goed gaat'</span>
+		</figcaption><picture><img 
+				src="/default_thumbnails/default_vertical_miscellaneous.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Header / Cover Image for &#39;Schrijftip: hopen dat het deze keer goed gaat&#39;"
+				title="Header / Cover Image for &#39;Schrijftip: hopen dat het deze keer goed gaat&#39;"
+				width="2481"
+				height="877"
+				class=" no-click"
+			/></picture>
+</figure>
+    
+</div>
+
+
+			<div class="right-side">
+				<div class="minimal-post-title">Schrijftip: hopen dat het deze keer goed gaat</div>
+			</div>
+		</div>
+	</a>
+</section>
+        
+            
+
+
+
+<section class="minimal-grid-item sketchy-box vertical">
+	<a href="/blog/2023/2023-07-11-de-levenssaga-cyclus-2-deel-1/">
+		<div class="double-view vertical">
+			
+
+
+
+
+
+
+
+
+
+<div class="left-side hide-caption">
+    
+    
+    <figure>
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'De Levenssaga: cyclus 2 (deel 1)'</span>
+		</figcaption><picture><img 
+				src="/uploads/2022/10/levenssaga_website_header-1.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Header / Cover Image for &#39;De Levenssaga: cyclus 2 (deel 1)&#39;"
+				title="Header / Cover Image for &#39;De Levenssaga: cyclus 2 (deel 1)&#39;"
+				width="1532"
+				height="470"
+				class=" no-click"
+			/></picture>
+</figure>
+    
+</div>
+
+
+			<div class="right-side">
+				<div class="minimal-post-title">De Levenssaga: cyclus 2 (deel 1)</div>
+			</div>
+		</div>
+	</a>
+</section>
+        
+    </ul>
+</div>
+
+				</div>
+			</div>
+		</div>
+	</main>
+
+	<div class="footer-transition"></div>
+
+<footer>
+	<div class="footer-content">
+		<aside>
+			<h3>Latest / Upcoming Project</h3>
+			
+			
+			
+			
+			
+				
+				
+				
+				
+			
+			
+
+
+
+
+
+
+
+
+
+<div class="hide-caption image-top-margin">
+    
+    
+    <figure>
+		
+	
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Onverslaanbaar'</span>
+		</figcaption><picture>Cannot find image:staticonverslaanbaar_cover.webp</picture>
+</figure>
+    
+</div>
+
+
+			
+
+			<div><p>Jinny ontmoet de man van haar dromen en zijn vrienden op een feest. Ze vieren dat Quinten zojuist miljonair is geworden dankzij een wereldberoemde bestseller genaamd &ldquo;Onverslaanbaar&rdquo;: een episch boek dat alles goed doet en jong en oud gek maakt.</p>
+<p>Ze verheugt zich op een spannende avond, …</p></div>
+			<a class="striped-link" href="/books/onverslaanbaar/"><span>Read More!</span></a>
+		</aside>
+		<aside>
+			<h3>Latest Posts</h3>
+			<nav>
+				<ul class="no-bullets flex-list">
+					
+					
+						<li>
+							<a href="/blog/2023/2023-08-10-filmrecensie-nimona-2023/" class="striped-link">
+								<span>Filmrecensie: Nimona (2023)</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/blog/diaries/diary-wildebyte-unfinished-game/" class="striped-link">
+								<span>[Diary] Wildebyte (Book 1)</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/blog/2023/2023-08-07-serierecensie-shadow-bone-seizoen-2/" class="striped-link">
+								<span>Serierecensie: Shadow &amp; Bone (seizoen 2)</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/blog/2023/2023-08-04-schrijftip-samenvatting-en-door/" class="striped-link">
+								<span>Schrijftip: samenvatting en door</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/blog/2023/2023-08-02-filmrecensie-oppenheimer-2023/" class="striped-link">
+								<span>Filmrecensie: Oppenheimer (2023)</span>
+							</a>
+						</li>
+					
+				</ul>
+			</nav>
+		</aside>
+		<aside>
+			
+			<h3>Latest Books</h3>
+			<nav>
+				<ul class="no-bullets flex-list">
+					
+					
+						<li>
+							<a href="/books/wildebyte-ghost-code/" class="striped-link">
+								<span>Ghost Code</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/books/onverslaanbaar/" class="striped-link">
+								<span>Onverslaanbaar</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/books/wildebyte-rulebreaker-recipes/" class="striped-link">
+								<span>Rulebreaker Recipes</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/books/wildebyte-secrets-of-sweettooth/" class="striped-link">
+								<span>Secrets of Sweettooth</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/books/wildebyte-unfinished-game/" class="striped-link">
+								<span>Unfinished Game</span>
+							</a>
+						</li>
+					
+				</ul>
+			</nav>
+		</aside>
+		<aside>
+			<h3>Updates & Support</h3>
+			<p>Most of my work is completely free and accessible to anyone! As such, I ask you to support me if you can.</p>
+			<p>You can do so via Patreon, where you can also subscribe to <strong>updates</strong> on all projects.</p>
+			<p>
+				<a href="https://patreon.com/tiamopastoor" class="striped-link">
+					<img decoding="async" style="float:left; width: 2.25em;" src="/css/patreon logo.png" loading="lazy">
+					<span>Support me on Patreon!</span>
+				</a>
+			</p>
+			<p>Or support me on Ko-Fi:</p>
+			<p>
+				<a href="https://ko-fi.com/tiamopastoor" class="striped-link">
+					<img decoding="async" style="float:left; width: 2.25em;" src="/css/kofi_logo.png" loading="lazy">
+					<span>Support me on Ko-Fi!</span>
+				</a>
+			</p>
+			<p>Or via Buy me a Coffee:</p>
+			<p>
+				<a href="https://www.buymeacoffee.com/tiamopastoor" class="striped-link">
+					<img decoding="async" style="float:left; width: 1.25em; margin-top: 0.25em; margin-left: 0.25em;" src="/css/bmac_logo.png" loading="lazy">
+					<span>Buy me a Coffee!</span>
+				</a>
+			</p>
+		</aside>
+		<aside>
+			<h3>Miscellaneous</h3>
+			<ul class="no-bullets flex-list">
+				<li><a href="/info/about/" class="striped-link"><span>About Me</span></a></li>
+				<li><button id="darkModeButton" class="striped-link"><span>Light / Dark Mode</span></button></li>
+				<li><button id="randomProjectButton" class="striped-link"><span>Random Page</span></button></li>
+				<li><button class="gotoTopButton striped-link"><span>Go to Top</span></button></li>
+			</ul>
+		</aside>
+		<aside>
+			<h3>Categories</h3>
+			
+
+
+
+
+
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+
+
+
+
+<ul class="no-bullets flex-list">
+     
+        <li>
+            <a href="/categories/miscellaneous/" class="striped-link" title="All pages with categories <em>miscellaneous</em>">
+                <span>Miscellaneous <sup class="taxonomy-count">(464)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/anecdotes/" class="striped-link" title="All pages with categories <em>anecdotes</em>">
+                <span>Anecdotes <sup class="taxonomy-count">(107)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/games/" class="striped-link" title="All pages with categories <em>games</em>">
+                <span>Games <sup class="taxonomy-count">(102)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/reviews/" class="striped-link" title="All pages with categories <em>reviews</em>">
+                <span>Reviews <sup class="taxonomy-count">(87)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/cartoons/" class="striped-link" title="All pages with categories <em>cartoons</em>">
+                <span>Cartoons <sup class="taxonomy-count">(56)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/film-reviews/" class="striped-link" title="All pages with categories <em>film-reviews</em>">
+                <span>Film reviews <sup class="taxonomy-count">(47)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/book-reviews/" class="striped-link" title="All pages with categories <em>book-reviews</em>">
+                <span>Book reviews <sup class="taxonomy-count">(30)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/poems/" class="striped-link" title="All pages with categories <em>poems</em>">
+                <span>Poems <sup class="taxonomy-count">(28)</sup></span>
+            </a>
+        </li>
+    
+</ul>
+		</aside>
+		<aside>
+			<h3>Tags</h3>
+			
+
+
+
+
+
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+
+
+
+
+<ul class="no-bullets flex-list">
+     
+        <li>
+            <a href="/tags/mystery/" class="striped-link" title="All pages with tags <em>mystery</em>">
+                <span>Mystery <sup class="taxonomy-count">(10)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/game/" class="striped-link" title="All pages with tags <em>game</em>">
+                <span>Game <sup class="taxonomy-count">(8)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/adventure/" class="striped-link" title="All pages with tags <em>adventure</em>">
+                <span>Adventure <sup class="taxonomy-count">(6)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/technology/" class="striped-link" title="All pages with tags <em>technology</em>">
+                <span>Technology <sup class="taxonomy-count">(6)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/coding/" class="striped-link" title="All pages with tags <em>coding</em>">
+                <span>Coding <sup class="taxonomy-count">(5)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/computer/" class="striped-link" title="All pages with tags <em>computer</em>">
+                <span>Computer <sup class="taxonomy-count">(5)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/fantastical/" class="striped-link" title="All pages with tags <em>fantastical</em>">
+                <span>Fantastical <sup class="taxonomy-count">(5)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/education/" class="striped-link" title="All pages with tags <em>education</em>">
+                <span>Education <sup class="taxonomy-count">(4)</sup></span>
+            </a>
+        </li>
+    
+</ul>
+		</aside>
+		<aside>
+			<h3>My Websites</h3>
+			<p>This website is for all my books and writing work. I have separate websites for work in other areas (such as games).</p>
+			<p>Check them out!</p>
+			<ul class="no-bullets flex-list">
+				<li><a href="https://pandaqi.com" class="striped-link"><span>Pandaqi (Games)</span></a></li>
+				<li><a href="https://pandaqi.com/tutorials" class="striped-link"><span>Pandaqi (Tutorials)</span></a></li>
+				<li><a href="https://eltroubadour.com" class="striped-link"><span>El Troubadour (Music)</span></a></li>
+				<li><a href="https://rodepanda.com" class="striped-link"><span>Red Panda (Portfolio)</span></a></li>
+			</ul>
+		</aside>
+	</div>
+
+	<div class="credits">
+		Tiamo Pastoor 2016&mdash;2023 · 
+		All rights reserved&copy; · 
+		Made with <a href="https://gohugo.io">Hugo</a> · 
+		<a href="/info/about/">About Me</a> · 
+		<a href="https://rodepanda.com">My Portfolio</a> · 
+		<a href="https://pandaqi.com">My Game Studio</a> · 
+		<button class="gotoTopButton">Go to Top</button>
+	</div>
+</footer>
+
+	
+    
+    <script async defer>
+		const head = document.getElementsByTagName("head")[0];
+		let cssLink = document.createElement("link");
+	
+		cssLink.rel = "stylesheet";
+		cssLink.href = "\/css\/style.css";
+		cssLink.type = "text/css";
+	
+		head.appendChild(cssLink);
+	</script>
+
+<span style="display:none;" id="hidden-hugo-metadata" data-pages="/blog/2021/2021-12-12-de-universiteit-niet-te-ontsnappen/,/blog/2017/2017-08-18-hdt-6-bent-zelf-zwaluw/,/blog/2023/2023-01-20-filmrecensie-see-how-they-run-2022/,/blog/2017/2017-05-13-wat-nog-het-ergste-is/,/blog/2018/2018-11-19-datumprikkers-de-eeuwige-laatste/,/blog/2018/2018-04-15-over-humor-iv/,/blog/2018/2018-12-14-serierecensie-anne/,/blog/2018/2018-11-23-filmrecensie-captain-fantastic/,/blog/2018/2018-06-13-aan-alle-mensen-die-9/,/blog/2016/2016-11-12-hair/,/blog/2020/2020-08-10-de-hoogopgeleide-stoelendans/,/blog/2018/2018-02-27-klimaatverandering-deel-3/,/blog/2019/2019-02-14-de-blauwe-vinkjes/,/blog/2021/2021-03-26-omgaan-met-opstapelende-fouten/,/blog/2017/2017-11-18-december-kronieken-kerstman-staat-op-deel-3/,/blog/2016/2016-12-11-verdachte-verduisteringen/,/blog/2019/2019-02-12-filmrecensie-snowpiercer-2013/,/blog/2017/2017-03-21-risk-deel-2/,/blog/2022/2022-08-18-schrijftip-de-omgekeerde-metafoor/,/blog/2022/2022-10-16-illegaal-downloaden/,/blog/2017/2017-01-25-woordenwissel/,/blog/2023/2023-08-10-filmrecensie-nimona-2023/,/blog/2017/2017-12-17-aan-alle-mensen-die-7/,/blog/2021/2021-08-05-verschillende-leerstijlen/,/blog/2021/2021-01-23-rode-panda-update-2021/,/blog/2022/2022-12-08-de-slapende-assistente/,/blog/2016/2016-12-05-de-groeten/,/blog/2021/2021-02-09-boekrecensie-his-dark-materials-philip-pullman-1996-2002/,/blog/2017/2017-01-05-onderbuikgevoel/,/blog/diaries/dagboek-jij-moet-het-eerst-zeggen/,/blog/2021/2021-11-10-pen-lenen/,/blog/2017/2017-09-07-halli-galli/,/blog/2018/2018-01-19-beledigingsrecht/,/blog/2023/2023-04-10-wat-kahoot-ons-leert-over-spellen/,/blog/2022/2022-01-04-novembermaand-spellenmaand/,/blog/2017/2017-07-26-de-enige-waarheid/,/blog/2021/2021-09-07-praktijkles/,/blog/2020/2020-07-09-kunnen-we-de-wereld-niet-opnieuw-opstarten/,/blog/2018/2018-03-25-over-humor-i/,/blog/2020/2020-01-09-een-dagje-duo/,/blog/2021/2021-08-21-de-wisselfout-van-van-bommel/,/blog/2021/2021-05-10-cambridge-advanced-english/,/blog/2021/2021-05-03-de-vloek-van-de-programmeur-deel-6/,/blog/2018/2018-11-09-negatieve-stimulering-in-het-onderwijs/,/blog/2019/2019-05-13-over-lost-de-tv-serie/,/blog/2018/2018-11-12-osiris-2/,/blog/2022/2022-10-15-lets-game-it-out/,/blog/2020/2020-10-11-unstable-universe/,/blog/2020/2020-03-28-online-surveillantie/,/blog/2023/2023-06-09-draft2digital-een-recensie-en-uitleg/,/blog/2022/2022-12-09-de-fragiliteit-van-spellen-maken/,/blog/diaries/dagboek-levenssaga-cyclus-1/,/blog/2023/2023-01-10-het-genreprobleem-voor-de-jeugd/,/blog/2016/2016-11-07-openbaar-vervoer/,/blog/2020/2020-07-11-tablets-op-de-basisschool/,/blog/2022/2022-12-20-schrijftip-personages-met-diepgang/,/books/onverslaanbaar/,/blog/2020/2020-03-07-art-hockey/,/blog/2021/2021-12-13-windup-wizards/,/blog/2017/2017-03-31-post-handtekening/,/blog/2020/2020-02-06-een-mobiele-game-uitbrengen-deel-1/,/blog/2021/2021-07-29-wie-leest-nou-nog-boeken/,/blog/2021/2021-11-30-stiekem-onbereikbaar/,/blog/2021/2021-10-04-problemen-met-cloudflare/,/blog/2018/2018-05-20-boekrecensie-13-reasons-why/,/blog/2016/2016-11-17-tijdloze-toekomst/,/blog/2022/2022-09-26-boekrecensie-schuld-mel-wallis-de-vries/,/blog/2018/2018-11-02-de-dierenbandiet/,/books/wildebyte-secrets-of-sweettooth/,/blog/2021/2021-11-07-napoleon-hypothetisch/,/blog/2017/2017-04-09-vooroordelen/,/info/support/,/blog/2017/2017-10-10-zij-en-hun-hen/,/blog/2018/2018-09-04-le-conte-de-fees/,/blog/2019/2019-11-30-de-mobiele-markt-waar-gratis-te-duur-is/"></span>
+
+
+<script async defer src="/js/lib-functionality.min.js"></script>
+
+<div id="overlay-image" style="display: none;">
+	<img id="overlay-image-src">
+	<div class="overlay-image-instruction">(click anywhere to close)</div>
+</div>
+</body>
+</html>

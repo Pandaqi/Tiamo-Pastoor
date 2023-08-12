@@ -1,0 +1,27 @@
+---
+title: Kille Klanken
+author: tiamopastoor
+date: 2017-03-14T15:00:54+00:00
+language: nl
+categories:
+  - Miscellaneous
+
+---
+Ik heb toen ik jong was gigantische problemen gehad met het fenomeen "baard in de keel". Ik ben zelfs een jaar mijn stem bijna kwijt geweest (ik kon alleen maar grommen en hummen), hoe goed ik er ook voor zorgde. Sindsdien doe ik elke dag stemoefeningen en probeer ik mijn stem geen pijn meer te doen. Maar, nog belangrijker, ik heb toentertijd een nieuwe waardering gevonden voor praten. In plaats van dat ik kunnen praten "voor lief neem" begon ik me er ineens over te verwonderen. Hoe kan het dat wij, puur en alleen door heel snel allerlei net iets andere klanken te produceren, gigantische hoeveelheden informatie en emotie kunnen overbrengen?
+
+Denk er eens over na. Ons alfabet heeft 26 letters, die jij allemaal kan uitspreken. Sterker nog, door bepaalde letters achter elkaar te zetten krijgen we nóg meer klanken. Het enige dat jij hoeft te doen om deze klanken te krijgen is je tong net iets anders neerzetten (en misschien nog wat andere kleine spiertjes in je mond aanspannen/ontsapennen), geheel onbewust. Dat is toch knap? En het is toch bijzonder dat wij dat zo snel kunnen?
+
+
+Terwijl ik dit typ, bijvoorbeeld, denk ik van tevoren goed na over elke zin. Want ik moet de juiste woorden hebben, de juiste grammatica, de juiste betekenis overbrengen---maar als ik in gesprek zou zijn, zou ik dit ook ter plekke kunnen bedenken én uitspreken. En de ander, mits diegene Nederlands kan en fatsoenlijk staat te luisteren, begrijpt meteen wat ik zeg en spreekt ter plekke een reactie uit. Het is bijzonder dat we zo snel kunnen improviseren, maar al helemaal dat we moeiteloos met onze stembanden de informatie kunnen overdragen.
+
+Het is daarom ook erg vervelend dat ik last van mijn stem heb gekregen, en nog steeds om onverklaarbare redenen regelmatig heb. Pas wanneer dat geweldige systeem _niet_ werkt merk je hoe knap het is, en hoe lastig het is om terug te krijgen. Je merkt ook dan pas dat anderen jou vaak totaal anders horen dan jij jezelf. Soms versta ik mezelf nauwelijks, maar kunnen anderen mij perfect horen. Andersom, soms praat ik hard en duidelijk en ben ik trots op mezelf, en dan zijn mensen de hele dag van "sorry wat zeg je?"
+
+Soms praat ik laag en eentonig, en vind ik mezelf heel saai en oninteressant. Op andere dagen gaat mijn stem alle kanten op en zie ik dat mensen veel enthousiaster zijn over mij en mijn verhalen, en veel beter luisteren. Ik heb daarom ook jarenlang veel enthousiaster en hoger zitten praten dan mijn stem (of energie) aan kon, en ook al had ik vaak last van mijn stem halverwege een gesprek, het hielp wel enorm. Niet _wat_ ik zeg, maar _de manier waarop_ ik het zeg maakt het allemaal ineens een stuk leuker, en mij ineens een stuk socialer.
+
+En daar zit nou net het probleem---hoe leg je mensen uit dat je last hebt van je stem, dat je stem niet _echt _jouw stem is? Als ik mensen vertel over dat ik zo enorm veel pijn aan mijn stem heb, zijn ze allemaal van "maar je kunt altijd praten en we verstaan je prima, dus wat is het probleem?" Maar dat is het juist. Op de momenten dat ik niet kan praten merk je het niet, _want ik kan het niet zeggen_. Op diezelfde manier, omdat ik stemoefeningen doe en de meeste mensen mij niet 24/7 meemaken (tenzij ze mij bespioneren ... hmm ... dus daarom wilde iedereen dat ik Facebook aanmaakte...), weten ze niet hoeveel pijn het doet en hoe mijn stem eigenlijk hoort te klinken. Geen gekraak, geen laag gebrom, geen onduidelijke articulatie.
+
+En dat maakt al het verschil. Mensen die duidelijk spreken, zij het van nature of aangeleerd (want dat kan zeker), lijken meteen een stuk socialer en interessanter. Ik ken veel mensen die heel eentonig, of laag, of onduidelijk, of zacht praten---en iedereen vind dat eigenlijk wel oké. Ik, en met mij de meeste mensen, zijn veel onzekerder over hun eigen stem dan anderen. Anderen zijn namelijk, net als jou, gewend om heel veel verschillende stemmen en klankkleuren te horen, en zullen dus niet raar opkijken van jouw unieke stem.
+
+_Wat wil ik hiermee zeggen?_ Dat ik het fascinerend vind hoe wij kunnen praten (en zingen, for that matter), en dat je nooit moet onderschatten hoe belangrijk het is om geen kille klanken te produceren. Ik zou iedereen willen aanraden om stemoefeningen te doen, of te oefenen met articulatie, volume, en zingen. Maar, ik weet dat de meeste mensen het niet hoeven doen, want hun stem is al prima, en kleine imperfecties en verschillen in klank maakt iemands stem juist mooi.
+
+Pas als je jouw stem kwijt raakt, besef jij je hoe enorm lastig praten is. Pas dan merk je dat je wel spanning moet zetten (anders krijg je geen geluid), maar niet te veel spanning (want dan doe je jezelf pijn, en maakt je stem kapot). Je merkt dat je wel moet articuleren, maar "te veel" articuleren zorgt dat je langzaam en moeizaam praat (en mensen denken dat je gehoorschade hebt). Dus wees blij met de stem die je hebt. En mocht je bang zijn dat je stem saai of onduidelijk is, dan hoeft dat niet voor altijd zo te zijn---ik geloof dat iedereen duidelijk kan leren spreken, en zelfs kan leren zingen. Ja, zelfs als je nu zo vals klinkt als een kraai. Het enige verschil tussen een goede zanger en een slechte, is dat de goede zanger dag in dag uit moeite heeft gedaan om beter te worden. Het enige verschil tussen een interessante spreker en een rare kwast, is dat de interessante persoon moeite doet om zijn woorden zo duidelijk en enthousiast mogelijk probeert te brengen.

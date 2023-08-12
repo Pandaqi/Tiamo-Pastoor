@@ -1,0 +1,1437 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+
+
+
+
+
+
+
+
+
+<title>Speltip: Kaarten ontwerpen (een praktijkvoorbeeld) | Blog | Tiamo Pastoor</title>
+
+
+
+
+<link rel="canonical" href="https://tiamopastoor.com/blog/2019/2019-01-21-gamedev-3-kaarten-ontwerpen/" />
+<link rel="icon" type="image/png" href="https://tiamopastoor.com/favicon.png" />
+
+
+
+<link rel="stylesheet" type="text/css" href="/css/critical.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Truculenta:wght@700&display=swap">
+    
+</noscript>
+</head>
+<body>
+	 <header>
+	<div class="menu-container">
+		<nav class="menu">
+			<ul class="no-bullets flex-list">
+				<li class="priority-1"><a href="/books">Books</a></li>
+				<li class="priority-2"><a href="/blog">Blog</a></li>
+				<li class="priority-3"><a href="/info/about/">About</a></li>
+				<li class="center-logo-faker"><a href="/" class="center-logo-fake"></a></li>
+				<li class="priority-1"><button class="gotoBottomButton">Go to Menu</button></li>
+				<li class="priority-2"><a href="/books/the-saga-of-life/">Saga of Life</a></li>
+				<li class="priority-3"><a href="/series/wildebyte-arcades/">Wildebyte</a></li>
+			</ul>
+		</nav>
+	</div>
+	<div class="center-logo-container">
+		<div class="center-logo"></div>
+	</div>
+</header>
+ 
+	
+	
+	
+	
+	
+	<main>
+		<div class="center-container">
+			<div class="double-view vertical layout-reversed single-post">
+				
+				
+
+
+
+
+
+
+
+
+
+<div class="left-side hide-caption">
+    <section class="sketchy-box">
+    
+    <figure>
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Speltip: Kaarten ontwerpen (een praktijkvoorbeeld)'</span>
+		</figcaption><picture><img 
+				src="/uploads/2021/09/Naivigation-DrivingCards-Version3_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Header / Cover Image for &#39;Speltip: Kaarten ontwerpen (een praktijkvoorbeeld)&#39;"
+				title="Header / Cover Image for &#39;Speltip: Kaarten ontwerpen (een praktijkvoorbeeld)&#39;"
+				width="3627"
+				height="672"
+				class=""
+			/></picture>
+</figure>
+    </section>
+</div>
+
+
+
+				<div class="right-side">
+					<article class="sketchy-box">
+						<h1>Speltip: Kaarten ontwerpen (een praktijkvoorbeeld)</h1>
+						<div>
+							
+
+
+
+
+
+<div class="entry-metadata">
+    <span class="entry-icon entry-icon-date"></span>
+    
+    <span>January 21, 2019</span>
+
+    <span class="entry-icon entry-icon-comments"></span>
+    <span>
+        
+
+
+
+
+
+
+    
+    
+        
+        <a href="/language/nl">Dutch</a>
+    
+
+    </span>
+
+    
+        <span class="entry-icon entry-icon-reading-time"></span>
+        
+        
+        
+        <span>16 minute(s)</span>
+    
+
+    
+    
+
+    
+</div>
+						</div>
+						
+
+    <aside class="toc" id="toc" data-status="hidden">
+        <button class="toc-button striped-link" id="toc-button">
+            <span>Toggle Table of Contents</span>
+        </button>
+        <div class="toc-content" id="toc-content" style="display: none;">
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#het-tomtom-spel">&ldquo;Het TomTom-spel&rdquo;</a></li>
+    <li><a href="#hiërarchie--gewicht">Hiërarchie &amp; Gewicht</a></li>
+    <li><a href="#praktische-tips">Praktische tips</a></li>
+    <li><a href="#navigatiekaarten">Navigatiekaarten</a>
+      <ul>
+        <li><a href="#tweede-poging">Tweede poging</a></li>
+        <li><a href="#derde-poging">Derde poging</a></li>
+        <li><a href="#voldoet-de-kaart">Voldoet de kaart?</a></li>
+      </ul>
+    </li>
+    <li><a href="#autokaarten">Autokaarten</a>
+      <ul>
+        <li><a href="#autokaarten-ii">Autokaarten II</a></li>
+        <li><a href="#autokaarten-iii">Autokaarten III</a></li>
+      </ul>
+    </li>
+    <li><a href="#actiekaarten">Actiekaarten</a>
+      <ul>
+        <li><a href="#voldoet-deze-kaart">Voldoet deze kaart?</a></li>
+      </ul>
+    </li>
+    <li><a href="#dat-was-het">Dat was het!</a></li>
+  </ul>
+</nav>
+        </div>
+    </aside>
+
+						<div class="article-content">
+							<p>Bijna elk bordspel bevat kaarten. (En kaartspellen bevatten doorgaans altijd kaarten :p)</p>
+<p>Zodoende heb ik in mijn leven meer <em>speelkaarten</em> ontworpen dan wat dan ook.</p>
+<p>In dit artikel wil ik vertellen wat ik daarvan heb geleerd. (Want het is veel lastiger dan je denkt, zeker als je pas net begint, en de principes die ik heb geleerd kun je ook goed gebruiken in andere visuele ontwerpen.)</p>
+<h2 id="het-tomtom-spel">&ldquo;Het TomTom-spel&rdquo;</h2>
+<p>Ik zal de principes uitleggen aan de hand van een voorbeeld uit mijn eigen ontwerpen. De werktitel van dit project was &ldquo;het TomTom-spel&rdquo;. Het idee kun je denk ik wel raden:</p>
+<blockquote>
+<p>Alle spelers proberen samen een auto over een route te sturen, terwijl ze de instructies van de TomTom proberen op te volgen.</p>
+</blockquote>
+<div class="remark"><p>Dit is een hobbyproject. Het uiteindelijke ontwerp van de kaarten (die aan het einde zult zien) is <em>niet</em> bedoeld om in een professioneel gepubliceerd spel te worden gebruikt. Als dat het geval was, zou ik veel meer tijd besteden aan de kaarten afwerken en visuele geinigheden toevoegen.</p>
+<p>Oh, en het project is halverwege hernoemd naar &ldquo;naïvigatie&rdquo;, want ik wilde geen sluikreclame maken voor TomTom. Wat een beetje mislukt is, natuurlijk, door het schrijven van deze alinea.</p>
+</div>
+<p>Dit spel kent drie verschillende soorten kaarten:</p>
+<ul>
+<li><strong>Navigatiekaarten:</strong> deze kaarten moeten de TomTom simuleren. Ze bevatten een aanwijzing die uit een navigatiesysteem zou kunnen komen: &ldquo;eerste afslag rechts&rdquo;, &ldquo;rechtdoor op dezelfde weg&rdquo;, etc.</li>
+<li><strong>Autokaarten:</strong> deze kaarten bevatten bewegingsinstructies voor de <strong>auto</strong>. Denk aan: &ldquo;één tegel vooruit&rdquo;, &ldquo;draai naar links&rdquo;, &ldquo;draai naar rechts&rdquo;</li>
+<li><strong>Actiekaarten:</strong> deze kaarten bevatten een specifieke actie, die van alles kan zijn. (Dat was te verwachten.)</li>
+</ul>
+<p>Ik zal het ontwerpproces van alle drie de kaarten laten zien (en natuurlijk uitleggen).</p>
+<h2 id="hiërarchie--gewicht">Hiërarchie &amp; Gewicht</h2>
+<p>Als je een spel hebt met verschillende &ldquo;soorten&rdquo; of &ldquo;types&rdquo; kaarten, wil je dat in één oogopslag het verschil duidelijk is. Je wil niet dat een speler een kaart oppakt, leest, gebruikt&mdash;en er dan pas achter komt dat het helemaal geen actiekaart is.</p>
+<p>Je wilt dus dat de speler <em>als eerste</em> ziet wat voor soort kaart het is. Pas als de speler iets langer kijkt, ziet hij verdere details (zoals de specifieke actie, of hoeveel de kaart kost, etc.).</p>
+<p>Elke kaart heeft dus een bepaalde &ldquo;informatie hiërarchie&rdquo;. Voor mijn spel is deze hiërarchie gelukkig simpel:</p>
+<ol>
+<li>Soort (navigatie, auto, of actie)</li>
+<li>Actiesymbool (de richting van de navigatie, de instructie voor de auto, of de titel van de actie)</li>
+<li>Details (evt. tekeningen, opvullingen, uitleg van iets, etc.)</li>
+</ol>
+<p>Het principe is dus als volgt:</p>
+<blockquote>
+<p><strong>Leid de ogen van de speler van de _eerste categorie _in de hiërarchie naar de <em>laatste categorie</em></strong></p>
+</blockquote>
+<p>In visueel ontwerpen spreekt men vaak over het &ldquo;gewicht&rdquo; van een voorwerp. Iemands ogen glijden automatisch van iets met een zwaar gewicht naar een licht gewicht. De vraag is nu: <em>hoe maak je iets zwaarder of lichter?</em></p>
+<p>Hieronder zijn enkele veelvoorkomende ideeën om iets <strong>zwaarder</strong> te maken:</p>
+<ul>
+<li>Plaats het meer naar <strong>links</strong>. (Mensen lezen van links naar rechts. Althans, in grote delen van de wereld.)</li>
+<li>Plaats het meer naar <strong>boven</strong>. (Mensen lezen van boven naar onder. Daarnaast voelt de onderkant van de kaart als &ldquo;de grond&rdquo;, en alles wat daarboven zweeft voelt zwaarder.)</li>
+<li>Maak het <strong>groter.</strong></li>
+<li>Geef het meer <strong>(wit)ruimte.</strong></li>
+<li>Geef het een fellere <strong>kleur</strong> (of complexere <strong>textuur</strong>).</li>
+<li>Plaats het <em>vaker</em> op de kaart.</li>
+</ul>
+<h2 id="praktische-tips">Praktische tips</h2>
+<p>Kaarten zijn gemaakt om in de hand te nemen. Je kunt er dus vanuit gaan dat een groot deel van de kaart <em>niet zichtbaar</em> is, vanwege iemands vingers óf vanwege andere kaarten. Het volgende principe geldt:</p>
+<blockquote>
+<p><strong>Het is het <em>altijd</em> aan te raden om zoveel mogelijk informatie te geven via de hoeken en de randen.</strong></p>
+</blockquote>
+<p><em>Opmerking:</em> in veel gevallen zal de linkerbovenhoek het belangrijkst zijn, maar dat ligt aan persoonlijke voorkeuren van mensen, want sommigen spreiden kaarten andersom of pakken ze anders in de hand.</p>
+<p>Daarnaast zijn mensen véél sneller in <em>patronen</em> herkennen dan in <em>tekst lezen</em>. Waarom zou je op elke kaart tekst zetten (&ldquo;als je deze kaart speelt krijg je één extra leven&rdquo;, als je dat ook kunt vervangen door een symbool (zoals een hartjesicoontje)?</p>
+<p>Dat geeft het volgende principe:</p>
+<blockquote>
+<p><strong>Vervang zoveel mogelijk tekst met unieke (en duidelijk herkenbare) icoontjes/symbolen.</strong></p>
+</blockquote>
+<p>Waarom zet ik &ldquo;duidelijk herkenbaar&rdquo; tussen haakjes? Omdat veel spellen wel symbolen gebruiken, maar ze zijn óf te klein, óf ze lijken veel te veel op elkaar. Een muntje betekent dan iets compleet anders dan een muntje met een streep eronder &hellip; maar wie gaat dat nou altijd goed zien? Een laatste probleem ontstaat wanneer symbolen <em>inconsistent</em> zijn, maar dat is een heel artikel op zichzelf.</p>
+<p>Ten derde: kaarten worden op tafel gespeeld. Mensen zitten <em>rondom</em> een tafel en bekijken de kaart dus vanuit verschillende hoeken. Het laatste principe is derhalve:</p>
+<blockquote>
+<p><strong>Probeer je kaart direct leesbaar te maken vanuit alle hoeken.</strong></p>
+</blockquote>
+<p>Het gebruik van symbolen helpt hierbij al enorm. (Een hartje op de kop herkent men wel als hartje. Tekst op de kop is niet te lezen.) Daarnaast worden veel kaarten gespiegeld (denk aan standaard speelkaarten waarbij de cijfers ondersteboven staan op de onderkant).</p>
+<div class="remark">Omdat de <strong>richting</strong> in mijn spel heel belangrijk is, zal ik niet goed aan het laatste principe kunnen voldoen. Het moet immers duidelijk zijn wat &ldquo;boven&rdquo; is op de kaart en wat &ldquo;onder&rdquo;, anders weet je niet welke richting de pijl nou aangeeft.</div>
+<h2 id="navigatiekaarten">Navigatiekaarten</h2>
+<p><strong>Belangrijk:</strong> ik heb de grootte van de kaarten definitief bepaald vóórdat ik begon met ontwerpen. De grootte maakt namelijk veel uit. Je kunt niet een ontwerp zomaar even laten krimpen of groeien en verwachten dat het nog even goed werkt. Ik wist dat dit spel véél kaartjes ging gebruiken, dus ik maak de kaartjes wat kleiner dan normaal om papier/inkt te besparen. Ik ging uiteindelijk voor 20 kaartjes per A4. Dit geeft een afmeting van 48×55 mm.</p>
+<p>Oké, wat moet de navigatiekaart laten zien? Een instructie voor de route. Voorbeelden zijn:</p>
+<ul>
+<li>&ldquo;Rechtdoor&rdquo;</li>
+<li>&ldquo;Eerste afslag rechts&rdquo;</li>
+<li>&ldquo;Tweede afslag rechts&rdquo;</li>
+<li>&ldquo;Houdt links aan&rdquo;</li>
+<li>&ldquo;Keer om&rdquo;</li>
+</ul>
+<p>Het leek me leuk om de interface van de TomTom na te maken, omdat dat precies is wat deze kaarten nabootsen. Bovendien zijn veel mensen al bekend hiermee, wat het makkelijker maakt het spel direct te begrijpen.</p>
+<p>In die interface staat doorgaans de <em>tijd</em>, hoeveel <em>kilometer</em> men nog moet, etc. Deze heb ik allemaal niet nodig en hoef ik dus niet op de kaart te zetten. Dat scheelt weer ruimte en complexiteit! Hieronder heb ik een kale (snelle) representatie getekend van zo&rsquo;n TomTom interface:</p>
+<p>
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2021 09 naivigation navigation cards 02 result</span>
+		</figcaption><picture><img 
+				src="/uploads/2021/09/Naivigation-NavigationCards-02_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2021 09 naivigation navigation cards 02 result"
+				title="Uploads 2021 09 naivigation navigation cards 02 result"
+				width="650"
+				height="568"
+				class=""
+			/></picture>
+</figure></p>
+<p>Natuurlijk moet deze kaart &ldquo;rechtdoor op dezelfde weg&rdquo; voorstellen.</p>
+<p>Ik mis nog een aantal cruciale onderdelen:</p>
+<ul>
+<li>Er staat normaal gesproken geen <em>tekst</em> op een TomTom. De instructies worden <em>gesproken</em>. Dus ik moet iets verzinnen om de tekst op de kaart te zetten <em>zonder</em> dat het overvol of onduidelijk wordt.</li>
+<li>Ik moet een duidelijke &ldquo;taal&rdquo; bedenken voor de symbooltjes onderaan. Welke symbolen gebruik je voor &ldquo;tweede afslag rechts&rdquo;? Welke symbolen voor &ldquo;rechtdoor op dezelfde weg&rdquo;?</li>
+<li>Er moet een pijl op de weg die de richting aangeeft. (Nu is het gewoon een willekeurige weg.)</li>
+<li>Er moet een manier zijn om de kaartsoort (&ldquo;navigatie&rdquo;) <em>meteen</em> te herkennen. (In sommige varianten van het spel heb je deze kaarten in je hand. Dan moet je dus meteen kunnen zien dat het hier navigatie betreft.)</li>
+<li>De kaart is nu &ldquo;liggend&rdquo; (de lange zijde is horizontaal), terwijl kaarten normaal gesproken &ldquo;staand&rdquo; zijn (de lange zijde is verticaal). Ik kan dit gebruiken als <em>extra</em> onderscheid van de andere kaarten. Maar dat kan ook juist verwarrend zijn.</li>
+<li>Ik denk dat het niet nodig is om echt bomen en wolken te maken. De kaart wordt waarschijnlijk juist duidelijker en simpeler als ik die versieringen weglaat.</li>
+</ul>
+<h3 id="tweede-poging">Tweede poging</h3>
+<p>De volgende iteratie van het ontwerp zag er als volgt uit:</p>
+<p>
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2021 09 naivigation navigation cards version2 02 result</span>
+		</figcaption><picture><img 
+				src="/uploads/2021/09/Naivigation-NavigationCards-Version2-02_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2021 09 naivigation navigation cards version2 02 result"
+				title="Uploads 2021 09 naivigation navigation cards version2 02 result"
+				width="650"
+				height="568"
+				class=""
+			/></picture>
+</figure></p>
+<p>Dit zijn de belangrijkste veranderingen:</p>
+<ul>
+<li>Er zit een rand om de kaart heen. Deze rand is donkerbruin/donkeroranje en zal gebruikt worden voor alle navigatiekaarten. (Een lichte kleur is veel te fel en afleidend.)</li>
+<li>In elke hoek staat een symbooltje. De bedoeling was om datzelfde symbool te gebruiken als Google Maps om een plaats aan te duiden. Ik weet niet of dat voor iedereen meteen duidelijk is eigenlijk &hellip; Ik vind het wel een leuk symbooltje. Het enige probleem: ik heb een beetje een gebrek aan ruimte in de hoeken: de symbooltjes staan een beetje te dicht op andere onderdelen.
+<ul>
+<li>Ik heb de symbooltjes niet gespiegeld. Dat komt omdat de <em>richting</em> van de kaart belangrijk is, én omdat dit specifieke symbooltje er&mdash;eh&mdash;bijzonder uitziet als je er twee op de kop naast elkaar zet.</li>
+</ul>
+</li>
+<li>Onderaan heb ik meerdere pijlen toegevoegd. Actieve pijlen worden wit en krijgen de focus, de andere pijlen worden doorzichtig en vervagen in de bruine achtergrond. De combinatie van pijlen geeft de instructie weer. (Bijvoorbeeld: &ldquo;eerste afslag rechts&rdquo; heeft één pijl rechtdoor, en één pijl naar rechts. &ldquo;Tweede afslag links&rdquo; heeft twee pijlen rechtdoor, en één pijl naar links.)</li>
+<li>Er staat tekst op de kaart! Het leek me leuk om echt te doen alsof het uitgesproken werd door de kaart, vandaar de tekstbubbel.</li>
+</ul>
+<p>Ik vind het op zich leuk! Maar alles kan beter, natuurlijk. Mijn grootste probleem zit bij het midden van de kaart: de weg + oranje pijlen. Bij een rechte weg kan dit nog, maar een kaart met een bocht kan onhandig worden, en een rotonde wordt al helemaal een hel. (Ik vind de schaduw onder de pijlen wel echt super leuk. Ik ga kijken of ik die erin kan houden.)</p>
+<p>Misschien heb ik liever een lijn over de weg die de route aangeeft, alsof je een route uitstippelt op een schatkaart. Dat gaat de grootste verandering worden voor de derde versie.</p>
+<h3 id="derde-poging">Derde poging</h3>
+<p>Dit is de derde iteratie van het ontwerp:</p>
+<p>
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2021 09 naivigation navigation cards version3 02 result</span>
+		</figcaption><picture><img 
+				src="/uploads/2021/09/Naivigation-NavigationCards-Version3-02_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2021 09 naivigation navigation cards version3 02 result"
+				title="Uploads 2021 09 naivigation navigation cards version3 02 result"
+				width="651"
+				height="568"
+				class=""
+			/></picture>
+</figure></p>
+<p>Ten eerste: de verkleinde hoeksymbooltjes vind ik geen succes. Toegegeven, de rest krijgt nu meer ruimte en de kaart is minder druk. Maar de grootte klopt niet meer en deze symbolen staan niet meer op dezelfde lijn als de andere objecten. Mede daardoor ziet het er gewoon onhandig en chaotisch uit. (Ik vind de symbooltjes wel heel schattig, zo klein.) Dus ik ga waarschijnlijk terug naar de oude symbolen, zorg dat ze mooi op één lijn staan met de rest, en kijk waar ik ruimte vandaan kan toveren.</p>
+<p>Ten tweede: de tekst moet echt niet kleiner worden dan dit. (De uiteindelijke kaart is ongeveer drie maal kleiner dan het uitvergrote plaatje hierboven.) Men zegt vaak dat &ldquo;10pt&rdquo; de minimum lettertypegrootte is, maar in mijn ervaring kun je maar beter rond de 14-16pt zitten. (Oudere mensen met minder zicht kunnen het anders echt niet lezen, of lezen het constant verkeerd. Jonge kinderen schrikken gewoon van kleine tekst :p) Om dit te bereiken heb ik sommige &ldquo;aanwijzingen&rdquo; herschreven om ze korter te maken.</p>
+<p>Ten derde: ik heb alle objecten rondom de weg weggehaald (dat was een onbedoelde woordgrap). Er is geen ruimte voor, zeker niet bij zo&rsquo;n kruispunt. Daarnaast zijn ze niet nodig, want ze geven geen extra informatie of &ldquo;hints&rdquo; om de andere informatie beter te begrijpen. (Misschien dat ik op de uiteindelijke kaarten wel hier en daar een boompje neerzet, of een schaap.)</p>
+<p>Op zich vind ik de route wel leuk, maar het is niet helemaal wat ik ervan had verwacht. (Een gestippelde route, zoals bij een schatkaart, werkte niet goed in perspectief. Een schatkaart is 2D, dan werkt het wel. Dat is mijn schatkaartentheorie.) Het is wel beter te volgen, duidelijker, en mooier dan de pijlen hiervoor. Ik ga het er sowieso inhouden, ik moet alleen uitzoeken hoe ik het nog beter maak.</p>
+<div class="remark">Aangezien we in Nederland aan de rechterkant van de weg rijden, ga ik de linkerkant van mijn weg dus nooit gebruiken. (Met uitzondering van de &ldquo;keer om&rdquo;-kaart en misschien de &ldquo;rij achteruit&rdquo; kaart.) Ik vind dit oké. Een TomTom zou er ook oké mee zijn, want die laat ook alleen maar jouw kant van de weg zien. Die extra rijbaan zit erbij voor de compleetheid en het realisme.</div>
+<h3 id="voldoet-de-kaart">Voldoet de kaart?</h3>
+<p>Stel deze kaart verschijnt. Kun je meteen zien welk type kaart het is? Het heeft een karakteristieke rand + vier keer het navigatiesymbool. Als je hem in de hand hebt, kun je het dan ook meteen zien? Ja, zelfde reden. Kan men zonder tekst weten wat de kaart voorstelt? Ja. De eerste paar kaarten zullen nog even wennen zijn, maar daarna lijken de symbolen mij vanzelfsprekend. Is er &ldquo;backup&rdquo; voor als men het niet begrijpt? Ja, de instructie staat ook op de kaart (als tekst), en de instructie is aangegeven in het wegenplaatje.</p>
+<p>Merk op dat zowel de <strong>tekst</strong> (bovenaan) als de <strong>symbolen</strong> (onderaan) allebei de kleur wit bevatten, een afgekaderde ruimte om zich heen hebben, en verticaal gezien op één lijn staan. Dit doet drie dingen:</p>
+<ul>
+<li>Het geeft aan dat ze aan elkaar gerelateerd zijn. (Ze vertellen allebei dezelfde instructie.)</li>
+<li>Het plaatst hen hoger in de visuele hiërarchie dan het wegenplaatje (plus route). Die bevat meer onschuldige kleuren (groen/blauw/grijstinten). Je zou het &ldquo;rustiger&rdquo; kunnen noemen.</li>
+</ul>
+<p>Ik vind dat het voldoet.</p>
+<div class="remark">De Google Maps-symbooltjes zijn nu wel een beetje aan het vechten om aandacht. Ze staan lager in de hiërarchie dan hun gewicht doet vermoeden (dat komt vooral omdat ze een felle kleur hebben, vaker op de kaart staan, en op belangrijke posities (alle hoeken)). Ik zoek nog even hoe ik dat kan oplossen. Misschien kan het witte rondje een zachter roze worden, of kleiner worden. Ik kan misschien ook het hele ding van kleur veranderen.</div>
+<p>Ik denk dat we nu lang genoeg bij deze kaartsoort hebben stilgestaan. (Als het spel af is, zal ik het op de site zetten. Je vindt het dan via de &ldquo;Bordspellen&rdquo; pagina. Dan kun je meteen <em>alle</em> uiteindelijke versies van de kaarten bekijken.)</p>
+<p>Op naar de volgende!</p>
+<h2 id="autokaarten">Autokaarten</h2>
+<p>Er zijn maar weinig verschillende autokaarten in het spel. (Je hebt vooruit, achteruit, kwartslag draaien, halve slag draaien. Ik heb geen kaarten om de auto een salto te laten maken of ineens diagonaal over het bord te laten racen.) Ik denk daarom dat het mogelijk is om het <em>soort autokaart</em> in de hoeken te laten zien. Vergelijkbaar met het Google Maps-symbool van de navigatiekaarten, maar dan een uniek symbool waaraan je meteen ziet welke autokaart je in de hand hebt.</p>
+<p>In het midden van de kaart zet ik datzelfde symbool, maar dan veel groter. Waarschijnlijk komt daaronder een kort stukje tekst dat de instructie bevestigt. (Eerst wilde ik ook op deze kaart een pijl maken en misschien zelfs een autootje op de weg tekenen. Maar dan zou het teveel lijken op de navigatiekaarten én te druk worden.)</p>
+<p>Aangezien deze kaart bijna compleet bestaat uit symbolen, maakte ik eerst de symbolen. (Zo wist ik de afmetingen, kleuren en andere restricties voordat ik de gehele kaart begon te ontwerpen.)</p>
+<p>
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2021 09 naivigation driving cards result</span>
+		</figcaption><picture><img 
+				src="/uploads/2021/09/Naivigation-DrivingCards_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2021 09 naivigation driving cards result"
+				title="Uploads 2021 09 naivigation driving cards result"
+				width="3627"
+				height="672"
+				class=""
+			/></picture>
+</figure></p>
+<p>Een paar opmerkingen:</p>
+<ul>
+<li>De groene/rode highlights zijn een experiment. Ze maken de pijl een beetje 3D en geven nuttig informatie door (groen is begin/naar voren, rood is einde/naar achteren). Maar als ik de symbooltjes klein maak (in de hoeken van de kaart) haal ik die kleuren waarschijnlijk weg. Als de highlights écht niet werken, haal ik ze gewoon helemaal weg en worden het weer platte symbooltjes.</li>
+<li>Het vervagen van de pijl (bij de eerste drie symbolen) vind ik heel gaaf. Ik zoek nog een manier om dit ook bij de kwartslag/halve slag toe te passen. Ik heb nu alleen steeds een stukje opengelaten aan het einde van elke pijl. (Dat zijn die &ldquo;gaten&rdquo; in de cirkel.)</li>
+<li><em>Waarom doe je niet gewoon een pijl opzij voor &ldquo;kwartslag/halve slag&rdquo; draaien?</em> Ten eerste: alleen een pijl opzij is verwarrend. Dan denkt men dat je zomaar naar links/rechts kan, zonder te hoeven draaien. Het betreft hier een kaart die de auto alleen maar mag <em>draaien</em>, niet <em>verplaatsen</em>, dus een cirkel of draaiende pijl leek me logisch. Ten tweede: ik heb geprobeerd net zo&rsquo;n pijl te doen als bij de navigatiekaarten. Dit zag er lelijk uit, paste niet op de kaart, én gaf de draaibeweging niet goed weer. Dus koos ik voor de huidige symbolen.</li>
+</ul>
+<p>Verder vind ik de symbolen wel goed gelukt 🙂 Dus we kunnen door naar het ontwerpen van de hele kaart!</p>
+<h3 id="autokaarten-ii">Autokaarten II</h3>
+<p>Veel van ons werk is al gedaan (toen ik hiervoor de navigatiekaarten ontwierp). De kaarten hebben al een eigen algemene kleur (&ldquo;grijs&rdquo;) die doorschijnt in de rand, de achtergrond, en de symbolen. De pijlen van de symbolen zijn qua stijl hetzelfde als de pijlen in de navigatiekaarten. Ook het lettertype is hetzelfde, hoewel het deze keer schuingedrukt is, omdat het hier ietsje minder belangrijk is. (En de kaart is minder druk.)</p>
+<p>De grootste uitdaging is: symbolen op de vier hoeken plaatsen. Mijn idee was om een soort &ldquo;autootje&rdquo; van bovenaf te tekenen, die op elke hoek te plaatsen, en daarin het symbool (in het klein, natuurlijk) te plaatsen. Laten we kijken hoe dat eruit ziet.</p>
+<p>
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2021 09 naivigation driving cards version2 result</span>
+		</figcaption><picture><img 
+				src="/uploads/2021/09/Naivigation-DrivingCards-Version2_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2021 09 naivigation driving cards version2 result"
+				title="Uploads 2021 09 naivigation driving cards version2 result"
+				width="3627"
+				height="672"
+				class=""
+			/></picture>
+</figure></p>
+<p>Zoals je ziet heb ik enkele van de &ldquo;draaipijlen&rdquo; veranderd. Ik was benieuwd of dit mooier en/of duidelijker was dan alleen een groene/rode kop van de pijl. Het eerste ontwerp (groene rand) is mooi consistent met de andere kaarten, maar het tweede ontwerp (helemaal groene pijl) vind ik iets sterker. In het algemeen kun je dan het beste <em>beide werelden combineren</em>: ik kleur alle pijlen helemaal in (ipv alleen de rand), zelfs bij de &ldquo;vooruit&quot;pijlen die ik zo ook wel goed vond.</p>
+<p>Daarnaast vind ik de hoeksymbooltjes mooi gelukt! Je kunt zien dat het een autootje is, maar het staat niet in de weg en past mooi binnen het ontwerp. Ik vind het er heel strak en gaaf uitzien. Ook hou ik van het &ldquo;negatieve kleureffect&rdquo;: de grote pijl is donker op een lichte achtergrond; de symbooltjes zijn licht op een donkere achtergrnod.</p>
+<p>Het enige kritiekpuntje is dat de draaisymbooltjes teveel op elkaar lijken én te klein zijn. Ik verwacht dat je de kaart haast tegen je neus moet drukken om het verschil tussen de hoeksymbooltjes te zijn bij &ldquo;kwartslag naar rechts&rdquo; en &ldquo;kwartslag naar links&rdquo;. Dus ik denk dat ik&mdash;met pijn in mijn hart&mdash;voor de hoeksymbooltjes maar één pijl gebruik en de rest weglaat.</p>
+<h3 id="autokaarten-iii">Autokaarten III</h3>
+<p>Dit is de uiteindelijke versie voor alle kaarten:</p>
+<p>
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2021 09 naivigation driving cards version3 result</span>
+		</figcaption><picture><img 
+				src="/uploads/2021/09/Naivigation-DrivingCards-Version3_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2021 09 naivigation driving cards version3 result"
+				title="Uploads 2021 09 naivigation driving cards version3 result"
+				width="3627"
+				height="672"
+				class=""
+			/></picture>
+</figure></p>
+<p>Wederom, natuurlijk is dit niet perfect of &ldquo;100% af&rdquo;. Maar dit artikel gaat dan ook over het ontwerpen van bruikbare, leesbare kaarten. In dit geval ben ik tevreden omdat:</p>
+<ul>
+<li>Het onderscheid tussen vooruit en achteruit is duidelijk (kleurverandering). Ik weet uit ervaring namelijk dat mensen dit anders gaan vergeten en &ldquo;achteruit&rdquo; per ongeluk omdraaien naar &ldquo;vooruit&rdquo;, en vice versa.</li>
+<li>De pijlen &ldquo;poppen&rdquo; uit de achtergrond. De algehele kleur (grijs) is duidelijk, en de accentkleuren maken het iets levendiger en minder saai/plat/eentonig.</li>
+<li>De symbolen op de hoek zijn goed zichtbaar op elke manier en geven goed aan wat de kaart doet.</li>
+<li>Er is wederom een &ldquo;backup&rdquo;: als je het symbool niet begrijpt, is er de tekst. Eventueel begrijp je misschien het hoeksymbool wel meteen (en de tekening in het midden niet). Bovendien geven de &ldquo;vervagende streepjes&rdquo; goed aan waar de achterkant van de pijl zit.</li>
+<li>Het voelt als een geheel. Je ziet een bepaald visueel patroon (zoals de kleur, de symbolen, het groen/rode accent, etc.) en weet meteen wat voor soort kaart het is en eventueel wat het doet.</li>
+</ul>
+<h2 id="actiekaarten">Actiekaarten</h2>
+<p>Als laatste zijn er de <em>actiekaarten</em>. In eerste instantie had ik het idee om een papieren vliegtuigje als symbool te nemen, en in de achtergrond een soort &ldquo;windvlagen&rdquo; te maken. Toen ik dit idee had, echter, waren de andere ontwerpen een stukje &ldquo;losser&rdquo; en &ldquo;speelser&rdquo;. Ik weet dus niet of dit idee nog goed past. Er is maar één manier om dat uit te vinden: het gewoon proberen!</p>
+<p><em>Wat bedoel je met &ldquo;losser</em>/<em>speelser&rdquo;?</em> De kaarten hierboven zijn vrij strak en recht. De routetegels&mdash;die je niet in dit artikel ziet&mdash;zijn evenzo rechte lijnen en perfecte rechthoeken. Ik had de pijlen ook wobbelig of ronder kunnen maken. Ik had ook veel meer kleuren kunnen gebruiken, of een speelse textuur op de achtergrond. Maar dat heb ik niet gedaan. <em>Waarom?</em> Omdat het spel anders te onduidelijk werd. Het is héél belangrijk in dit spel om precies te kunnen visualiseren wat de route is en wat een bepaalde kaart doet. Daarvoor moet je precies rechte wegen hebben en duidelijke, rechtlijnige aanwijzingen (van de navigatiekaarten). En ja, als die stijl is vastgelegd, kan ik moeilijk de stijl voor de andere kaarten drastisch veranderen.</p>
+<p>Dit zijn de eerste pogingen/iteraties met het papieren vliegtuigje:</p>
+<p>
+
+<figure>
+	<figcaption class="side-note">
+			<span>Uploads 2021 09 naivigation action cards result</span>
+		</figcaption><picture><img 
+				src="/uploads/2021/09/Naivigation-ActionCards_result.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Uploads 2021 09 naivigation action cards result"
+				title="Uploads 2021 09 naivigation action cards result"
+				width="1895"
+				height="672"
+				class=""
+			/></picture>
+</figure></p>
+<p>In eerste instantie wilde ik de kaart blauw maken. Want papieren vliegtuigje = lucht = blauw. Maar toen zag ik dat ik bij de routetegels al blauw had gebruikt (voor water) én een donkerpaars (voor stenen). Ik wilde niet dat spelers dachten dat deze actiekaart iets te maken had met water/steen. Het zou alleen maar verwarring veroorzaken, omdat spelers onbewust dat patroon denken te zien.</p>
+<p>Gelukkig zag ik dat ik één kleur (van mijn kleurenschema) niet had gebruikt bij de routetegels. Dit was een lichte geel/beige kleur die ik goed kon gebruiken (mede omdat de andere kaarten niet bijzonder licht zijn).</p>
+<p>Toen kwam ik erachter dat ik het dikgedrukte lettertype eigenlijk niet ideaal vond. Dus ik wisselde terug naar het normale lettertype.</p>
+<p>De hoeksymbooltjes voelden alsof ze uit het niets op de kaart waren geplopt. Ik wilde ze iets van een rand of ondergrond geven, en het meest logische leek mij een schaduw. Op zich vind ik het goed gelukt, hoewel de schaduw zelf misschien nog beter kan. (Zeker omdat deze kaart gespiegeld is, zoals ik uitleg in onderstaande paragraaf &hellip;)</p>
+<p>Dit idee van &ldquo;grounding&rdquo; is belangrijk bij visueel ontwerpen. Je wilt dat elementen van het ontwerp precies in hun plaats vallen en verbonden zijn met de rest van de elementen. Je wilt het gevoel geven dat ze een essentieel onderdeel zijn van het ontwerp en zelfverzekerd &ldquo;op de grond&rdquo; rusten. Vandaar de schaduw, maar vandaar ook het weggetje dat naar de tekst leidt, en het witte vlak om de tekst heen, en de &ldquo;windslierten&rdquo; die het idee geven dat het papieren vliegtuigje hier thuishoort.</p>
+<p>Als laatste dacht ik: deze kaarten zullen geen symbolen bevatten. Elke actie betekent namelijk iets anders in elk van de 3 spelvarianten die ik heb bedacht. Dus de kaart die je boven ziet&mdash;met alleen maar tekst&mdash;is hoe elke kaart zal worden. Dat kan nog wel eens een probleem zijn, want tekst ondersteboven lezen is niet ideaal. Dus ik besloot deze kaart te spiegelen. Nu kan je de kaart van boven én onder meteen lezen en begrijpen.</p>
+<div class="remark">De &ldquo;windslierten&rdquo; op de achtergrond van de kaart vond ik eerst een probleem, maar in de uiteindelijke kaart (met de tekst eroverheen, en het weggetje dat naar de tekstbox leidt) vind ik het eigenlijk wel leuk staan. Dus ik laat het zo. Ik vind het een grappige, speelse toevoeging in een anderzijds wat statisch ontwerp.</div>
+<div class="remark">De hoeksymbooltjes zijn, wederom, een klein beetje overheersend. Normaal gesproken zou ik twee symbolen hebben weggelaten door alleen een symbool in de <em>linkerbovenhoek</em> en <em>rechteronderhoek</em> te plaatsen. Maar <em>elke</em> kaart in dit spel heeft alle vier de hoeken gevuld, dus het zou inconsistent zijn om het hier ineens niet te doen.</div>
+<h3 id="voldoet-deze-kaart">Voldoet deze kaart?</h3>
+<p>Deze vraag heb ik eigenlijk al beantwoord in de opmerkingen hierboven. De kaart heeft een eigen kleurenschema dat je kunt herkennen. De rand en de hoeksymbooltjes geven meteen aan dat dit een &ldquo;actiekaart&rdquo; is. Het <em>soort</em> symbool (papieren vliegtuigje + &ldquo;windslierten&rdquo;) geeft intuïtief ook het idee van actie/beweging.</p>
+<p>De tekst op de kaart is leesbaar van beide richtingen en is verbonden (op thematische wijze!) met de rest van het ontwerp.</p>
+<p>Het enige nadeel is dat de <em>tekst</em> niet meteen zegt <em>wat de actie inhoudt</em>, maar dat is een specifiek probleem van mijn spel. Om dat op te lossen moet ik de tekst zo vanzelfsprekend mogelijk maken. (En natuurlijk staat de volledige uitleg van de kaarten in een mooi overzicht in de spelregels.)</p>
+<div class="example"><p>De kaart hierboven heet &ldquo;toeristische route&rdquo;. Wat is de eerste gedachte van mensen? Een omweg, een langere route dan normaal gesproken, een route langs bezienswaardigheden. Laat dat nou (ongeveer) de betekenis van de kaart zijn in de drie spelvarianten!</p>
+<p>Andere kaarten heten bijvoorbeeld &ldquo;keer om&rdquo; (neem je laatste zet terug) of &ldquo;signaal verloren&rdquo; (de navigatiekaart voor deze ronde wordt weggehaald en/of telt niet). In het algemeen is het verstandig om eerst het <em>spelontwerp</em> zo helder mogelijk te hebben, en dan pas problemen op te lossen met het <em>visueel ontwerp</em>.</p>
+</div>
+<h2 id="dat-was-het">Dat was het!</h2>
+<p>Ik hoop dat je veel interessante dingen hebt geleerd over visueel ontwerpen in het algemeen en speelkaarten ontwerpen in specifieke zin!</p>
+<p>Ik hoop ook dat je beseft dat dit geen 100% complete handleiding is. De voorbeeldontwerpen zijn verre van af en zouden in deze vorm waarschijnlijk nooit in een professioneel spel belanden. Ook heb je soms hele andere eisen aan de kaarten in een spel. Als een kaart veel meer informatie moet bevatten (dan in mijn voorbeelden), moet je al anders gaan denken over het ontwerp. Ook ken ik spellen waarbij kaarten een andere functie hebben als je ze omdraaid of een kwartslag draait. Dat brengt ook interessante designkwesties met zich mee.</p>
+<p>Misschien dat ik in de toekomst ook van die unieke kaarten ontwerp. In dat geval zal ik er weer een artikel over schrijven!</p>
+<p>Voor nu gaat het volgende deel van deze reeks (deel 4) over scoresystemen en wincondities in bordspellen. En zoals altijd: blijf leuke spellen maken!</p>
+
+						</div>
+					</article>
+					
+
+<div class="related-posts">
+    <h3>Related Posts</h3>
+    <ul class="no-bullets related-posts-list">
+        
+            
+
+
+
+<section class="minimal-grid-item sketchy-box vertical">
+	<a href="/blog/2023/2023-08-01-mantis-simulatie/">
+		<div class="double-view vertical">
+			
+
+
+
+
+
+
+
+
+
+<div class="left-side hide-caption">
+    
+    
+    <figure>
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Mantis (Simulatie)'</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/01/mantis_board_game-1.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Header / Cover Image for &#39;Mantis (Simulatie)&#39;"
+				title="Header / Cover Image for &#39;Mantis (Simulatie)&#39;"
+				width="600"
+				height="600"
+				class=" no-click"
+			/></picture>
+</figure>
+    
+</div>
+
+
+			<div class="right-side">
+				<div class="minimal-post-title">Mantis (Simulatie)</div>
+			</div>
+		</div>
+	</a>
+</section>
+        
+            
+
+
+
+<section class="minimal-grid-item sketchy-box vertical">
+	<a href="/blog/2023/2023-07-21-photomone/">
+		<div class="double-view vertical">
+			
+
+
+
+
+
+
+
+
+
+<div class="left-side hide-caption">
+    
+    
+    <figure>
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Photomone'</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/03/photomone_header.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Header / Cover Image for &#39;Photomone&#39;"
+				title="Header / Cover Image for &#39;Photomone&#39;"
+				width="2481"
+				height="877"
+				class=" no-click"
+			/></picture>
+</figure>
+    
+</div>
+
+
+			<div class="right-side">
+				<div class="minimal-post-title">Photomone</div>
+			</div>
+		</div>
+	</a>
+</section>
+        
+            
+
+
+
+<section class="minimal-grid-item sketchy-box horizontal">
+	<a href="/blog/2023/2023-07-18-spelrecensie-happy-little-dinosaurs/">
+		<div class="double-view horizontal">
+			
+
+
+
+
+
+
+
+
+
+<div class="left-side hide-caption">
+    
+    
+    <figure>
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Spelrecensie: Happy Little Dinosaurs'</span>
+		</figcaption><picture><img 
+				src="/uploads/2023/05/happy_little_dinosaurs.webp" 
+				loading="lazy" 
+				decoding="async" 
+				alt="Header / Cover Image for &#39;Spelrecensie: Happy Little Dinosaurs&#39;"
+				title="Header / Cover Image for &#39;Spelrecensie: Happy Little Dinosaurs&#39;"
+				width="550"
+				height="730"
+				class=" no-click"
+			/></picture>
+</figure>
+    
+</div>
+
+
+			<div class="right-side">
+				<div class="minimal-post-title">Spelrecensie: Happy Little Dinosaurs</div>
+			</div>
+		</div>
+	</a>
+</section>
+        
+    </ul>
+</div>
+
+				</div>
+			</div>
+		</div>
+	</main>
+
+	<div class="footer-transition"></div>
+
+<footer>
+	<div class="footer-content">
+		<aside>
+			<h3>Latest / Upcoming Project</h3>
+			
+			
+			
+			
+			
+				
+				
+				
+				
+			
+			
+
+
+
+
+
+
+
+
+
+<div class="hide-caption image-top-margin">
+    
+    
+    <figure>
+		
+	
+	<figcaption class="side-note">
+			<span>Header / Cover Image for 'Onverslaanbaar'</span>
+		</figcaption><picture>Cannot find image:staticonverslaanbaar_cover.webp</picture>
+</figure>
+    
+</div>
+
+
+			
+
+			<div><p>Jinny ontmoet de man van haar dromen en zijn vrienden op een feest. Ze vieren dat Quinten zojuist miljonair is geworden dankzij een wereldberoemde bestseller genaamd &ldquo;Onverslaanbaar&rdquo;: een episch boek dat alles goed doet en jong en oud gek maakt.</p>
+<p>Ze verheugt zich op een spannende avond, …</p></div>
+			<a class="striped-link" href="/books/onverslaanbaar/"><span>Read More!</span></a>
+		</aside>
+		<aside>
+			<h3>Latest Posts</h3>
+			<nav>
+				<ul class="no-bullets flex-list">
+					
+					
+						<li>
+							<a href="/blog/2023/2023-08-10-filmrecensie-nimona-2023/" class="striped-link">
+								<span>Filmrecensie: Nimona (2023)</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/blog/diaries/diary-wildebyte-unfinished-game/" class="striped-link">
+								<span>[Diary] Wildebyte (Book 1)</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/blog/2023/2023-08-07-serierecensie-shadow-bone-seizoen-2/" class="striped-link">
+								<span>Serierecensie: Shadow &amp; Bone (seizoen 2)</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/blog/2023/2023-08-04-schrijftip-samenvatting-en-door/" class="striped-link">
+								<span>Schrijftip: samenvatting en door</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/blog/2023/2023-08-02-filmrecensie-oppenheimer-2023/" class="striped-link">
+								<span>Filmrecensie: Oppenheimer (2023)</span>
+							</a>
+						</li>
+					
+				</ul>
+			</nav>
+		</aside>
+		<aside>
+			
+			<h3>Latest Books</h3>
+			<nav>
+				<ul class="no-bullets flex-list">
+					
+					
+						<li>
+							<a href="/books/wildebyte-ghost-code/" class="striped-link">
+								<span>Ghost Code</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/books/onverslaanbaar/" class="striped-link">
+								<span>Onverslaanbaar</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/books/wildebyte-rulebreaker-recipes/" class="striped-link">
+								<span>Rulebreaker Recipes</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/books/wildebyte-secrets-of-sweettooth/" class="striped-link">
+								<span>Secrets of Sweettooth</span>
+							</a>
+						</li>
+					
+						<li>
+							<a href="/books/wildebyte-unfinished-game/" class="striped-link">
+								<span>Unfinished Game</span>
+							</a>
+						</li>
+					
+				</ul>
+			</nav>
+		</aside>
+		<aside>
+			<h3>Updates & Support</h3>
+			<p>Most of my work is completely free and accessible to anyone! As such, I ask you to support me if you can.</p>
+			<p>You can do so via Patreon, where you can also subscribe to <strong>updates</strong> on all projects.</p>
+			<p>
+				<a href="https://patreon.com/tiamopastoor" class="striped-link">
+					<img decoding="async" style="float:left; width: 2.25em;" src="/css/patreon logo.png" loading="lazy">
+					<span>Support me on Patreon!</span>
+				</a>
+			</p>
+			<p>Or support me on Ko-Fi:</p>
+			<p>
+				<a href="https://ko-fi.com/tiamopastoor" class="striped-link">
+					<img decoding="async" style="float:left; width: 2.25em;" src="/css/kofi_logo.png" loading="lazy">
+					<span>Support me on Ko-Fi!</span>
+				</a>
+			</p>
+			<p>Or via Buy me a Coffee:</p>
+			<p>
+				<a href="https://www.buymeacoffee.com/tiamopastoor" class="striped-link">
+					<img decoding="async" style="float:left; width: 1.25em; margin-top: 0.25em; margin-left: 0.25em;" src="/css/bmac_logo.png" loading="lazy">
+					<span>Buy me a Coffee!</span>
+				</a>
+			</p>
+		</aside>
+		<aside>
+			<h3>Miscellaneous</h3>
+			<ul class="no-bullets flex-list">
+				<li><a href="/info/about/" class="striped-link"><span>About Me</span></a></li>
+				<li><button id="darkModeButton" class="striped-link"><span>Light / Dark Mode</span></button></li>
+				<li><button id="randomProjectButton" class="striped-link"><span>Random Page</span></button></li>
+				<li><button class="gotoTopButton striped-link"><span>Go to Top</span></button></li>
+			</ul>
+		</aside>
+		<aside>
+			<h3>Categories</h3>
+			
+
+
+
+
+
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+
+
+
+
+<ul class="no-bullets flex-list">
+     
+        <li>
+            <a href="/categories/miscellaneous/" class="striped-link" title="All pages with categories <em>miscellaneous</em>">
+                <span>Miscellaneous <sup class="taxonomy-count">(464)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/anecdotes/" class="striped-link" title="All pages with categories <em>anecdotes</em>">
+                <span>Anecdotes <sup class="taxonomy-count">(107)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/games/" class="striped-link" title="All pages with categories <em>games</em>">
+                <span>Games <sup class="taxonomy-count">(102)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/reviews/" class="striped-link" title="All pages with categories <em>reviews</em>">
+                <span>Reviews <sup class="taxonomy-count">(87)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/cartoons/" class="striped-link" title="All pages with categories <em>cartoons</em>">
+                <span>Cartoons <sup class="taxonomy-count">(56)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/film-reviews/" class="striped-link" title="All pages with categories <em>film-reviews</em>">
+                <span>Film reviews <sup class="taxonomy-count">(47)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/book-reviews/" class="striped-link" title="All pages with categories <em>book-reviews</em>">
+                <span>Book reviews <sup class="taxonomy-count">(30)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/categories/poems/" class="striped-link" title="All pages with categories <em>poems</em>">
+                <span>Poems <sup class="taxonomy-count">(28)</sup></span>
+            </a>
+        </li>
+    
+</ul>
+		</aside>
+		<aside>
+			<h3>Tags</h3>
+			
+
+
+
+
+
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+ 
+    
+    
+        
+        
+    
+
+
+
+
+<ul class="no-bullets flex-list">
+     
+        <li>
+            <a href="/tags/mystery/" class="striped-link" title="All pages with tags <em>mystery</em>">
+                <span>Mystery <sup class="taxonomy-count">(10)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/game/" class="striped-link" title="All pages with tags <em>game</em>">
+                <span>Game <sup class="taxonomy-count">(8)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/adventure/" class="striped-link" title="All pages with tags <em>adventure</em>">
+                <span>Adventure <sup class="taxonomy-count">(6)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/technology/" class="striped-link" title="All pages with tags <em>technology</em>">
+                <span>Technology <sup class="taxonomy-count">(6)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/coding/" class="striped-link" title="All pages with tags <em>coding</em>">
+                <span>Coding <sup class="taxonomy-count">(5)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/computer/" class="striped-link" title="All pages with tags <em>computer</em>">
+                <span>Computer <sup class="taxonomy-count">(5)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/fantastical/" class="striped-link" title="All pages with tags <em>fantastical</em>">
+                <span>Fantastical <sup class="taxonomy-count">(5)</sup></span>
+            </a>
+        </li>
+     
+        <li>
+            <a href="/tags/education/" class="striped-link" title="All pages with tags <em>education</em>">
+                <span>Education <sup class="taxonomy-count">(4)</sup></span>
+            </a>
+        </li>
+    
+</ul>
+		</aside>
+		<aside>
+			<h3>My Websites</h3>
+			<p>This website is for all my books and writing work. I have separate websites for work in other areas (such as games).</p>
+			<p>Check them out!</p>
+			<ul class="no-bullets flex-list">
+				<li><a href="https://pandaqi.com" class="striped-link"><span>Pandaqi (Games)</span></a></li>
+				<li><a href="https://pandaqi.com/tutorials" class="striped-link"><span>Pandaqi (Tutorials)</span></a></li>
+				<li><a href="https://eltroubadour.com" class="striped-link"><span>El Troubadour (Music)</span></a></li>
+				<li><a href="https://rodepanda.com" class="striped-link"><span>Red Panda (Portfolio)</span></a></li>
+			</ul>
+		</aside>
+	</div>
+
+	<div class="credits">
+		Tiamo Pastoor 2016&mdash;2023 · 
+		All rights reserved&copy; · 
+		Made with <a href="https://gohugo.io">Hugo</a> · 
+		<a href="/info/about/">About Me</a> · 
+		<a href="https://rodepanda.com">My Portfolio</a> · 
+		<a href="https://pandaqi.com">My Game Studio</a> · 
+		<button class="gotoTopButton">Go to Top</button>
+	</div>
+</footer>
+
+	
+    
+    <script async defer>
+		const head = document.getElementsByTagName("head")[0];
+		let cssLink = document.createElement("link");
+	
+		cssLink.rel = "stylesheet";
+		cssLink.href = "\/css\/style.css";
+		cssLink.type = "text/css";
+	
+		head.appendChild(cssLink);
+	</script>
+
+<span style="display:none;" id="hidden-hugo-metadata" data-pages="/blog/2021/2021-12-12-de-universiteit-niet-te-ontsnappen/,/blog/2017/2017-08-18-hdt-6-bent-zelf-zwaluw/,/blog/2023/2023-01-20-filmrecensie-see-how-they-run-2022/,/blog/2017/2017-05-13-wat-nog-het-ergste-is/,/blog/2018/2018-11-19-datumprikkers-de-eeuwige-laatste/,/blog/2018/2018-04-15-over-humor-iv/,/blog/2018/2018-12-14-serierecensie-anne/,/blog/2018/2018-11-23-filmrecensie-captain-fantastic/,/blog/2018/2018-06-13-aan-alle-mensen-die-9/,/blog/2016/2016-11-12-hair/,/blog/2020/2020-08-10-de-hoogopgeleide-stoelendans/,/blog/2018/2018-02-27-klimaatverandering-deel-3/,/blog/2019/2019-02-14-de-blauwe-vinkjes/,/blog/2021/2021-03-26-omgaan-met-opstapelende-fouten/,/blog/2017/2017-11-18-december-kronieken-kerstman-staat-op-deel-3/,/blog/2016/2016-12-11-verdachte-verduisteringen/,/blog/2019/2019-02-12-filmrecensie-snowpiercer-2013/,/blog/2017/2017-03-21-risk-deel-2/,/blog/2022/2022-08-18-schrijftip-de-omgekeerde-metafoor/,/blog/2022/2022-10-16-illegaal-downloaden/,/blog/2017/2017-01-25-woordenwissel/,/blog/2023/2023-08-10-filmrecensie-nimona-2023/,/blog/2017/2017-12-17-aan-alle-mensen-die-7/,/blog/2021/2021-08-05-verschillende-leerstijlen/,/blog/2021/2021-01-23-rode-panda-update-2021/,/blog/2022/2022-12-08-de-slapende-assistente/,/blog/2016/2016-12-05-de-groeten/,/blog/2021/2021-02-09-boekrecensie-his-dark-materials-philip-pullman-1996-2002/,/blog/2017/2017-01-05-onderbuikgevoel/,/blog/diaries/dagboek-jij-moet-het-eerst-zeggen/,/blog/2021/2021-11-10-pen-lenen/,/blog/2017/2017-09-07-halli-galli/,/blog/2018/2018-01-19-beledigingsrecht/,/blog/2023/2023-04-10-wat-kahoot-ons-leert-over-spellen/,/blog/2022/2022-01-04-novembermaand-spellenmaand/,/blog/2017/2017-07-26-de-enige-waarheid/,/blog/2021/2021-09-07-praktijkles/,/blog/2020/2020-07-09-kunnen-we-de-wereld-niet-opnieuw-opstarten/,/blog/2018/2018-03-25-over-humor-i/,/blog/2020/2020-01-09-een-dagje-duo/,/blog/2021/2021-08-21-de-wisselfout-van-van-bommel/,/blog/2021/2021-05-10-cambridge-advanced-english/,/blog/2021/2021-05-03-de-vloek-van-de-programmeur-deel-6/,/blog/2018/2018-11-09-negatieve-stimulering-in-het-onderwijs/,/blog/2019/2019-05-13-over-lost-de-tv-serie/,/blog/2018/2018-11-12-osiris-2/,/blog/2022/2022-10-15-lets-game-it-out/,/blog/2020/2020-10-11-unstable-universe/,/blog/2020/2020-03-28-online-surveillantie/,/blog/2023/2023-06-09-draft2digital-een-recensie-en-uitleg/,/blog/2022/2022-12-09-de-fragiliteit-van-spellen-maken/,/blog/diaries/dagboek-levenssaga-cyclus-1/,/blog/2023/2023-01-10-het-genreprobleem-voor-de-jeugd/,/blog/2016/2016-11-07-openbaar-vervoer/,/blog/2020/2020-07-11-tablets-op-de-basisschool/,/blog/2022/2022-12-20-schrijftip-personages-met-diepgang/,/books/onverslaanbaar/,/blog/2020/2020-03-07-art-hockey/,/blog/2021/2021-12-13-windup-wizards/,/blog/2017/2017-03-31-post-handtekening/,/blog/2020/2020-02-06-een-mobiele-game-uitbrengen-deel-1/,/blog/2021/2021-07-29-wie-leest-nou-nog-boeken/,/blog/2021/2021-11-30-stiekem-onbereikbaar/,/blog/2021/2021-10-04-problemen-met-cloudflare/,/blog/2018/2018-05-20-boekrecensie-13-reasons-why/,/blog/2016/2016-11-17-tijdloze-toekomst/,/blog/2022/2022-09-26-boekrecensie-schuld-mel-wallis-de-vries/,/blog/2018/2018-11-02-de-dierenbandiet/,/books/wildebyte-secrets-of-sweettooth/,/blog/2021/2021-11-07-napoleon-hypothetisch/,/blog/2017/2017-04-09-vooroordelen/,/info/support/,/blog/2017/2017-10-10-zij-en-hun-hen/,/blog/2018/2018-09-04-le-conte-de-fees/,/blog/2019/2019-11-30-de-mobiele-markt-waar-gratis-te-duur-is/"></span>
+
+
+<script async defer src="/js/lib-functionality.min.js"></script>
+
+<div id="overlay-image" style="display: none;">
+	<img id="overlay-image-src">
+	<div class="overlay-image-instruction">(click anywhere to close)</div>
+</div>
+</body>
+</html>

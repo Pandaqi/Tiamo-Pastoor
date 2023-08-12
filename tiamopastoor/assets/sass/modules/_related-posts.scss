@@ -1,0 +1,26 @@
+@use "critical_modules/globals" as g;
+
+.related-posts {
+	margin-top: 2em;
+
+	.related-posts-list {
+		display: grid;
+		grid-template-columns: auto auto auto;
+		
+		.minimal-grid-item {
+			max-width: 20em;
+		}
+		
+		@media all and (max-width: g.$breakpoint-tiniest)
+		{
+			display: flex;
+			flex-wrap: wrap;
+
+			.minimal-grid-item {
+				max-width: 100%;
+				width: 100%;
+			}
+		}
+	}
+
+}

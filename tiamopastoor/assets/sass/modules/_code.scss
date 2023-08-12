@@ -1,0 +1,14 @@
+@use "critical_modules/globals" as g;
+
+code {
+	@include g.themed() {
+		background-color: g.t("color-tags-foreground");
+		color: g.t("color-tags-background");
+	}
+	padding: 0.33em;
+	border-radius: 0.33em;
+	white-space: nowrap;
+
+	font-family: g.$code-font;
+	font-weight: 500;
+}

@@ -1,0 +1,46 @@
+@use "critical_modules/globals" as g;
+
+h1,h2,h3,h4,h5,h6 {
+	clear: both;
+	width: 100%;
+	line-height: 100%;
+	margin: auto;
+	margin-bottom: -0.33em;
+	padding: 0.33em;
+	padding-bottom: 0.66em;
+
+	@include g.themed() {
+		color: g.t("color-banners-foreground");
+		border-image: g.t("img-banner") 26 31 22 36 fill / 20px / 0px stretch;
+		filter: drop-shadow(0 2px 4px #000); // @TODO: color for shadow?
+	}
+
+	&:first-child {
+		margin-top: 0;
+	}
+}
+
+h1 {
+	font-size: 3em;
+}
+
+h2 {
+	font-size: 2em;
+	margin-top: 2em;
+}
+
+h3 {
+	font-size: 1.25em;
+	margin-top: 2em;
+}
+
+h4 {
+	font-size: 0.85em;
+	margin-bottom: -0.85em;
+	padding-bottom: 1em;
+}
+
+/* in case two headings are right after each other, separate them a bit */
+h1 + h2, h2 + h3 {
+	margin-top: 0.5em;
+}

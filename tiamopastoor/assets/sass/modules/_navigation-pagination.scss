@@ -1,0 +1,22 @@
+@use "critical_modules/globals" as g;
+
+.pagination {
+	text-align: center;
+	width: 100%;
+	font-family: g.$header-font;
+	margin-top: 2.5em;
+
+	.flex-inline {
+		margin-top: 0;
+
+		li, a {
+			display: inline-block;
+			width: initial;
+		}
+	}
+
+	h3 {
+		max-width: 15em;
+		margin: auto;
+	}
+}

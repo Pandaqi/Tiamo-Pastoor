@@ -1,0 +1,27 @@
+---
+title: Baggerfilms
+author: tiamopastoor
+date: 2016-10-28T15:00:36+00:00
+language: nl
+categories:
+  - Miscellaneous
+
+---
+Elk jaar komen er gemiddeld zo'n 800 nieuwe Hollywood films bij. (Er komen duizenden "Bollywood" (India) en "Nollywood" (Nigeria) films uit, maar daar ga ik niks over zeggen, want die zijn veel minder populair of wereldwijd uitgebracht, en weet ik ook weinig van.)
+
+Van al die Hollywood films gaan er zo'n 300 de bioscopen in, per jaar. Dus, je moet je bedenken dat er al van tevoren een selectie wordt gemaakt (op basis van budget, kwaliteit van voorgaande werken, en populariteit) voor welke films het grote geld binnen moeten gaan brengen. Wat me daarom zo verbaasd, is hoeveel baggerfilms er tussen zitten. Ik heb het dan niet over persoonlijke smaak, maar films die op alle rating-websites consistent lager dan een 5 scoren. En films die gewoon fouten bevatten in het editen, of overduidelijke gaten in de verhaallijn, of audio, of waarvan het beeld soms (onbedoeld) onscherp is.
+
+
+Dit soort films zijn, naar mijn mening, objectief baggerfilms te noemen. (Lekkere tegenspraak in die zin, but hear me out!) Natuurlijk zijn er mensen die de film goed vinden, er zijn mensen die door zijn fouten heen kunnen kijken en een vermakelijke twee uur beeldmateriaal vinden. Maar het grootste deel van de mensen deelt die mening niet, maar een stuk of honderd mensen zien ooit die film, en hij draait ook nog een gigantisch verlies.
+
+De eerste vraag is dan: hoe moet dat voelen voor de regisseur, of de cast, of alle mensen die mee hebben gewerkt aan zo'n film? Als het een kleine film is, heeft een regisseur waarschijnlijk twee jaar van zijn leven in dit project gestopt, en er een hele hoop boze reacties voor teruggekregen. Als het een wat grotere film is, gaat niet alleen de regisseur ten onder, maar hebben ongelofelijk veel castleden jaren van hun leven er in gestopt, en er alleen maar slechte dingen voor teruggekregen. Gaan die mensen gewoon door naar hun volgende project, hopend op iets beters? Of nemen die mensen het negatieve commentaar mee, schrijven het op in een mislukkingen-dagboekje, en proberen er van te leren? Of zweren die mensen nooit meer iets met de filmindustrie te doen?
+
+Het lijkt op het eerste. Dat is enerzijds jammer, en anderzijds ook niet. Het lijkt sterk op wat in de game-industrie ook gebeurt. Daar werken enorm veel "indie game developers" voor een minimaal salaris dag in dag uit aan spellen, omdat ze een passie hebben voor spellen maken. Het maakt niet uit of ze geld verdienen, het maakt ze niet uit of andere mensen het spel leuk vinden, zolang zij maar hun dromen waar kunnen maken op een computerscherm. In de filmwereld is er nauwelijks ooit een regisseur gestopt na slechte recensies, of een acteur/actrice gestopt vanwege een tegenvallend eindresultaat. Ze willen gewoon films maken, ze willen beter worden, en ze vinden wel een manier om te overleven.
+
+Eigenlijk zit in elke artistieke uitlating zo'n risico. Een muzikant maakt misschien de eerste paar jaren van zijn carrière drie EPs die "wel oké" zijn, maar er niet echt bovenuit springen. En dan ineens, bij de vierde poging, maakt hij met alle opgedane kennis een album dat zelfverzekerd de wereldmuziekmarkt binnenstormt, en kan hij eindelijk zijn schulden betalen en ziet hij een toekomst in de muziek. Een filmmaker maakt op soortgelijke wijze misschien vijf baggerfilms, voordat er een rauwe diamant verschijnt. Het is natuurlijk belangrijk dat iedereen zijn mening laat horen, maar laat je niet terugslaan door tegenvallende reviews of de "nieuwigheid" van een persoon of project. Als je betere, creatievere films wil, als je op zoek bent naar nieuwe, perfecte muziek, moet je de mensen steunen die dergelijke hoogtes trachten te bereiken.
+
+De tweede vraag is dan ook: waarom zijn er zoveel "grote namen" in de filmindustrie die van tijd tot tijd toch pure baggerfilms afleveren? Regelmatig koopt een mediagigant de rechten tot een bij het volk geliefd verhaal, en verprutst het gigantisch, terwijl het niet zo moeilijk had moeten zijn om dat niet te doen (want het verhaal was al goed, en al populair). En niet alleen films---de spellen-ontwikkelaar EA had hun beste en meest populaire franchise in _SimCity_, maar toen ze een nieuw deel gingen ontwikkelen drongen ze hun spelers allemaal "features" op die niet nodig waren en niemand wilde, en zo faalde het spel en draaide het een gigantisch verlies.
+
+Het antwoord is: _ik weet het niet_. Ik heb met mijn weinige levensjaren maar korte ervaring met spellen ontwikkelen, maar zelfs ik kan zien wanneer iets wel of niet werkt. Ik kan mijn vrienden uitnodigen een spel te spelen, ik kan vreemdelingen het spel laten testen over internet, en de paar kritiekpuntjes die ik zelf over het hoofd heb gezien zo wegwerken. Waarom kunnen corporaties met zoveel geld, macht, en kennis dat niet? Omdat, en dit is een gok, het niet meer gaat om iets moois maken. Baggerfilms moeten geld in het laatje brengen, baggerfilms moeten misschien wel de aanleiding zijn tot een vervolg-baggerfilm die nog meer geld zou moeten opleveren. En dat is natuurlijk 100% jammer.
+
+Dus, de volgende keer dat er iets uitkomt en je bent ook maar een beetje geïnteresseerd, ga bij jezelf te rade. Wie steun ik door dit te kopen? Wat is het effect van een negatieve/positieve review achterlaten? Hoe kan ik zelf zorgen dat dit product beter wordt? De wereld raakt te overvol met baggerfilms, terwijl de put van creativiteit en originaliteit soms tijden droog lijkt te staan. En dat is natuurlijk 200% jammer.
