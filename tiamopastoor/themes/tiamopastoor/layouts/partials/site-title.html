@@ -1,0 +1,15 @@
+{{ $main := .Title }}
+{{ $subsection := .CurrentSection.Title }}
+{{ $site := "Tiamo Pastoor" }}
+{{ $slice := slice $main $subsection $site }}
+
+{{ if eq $main $subsection }}
+    {{ $slice = $slice | after 1 }}
+{{ end }}
+
+{{ $title := delimit $slice " | " }}
+{{ if .IsHome }}
+    {{ $title = "Tiamo Pastoor | Author Website | Books & More" }}
+{{ end }}
+
+<title>{{ $title }}</title>

@@ -1,0 +1,16 @@
+{{ $all_projects := sort (where .Site.RegularPages "Type" "==" "books") ".Params.dateReleased" "asc" }}
+{{ $books := slice }}
+{{ $now := now.Unix }}
+
+{{ range $all_projects }}
+    {{ if .Params.ongoing }}{{ $books = $books | append . }}{{ continue }}{{ end }}
+
+    {{ $date := .Params.dateReleased }}
+    {{ if not $date }}{{ continue }}{{ end }}
+
+    {{ $date = ($date | time.AsTime).Unix }}
+    {{ if lt $date $now }}{{ continue }}{{ end }}
+
+    {{ $books = $books | append . }}
+{{ end }}
+{{ return $books }}

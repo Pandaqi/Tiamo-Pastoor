@@ -1,0 +1,30 @@
+{{ $has_prev := .Paginator.HasPrev }}
+{{ $has_next := .Paginator.HasNext }}
+{{ $something_to_show := or $has_prev $has_next }}
+
+{{ if $something_to_show }}
+<nav class="pagination">
+	<h3>Navigation</h3>
+	<ul class="no-bullets flex-list flex-nowrap flex-center flex-inline">
+		{{ if $has_prev }}
+			<li><a class="striped-link" href="{{ .Paginator.First.URL }}"><span>First Page</span></a></li>
+			<li><a class="striped-link" href="{{ .Paginator.Prev.URL }}"><span>Previous Page</span></a></li>
+		{{ else }}
+			<li><span>No previous page :(</span></li>
+		{{ end }}
+
+		<li>
+			<span>{{ .Paginator.PageNumber }}</span>
+			<span> of </span>
+			<span>{{ .Paginator.TotalPages }}</span>
+		</li>
+		
+		{{ if $has_next }}
+			<li><a class="striped-link" href="{{ .Paginator.Next.URL }}"><span>Next Page</span></a></li>
+			<li><a class="striped-link" href="{{ .Paginator.Last.URL }}"><span>Last Page</span></a></li>
+		{{ else }}
+			<li><span>No next page :(</span></li>
+		{{ end }}
+	</ul>
+</nav>
+{{ end }}

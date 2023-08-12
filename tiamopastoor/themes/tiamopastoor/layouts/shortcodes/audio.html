@@ -1,0 +1,11 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+
+<figure>
+    {{ with $alt }}
+        <figcaption>{{ . }}</figcaption>
+    {{ end }}
+    <audio controls>
+        <source src="{{ $src }}" />
+    </audio>
+</figure>

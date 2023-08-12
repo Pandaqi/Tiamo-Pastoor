@@ -1,0 +1,29 @@
+{{ define "main" }}
+	{{ $layout_type := partial "func/get-layout.html" . }}
+	{{ $language := partial "func/get-text-language.html" . }}
+	{{ $title := .Title }}
+	{{ $context := . }}
+	{{ $content := .Content }}
+	<main>
+		<div class="center-container">
+			<div class="double-view {{ $layout_type }} layout-reversed single-post">
+				<!-- Thumbnail -->
+				{{ partial "thumbnail.html" (dict "context" . "class" "left-side hide-caption" "addbox" true) }}
+
+				<div class="right-side">
+					<article class="sketchy-box" lang="{{ $language }}">
+						<h1>{{ $title }}</h1>
+						<div>
+							{{ partial "metadata.html" (dict "context" $context) }}
+						</div>
+						{{ partial "toc.html" . }}
+						<div class="article-content">
+							{{ $content }}
+						</div>
+					</article>
+					{{ partial "related-posts.html" . }}
+				</div>
+			</div>
+		</div>
+	</main>
+{{ end }}

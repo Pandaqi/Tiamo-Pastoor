@@ -1,0 +1,118 @@
+<div class="footer-transition"></div>
+
+<footer>
+	<div class="footer-content">
+		<aside>
+			<h3>Latest / Upcoming Project</h3>
+			<!-- We filter out ongoing projects, unless this leaves us with nothing -->
+			{{ $upcoming_projects := partial "func/get-upcoming-projects.html" . }}
+			{{ $latest_book := "" }}
+			{{ $ongoing_book := "" }}
+			{{ range $upcoming_projects }}
+				{{ if .Params.ongoing }}{{ $ongoing_book = . }}{{ continue }}{{ end }}
+				{{ $latest_book = . }}
+				{{ break }}
+			{{ end }}
+			{{ if not $latest_book }}{{ $latest_book = $ongoing_book }}{{ end }}
+			{{ partial "thumbnail.html" (dict "context" $latest_book "class" "hide-caption image-top-margin") }}
+			{{ $content := partial "func/get-summary.html" $latest_book }}
+
+			<div>{{ $content}}</div>
+			<a class="striped-link" href="{{ $latest_book.RelPermalink }}"><span>Read More!</span></a>
+		</aside>
+		<aside>
+			<h3>Latest Posts</h3>
+			<nav>
+				<ul class="no-bullets flex-list">
+					{{ $latest_posts := (where .Site.RegularPages "Type" "==" "blog") | first 5 }}
+					{{ range $latest_posts }}
+						<li>
+							<a href="{{ .RelPermalink }}" class="striped-link">
+								<span>{{ .Title }}</span>
+							</a>
+						</li>
+					{{ end }}
+				</ul>
+			</nav>
+		</aside>
+		<aside>
+			{{ $all_books := (where .Site.RegularPages "Type" "eq" "books") }}
+			<h3>Latest Books</h3>
+			<nav>
+				<ul class="no-bullets flex-list">
+					{{ $latest_books := $all_books | first 5 }}
+					{{ range $latest_books }}
+						<li>
+							<a href="{{ .RelPermalink }}" class="striped-link">
+								<span>{{ .Title }}</span>
+							</a>
+						</li>
+					{{ end }}
+				</ul>
+			</nav>
+		</aside>
+		<aside>
+			<h3>Updates & Support</h3>
+			<p>Most of my work is completely free and accessible to anyone! As such, I ask you to support me if you can.</p>
+			<p>You can do so via Patreon, where you can also subscribe to <strong>updates</strong> on all projects.</p>
+			<p>
+				<a href="https://patreon.com/tiamopastoor" class="striped-link">
+					<img decoding="async" style="float:left; width: 2.25em;" src="/css/patreon logo.png" loading="lazy">
+					<span>Support me on Patreon!</span>
+				</a>
+			</p>
+			<p>Or support me on Ko-Fi:</p>
+			<p>
+				<a href="https://ko-fi.com/tiamopastoor" class="striped-link">
+					<img decoding="async" style="float:left; width: 2.25em;" src="/css/kofi_logo.png" loading="lazy">
+					<span>Support me on Ko-Fi!</span>
+				</a>
+			</p>
+			<p>Or via Buy me a Coffee:</p>
+			<p>
+				<a href="https://www.buymeacoffee.com/tiamopastoor" class="striped-link">
+					<img decoding="async" style="float:left; width: 1.25em; margin-top: 0.25em; margin-left: 0.25em;" src="/css/bmac_logo.png" loading="lazy">
+					<span>Buy me a Coffee!</span>
+				</a>
+			</p>
+		</aside>
+		<aside>
+			<h3>Miscellaneous</h3>
+			<ul class="no-bullets flex-list">
+				<li><a href="/info/about/" class="striped-link"><span>About Me</span></a></li>
+				<li><button id="darkModeButton" class="striped-link"><span>Light / Dark Mode</span></button></li>
+				<li><button id="randomProjectButton" class="striped-link"><span>Random Page</span></button></li>
+				<li><button class="gotoTopButton striped-link"><span>Go to Top</span></button></li>
+			</ul>
+		</aside>
+		<aside>
+			<h3>Categories</h3>
+			{{ partial "taxonomy-list.html" (dict "context" . "label" "categories") }}
+		</aside>
+		<aside>
+			<h3>Tags</h3>
+			{{ partial "taxonomy-list.html" (dict "context" . "label" "tags") }}
+		</aside>
+		<aside>
+			<h3>My Websites</h3>
+			<p>This website is for all my books and writing work. I have separate websites for work in other areas (such as games).</p>
+			<p>Check them out!</p>
+			<ul class="no-bullets flex-list">
+				<li><a href="https://pandaqi.com" class="striped-link"><span>Pandaqi (Games)</span></a></li>
+				<li><a href="https://pandaqi.com/tutorials" class="striped-link"><span>Pandaqi (Tutorials)</span></a></li>
+				<li><a href="https://eltroubadour.com" class="striped-link"><span>El Troubadour (Music)</span></a></li>
+				<li><a href="https://rodepanda.com" class="striped-link"><span>Red Panda (Portfolio)</span></a></li>
+			</ul>
+		</aside>
+	</div>
+
+	<div class="credits">
+		Tiamo Pastoor 2016&mdash;{{ now.Year}} · 
+		All rights reserved&copy; · 
+		Made with <a href="https://gohugo.io">Hugo</a> · 
+		<a href="/info/about/">About Me</a> · 
+		<a href="https://rodepanda.com">My Portfolio</a> · 
+		<a href="https://pandaqi.com">My Game Studio</a> · 
+		<button class="gotoTopButton">Go to Top</button>
+	</div>
+</footer>

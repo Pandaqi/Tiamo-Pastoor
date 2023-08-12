@@ -1,0 +1,35 @@
+{{ $no_link := .nolink }}
+{{ $no_tags := .notags }}
+{{ $is_book := eq .context.Type "books" }}
+{{ $tag_string := "categories" }}
+{{ if $is_book }}{{ $tag_string = "tags" }}{{ end }}
+
+<div class="entry-metadata">
+    <span class="entry-icon entry-icon-date"></span>
+    {{ $date := or .context.Params.dateReleased .context.Date }}
+    <span>{{ time.Format "January 2, 2006" $date }}</span>
+
+    <span class="entry-icon entry-icon-comments"></span>
+    <span>
+        {{ partial "metadata-languages.html" (dict "context" .context "nolink" $no_link) }}
+    </span>
+
+    {{ if not $is_book }}
+        <span class="entry-icon entry-icon-reading-time"></span>
+        {{ $word_count := countwords .context.Content }}
+        {{ $words_per_minute := 250 }}
+        {{ $reading_time := math.Ceil (div $word_count $words_per_minute) }}
+        <span>{{ $reading_time }} minute(s)</span>
+    {{ end }}
+
+    {{ $show_tags := not $no_tags }}
+    {{ if and $show_tags (index .Params $tag_string) }}
+        <span class="entry-icon entry-icon-category"></span>
+        {{ partial "book-info-list.html" (dict "context" .context "label" $tag_string "class" "metadata-link" "nolink" $no_link "separator" "&nbsp;") }}
+    {{ end }}
+
+    {{ if .context.Params.series }}
+        <span class="entry-icon entry-icon-parent"></span>
+        {{ partial "book-info-list.html" (dict "context" .context "label" "series" "class" "metadata-link" "nolink" $no_link) }}
+    {{ end }}
+</div>

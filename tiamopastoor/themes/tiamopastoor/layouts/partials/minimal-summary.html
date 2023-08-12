@@ -1,0 +1,14 @@
+{{ $layout_type := partial "func/get-layout.html" . }}
+{{ $title := .Title }}
+{{ $context := . }}
+
+<section class="minimal-grid-item sketchy-box {{ $layout_type }}">
+	<a href="{{ .RelPermalink }}">
+		<div class="double-view {{ $layout_type }}">
+			{{ partial "thumbnail.html" (dict "context" $context "class" "left-side hide-caption" "noclick" true) }}
+			<div class="right-side">
+				<div class="minimal-post-title">{{ $title }}</div>
+			</div>
+		</div>
+	</a>
+</section>

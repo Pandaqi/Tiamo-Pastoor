@@ -1,0 +1,11 @@
+{{ $create_toc := not .Params.notoc }}
+{{ if $create_toc }}
+    <aside class="toc" id="toc" data-status="hidden">
+        <button class="toc-button striped-link" id="toc-button">
+            <span>Toggle Table of Contents</span>
+        </button>
+        <div class="toc-content" id="toc-content" style="display: none;">
+            {{ .TableOfContents }}
+        </div>
+    </aside>
+{{ end }}

@@ -1,0 +1,28 @@
+{{ $layout_type := partial "func/get-layout.html" . }}
+{{ $tag_string := "categories" }}
+{{ $is_book := eq .Type "books" }}
+{{ if $is_book }}{{ $tag_string = "tags" }}{{ end }}
+
+{{ $title := .Title }}
+{{ $context := . }}
+{{ $content := partial "func/get-summary.html" . }}
+
+<section class="entry-grid-item sketchy-box {{ $layout_type }}">
+	<a href="{{ .RelPermalink }}">
+		<div class="double-view {{ $layout_type }}">
+			{{ partial "thumbnail.html" (dict "context" $context "class" "left-side hide-caption" "noclick" true) }}
+			<div class="right-side">
+				<h2>{{ .Title }}</h2>
+				<div>
+					{{ partial "metadata.html" (dict "context" $context "nolink" true "notags" true) }}
+				</div>
+				<div>
+					{{ $content }}
+				</div>
+				<div class="banner-link-small-container">
+					{{ partial "book-info-list.html" (dict "context" $context "label" $tag_string "nolink" true) }}
+				</div>
+			</div>
+		</div>
+	</a>
+</section>

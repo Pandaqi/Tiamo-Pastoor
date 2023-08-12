@@ -1,0 +1,110 @@
+{{ define "main" }}
+	{{ $layout_type := partial "func/get-layout.html" . }}
+	{{ $language := partial "func/get-text-language.html" . }}
+	<main>
+		<div class="center-container">
+			<div class="double-view {{ $layout_type }} single-book">
+
+				<!-- Thumbnail -->
+				{{ partial "thumbnail.html" (dict "context" . "class" "left-side hide-caption" "addbox" true) }}
+
+				{{ $is_finished := eq .Params.phase "finished" }}
+				{{ $is_ongoing := eq .Params.ongoing true }}
+				{{ $has_links := .Params.links }}
+
+				<div class="right-side">
+					<!-- The blurb given in frontmatter (required) -->
+					<section class="sketchy-box" lang="{{ $language }}">
+						<h1>{{ .Title }}</h1>
+						<div class="article-content">
+							{{ partial "metadata.html" (dict "context" . "notags" true) }}
+							{{ .Params.blurb | markdownify }}
+							{{ if not $is_finished }}
+								{{ partial "book-progress.html" . }}
+							{{ end }}
+						</div>
+					</section>
+
+					<!-- Buy links are automatically read from frontmatter (optional) -->
+					<!-- If no links set, merely show the progress (otherwise they're buy or pre-order) -->
+					<!-- If not finished, just refer to progress -->
+					<section class="sketchy-box">
+						{{ $heading := "In Progress" }}
+						{{ $content := "This book is currently **in progress**. Check the progress bar up top!" }}
+						{{ if $is_ongoing }}
+							{{ $heading = "Visit the website!" }}
+							{{ $content = "This is an **ongoing project**. This means it has its own active website(s) with all updates, content, and purchase links." }}
+						{{ else if $is_finished }}
+							{{ $heading = "Buy the book!" }}
+							{{ $content = "This book has **not yet released** (see the progress bar up top). It is, however, already available for pre-order! Use the link(s) below." }}
+						{{ else if $has_links }}
+							{{ $heading = "Pre-Order" }}
+							{{ $content = "This book has **not yet released** (see the progress bar up top). It is, however, already available for pre-order! Use the link(s) below." }}
+						{{ end }}
+
+						<h2>{{ $heading }}</h2>
+						<div class="article-content">
+							<p>{{ $content | markdownify }}</p>					
+							{{ if $has_links }}
+								{{ $links := .Params.links }}
+								<ul class="no-bullets flex-list banner-link-wide-container">
+									{{ range $links }}
+										<li><a class="banner-link banner-link-wide" href="{{ .value }}">{{ .key }}</a></li>
+								{{ end }}
+								</ul>
+							{{ end }}
+						</div>
+					</section>
+
+					<!-- Properties also automatically read from frontmatter -->
+					<section class="sketchy-box">
+						<h2>Information</h2>
+						<div class="article-content">
+							<ul class="no-bullets flex-list">
+								{{ with .Params.pages }}<li><span class="book-info-label">Number of Pages:</span> {{ . }}</li>{{ end }}
+								{{ if .Params.price }}
+								<li><span class="book-info-label">Price</span>: 
+									{{ partial "book-info-list.html" (dict "context" . "label" "price" "nolink" true) }}
+								</li>
+								{{ end }}
+								<li><span class="book-info-label">Series</span>: 
+									{{ partial "book-info-list.html" (dict "context" . "label" "series") }}
+								</li>
+								<li><span class="book-info-label">Book Type</span>: 
+									{{ partial "book-info-list.html" (dict "context" . "label" "booktype") }}
+								</li>
+								<li><span class="book-info-label">Age</span>: 
+									{{ partial "book-info-list.html" (dict "context" . "label" "age") }}
+								</li>
+								<li><span class="book-info-label">Genre</span>: 
+									{{ partial "book-info-list.html" (dict "context" . "label" "genre") }}
+								</li>
+								<li><span class="book-info-label">Language</span>: 
+									{{ partial "book-info-list.html" (dict "context" . "label" "language") }}
+								</li>
+								<li><span class="book-info-label">Tags</span>: 
+									{{ partial "book-info-list.html" (dict "context" . "label" "tags") }}
+								</li>
+							</ul>
+
+							{{ if .Params.diary }}
+							<p>
+								I often keep a <strong>diary</strong> while working on a project. It explains what I did, how I solved certain issues, and other interesting lessons or anecdotes. 
+								{{ partial "book-link-list.html" (dict "context" . "label" "diary") }}							
+							</p>
+							{{ end }}
+						</div>
+					</section>
+
+					<!-- Extra info is just the content of the Markdown file -->
+					<article class="sketchy-box" lang="{{ $language }}">
+						<h2>Remarks & More</h2>
+						<div class="article-content" style="margin-top: 0.5em;">
+							{{ .Content }}
+						</div>
+					</article>
+				</div>
+			</div>
+		</div>
+	</main>
+{{ end }}

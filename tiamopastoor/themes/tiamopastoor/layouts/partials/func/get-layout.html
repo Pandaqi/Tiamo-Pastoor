@@ -1,0 +1,5 @@
+{{ $default := "vertical" }}
+{{ $is_book := eq .Type "books" }}
+{{ if $is_book }}{{ $default = "horizontal" }}{{ end }}
+{{ $default = or .Params.layout $default }}
+{{ return $default }}

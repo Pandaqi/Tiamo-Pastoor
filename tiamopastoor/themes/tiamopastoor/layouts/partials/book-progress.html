@@ -1,0 +1,11 @@
+{{ $progress := or .Params.progress 50 }}
+{{ $phase := or .Params.phase "finished" }}
+{{ $title := or .Title "" }}
+{{ $url := .RelPermalink }}
+
+<a href="{{ $url }}" class="book-progress">
+    <div class="progress-title">&ldquo;{{ $title }}&rdquo;</div>
+    <progress max="100" value="{{ $progress }}">{{ $progress }}%</progress>
+    <div class="progress-percentage">{{ $progress }}%</div>
+    <div class="progress-phase">{{ $phase }}</div>
+</a>

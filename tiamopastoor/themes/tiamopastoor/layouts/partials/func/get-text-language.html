@@ -1,0 +1,3 @@
+{{ $language := or .Params.language "en" }}
+{{ if (reflect.IsSlice $language) }}{{ $language = "en" }}{{ end }}
+{{ return $language }}

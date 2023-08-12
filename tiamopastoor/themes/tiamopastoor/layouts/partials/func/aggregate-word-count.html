@@ -1,0 +1,25 @@
+{{ $now := now }}
+{{ $context := .context }}
+{{ $look_back := or .lookback 7 }}
+{{ $sum := 0 }}
+{{ $numbers := slice }} <!-- just for debugging -->
+{{ range (seq 1 $look_back) }}
+    <!-- Grab value from data -->
+    {{ $day := $now.Day }}
+    {{ $month := $now.Month | string | urlize }}
+    {{ $year := $now.Year | string }}
+
+    {{ $year_data := index $context.Site.Data.wordcounts $year }}
+    {{ $month_data := index $year_data $month }}
+    {{ $day_data := index $month_data (sub $day 1) }}
+    {{ if eq $day_data nil }}{{ $day_data = 0 }}{{ end }}
+    {{ $numbers = $numbers | append $day_data }}
+
+    <!-- Add to running sum -->
+    {{ $sum = add $sum $day_data }}
+    
+    <!-- Move date back one day -->
+    {{ $now = $now.AddDate 0 0 -1 }}
+{{ end }}
+{{ $return_string := $sum | lang.FormatNumber 0 }}
+{{ return $return_string }}

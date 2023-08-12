@@ -1,0 +1,6 @@
+{{ $is_book := eq .Type "books" }}
+{{ $final_summary := .Summary }}
+{{ if and $is_book .Params.blurb }}
+	{{ $final_summary = .Params.blurb | markdownify | safeHTML | truncate 300 }}
+{{ end }}
+{{ return $final_summary }}

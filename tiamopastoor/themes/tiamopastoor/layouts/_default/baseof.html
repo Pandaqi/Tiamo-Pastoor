@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+	{{ block "head" . }}{{ partial "head" . }}{{ end }}
+</head>
+<body>
+	{{ block "header" . }} {{ partialCached "header" . }}{{ end }} 
+	{{ block "main" . }}{{ end }}
+	{{ block "footer" . }}{{ partialCached "footer" . }}{{ end }}
+	{{ block "lazy-load" . }}{{ partialCached "lazy-load" . }}{{ end }}
+</body>
+</html>

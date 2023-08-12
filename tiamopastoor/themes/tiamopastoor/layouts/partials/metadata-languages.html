@@ -1,0 +1,15 @@
+{{ $context := .context }}
+{{ $no_links := .nolink }}
+
+{{ $language_dict := dict "nl" "Dutch" "en" "English" }}
+{{ $language := or $context.Params.language "en" }}
+{{ if not (reflect.IsSlice $language) }}{{ $language = slice $language }}{{ end }}
+{{ range $language }}
+    {{ $language_full := index $language_dict . }}
+    {{ if $no_links }}
+        <span>{{ $language_full }}</span>
+    {{ else }}
+        {{ $url := printf "/language/%s" . }}
+        <a href="{{ $url }}">{{ $language_full }}</a>
+    {{ end }}
+{{ end }}

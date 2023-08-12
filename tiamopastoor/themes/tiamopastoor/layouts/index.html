@@ -1,0 +1,50 @@
+{{ define "main" }}
+	<main>
+		<a class="header-link front-page-heading" href="/info/about/"><h2 class="standalone-element">Welcome!</h2></a>
+		<div class="standalone-element front-page-double-view flex-center">
+			<div class="left-side hide-caption">{{ partial "show-image.html" (dict "context" . "src" "/my_face" "alt" "A picture of my face. I'm the one on the left, not the teddy bear.") }}</div>
+			<div class="right-side">{{ .Content }}</div>
+		</div>
+
+		<h2 class="standalone-element front-page-heading">What's the status?</h2>
+		<div class="standalone-element">
+			<p>See the <strong>progress</strong> made on upcoming projects and my recent <strong>word counts</strong>. (I track and publish these to motivate myself and any other writers!)</p>
+			<div class="sketchy-box">
+				{{ partial "word-counts.html" . }}
+			</div>
+
+			{{ $upcoming_books := partial "func/get-upcoming-projects.html" . }}
+			{{ $show_upcoming_books := gt (len $upcoming_books) 0}}
+
+			{{ if $show_upcoming_books }}
+				<div class="sketchy-box book-progress-list">
+					{{ range $upcoming_books }}
+						{{ partial "book-progress.html" . }}
+					{{ end }}
+				</div>
+			{{ end }}
+		</div>
+
+		<a class="header-link front-page-heading" href="/books/"><h2 class="standalone-element">Latest Books</h2></a>
+		<nav class="entry-grid">	
+			{{ $pages := (where .Site.RegularPages "Type" "==" "books") | first 4 }}
+			{{ range $pages }}
+				{{ partial "grid-summary.html" . }}
+			{{ end }}
+		</nav>
+		<div class="standalone-element">
+			<a class="striped-link" href="/books/"><span>View all books</span></a>
+		</div>
+
+		<a class="header-link  front-page-heading" href="/blog/"><h2 class="standalone-element">Latest Posts</h2></a>
+		<nav class="entry-grid">	
+			{{ $pages := (where .Site.RegularPages "Type" "==" "blog") | first 10 }}
+			{{ range $pages }}
+				{{ partial "grid-summary.html" . }}
+			{{ end }}
+		</nav>
+		<div class="standalone-element">
+			<a class="striped-link" href="/blog/page/2/"><span>View more posts</span></a>
+		</div>
+	</main>
+{{ end }}

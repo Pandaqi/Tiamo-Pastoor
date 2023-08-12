@@ -1,0 +1,21 @@
+{{ $context := .context }}
+{{ $class := or .class "" }}
+{{ $add_box := or .addbox false }}
+{{ $no_click := or .noclick false }}
+
+{{ $thumb := $context.Params.thumb }}
+{{ $using_default_thumbnail := false }}
+{{ if not $thumb }}
+    <!-- @TODO: allow selection out of multiple options? How do I easily program that? -->
+    {{ $thumb = partial "func/get-default-thumbnail.html" $context }}
+    {{ $using_default_thumbnail = true }}
+{{ end }}
+
+{{ with $thumb }}
+<div class="{{ $class }}">
+    {{ if $add_box }}<section class="sketchy-box">{{ end }}
+    {{ $alt := printf "Header / Cover Image for '%s'" $context.Title }}
+    {{ partial "show-image.html" (dict "context" $context "src" . "alt" $alt "noclick" $no_click) }}
+    {{ if $add_box}}</section>{{ end }}
+</div>
+{{ end }}

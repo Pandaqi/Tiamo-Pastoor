@@ -1,0 +1,16 @@
+{{ $path := "/default_thumbnails" }}
+{{ $layout := partial "func/get-layout.html" . }}
+{{ $categories := .Params.categories }}
+{{ if not (reflect.IsSlice $categories) }}{{ $categories = slice }}{{ end }}
+{{ $categories = $categories | shuffle }}
+{{ $final_image := printf "%s/default_%s_miscellaneous.webp" $path $layout }}
+{{ range $categories }}
+    {{ $category := . | urlize }}
+    {{ $raw_path := printf "%s/default_%s_%s.webp" $path $layout $category }}
+    {{ $test_path := printf "static%s" $raw_path }}
+    {{ if fileExists $test_path }}
+        {{ $final_image = $raw_path }}
+        {{ break }}
+    {{ end }}
+{{ end }}
+{{ return $final_image }}

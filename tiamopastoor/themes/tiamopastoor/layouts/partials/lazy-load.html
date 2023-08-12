@@ -1,0 +1,29 @@
+{{ if not .Site.Params.testOnlyCriticalStyle }}
+    {{ $style := partialCached "func/get-stylesheet.html" . }}
+    <script async defer>
+		const head = document.getElementsByTagName("head")[0];
+		let cssLink = document.createElement("link");
+	
+		cssLink.rel = "stylesheet";
+		cssLink.href = "{{ $style.RelPermalink }}";
+		cssLink.type = "text/css";
+	
+		head.appendChild(cssLink);
+	</script>
+{{ end }}
+
+{{- $all_pages := .Site.RegularPages | shuffle | first 75 -}}
+{{- $list := slice }}
+{{- range $all_pages -}}
+    {{- $list = $list | append .RelPermalink -}}
+{{- end -}}
+{{- $list := delimit $list "," }}
+<span style="display:none;" id="hidden-hugo-metadata" data-pages="{{ $list }}"></span>
+
+{{ $res := resources.Get "js/functionality/main.js" | js.Build "js/lib-functionality.js" | minify }}
+<script async defer src="{{ $res.RelPermalink }}"></script>
+
+<div id="overlay-image" style="display: none;">
+	<img id="overlay-image-src">
+	<div class="overlay-image-instruction">(click anywhere to close)</div>
+</div>

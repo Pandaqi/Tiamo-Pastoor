@@ -1,0 +1,19 @@
+{{ define "main" }}
+	<main>
+		{{ $search_term := .Title | humanize }}
+		<h1 class="standalone-element">{{ $search_term }}</h1>
+		{{ $content := .Content }}
+		{{ if not $content }}
+			{{ $content = printf "<p>This is an overview page! It shows all posts and/or books related to the thing for which you searched (<em>%s</em>).</p>" $search_term }}
+		{{ end }}
+		<section class="standalone-element">{{ $content | safeHTML }}</section>
+			
+		<nav class="entry-grid">	
+			{{ range .Paginator.Pages }}
+				{{ partial "grid-summary.html" . }}
+			{{ end }}
+		</nav>
+
+		{{ partial "pagination.html" . }}
+	</main>
+{{ end }}

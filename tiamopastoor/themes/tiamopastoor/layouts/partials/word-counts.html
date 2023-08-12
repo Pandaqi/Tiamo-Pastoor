@@ -1,0 +1,19 @@
+<div class="word-counts-container">
+    <div class="word-count-heading">Word Counts</div>
+    <div>
+        <span class="word-count-number">{{ partial "func/aggregate-word-count.html" (dict "context" . "lookback" 7) }}</span>
+        <span class="word-count-label">Past Week</span>
+    </div>
+    <div>
+        <span class="word-count-number">{{ partial "func/aggregate-word-count.html" (dict "context" . "lookback" 31) }}</span>
+        <span class="word-count-label">Past Month</span>
+    </div>
+    <div>
+        <span class="word-count-number">{{ partial "func/aggregate-word-count.html" (dict "context" . "lookback" 90) }}</span>
+        <span class="word-count-label">Past Season</span>
+    </div>
+    <div>
+        <span class="word-count-number">{{ partial "func/aggregate-word-count.html" (dict "context" . "lookback" 365) }}</span>
+        <span class="word-count-label">Past Year</span>
+    </div>
+</div>

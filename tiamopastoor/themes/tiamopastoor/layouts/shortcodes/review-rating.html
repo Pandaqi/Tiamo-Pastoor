@@ -1,0 +1,17 @@
+{{ $star_string := slice }}
+{{ $star_symbol := "★" }}
+{{ $star_symbol_empty := "☆" }}
+{{ $rating := or (.Get "num") 0 }}
+
+{{ range seq 1 10 }}
+    {{ if gt . $rating }}
+        {{ $star_string = $star_string | append $star_symbol_empty }}
+    {{ else }}
+        {{ $star_string = $star_string | append $star_symbol }}
+    {{ end }}
+{{ end }}
+
+{{ $raw := or (.Get "raw") "" }}
+{{ if $raw }}{{ $star_string = $raw }}{{ end }}
+
+<div class="review-rating">{{ delimit $star_string "" }}</div>

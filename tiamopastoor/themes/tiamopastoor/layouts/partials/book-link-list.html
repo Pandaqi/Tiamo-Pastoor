@@ -1,0 +1,14 @@
+{{ $original_value := index .context.Params .label }}
+
+<!-- make sure the input is always a map -->
+{{ $val := $original_value }}
+{{ $is_list := reflect.IsSlice $val }}
+{{ if not $is_list }}
+    <a class="inline-link" href="{{ $val }}">Read the diary here!</a>
+{{ else }}
+    <ul>
+    {{ range $k, $v := $val }}
+        <li><a class="inline-link" href="{{ $v.value }}">{{ $v.key }}</a></li>
+    {{ end }}
+    </ul>
+{{ end }}

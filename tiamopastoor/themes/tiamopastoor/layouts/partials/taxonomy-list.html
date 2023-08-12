@@ -1,0 +1,25 @@
+{{ $context := .context }}
+{{ $label := or .label "categories" }}
+{{ $all := index $context.Site.Taxonomies $label }}
+{{ $limit := or .limit 8 }}
+{{ $as_list := slice }}
+
+{{ range $name, $taxonomy := $all }} 
+    {{ $count := .Count }}
+    {{ with $context.Site.GetPage (printf "/%s/%s" $label $name) }}
+        {{ $temp_dict := dict "count" $count "name" $name "url" .RelPermalink }}
+        {{ $as_list = $as_list | append $temp_dict }}
+    {{ end }}
+{{ end }}
+
+{{ $as_list = (sort $as_list "count" "desc") | first $limit }}
+
+<ul class="no-bullets flex-list">
+    {{ range $as_list }} 
+        <li>
+            <a href="{{ .url }}" class="striped-link" title="All pages with {{$label}} <em>{{.name}}</em>">
+                <span>{{ .name | humanize }} <sup class="taxonomy-count">({{.count}})</sup></span>
+            </a>
+        </li>
+    {{ end }}
+</ul>

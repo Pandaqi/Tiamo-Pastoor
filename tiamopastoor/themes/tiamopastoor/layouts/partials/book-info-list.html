@@ -1,0 +1,38 @@
+{{ $original_value := index .context.Params .label }}
+{{ $label := .label }}
+{{ $create_links := not .nolink }}
+{{ $class := or .class "banner-link" }}
+{{ $separator := or .separator "" }}
+
+<!-- make sure the input is always a list -->
+{{ $val := $original_value }}
+{{ $is_list := reflect.IsSlice $val }}
+{{ if not $is_list }}
+    {{ $val = slice $val }}
+{{ end }}
+
+{{ range $k, $v := $val }}
+    <!-- if this value is a map, rewrite it to a list of strings to display -->
+    {{ $print_val := $v }}
+    {{ $is_map := reflect.IsMap $print_val }}
+    {{ if $is_map }}
+        {{ $print_val = printf "%s (%s)" ($print_val.value | string) $print_val.key }}
+    {{ end }}
+
+    {{ if not $print_val }}{{ continue }}{{ end }}
+
+    <!-- build URL from original label, show string from list we build as text-->
+    {{ $url := printf "/%s/%s" ($label | urlize) ($v | urlize) }}
+    {{ if $create_links }}
+        <a class="{{ $class }}" href="{{ $url }}">{{ $print_val }}</a>
+    {{ else }}
+        <span class="{{ $class }}">{{ $print_val }}</span>
+    {{ end }}
+
+    <!-- only create separators when needed (not on last element) -->
+    {{ $last_elem := eq $k (sub (len $val) 1) }}
+    {{ if not $last_elem }}
+        {{ $separator | safeHTML }}
+    {{ end }}
+
+{{ end }}

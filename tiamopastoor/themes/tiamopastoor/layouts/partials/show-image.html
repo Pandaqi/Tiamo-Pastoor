@@ -1,0 +1,46 @@
+<figure>
+	{{- $src := .src -}}
+	{{- $alt := or .alt ((replace $src ".webp" "") | humanize) -}}
+	{{- $class := or .class "" -}}
+	{{- $no_click := or .noclick false -}}
+	{{- if $no_click }}{{ $class = printf "%s no-click" $class -}}{{- end -}}
+	{{- $no_extension := not (in $src ".") -}}
+	{{- if $no_extension -}}{{- $src = printf "%s.webp" $src -}}{{- end -}}
+	{{- $abs_url := $src }}
+	{{- $abs_url_checkable := printf "static%s" $abs_url -}}
+	{{- $rel_url := printf "%s%s" .context.Page.RelPermalink $src -}}
+	{{- $rel_url_checkable := printf "content%s" $rel_url -}}
+	{{- $final_url := $rel_url -}}
+	{{- $checkable_url := $rel_url_checkable }}
+	{{- $valid_file := true -}}
+	{{- if not (fileExists $rel_url_checkable) -}}
+		{{- $final_url = $abs_url }}
+		{{- $checkable_url = $abs_url_checkable }}
+	{{- end -}}
+	{{ if not (fileExists $checkable_url) }}
+		{{ $valid_file = false }}
+	{{ end }}
+	<!-- @TODO: .usestatic and .useabsolute made useless by the safe-checking above, right? -->
+	{{- if $alt -}}
+		<figcaption class="side-note">
+			<span>{{- $alt | safeHTML -}}</span>
+		</figcaption>
+	{{- end -}}
+	<picture>
+		{{- if $valid_file -}}
+			{{- $img := imageConfig $checkable_url -}}
+			<img 
+				src="{{- $final_url -}}" 
+				loading="lazy" 
+				decoding="async" 
+				alt="{{- $alt | safeHTML -}}"
+				title="{{- $alt | safeHTML -}}"
+				width="{{- $img.Width -}}"
+				height="{{- $img.Height -}}"
+				class="{{- $class -}}"
+			/>
+		{{- else -}}
+			Cannot find image: {{- $checkable_url -}}
+		{{- end -}}
+	</picture>
+</figure>
