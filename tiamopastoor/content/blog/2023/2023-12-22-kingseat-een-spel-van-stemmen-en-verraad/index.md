@@ -3,7 +3,7 @@ title: 'Kingseat: een spel van stemmen en verraad'
 author: tiamopastoor
 date: 2023-12-22T15:00:00+00:00
 language: nl
-thumb: /uploads/2023/05/placeholder-header.webp
+thumb: kingseat_header.webp
 categories:
   - Games
 

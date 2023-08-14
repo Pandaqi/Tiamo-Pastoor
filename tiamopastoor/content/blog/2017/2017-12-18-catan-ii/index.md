@@ -46,11 +46,9 @@ Okee, dat is duidelijk: strategie 1, 3, en 5 zijn het beste. Dus proberen we daa
 We hebben resultaat! De beste manier om te beginnen, is met strategie 1 en 3. Ofwel:
 
   * Plaats je eerste huisje bij een veld met een zo waarschijnlijk mogelijk getal (6 of 8)
-  * Plaats je tweede huisje bij de meest nodige grondstoffen. (Dat zijn hout en klei, gevolgd door wol en graan, gevolgd door erts.)<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+  * Plaats je tweede huisje bij de meest nodige grondstoffen. (Dat zijn hout en klei, gevolgd door wol en graan, gevolgd door erts.)
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+{{< youtube g1_CtF7pv4A >}}
 
 Toppiefloppie. Vanaf nu begint elke speler met deze strategie, zodat we echt puur kunnen testen op speelstrategieën tijdens het spel.
 
@@ -67,11 +65,9 @@ Voor de verdere simulaties heb ik wat met de beginposities gespeeld zodat alle s
 
 ## De ideale sociale instelling
 
-Ik merkte dat ik NOGAL veel opties had qua strategieën, dus ik ga ze in een andere volgorde af: ik begin bij de categorie met de minste opties, en werk naar die met de meeste toe. In het volgende filmpje spelen speler 0 en 1 _defensief_, en speler 2 en 3 _agressief_.<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+Ik merkte dat ik NOGAL veel opties had qua strategieën, dus ik ga ze in een andere volgorde af: ik begin bij de categorie met de minste opties, en werk naar die met de meeste toe. In het volgende filmpje spelen speler 0 en 1 _defensief_, en speler 2 en 3 _agressief_.
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+{{< youtube BTvdvCU0rGI >}}
 
 De mogelijke sociale houdingen waren: defensief, neutraal, en agressief. Nu kan ik me voorstellen dat het resultaat van je houding verandert als andere mensen hun houding veranderen. Oftewel, als de rest heel agressief speelt, heb je er misschien weinig aan om neutraal te zijn. Dus we proberen alle mogelijkheden uit:
 
@@ -154,11 +150,9 @@ Terwijl ik met deze simulatie bezig ben, merk ik steeds meer het belang van deze
 
 Dat zijn geen grote verschillen :p Maar, zoals ik al verwachtte, loont het wel om de hele tijd kaarten te blijven kopen, hopend op ridders. Wat ik dan wél frappant vind, is dat het ook loont als je helemaal nooit kaarten koopt. Misschien komt het omdat je dan veel sneller grondstoffen hebt voor straten/steden/dorpen, en dat meer oplevert.
 
-Oftewel, maak een keuze aan het begin van het potje: of je gaat vol op de kaarten, of je doet alsof ze niet bestaan.<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+Oftewel, maak een keuze aan het begin van het potje: of je gaat vol op de kaarten, of je doet alsof ze niet bestaan.
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+{{< youtube 7paUBETdlUQ >}}
 
 ## Steden bouwen
 
@@ -179,11 +173,9 @@ Twee opties zijn het beste: vijftig procent kans dat je een stad besluit te make
 Ofwel, kies aan het begin van het potje:
 
   * Elke keer als je iets nieuws zoekt om te doen, kies de helft van de tijd (of iets meer/minder, ligt eraan hoe strak je dat wil bijhouden) een stad.
-  * Bouw eerst al je dorpen, upgrade ze dan naar steden.<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+  * Bouw eerst al je dorpen, upgrade ze dan naar steden.
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+{{< youtube orbaxvWEWpI >}}
 
 ## Straten bouwen
 
@@ -200,11 +192,9 @@ Dit verbaast me eigenlijk wel. De persoon met de langste handelsroute wint meer 
 
 Dus, de overwinning hier gaat naar: bouw alleen straten als je écht niks anders kan!
 
-Grappig: het spel duurt veel langer als men geen straatjes bouwt. Als iedereen strategie 4 hanteert, duurt het spel gemiddeld 220 a 230 beurten. (Dus, 55 beurten per persoon.)<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+Grappig: het spel duurt veel langer als men geen straatjes bouwt. Als iedereen strategie 4 hanteert, duurt het spel gemiddeld 220 a 230 beurten. (Dus, 55 beurten per persoon.)
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+{{< youtube ecfTibHWqoQ >}}
 
 ## Dorpen bouwen
 
@@ -246,17 +236,17 @@ Dus, vanaf nu ga ik combinaties van strategieën uittesten.
 
 Ik ga de computer nog veel meer potjes laten spelen, elke keer random strategieën. Vervolgens sla ik ze op, en kijk welke random strategie het meeste heeft gewonnen. Om te weten hoeveel potjes we moeten laten spelen, moeten we eerst even berekenen hoeveel mogelijke strategieën er zijn. We vermenigvuldigen gewoon alle mogelijkheden met elkaar:
 
-5 \* 5 \* 4 \* 7 \* 5 \* 4 \* 4 \* 5 \* 3 = 840 000
+> 5 \* 5 \* 4 \* 7 \* 5 \* 4 \* 4 \* 5 \* 3 = 840 000
 
 Well, damn. Dat is veel te veel. Ik gooi even een paar strategieën weg die hopeloos waren, en we krijgen:
 
-4 \* 4 \* 4 \* 5 \* 4 \* 4 \* 4 \* 4 \* 2 = 163 840
+> 4 \* 4 \* 4 \* 5 \* 4 \* 4 \* 4 \* 4 \* 2 = 163 840
 
 Is dat haalbaar? Eigenlijk niet. Ik wil namelijk een percentage van hoe vaak elke strategie wint, en nu zou ik daarvoor een paar miljoen keer moeten simuleren. Plus, het weergeven en sorteren van resultaten is een hel.
 
 Ik haal het "ruil-aspect" weg, want alleen eerlijke ruil toestaan was vrij duidelijk de winnaar. Ook was duidelijk hoe je met de dief om moest gaan, en kan dat dus weg.
 
-4 \* 4 \* 4 \* 5 \* 4 \* 4 \* 1 \* 1 \* 2 = 10 240
+> 4 \* 4 \* 4 \* 5 \* 4 \* 4 \* 1 \* 1 \* 2 = 10 240
 
 Haalbaar. (Soort van.) Dus, de computer probeert nu alle mogelijke strategieën uit, en slaat op hoe vaak een bepaalde strategie wint. Na 100,000 simulaties is dit het resultaat. Onthoudt dat dit in principe een heel laag getal is: bij 4 spelers per potje, wordt elke strategie gemiddeld maar 40 keer uitgeprobeerd. Maar toch, het resultaat zou redelijk moeten kloppen. BEHOLD!
 
@@ -317,62 +307,54 @@ Dit komt overeen met wat ik merkte toen ik de filmpjes maakte. Terwijl ik het pl
 
 BIJZAAK: Het duurde ongeveer 9 minuten per 100,000 potjes om te simuleren. Op zich ben ik best tevreden daarover, hoewel ik weet dat mijn simulatie-programma _stukken_ efficiënter en netter had gekund :p
 
-Mijn favoriete potje:<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+Mijn favoriete potje:
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+{{< youtube N6WOxZexVXc >}}
 
-En nog wat andere leuke potjes:<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+En nog wat andere leuke potjes:
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+{{< youtube ZWGBPJwrS5o >}}
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+{{< youtube 9AbIs9A7To0 >}}
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+{{< youtube QQaug6tIA4Q >}}
 
 ## Wat nu?
 
 Nu weet je hoe je moet spelen bij je al je volgende potjes Catan. Of je negeert dit allemaal en doet gewoon waar je zin in hebt. Het gaat immers niet om winnen, maar om gezellig een spel spelen. Desalniettemin, hoe sneller je dit spel uit de weg hebt geruimd, hoe eerder je een nog veel leuker spel kan gaan doen!
 
-Om het af te ronden nog wat visualisaties met random strategieën:<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+Om het af te ronden nog wat visualisaties met random strategieën:
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+### Filmpje 1
+
+{{< youtube DNfg-tqRuc0 >}}
 
 Speler 0: [1, 7, 1, 2, 1, 2, 1] met beginstrategie [3,1]  
 Speler 1: [2, 5, 2, 2, 1, 2, 1] met beginstrategie [2,3]  
 Speler 2: [4, 3, 4, 4, 1, 2, 1] met beginstrategie [1,4]  
-Speler 3: [2, 1, 3, 1, 1, 2, 1] met beginstrategie [2,3]<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+Speler 3: [2, 1, 3, 1, 1, 2, 1] met beginstrategie [2,3]
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+### Filmpje 2
+
+{{< youtube xj9ROe75ZlU >}}
 
 Speler 0: [2, 3, 3, 4, 1, 2, 3] met beginstrategie [4,2]  
 Speler 1: [4, 5, 2, 4, 1, 2, 1] met beginstrategie [3,1]  
 Speler 2: [2, 3, 3, 2, 1, 2, 3] met beginstrategie [2,4]  
-Speler 3: [1, 7, 4, 4, 1, 2, 3] met beginstrategie [3,4]<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+Speler 3: [1, 7, 4, 4, 1, 2, 3] met beginstrategie [3,4]
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+### Filmpje 3
+
+{{< youtube w4P5TqxQJNo >}}
 
 Speler 0: [1, 5, 3, 2, 1, 2, 3] met beginstrategie [2,2]  
 Speler 1: [2, 7, 2, 3, 1, 2, 1] met beginstrategie [3,4]  
 Speler 2: [4, 7, 1, 3, 1, 2, 3] met beginstrategie [1,3]  
-Speler 3: [2, 3, 4, 2, 1, 2, 3] met beginstrategie [1,2]<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+Speler 3: [2, 3, 4, 2, 1, 2, 3] met beginstrategie [1,2]
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+### Filmpje 4
+
+{{< youtube 0AB70kkRZJE >}}
 
 Speler 0: [3, 3, 2, 1, 1, 2, 3] met beginstrategie [3,2]  
 Speler 1: [4, 4, 1, 4, 1, 2, 1] met beginstrategie [1,2]  
@@ -384,4 +366,4 @@ Speler 3: [3, 3, 4, 4, 1, 2, 3] met beginstrategie [2,3]
 Het hele JAVA-project (dat je direct kunt openen in NetBeans, en waarschijnlijk andere programma's) is te vinden in deze Google Drive folder: [Settlers of Catan (Simulation)][2]
 
  [1]: /blog/2017/2017-12-18-catan-i/
- [2]: https://drive.google.com/drive/folders/1TY195wDWcUt7H-QYzg9wK0dnTTbqtwtx?usp=sharing
+ [2]: https://drive.google.com/drive/folders/1TY195wDWcUt7H-QYzg9wK0dnTTbqtwtx

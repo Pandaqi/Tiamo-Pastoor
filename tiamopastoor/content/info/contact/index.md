@@ -2,6 +2,8 @@
 title: "Contact"
 notoc: true
 date: 2023-08-09
+layout: horizontal
+thumb: info_contact.webp
 ---
 
 Want to get in touch? Well, how you do that depends a little on _why_ you want to get in touch.

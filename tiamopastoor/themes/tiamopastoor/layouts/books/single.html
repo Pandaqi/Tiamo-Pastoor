@@ -9,6 +9,7 @@
 				{{ partial "thumbnail.html" (dict "context" . "class" "left-side hide-caption" "addbox" true) }}
 
 				{{ $is_finished := eq .Params.phase "finished" }}
+				{{ $show_progress_bar := partial "func/should-show-progress-bar.html" . }}
 				{{ $is_ongoing := eq .Params.ongoing true }}
 				{{ $has_links := .Params.links }}
 
@@ -19,8 +20,10 @@
 						<div class="article-content">
 							{{ partial "metadata.html" (dict "context" . "notags" true) }}
 							{{ .Params.blurb | markdownify }}
-							{{ if not $is_finished }}
-								{{ partial "book-progress.html" . }}
+							{{ if $show_progress_bar }}
+								<div class="progress-in-blurb">
+									{{ partial "book-progress.html" . }}
+								</div>
 							{{ end }}
 						</div>
 					</section>

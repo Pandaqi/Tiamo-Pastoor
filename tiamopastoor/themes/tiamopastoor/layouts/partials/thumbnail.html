@@ -2,6 +2,7 @@
 {{ $class := or .class "" }}
 {{ $add_box := or .addbox false }}
 {{ $no_click := or .noclick false }}
+{{ $layout := partial "func/get-layout.html" $context }}
 
 {{ $thumb := $context.Params.thumb }}
 {{ $using_default_thumbnail := false }}
@@ -15,7 +16,7 @@
 <div class="{{ $class }}">
     {{ if $add_box }}<section class="sketchy-box">{{ end }}
     {{ $alt := printf "Header / Cover Image for '%s'" $context.Title }}
-    {{ partial "show-image.html" (dict "context" $context "src" . "alt" $alt "noclick" $no_click) }}
+    {{ partial "show-image.html" (dict "context" $context "src" . "alt" $alt "noclick" $no_click "layout" $layout) }}
     {{ if $add_box}}</section>{{ end }}
 </div>
 {{ end }}

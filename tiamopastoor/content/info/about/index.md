@@ -2,6 +2,8 @@
 title: "About"
 notoc: true
 date: 2023-08-09
+layout: horizontal
+thumb: info_about.webp
 ---
 
 Hi! My name is **Tiamo Pastoor**. On this page, I will explain a bit about myself and my work as an author. The route to getting here has been a weird one, to say the least.

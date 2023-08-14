@@ -2,6 +2,8 @@
 title: "Support"
 notoc: true
 date: 2023-08-09
+layout: horizontal
+thumb: info_support.webp
 ---
 
 Most of my work is completely free and accessible to anyone. In fact, I made a promise long ago to never use ads, or require accounts, or do any other (nasty) tricks. And I keep my promises! 
@@ -12,7 +14,7 @@ As such, I maintain many expensive websites and earn absolutely nothing from it.
 
 ## Free Support
 
-The "free" support is obviously **giving feedback** and **telling others**. Even today, with the internet, most people buy books because they were told or alerted to them personally. 
+The "free" support is obviously **giving feedback** and **telling others**. Even today, with the internet, most people buy books because they were told about or alerted to them personally. 
 
 Most people won't buy a book unless it has enough reviews. And even when a project of mine received a lot of eyeballs, it was _extremely rare_ that somebody gave me feedback on it.
 

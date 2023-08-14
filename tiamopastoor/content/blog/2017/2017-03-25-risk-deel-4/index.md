@@ -16,7 +16,7 @@ Als laatste, voor de geïnteresseerden, een stappenplan van hoe ik dingen heb g
 
 De map van het bordspel Risk heb ik helemaal zelf moeten tekenen en omzetten in een shapefile (`.shp`) om in te lezen in `R`. (Het was een pokkewerk, maar het wel waard.)
 
-Alle bestanden zijn te vinden [in deze Google Drive folder](https://drive.google.com/drive/folders/1QgPrBVIdqUFGw2CT9ZiIAwpmQ0jZjwT8?usp=sharing" target="_blank" rel=).
+Alle bestanden zijn te vinden [in deze Google Drive folder](https://drive.google.com/drive/folders/1QgPrBVIdqUFGw2CT9ZiIAwpmQ0jZjwT8").
 
 (Het is een project dat je direct in NetBeans zou kunnen openen. Plots worden automatisch in de "Plots" folder gezet, bij het R-bestand moet je eventueel nog de working directory aanpassen naar waar deze folder op je harde schijf staat.)
 

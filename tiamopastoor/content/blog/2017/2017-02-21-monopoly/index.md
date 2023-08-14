@@ -7,7 +7,7 @@ categories:
   - Games
 
 ---
-Monopoly. Het spel waarvan iedereen de eerste keer denkt "mwah oké, ziet er wel leuk uit", de tweede keer denkt "ugh, oké dan, maar alleen als ik de bank ben, want jij speelt sowieso vals", en de derde en laatste keer denkt "de dobbelstenen haten mij en de gevangenis is mijn nieuwe thuis."
+Monopoly. Het spel waarvan iedereen de eerste keer denkt "mwah oké, ziet er wel leuk uit", de tweede keer denkt "ugh, oké dan, maar alleen als ik de bank ben, want jij speelt sowieso vals", en de derde en laatste keer denkt "de dobbelstenen haten mij en de gevangenis is mijn nieuwe thuis".
 
 Daarom ga ik dit traditionele gezinsspel simuleren om erachter te komen wat de beste strategieën zijn. (Dit is de eerste post in een reeks simulaties van (bord)spellen. Je kunt ze allemaal vinden in de categorie _Zinderende Simulaties_, wat een gefaalde alliteratie is.)
 
@@ -53,21 +53,9 @@ Dat zijn veel rondes. Ik kan me oprecht geen enkel potje Monopoly herinneren dat
   * Daar tussenin hebben alle vakjes iets van een halve procent meer kans.
   * Maar, we zien duidelijk een piek rond de vakjes 18, 19 en 20.
 
-<div id="attachment_4029" style="width: 704px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-4029" decoding="async" loading="lazy" class="wp-image-4029 size-full" src="/uploads/2017/02/monopoly_visits.png" alt="monopoly_visits" width="694" height="505" />
-  
-  <p id="caption-attachment-4029" class="wp-caption-text">
-    Eerste keer simuleren
-  </p>
-</div>
+![Eerste keer simuleren](/uploads/2017/02/monopoly_visits.png)
 
-<div id="attachment_4074" style="width: 704px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-4074" decoding="async" loading="lazy" class="wp-image-4074 size-full" src="/uploads/2017/02/monopoly_visits_two.png" alt="monopoly_visits_two" width="694" height="505" />
-  
-  <p id="caption-attachment-4074" class="wp-caption-text">
-    Tweede keer simuleren
-  </p>
-</div>
+![Tweede keer simuleren](/uploads/2017/02/monopoly_visits_two.png)
 
 Dit is op zich niet verrassend. De middelste vakjes worden immers het meest bezocht. Maar het is wel sneaky, want, "vrij parkeren" is vakje 21. Dus je hebt een hele grote kans om op vakje 20 te komen, maar je kunt met twee dobbelstenen nooit één gooien, dus de kans dat je vrij mag parkeren is relatief klein (zoals te zien is als je naar het bolletje bij nummer 21 kijkt).
 
@@ -87,21 +75,9 @@ Gewoon voor de grap heb ik het ook geprobeerd met een 12-speler spel; dan heeft 
 
 Half. Het is niet per sé dat de speler die begint veruit de grootste kans heeft, maar meer dat het _groepje spelers dat als eerste mag_ een grotere winkans heeft dan _het groepje spelers dat steeds als laatste mag_.
 
-<div id="attachment_4062" style="width: 704px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-4062" decoding="async" loading="lazy" class="wp-image-4062 size-full" src="/uploads/2017/02/monopoly_wins_4player.png" alt="monopoly_wins_4player" width="694" height="505" />
-  
-  <p id="caption-attachment-4062" class="wp-caption-text">
-    Aantal winstpartijen spelers 1-4
-  </p>
-</div>
+![Aantal winstpartijen spelers 1--4](/uploads/2017/02/monopoly_wins_4player.png)
 
-<div id="attachment_4065" style="width: 704px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-4065" decoding="async" loading="lazy" class="wp-image-4065 size-full" src="/uploads/2017/02/monopoly_wins_6player.png" alt="monopoly_wins_6player" width="694" height="505" />
-  
-  <p id="caption-attachment-4065" class="wp-caption-text">
-    Aantal winstpartijen spelers 1-6
-  </p>
-</div>
+![Aantal winstpartijen spelers 1--6](/uploads/2017/02/monopoly_wins_6player.png)
 
 Het probleem is natuurlijk dat je volgens de spelregels niet echt kan _kiezen_ of je mag beginnen. (Iedereen gooit dobbelsteen, hoogste mag starten.) Maar je kunt het altijd proberen. ("Kijk, een paarse vogel!---Goh, wat raar, staat mijn poppetje ineens vooraan")
 
@@ -111,147 +87,45 @@ Ah, de meest belangrijke, spannende, intrigerende, alomvattende vraag! Hoe doen 
 
 Ik kies voor het vervolg speler 1 voor de speciale strategie, omdat het makkelijk is. Natuurlijk zal ik dan wel een beetje moeten corrigeren voor het feit dat speler 1 een kleine voorsprong heeft. De resultaten:
 
-<div id='gallery-2' class='gallery galleryid-3975 gallery-columns-2 gallery-size-medium'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/monopoly/attachment/monopoly_strategy_1/'><img width="694" height="505" src="/uploads/2017/02/monopoly_strategy_1.png" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" aria-describedby="gallery-2-4087" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-2-4087'>
-      Eerste keer simuleren strategie 2; een duidelijke voorsprong voor onze speler
-    </dd>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/monopoly/attachment/monopoly_strategy_1_2/'><img width="694" height="505" src="/uploads/2017/02/monopoly_strategy_1_2.png" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" aria-describedby="gallery-2-4088" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-2-4088'>
-      Tweede keer simuleren, de voorsprong blijft nadrukkelijk aanwezig.
-    </dd>
-  </dl>
-  
-  <br style="clear: both" />
-</div>
+{{% image-gallery %}}
+![Eerste keer simuleren strategie 2; een duidelijke voorsprong voor onze speler](/uploads/2017/02/monopoly_strategy_1.png)
+
+![Tweede keer simuleren, de voorsprong blijft nadrukkelijk aanwezig.](/uploads/2017/02/monopoly_strategy_1_2.png)
+{{% /image-gallery %}}
 
 Oké, dus, geen miezerige treinstations en speciale dingetjes kopen lijkt voordelig. Strategie 3, echter, valt vies tegen:
 
-<div id='gallery-3' class='gallery galleryid-3975 gallery-columns-2 gallery-size-medium'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/monopoly/attachment/monopoly_strategy_2/'><img width="694" height="505" src="/uploads/2017/02/monopoly_strategy_2.png" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" aria-describedby="gallery-3-4096" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-3-4096'>
-      Eerste keer simuleren strategie 3; twee heeft zelfs zijn voordeel gedaan ten opzichte van speler 1!
-    </dd>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/monopoly/attachment/monopoly_strategy_2_2/'><img width="694" height="505" src="/uploads/2017/02/monopoly_strategy_2_2.png" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" aria-describedby="gallery-3-4097" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-3-4097'>
-      Tweede keer simuleren; één komt nu wel als winnaar uit de bus, maar niet met veel verschil.
-    </dd>
-  </dl>
-  
-  <br style="clear: both" />
-</div>
+{{% image-gallery %}}
+![Eerste keer simuleren strategie 3; twee heeft zelfs zijn voordeel gedaan ten opzichte van speler 1!](/uploads/2017/02/monopoly_strategy_2.png)
+
+![Tweede keer simuleren; één komt nu wel als winnaar uit de bus, maar niet met veel verschil.](/uploads/2017/02/monopoly_strategy_2_2.png)
+{{% /image-gallery %}}
 
 Het is geen slechte strategie per sé, maar het levert ook weinig voordeel op. Wat wél een bagger strategie is, is de laatste: alleen maar dure dingen kopen. Achter de felbegeerde dure dingen aanjagen is de slechtste keuze die je kan maken.
 
-<div id='gallery-4' class='gallery galleryid-3975 gallery-columns-2 gallery-size-medium'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/monopoly/attachment/monopoly_strategy_3/'><img width="694" height="505" src="/uploads/2017/02/monopoly_strategy_3.png" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" aria-describedby="gallery-4-4105" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-4-4105'>
-      Eerste keer simuleren; het gaat slecht met numero 1.
-    </dd>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/monopoly/attachment/monopoly_strategy_3_2/'><img width="694" height="505" src="/uploads/2017/02/monopoly_strategy_3_2.png" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" aria-describedby="gallery-4-4106" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-4-4106'>
-      Tweede keer simuleren; het gaat niet veel beter.
-    </dd>
-  </dl>
-  
-  <br style="clear: both" />
-</div>
+{{% image-gallery %}}
+![Eerste keer simuleren; het gaat slecht met numero 1.](/uploads/2017/02/monopoly_strategy_3.png)
+
+![Tweede keer simuleren; het gaat niet veel beter.](/uploads/2017/02/monopoly_strategy_3_2.png)
+{{% /image-gallery %}}
 
 Voor de grap laat ik speler 1 nu strategie 2 en 3 combineren: alleen de middelste dingen kopen, en géén speciale dingen (uit het midden). Het resultaat:
 
-<div id="attachment_4110" style="width: 704px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-4110" decoding="async" loading="lazy" class="alignnone size-full wp-image-4110" src="/uploads/2017/02/monopoly_strategy_extra.png" alt="monopoly_strategy_extra" width="694" height="505" />
-  
-  <p id="caption-attachment-4110" class="wp-caption-text">
-    Meh, valt tegen. Hou het toch maar bij strategie 2.
-  </p>
-</div>
+![Meh, valt tegen. Houd het toch maar bij strategie 2.](/uploads/2017/02/monopoly_strategy_extra.png)
 
 ## BONUS
 
 Voor wie het leuk vindt, heb ik grafiekjes van de hoeveelheid geld die elke speler heeft gedurende een spel:
 
-<div id='gallery-5' class='gallery galleryid-3975 gallery-columns-1 gallery-size-large'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/monopoly/attachment/monopoly_4player_overview/'><img width="1013" height="515" src="/uploads/2017/02/monopoly_4player_overview.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" aria-describedby="gallery-5-4453" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-5-4453'>
-      4 Spelers
-    </dd>
-  </dl>
-  
-  <br style="clear: both" />
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/monopoly/attachment/monopoly_6player_overview/'><img width="1013" height="515" src="/uploads/2017/02/monopoly_6player_overview.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" aria-describedby="gallery-5-4454" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-5-4454'>
-      6 Spelers
-    </dd>
-  </dl>
-  
-  <br style="clear: both" />
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/monopoly/attachment/monopoly_12player_overview/'><img width="1013" height="515" src="/uploads/2017/02/monopoly_12player_overview.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" aria-describedby="gallery-5-4455" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-5-4455'>
-      12 spelers (vergeef me, ik had geen zin om 12 kleuren te bedenken)
-    </dd>
-  </dl>
-  
-  <br style="clear: both" />
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/monopoly/attachment/monpoly_3player_overview/'><img width="1013" height="515" src="/uploads/2017/02/monpoly_3player_overview.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" aria-describedby="gallery-5-4456" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-5-4456'>
-      3 spelers
-    </dd>
-  </dl>
-  
-  <br style="clear: both" />
-</div>
+{{% image-gallery %}}
+![4 Spelers](/uploads/2017/02/monopoly_4player_overview.png)
 
-## 
+![6 Spelers](/uploads/2017/02/monopoly_6player_overview.png)
+
+![12 Spelers  (vergeef me, ik had geen zin om 12 kleuren te bedenken)](/uploads/2017/02/monopoly_12player_overview.png)
+
+![3 Spelers](/uploads/2017/02/monpoly_3player_overview.png)
+{{% /image-gallery %}}
 
 ## De Code
 

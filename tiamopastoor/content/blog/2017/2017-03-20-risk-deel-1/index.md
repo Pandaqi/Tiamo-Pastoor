@@ -166,8 +166,4 @@ Volgens de spelregels niet, maar doe in het echt vooral waar je zin in hebt. In
 
 WORDT VERVOLGD: [Risk---deel 2][1]
 
- 
-
-##
-
- [1]: /wiskundig-gewauwel/zinderende-simulaties/risk-deel-2/
+ [1]: /blog/2017/2017-03-21-risk-deel-2/

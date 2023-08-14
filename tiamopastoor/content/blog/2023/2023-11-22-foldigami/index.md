@@ -3,7 +3,7 @@ title: Foldigami!
 author: tiamopastoor
 date: 2023-11-22T15:00:00+00:00
 language: nl
-thumb: /uploads/2023/05/placeholder-header.webp
+thumb: foldigami-header.webp
 categories:
   - Games
 

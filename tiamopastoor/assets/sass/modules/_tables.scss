@@ -1,0 +1,52 @@
+@use "critical_modules/globals" as g;
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 2.5em;
+    border: none;
+
+    tr:nth-child(2n), th {
+        @include g.themed() {
+            background-color: g.t("def-transparent-container");
+        }
+    }
+
+    th { 
+        font-weight: bold;
+    }
+
+    td:first-child {
+        font-style: italic;
+    }
+
+    td, th {
+        padding: 0.25em;
+
+        @include g.themed() {
+            border: 0.05em solid g.t("def-near-black");
+        }
+    }
+
+    tr:first-child td, thead tr th {
+        border-top: none !important;
+    }
+      
+    tr:last-child td, th:last-child td {
+        border-bottom: none;
+    }
+      
+    tr td:first-child, tr th:first-child {
+        border-left: none !important;
+    }
+      
+    tr td:last-child, tr th:last-child {
+        border-right: none !important;
+    }
+
+    /*
+    @include g.themed() {
+			background-color: g.t("def-header-background");
+		}
+    */
+}

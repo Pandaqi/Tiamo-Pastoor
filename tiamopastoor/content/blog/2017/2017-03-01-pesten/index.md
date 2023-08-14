@@ -27,7 +27,7 @@ Het punt is: er zijn vele betere kaartspellen, maar als ik met mensen iets leu
 
 Ligt er aan wat je onder eeuwigheid verstaat. Als je met meer personen speelt zou je misschien verwachten dat er een grotere kans is dat _iemand_ geen kaarten meer heeft, maar in werkelijkheid gaat het aantal beurten omhoog. (Met een onverklaarbaar klein dipje rond de 5 spelers.)
 
-<img decoding="async" loading="lazy" class="alignnone size-full wp-image-4685" src="/uploads/2017/02/pesten_aantal_beurten.png" alt="pesten_aantal_beurten" width="700" height="515" /> 
+![pesten_aantal_beurten](/uploads/2017/02/pesten_aantal_beurten.png) 
 
 Dus, vuistregel: als je kort wilt spelen, moet je weinig mensen hebben. Om toch een indicatie te hebben hoe lang je speelt, ga er vanuit dat een beurt over het algemeen zo'n 5 a 10 seconden duurt (met eventueel kaart pakken en alles), dus gemiddeld 7.5 seconde, dus een potje met 4 spelers zou zo'n 100 * 7.5 = 12.5 minuut moeten duren. Klinkt redelijk, en dat valt op zich wel mee, zeker vergeleken met andere spellen die mensen vaak kennen en willen spelen. (Ahum, kuch, Risk.)
 
@@ -35,21 +35,9 @@ Dus, vuistregel: als je kort wilt spelen, moet je weinig mensen hebben. Om toch 
 
 Ja, voor jou wel. Als we de hoeveelheid kaarten die mensen in hand hebben gedurende het spel bekijken, zien we dat meestal veel spelers al op de helft van het potje met één (en soms twee) kaart(en) in hun hand zitten.
 
-<div id="attachment_4695" style="width: 1029px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-4695" decoding="async" loading="lazy" class="alignnone size-full wp-image-4695" src="/uploads/2017/02/pesten_5speler_4wint.png" alt="pesten_5speler_4wint" width="1019" height="505" />
-  
-  <p id="caption-attachment-4695" class="wp-caption-text">
-    Hier zien we een spel voor 5 spelers. We zien dat speler 2 aan het begin meteen een joker over zich heen krijgt, en daar niet meer bovenop komt. Ook zien we speler 5 een hele lange tijd met 1 kaart zitten, terwijl speler 4 uiteindelijk de winst weet te pakken.
-  </p>
-</div>
+![Hier zien we een spel voor 5 spelers. We zien dat speler 2 aan het begin meteen een joker over zich heen krijgt, en daar niet meer bovenop komt. Ook zien we speler 5 een hele lange tijd met 1 kaart zitten, terwijl speler 4 uiteindelijk de winst weet te pakken.](/uploads/2017/02/pesten_5speler_4wint.png)
 
-<div id="attachment_4696" style="width: 1273px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-4696" decoding="async" loading="lazy" class="alignnone size-full wp-image-4696" src="/uploads/2017/02/pesten_7speler_2wint.png" alt="pesten_7speler_2wint" width="1263" height="505" />
-  
-  <p id="caption-attachment-4696" class="wp-caption-text">
-    Hier zien we een spel voor 7 spelers. We zien hoe speler 3 genaaid wordt met een gigantische verzameling jokers en tweeën. Ook zien we hoe Speler 1, 2 en 6 al vroeg in het potje op 1 a 2 kaarten blijven steken, maar niet weten te winnen.Speler 3 weet nog goed terug te komen van de grote schok, maar uiteindelijk is het Speler 2 die er met de winst vandoor gaat.
-  </p>
-</div>
+![Hier zien we een spel voor 7 spelers. We zien hoe speler 3 genaaid wordt met een gigantische verzameling jokers en tweeën. Ook zien we hoe Speler 1, 2 en 6 al vroeg in het potje op 1 a 2 kaarten blijven steken, maar niet weten te winnen.Speler 3 weet nog goed terug te komen van de grote schok, maar uiteindelijk is het Speler 2 die er met de winst vandoor gaat.](/uploads/2017/02/pesten_7speler_2wint.png)
 
 Het potje had dus de helft van de tijd, of misschien zelfs korter, kunnen duren als je gewoon met pestkaart mocht eindigen. _Maar_, eerlijk is eerlijk, het is flauw om met twee zevens en vervolgens een joker opleggen ineens van 3 kaarten naar 0 te gaan.
 
@@ -71,47 +59,17 @@ Het is _wasmachine_, niet _wasmachien_, en dan rijmt _tien wasmachine_ niet m
 
 Laten we de resultaten hier eens bekijken:
 
-<div id='gallery-6' class='gallery galleryid-4125 gallery-columns-2 gallery-size-large'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_3speler/'><img width="924" height="634" src="/uploads/2017/02/pesten_3speler.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" /></a>
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_4speler/'><img width="924" height="634" src="/uploads/2017/02/pesten_4speler.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" /></a>
-    </dt>
-  </dl>
-  
-  <br style="clear: both" />
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_5speler/'><img width="924" height="634" src="/uploads/2017/02/pesten_5speler1.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" aria-describedby="gallery-6-4727" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-6-4727'>
-      De originele situatie
-    </dd>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_6speler/'><img width="924" height="634" src="/uploads/2017/02/pesten_6speler.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" /></a>
-    </dt>
-  </dl>
-  
-  <br style="clear: both" />
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_7speler-2/'><img width="924" height="634" src="/uploads/2017/02/pesten_7speler1.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" /></a>
-    </dt>
-  </dl>
-  
-  <br style='clear: both' />
-</div>
+{{% image-gallery %}}
+![](/uploads/2017/02/pesten_3speler.png)
+
+![](/uploads/2017/02/pesten_4speler.png)
+
+![De originele situatie](/uploads/2017/02/pesten_5speler1.png)
+
+![](/uploads/2017/02/pesten_6speler.png)
+
+![](/uploads/2017/02/pesten_7speler1.png)
+{{% /image-gallery %}}
 
 Zie jij wat ik zie? Ik zie dat speler 2 eigenlijk behoorlijk vaak wint, en als speler 2 niet wint is het Speler 4 of 5 wel. Ofwel, gek genoeg, hebben de spelers die niet beginnen, niet precies in het midden zitten, en niet aan het eind zitten de meeste kans om te winnen. De persoon die begint zal wel de meeste pestkaarten over zich heen krijgen, de persoon die als laatste gaat heeft gewoon pech dat hij/zij de laatste is, en personen in het midden hebben een beetje van beide?
 
@@ -125,57 +83,21 @@ _Strategie 1_ hebben we bij de vorige vraag al af kunnen strepen. Jeej!
 
 Voor _strategie 2_ zetten we even het aantal spelers vast op 5, en doen we dermate veel simulaties dat elke vorm van "toevallig" een vertekenende uitslag krijgen weg is.  We verdelen de kaarten als volgt: 7, 8, 6, 8, 7
 
-<div id='gallery-7' class='gallery galleryid-4125 gallery-columns-2 gallery-size-large'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_5speler/'><img width="924" height="634" src="/uploads/2017/02/pesten_5speler1.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" aria-describedby="gallery-7-4727" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-7-4727'>
-      De originele situatie
-    </dd>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_strategie2/'><img width="922" height="634" src="/uploads/2017/02/pesten_strategie2.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" aria-describedby="gallery-7-4761" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-7-4761'>
-      De nieuwe situatie
-    </dd>
-  </dl>
-  
-  <br style="clear: both" />
-</div>
+{{% image-gallery %}}
+![De originele situatie](/uploads/2017/02/pesten_5speler1.png)
+
+![De nieuwe situatie](/uploads/2017/02/pesten_strategie2.png)
+{{% /image-gallery %}}
 
 Tadaa, probleem opgelost! Maar, ik moet zeggen, er zit vrij veel variantie in de resultaten, dus toen ik de simulatie meerdere keren opnieuw probeerde kwamen er hele andere grafieken uit, veelal waarin 3 een significant voordeel had als het met 6 kaarten begon. Het zal daarnaast ook lastig zijn om je medespelers te overtuigen dat jij écht als derde wil spelen, en écht maar 6 beginkaarten hoeft.
 
 Maar het idee is duidelijk. Voor de vorm, doen we hetzelfde voor 4 spelers: 7, 8, 8, 7 kaarten.
 
-<div id='gallery-8' class='gallery galleryid-4125 gallery-columns-2 gallery-size-large'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_strategie2_4spelers_oud/'><img width="922" height="634" src="/uploads/2017/02/pesten_strategie2_4spelers_oud.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" aria-describedby="gallery-8-4771" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-8-4771'>
-      Originele situatie
-    </dd>
-  </dl>
+{{% image-gallery %}}
+![Originele situatie](/uploads/2017/02/pesten_strategie2_4spelers_oud.png)
   
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_strategie2_4spelers/'><img width="922" height="634" src="/uploads/2017/02/pesten_strategie2_4spelers.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" aria-describedby="gallery-8-4770" /></a>
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-8-4770'>
-      Nieuwe situatie
-    </dd>
-  </dl>
-  
-  <br style="clear: both" />
-</div>
+![Nieuwe situatie](/uploads/2017/02/pesten_strategie2_4spelers.png)
+{{% /image-gallery %}}
 
 We zien hier dat de simulatie opnieuw runnen een andere winnaar geeft (speler 1 namelijk), dus deze strategie maakt het in dit geval alleen maar oneerlijker (ten opzichte van speler 2 en 3), alhoewel het voor speler 4 wel weer eerlijker wordt. Kortom, je weet het niet, en misschien is het maar beter om niet met andere beginkaarten te beginnen, of alleen een kaart minder voor de allerlaatste.
 
@@ -183,99 +105,45 @@ Opmerking: het probleem hier is natuurlijk ook dat je spelers geen halve kaart k
 
 Als we _strategie 3 _door iedereen laten spelen, zien we dat de winkansen ongeveer gelijk worden, maar dat potjes niet langer of korter worden. Je ziet wel leuk dat in de laatste twintig rondes, iedereen die onder de twee kaarten komt meteen een joker of twee over zich heen krijgt, en uiteindelijk dus de persoon wint die als eerste 1 kaart heeft terwijl alle pestkaarten al vergeven zijn :p
 
-<div id='gallery-9' class='gallery galleryid-4125 gallery-columns-2 gallery-size-large'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_strategie3_iedereen/'><img width="922" height="634" src="/uploads/2017/02/pesten_strategie3_iedereen.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" /></a>
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_strategie3_iedereenverloop/'><img width="922" height="634" src="/uploads/2017/02/pesten_strategie3_iedereenverloop.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" /></a>
-    </dt>
-  </dl>
-  
-  <br style="clear: both" />
-</div>
+{{% image-gallery %}}
+![](/uploads/2017/02/pesten_strategie3_iedereen.png)
+
+![](/uploads/2017/02/pesten_strategie3_iedereenverloop.png)
+{{% /image-gallery %}}
 
 Als alleen speler 1 deze strategie speelt, zien we dat speler 1 wel degelijk de meeste potjes wint. In de grafiek lijkt het misschien een klein verschil, maar merk op dat het toch een stuk of honderd à tweehonderd potjes meer is (die speler 1 wint).
 
-<div id='gallery-10' class='gallery galleryid-4125 gallery-columns-3 gallery-size-large'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_strategie3_alleenspeler1/'><img width="922" height="634" src="/uploads/2017/02/pesten_strategie3_alleenspeler1.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" /></a>
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_strategie3_alleenspeler1verloop/'><img width="922" height="634" src="/uploads/2017/02/pesten_strategie3_alleenspeler1verloop.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" /></a>
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_strategie3_alleenspeler1verloop2/'><img width="922" height="634" src="/uploads/2017/02/pesten_strategie3_alleenspeler1verloop2.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" /></a>
-    </dt>
-  </dl>
-  
-  <br style="clear: both" />
-</div>
+{{% image-gallery %}}
+![](/uploads/2017/02/pesten_strategie3_alleenspeler1.png)
+
+![](/uploads/2017/02/pesten_strategie3_alleenspeler1verloop.png)
+
+![](/uploads/2017/02/pesten_strategie3_alleenspeler1verloop2.png)
+{{% /image-gallery %}}
 
 Als we het spelverloop bekijken vind ik het toevallig dat speler 3 wéér door iedereen hard aangepakt wordt. En is het grappig dat speler 1, met deze geweldige strategie, steeds dichter en dichter bij die winst komt, om het uiteindelijk toch net weer te verliezen van speler 2. De potjes duren nu een stuk langer dan als iedereen de strategie toepast.
 
 Als laatste, _strategie 4, _geeft eindelijk eens fatsoenlijke resultaten. Met 4 spelers lijkt er nog niet veel aan de hand; we kijken 3 spelers vooruit of er iemand uit gaat zijn, en gooien alvast pestkaarten op, en dit geeft
 
-<div id='gallery-11' class='gallery galleryid-4125 gallery-columns-2 gallery-size-large'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_strategie4_verloop/'><img width="922" height="634" src="/uploads/2017/02/pesten_strategie4_verloop.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" /></a>
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_strategie4_winnaars/'><img width="922" height="634" src="/uploads/2017/02/pesten_strategie4_winnaars.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" /></a>
-    </dt>
-  </dl>
-  
-  <br style="clear: both" />
-</div>
+{{% image-gallery %}}
+![](/uploads/2017/02/pesten_strategie4_verloop.png)
+
+![](/uploads/2017/02/pesten_strategie4_winnaars.png)
+{{% /image-gallery %}}
 
 Woah, speler 3 lijkt er ineens goed van af te zijn! En inderdaad, speler 3 wint ons testpotje ook, vooral ten koste van speler 1 in dit geval. (Hij nam waarschijnlijk wraak voor al die vorige potjes.) De verdeling is weer wat ongelijker, maar nog steeds niks heel erg bijzonders.
 
 7 spelers? Komt ie
 
-<div id='gallery-12' class='gallery galleryid-4125 gallery-columns-2 gallery-size-large'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_strategie4_7spelers_winnaars/'><img width="922" height="634" src="/uploads/2017/02/pesten_strategie4_7spelers_winnaars.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" /></a>
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_strategie4_verloop_7spelers/'><img width="922" height="634" src="/uploads/2017/02/pesten_strategie4_verloop_7spelers.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" /></a>
-    </dt>
-  </dl>
-  
-  <br style="clear: both" />
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_strategie4_verloop_7spelers2/'><img width="922" height="634" src="/uploads/2017/02/pesten_strategie4_verloop_7spelers2.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" /></a>
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='/superieure-spellen/proberen-programmeren/pesten/attachment/pesten_strategie4_winnaars_7spelers2/'><img width="922" height="634" src="/uploads/2017/02/pesten_strategie4_winnaars_7spelers2.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" /></a>
-    </dt>
-  </dl>
-  
-  <br style="clear: both" />
-</div>
+{{% image-gallery %}}
+![](/uploads/2017/02/pesten_strategie4_7spelers_winnaars.png)
+
+![](/uploads/2017/02/pesten_strategie4_verloop_7spelers.png)
+
+![](/uploads/2017/02/pesten_strategie4_verloop_7spelers2.png)
+
+![](/uploads/2017/02/pesten_strategie4_winnaars_7spelers2.png)
+{{% /image-gallery %}}
 
 De beginspelers hebben een significant voordeel, waarschijnlijk omdat zij vaak de starter van een keten van pestkaarten kunnen zijn, maar er zelf weinig last van hebben. We zien in  de potjes wel dat ze langer duren, en dat de hoeveelheid kaarten veel harder schommelt. Maar, vooral het belangrijkst, als je er van uitgaat dat elke speler "rationeel" denkt, en vooruit kijkt, en alvast pestkaarten neergooit---dan kun je het beste speler 1 zijn.
 

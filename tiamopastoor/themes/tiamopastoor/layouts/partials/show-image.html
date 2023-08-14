@@ -2,6 +2,7 @@
 	{{- $src := .src -}}
 	{{- $alt := or .alt ((replace $src ".webp" "") | humanize) -}}
 	{{- $class := or .class "" -}}
+	{{- $layout := or .layout "horizontal" -}}
 	{{- $no_click := or .noclick false -}}
 	{{- if $no_click }}{{ $class = printf "%s no-click" $class -}}{{- end -}}
 	{{- $no_extension := not (in $src ".") -}}
@@ -26,9 +27,17 @@
 			<span>{{- $alt | safeHTML -}}</span>
 		</figcaption>
 	{{- end -}}
+	{{- $placeholder_url := printf "/default_thumbnails/placeholder_%s.webp" $layout -}}
+	{{- $img := "" -}}
+	{{- if $valid_file -}}
+		{{- $img = imageConfig $checkable_url }}
+	{{- else -}}
+		{{- $img = imageConfig (printf "static%s" $placeholder_url) -}}
+		{{- $final_url = $placeholder_url -}}
+		{{- $valid_file = true -}}
+	{{- end -}}
 	<picture>
 		{{- if $valid_file -}}
-			{{- $img := imageConfig $checkable_url -}}
 			<img 
 				src="{{- $final_url -}}" 
 				loading="lazy" 

@@ -22,116 +22,12 @@ De speler die als eerste haar geheime missie haalt wint. Daarna krijgt iedere sp
 
 Voor de random strategie ziet de verdeling er als volgt uit.
 
-<table>
-  <tr>
-    <td>
-    </td>
-    
-    <td>
-      Speler 1
-    </td>
-    
-    <td>
-      Speler 2
-    </td>
-    
-    <td>
-      Speler 3
-    </td>
-    
-    <td>
-      Speler 4
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 1
-    </td>
-    
-    <td>
-      253
-    </td>
-    
-    <td>
-      254
-    </td>
-    
-    <td>
-      246
-    </td>
-    
-    <td>
-      247
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 2
-    </td>
-    
-    <td>
-      302
-    </td>
-    
-    <td>
-      263
-    </td>
-    
-    <td>
-      209
-    </td>
-    
-    <td>
-      226
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 3
-    </td>
-    
-    <td>
-      287
-    </td>
-    
-    <td>
-      303
-    </td>
-    
-    <td>
-      263
-    </td>
-    
-    <td>
-      147
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 4
-    </td>
-    
-    <td>
-      158
-    </td>
-    
-    <td>
-      180
-    </td>
-    
-    <td>
-      282
-    </td>
-    
-    <td>
-      380
-    </td>
-  </tr>
-</table>
+|           | Speler 1 | Speler 2 | Speler 3 | Speler 4 |
+| --------- | -------- | -------- | -------- | -------- |
+| Positie 1 | 253      | 254      | 246      | 247      |
+| Positie 2 | 302      | 263      | 209      | 226      |
+| Positie 3 | 287      | 303      | 263      | 147      |
+| Positie 4 | 158      | 180      | 282      | 380      |
 
 We zien dat de verdeling van winst ongeveer gelijk is, maar wat opvalt is een verschuiving van één plek: speler 1 wordt het meeste tweede, speler 2 wordt het meeste derde, speler 3 het meeste vierde ... en gek genoeg wordt speler 4 ook het meeste vierde. Maar, de verschillen zijn niet gigantisch groot, dus het is een goed teken dat de kansen ongeveer gelijk zijn.
 
@@ -141,229 +37,22 @@ Zoals eerder gezegd: de eerdere spelers hebben wel een klein voordeel, aangezien
 
 Speler 1 denkt vanaf nu "continenten eerst": hij kijkt waar hij het meeste poppetjes heeft, en probeert dat continent in de wacht te slepen. Dan doet hij hetzelfde bij het volgende continent, enzovoort.
 
-<table>
-  <tr>
-    <td>
-    </td>
-    
-    <td>
-      Speler 1
-    </td>
-    
-    <td>
-      Speler 2
-    </td>
-    
-    <td>
-      Speler 3
-    </td>
-    
-    <td>
-      Speler 4
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 1
-    </td>
-    
-    <td>
-      182
-    </td>
-    
-    <td>
-      262
-    </td>
-    
-    <td>
-      284
-    </td>
-    
-    <td>
-      272
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 2
-    </td>
-    
-    <td>
-      206
-    </td>
-    
-    <td>
-      275
-    </td>
-    
-    <td>
-      239
-    </td>
-    
-    <td>
-      280
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 3
-    </td>
-    
-    <td>
-      326
-    </td>
-    
-    <td>
-      285
-    </td>
-    
-    <td>
-      235
-    </td>
-    
-    <td>
-      154
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 4
-    </td>
-    
-    <td>
-      286
-    </td>
-    
-    <td>
-      178
-    </td>
-    
-    <td>
-      242
-    </td>
-    
-    <td>
-      294
-    </td>
-  </tr>
-</table>
+|           | Speler 1 | Speler 2 | Speler 3 | Speler 4 |
+| --------- | -------- | -------- | -------- | -------- |
+| Positie 1 | 182      | 262      | 284      | 272      |
+| Positie 2 | 206      | 275      | 239      | 280      |
+| Positie 3 | 326      | 285      | 235      | 154      |
+| Positie 4 | 286      | 178      | 242      | 294      |
+
 
 Hmm, this doesn't look good. Speler 1 is er hard op achteruit gegaan door zich alleen op volledige continenten te focussen. Dus: niet doen. Maar, het is best wel een populaire strategie, dus ik ga even kijken hoe het is als twee mensen het gebruiken (speler 1 en 2):
 
-<table>
-  <tr>
-    <td>
-    </td>
-    
-    <td>
-      Speler 1
-    </td>
-    
-    <td>
-      Speler 2
-    </td>
-    
-    <td>
-      Speler 3
-    </td>
-    
-    <td>
-      Speler 4
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 1
-    </td>
-    
-    <td>
-      191
-    </td>
-    
-    <td>
-      210
-    </td>
-    
-    <td>
-      299
-    </td>
-    
-    <td>
-      300
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 2
-    </td>
-    
-    <td>
-      252
-    </td>
-    
-    <td>
-      175
-    </td>
-    
-    <td>
-      289
-    </td>
-    
-    <td>
-      284
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 3
-    </td>
-    
-    <td>
-      343
-    </td>
-    
-    <td>
-      259
-    </td>
-    
-    <td>
-      225
-    </td>
-    
-    <td>
-      173
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 4
-    </td>
-    
-    <td>
-      214
-    </td>
-    
-    <td>
-      356
-    </td>
-    
-    <td>
-      187
-    </td>
-    
-    <td>
-      243
-    </td>
-  </tr>
-</table>
+|           | Speler 1 | Speler 2 | Speler 3 | Speler 4 |
+| --------- | -------- | -------- | -------- | -------- |
+| Positie 1 | 191      | 210      | 299      | 300      |
+| Positie 2 | 252      | 175      | 289      | 284      |
+| Positie 3 | 343      | 259      | 225      | 173      |
+| Positie 4 | 214      | 356      | 187      | 243      |
 
 Tja, toch maar niet doen.
 
@@ -371,116 +60,12 @@ Tja, toch maar niet doen.
 
 Je valt aan. Elke beurt, zelfs als je leger grote kans heeft het niet te winnen.
 
-<table>
-  <tr>
-    <td>
-    </td>
-    
-    <td>
-      Speler 1
-    </td>
-    
-    <td>
-      Speler 2
-    </td>
-    
-    <td>
-      Speler 3
-    </td>
-    
-    <td>
-      Speler 4
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 1
-    </td>
-    
-    <td>
-      132
-    </td>
-    
-    <td>
-      290
-    </td>
-    
-    <td>
-      312
-    </td>
-    
-    <td>
-      266
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 2
-    </td>
-    
-    <td>
-      275
-    </td>
-    
-    <td>
-      253
-    </td>
-    
-    <td>
-      221
-    </td>
-    
-    <td>
-      251
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 3
-    </td>
-    
-    <td>
-      299
-    </td>
-    
-    <td>
-      297
-    </td>
-    
-    <td>
-      241
-    </td>
-    
-    <td>
-      163
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 4
-    </td>
-    
-    <td>
-      294
-    </td>
-    
-    <td>
-      160
-    </td>
-    
-    <td>
-      226
-    </td>
-    
-    <td>
-      320
-    </td>
-  </tr>
-</table>
+|           | Speler 1 | Speler 2 | Speler 3 | Speler 4 |
+| --------- | -------- | -------- | -------- | -------- |
+| Positie 1 | 132      | 290      | 312      | 266      |
+| Positie 2 | 275      | 253      | 221      | 251      |
+| Positie 3 | 299      | 297      | 241      | 163      |
+| Positie 4 | 294      | 160      | 226      | 320      |
 
 Okee, het wordt er niet bepaald beter op. Maar dat was ook wel te verwachten. Als speler 1 een ronde wint, dan doet hij dat ongelofelijk snel. Maar meestal wint hij niet.
 
@@ -488,229 +73,21 @@ Okee, het wordt er niet bepaald beter op. Maar dat was ook wel te verwachten. Al
 
 Je valt alleen aan als je vrijwel zeker bent dat je gaat winnen (twee keer zoveel poppetjes), en verspreidt je poppetjes netjes over je territoria.
 
-<table>
-  <tr>
-    <td>
-    </td>
-    
-    <td>
-      Speler 1
-    </td>
-    
-    <td>
-      Speler 2
-    </td>
-    
-    <td>
-      Speler 3
-    </td>
-    
-    <td>
-      Speler 4
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 1
-    </td>
-    
-    <td>
-      487
-    </td>
-    
-    <td>
-      154
-    </td>
-    
-    <td>
-      175
-    </td>
-    
-    <td>
-      184
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 2
-    </td>
-    
-    <td>
-      253
-    </td>
-    
-    <td>
-      303
-    </td>
-    
-    <td>
-      200
-    </td>
-    
-    <td>
-      244
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 3
-    </td>
-    
-    <td>
-      196
-    </td>
-    
-    <td>
-      320
-    </td>
-    
-    <td>
-      317
-    </td>
-    
-    <td>
-      167
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 4
-    </td>
-    
-    <td>
-      64
-    </td>
-    
-    <td>
-      223
-    </td>
-    
-    <td>
-      308
-    </td>
-    
-    <td>
-      405
-    </td>
-  </tr>
-</table>
+|           | Speler 1 | Speler 2 | Speler 3 | Speler 4 |
+| --------- | -------- | -------- | -------- | -------- |
+| Positie 1 | 487      | 154      | 175      | 184      |
+| Positie 2 | 253      | 303      | 200      | 244      |
+| Positie 3 | 196      | 320      | 317      | 167      |
+| Positie 4 | 64       | 223      | 308      | 405      |
 
 I guess we have a winner :p Dit is wel een indrukwekkende voorsprong, dus ik denk niet dat er nog een strategie overheen kan, maar we zullen kijken. Eerst: wat nu als twee mensen deze verdedigende strategie hebben?
 
-<table>
-  <tr>
-    <td>
-    </td>
-    
-    <td>
-      Speler 1
-    </td>
-    
-    <td>
-      Speler 2
-    </td>
-    
-    <td>
-      Speler 3
-    </td>
-    
-    <td>
-      Speler 4
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 1
-    </td>
-    
-    <td>
-      419
-    </td>
-    
-    <td>
-      364
-    </td>
-    
-    <td>
-      85
-    </td>
-    
-    <td>
-      132
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 2
-    </td>
-    
-    <td>
-      341
-    </td>
-    
-    <td>
-      361
-    </td>
-    
-    <td>
-      159
-    </td>
-    
-    <td>
-      139
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 3
-    </td>
-    
-    <td>
-      193
-    </td>
-    
-    <td>
-      221
-    </td>
-    
-    <td>
-      453
-    </td>
-    
-    <td>
-      133
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 4
-    </td>
-    
-    <td>
-      47
-    </td>
-    
-    <td>
-      54
-    </td>
-    
-    <td>
-      303
-    </td>
-    
-    <td>
-      596
-    </td>
-  </tr>
-</table>
+|           | Speler 1 | Speler 2 | Speler 3 | Speler 4 |
+| --------- | -------- | -------- | -------- | -------- |
+| Positie 1 | 419      | 364      | 85       | 132      |
+| Positie 2 | 341      | 361      | 159      | 139      |
+| Positie 3 | 193      | 221      | 453      | 133      |
+| Positie 4 | 47       | 54       | 303      | 596      |
 
 Okee, dan gaan ze er allebei op vooruit, alhoewel speler 1 dat meer doet dan speler 2. Dit gaat allemaal ten koste van de spelers die niet verdedigend spelen. Dus, de eerste waardevolle tip van deze reeks: BALANS IS ALLES.
 
@@ -718,116 +95,12 @@ Okee, dan gaan ze er allebei op vooruit, alhoewel speler 1 dat meer doet dan sp
 
 Je kijkt of er territoria zijn met weinig connecties, zodat je daar redelijk veilig zit (men kan niet makkelijk bij je komen). Daar gooi je al je legers neer, en vanuit daar stuur je ze naar andere minder veilige gebieden toe. Een soort hoofdkwartier-idee. Klinkt tactisch toch? Let's see.
 
-<table>
-  <tr>
-    <td>
-    </td>
-    
-    <td>
-      Speler 1
-    </td>
-    
-    <td>
-      Speler 2
-    </td>
-    
-    <td>
-      Speler 3
-    </td>
-    
-    <td>
-      Speler 4
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 1
-    </td>
-    
-    <td>
-      128
-    </td>
-    
-    <td>
-      284
-    </td>
-    
-    <td>
-      302
-    </td>
-    
-    <td>
-      286
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 2
-    </td>
-    
-    <td>
-      352
-    </td>
-    
-    <td>
-      217
-    </td>
-    
-    <td>
-      215
-    </td>
-    
-    <td>
-      216
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 3
-    </td>
-    
-    <td>
-      381
-    </td>
-    
-    <td>
-      253
-    </td>
-    
-    <td>
-      208
-    </td>
-    
-    <td>
-      158
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 4
-    </td>
-    
-    <td>
-      139
-    </td>
-    
-    <td>
-      246
-    </td>
-    
-    <td>
-      275
-    </td>
-    
-    <td>
-      340
-    </td>
-  </tr>
-</table>
+|           | Speler 1 | Speler 2 | Speler 3 | Speler 4 |
+| --------- | -------- | -------- | -------- | -------- |
+| Positie 1 | 128      | 284      | 302      | 286      |
+| Positie 2 | 352      | 217      | 215      | 216      |
+| Positie 3 | 381      | 253      | 208      | 158      |
+| Positie 4 | 139      | 246      | 275      | 340      |
 
 Nope, totaal niet tactisch. Zo zie je maar weer: wie hoofdkwartieren heeft uitgevonden was een slecht militair strateeg.
 
@@ -835,116 +108,13 @@ Nope, totaal niet tactisch. Zo zie je maar weer: wie hoofdkwartieren heeft uitge
 
 Hetzelfde als de succesvolle balans-strategie hiervoor, maar je valt al aan als je evenveel of meer legers hebt.
 
-<table>
-  <tr>
-    <td>
-    </td>
-    
-    <td>
-      Speler 1
-    </td>
-    
-    <td>
-      Speler 2
-    </td>
-    
-    <td>
-      Speler 3
-    </td>
-    
-    <td>
-      Speler 4
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 1
-    </td>
-    
-    <td>
-      325
-    </td>
-    
-    <td>
-      224
-    </td>
-    
-    <td>
-      210
-    </td>
-    
-    <td>
-      241
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 2
-    </td>
-    
-    <td>
-      266
-    </td>
-    
-    <td>
-      279
-    </td>
-    
-    <td>
-      227
-    </td>
-    
-    <td>
-      228
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 3
-    </td>
-    
-    <td>
-      283
-    </td>
-    
-    <td>
-      288
-    </td>
-    
-    <td>
-      264
-    </td>
-    
-    <td>
-      165
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 4
-    </td>
-    
-    <td>
-      126
-    </td>
-    
-    <td>
-      209
-    </td>
-    
-    <td>
-      299
-    </td>
-    
-    <td>
-      366
-    </td>
-  </tr>
-</table>
+|           | Speler 1 | Speler 2 | Speler 3 | Speler 4 |
+| --------- | -------- | -------- | -------- | -------- |
+| Positie 1 | 325      | 224      | 210      | 241      |
+| Positie 2 | 266      | 279      | 227      | 228      |
+| Positie 3 | 283      | 288      | 264      | 165      |
+| Positie 4 | 126      | 209      | 299      | 366      |
+
 
 Nog steeds goed, maar minder goed dan eerst. Dat betekent dat het voorzichtig zijn met aanvallen toch een groot voordeel is, en één van de redenen dat de balans-strategie goed is.
 
@@ -964,116 +134,12 @@ _Wat zijn binnengebieden_? Een gebied dat niet van jou is, terwijl alle (of de 
 
 Ook dit vind ik redelijk goed klinken. (Het zal wel weer tegenvallen, maar goed.)
 
-<table>
-  <tr>
-    <td>
-    </td>
-    
-    <td>
-      Speler 1
-    </td>
-    
-    <td>
-      Speler 2
-    </td>
-    
-    <td>
-      Speler 3
-    </td>
-    
-    <td>
-      Speler 4
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 1
-    </td>
-    
-    <td>
-      332
-    </td>
-    
-    <td>
-      206
-    </td>
-    
-    <td>
-      255
-    </td>
-    
-    <td>
-      207
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 2
-    </td>
-    
-    <td>
-      269
-    </td>
-    
-    <td>
-      275
-    </td>
-    
-    <td>
-      200
-    </td>
-    
-    <td>
-      256
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 3
-    </td>
-    
-    <td>
-      261
-    </td>
-    
-    <td>
-      304
-    </td>
-    
-    <td>
-      275
-    </td>
-    
-    <td>
-      160
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Positie 4
-    </td>
-    
-    <td>
-      138
-    </td>
-    
-    <td>
-      215
-    </td>
-    
-    <td>
-      270
-    </td>
-    
-    <td>
-      377
-    </td>
-  </tr>
-</table>
+|           | Speler 1 | Speler 2 | Speler 3 | Speler 4 |
+| --------- | -------- | -------- | -------- | -------- |
+| Positie 1 | 332      | 206      | 255      | 207      |
+| Positie 2 | 269      | 275      | 200      | 256      |
+| Positie 3 | 261      | 304      | 275      | 160      |
+| Positie 4 | 138      | 215      | 270      | 377      |
 
 Het is een succes! God zij geprezen! Het is bijna net zo goed als de balans-strategie. Zo zie je maar weer: nooit van binnenuit iemand jouw leger kapot laten maken, en in plaats van grenzen sluiten, kun je ze ook gewoon uitbreiden. (Disclaimer: geldt vooralsnog alleen voor Risk.)
 
@@ -1085,4 +151,4 @@ _Opmerking:_ is het jullie ook opgevallen dat speler 3 steeds profiteert als spe
 
 WORDT VERVOLGD: [Risk---deel 3][1]
 
- [1]: /wiskundig-gewauwel/zinderende-simulaties/risk-deel-3/
+ [1]: /blog/2017/2017-03-23-risk-deel-3/
