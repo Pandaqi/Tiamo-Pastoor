@@ -1,7 +1,7 @@
 ---
 title: Rulebreaker Recipes
 author: tiamopastoor
-date: 2023-08-10T19:46:42+00:00
+date: 2023-08-10
 dateReleased: 2024-05-12
 thumb: "wildebyte_rulebreaker_recipes"
 

@@ -1,7 +1,7 @@
 ---
 title: Ghost Code
 author: tiamopastoor
-date: 2023-08-10T19:46:42+00:00
+date: 2023-08-11
 dateReleased: 2024-03-12
 thumb: "wildebyte_ghost_code"
 

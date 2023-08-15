@@ -1,7 +1,7 @@
 ---
 title: Secrets of Sweettooth
 author: tiamopastoor
-date: 2023-08-10T19:46:42+00:00
+date: 2023-08-13
 dateReleased: 2024-08-12
 thumb: "wildebyte_secrets_of_sweettooth"
 
@@ -30,7 +30,7 @@ logline: |
 blurb: |
   Hated by all the games, Wildebyte hatches a plan to force Sweettooth to become his friend. It would be amazing if they could travel through other video games together!
   
-  But as they play his game---Sugar Stomp---they discover something horrible. A choice must be made, between himself and his overwhelming loneliness, and something that could chance Ludra forever. 
+  But as they play his game---Sugar Stomp---they discover something horrible. A choice must be made, between himself and his overwhelming loneliness, and something that could change Ludra forever. 
 
 ---
 
