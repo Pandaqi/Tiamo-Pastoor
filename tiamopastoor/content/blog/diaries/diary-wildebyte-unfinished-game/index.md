@@ -2,9 +2,9 @@
 title: '[Diary] Wildebyte (Book 1)'
 author: tiamopastoor
 date: 2023-08-07T18:48:57+00:00
-language: nl
+language: en
 layout: horizontal
-thumb: "" 
+thumb: "wildebyte_unfinished_game" 
 categories: ["Diary"]
 ---
 

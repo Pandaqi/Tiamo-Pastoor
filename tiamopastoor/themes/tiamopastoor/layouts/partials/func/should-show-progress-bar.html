@@ -4,8 +4,10 @@
 {{ $date := .Params.dateReleased }}
 {{ if not $date }}{{ $show = true }}{{ end }}
 
-{{ $now := now.Unix }}
-{{ $date = ($date | time.AsTime).Unix }}
-{{ if gt $date $now }}{{ $show = true }}{{ end }}
+{{ if $date }}
+    {{ $now := now.Unix }}
+    {{ $date = ($date | time.AsTime).Unix }}
+    {{ if gt $date $now }}{{ $show = true }}{{ end }}
+{{ end }}
 
 {{ return $show }}
