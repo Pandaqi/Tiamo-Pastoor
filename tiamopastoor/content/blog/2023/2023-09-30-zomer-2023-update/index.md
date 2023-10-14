@@ -190,23 +190,88 @@ Zoals je ziet gaat het woordenaantal naar beneden als ik oude projecten moet _af
 
 ### Augustus
 
-  1. 2,827
-  2. 6,986
-  3. 4,917
-  4. 9,415
-  5. 15,176
-  6. 5,634 (_schrijfcursussen van Pandaqi Tutorials af_)
-  7. ? (_deel 3 van Engelse reeks af_)
-  8. ?
-  9. ?
- 10. ?
- 11. ?
- 12. ?
- 13. ?
- 14. ?
- 15. ?
- 16. ?
+1. 2,827
+2. 6,986
+3. 4,917
+4. 9,415
+5. 15,176
+6. 5,634 (_schrijfcursussen van Pandaqi Tutorials af_)
+7. ? (_deel 3 van Engelse reeks af_)
+8. 1,503
+9. 3,647
+10. 2,003
+11. 1,017
+12. 428
+13. X
+14. 1,002
+15. 4,822
+16. 9,111
+17. 498
+18. 12,516
+19. 13,540
+20. 14,689
+21. X
+22. 2,036
+23. 4,109
+24. 6,149
+25. 3,515
+26. 1,750
+27. 524
+28. 751
+29. 502
+30. 488
+31. X
 
-@TODO
+Dat zijn 132,157 woorden. Wederom een beetje een vertekenend beeld, vanwege die Tutorials, Wildebyte, én de Engelse Vertalingen van maar liefst 10 Levenssaga verhalen.
+
+Beetje een raar maandje eigenlijk. Ongelofelijk veel verschillende kleine stukjes afgemaakt, van zowel kleine als grote projecten. Daarom zijn de woordenaantallen ook een beetje all over the place.
+
+Maar dat kwam vanwege een zelf ingestelde deadline op 1 September … van 5 dingen die van elkaar afhingen en dus tegelijkertijd publiek moesten worden. Dus ik had per ongeluk ineens een héle strakke deadline gesteld voor een berg werk.
+
+Maar ik heb ‘m gehaald, waarna ik in September weer terug kon naar meer regulier (schrijf)werk.
+
+### September
+
+1. X
+2. 1504
+3. 2681
+4. X
+5. X
+6. X
+7. 3,481
+8. X
+9. 1,566
+10. 1,348
+11. X
+12. 800
+13. 2,173
+14. 2,980
+15. X
+16. 1,466
+17. X
+18. 4,549
+19. 3,112
+20. 3,678
+21. 6,957
+22. 8,137
+23. 1,499
+24. 1,503
+25. 4,039
+26. 1,500
+27. 8,298
+28. 1,662
+29. 1,339
+30. X
+
+Dat zijn 64,272 woorden.
+
+Die Tutorials zijn dus klaar voor in ieder geval het komende jaar, net zoals de Levenssaga (zowel Nederlands als Engelse vertalingen waarmee ik nog ietsje achterloop). Deze woordenaantallen komen dus bijna volledig van Wildebyte boeken en devlogs/dagboeken over het maken van mijn (computer/bord)spellen.
+
+Daarnaast was ik gewoon een beetje moe, en werk ik niet zo lekker bij extreme hitte (zoals die eerste week van September), daarom lag alles eventjes stil.
+
+Ik probeer echt rustdagen her en der te nemen nu. Het lukt beter dan vroeger, maar nog verre van 100%. 
+
+(Op de meeste van mijn “rustdagen” heb ik een uur gesport en rustig ontbeten … en daarna tien uur gewerkt aan een of ander gek experimenteel idee dat ik al jaren had. Zo heb ik nu een stuk code die willekeurige speelborden kan genereren om Risk op te spelen xD Je ziet het allemaal wel een keer verschijnen volgend jaar. Als het niet naar 2025 wordt geduwd door andere gekke projecten.)
+
 
  [1]: https://pandaqi.com/tutorials

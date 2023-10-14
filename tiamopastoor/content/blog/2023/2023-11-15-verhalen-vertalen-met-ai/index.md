@@ -238,6 +238,20 @@ BETER: She desperately flapped her wings.
 
 Het heeft moeite met woorden in het Nederlands die dubbele betekenissen hebben of afhangen van context---meestal negeert de AI dat volledig en vertaalt het letterlijk.
 
+Twee hilarische (terugkerende) vertalingen waren bijvoorbeeld.
+
+{{% example %}}
+ORIGINEEL: "Hij begreep er niets van."
+
+AI: "He understood nothing."
+{{% /example %}}
+
+{{% example %}}
+ORIGINEEL: "Hij zag maar één optie." (of uitweg, of weg, oid)
+
+AI: "He saw one thing."
+{{% /example %}}
+
 Het gebruikt _meerdere_ vertalingen voor hetzelfde ding. (Nogmaals die kleine willekeurigheid van de AI!) In hetzelfde _hoofdstuk_ zijn Oerschildpadden ...
 
 * Ancient Turtles
@@ -271,6 +285,30 @@ Zoals ik net al zei,
 * Verkeerde vertalingen opsporen en veranderen.
 * Zinnen veel beter laten lopen, zowel op zichzelf als in context
 * Terwijl ik alles moet teruglezen, want ik weet niet wat de AI precies heeft gedaan.
+
+Overigens slaat mijn Levenssaga ook enkele statistieken op, zoals het aantal woorden in het verhaal en de leesbaarheid.
+
+De Engelse vertalingen zijn consistent 500 tot 1000 woorden korter. (Zelfs als ik nog extra dingen _toevoeg_ of moeite doe om iets mooier taalgebruik te hanteren.) Op deze korte verhalen betekent dat dus zo'n 10% minder woorden. Over de hele cyclus bespaar ik zo'n 10,000 woorden, zonder inhoud te veranderen!
+
+Engels is een meer compacte taal dan Nederlands. Misschien heeft het daarom wel mijn voorkeur.
+
+## Waarom schrijf je niet gewoon Engels?
+
+Misschien verandert dit in de toekomst. Misschien dat dan de Levenssaga verhalen eerst _Engels_ verschijnen, en eventueel later vertaald naar het Nederlands.
+
+Maar voor nu is het een geweldig leerproces om het in twee talen te doen. De vertalingen tonen mij fouten en verbeterpunten in het originele werk, omdat _vertalen_ een ander soort werk is dan _editen_. Dus die specifieke problemen vind ik minder snel bij een tweede of derde versie.
+
+{{% example %}}
+Elk verhaal had wel 2 of 3 momenten waarop een overgang _compleet_ onduidelijk was. Hij kwam uit het niets. Of het was onduidelijk naar welk eerdere stukje het verwees. In het Nederlands was het ietsje duidelijker, maar de subtiel andere manier waarop je dezelfde zin in het Engels zou zeggen, legde deze vaagheid pijnlijk bloot.
+
+Op dezelfde manier zorgt de andere taal dat ik sommige scenes of uitspraken ineens in een ander licht lees, waardoor ik ook zie dat ze beter kunnen verwoord of uitgelegd in de Nederlandse versie.
+{{% /example %}}
+
+Ook schrijf je natuurlijk _andere_ soorten verhalen in andere talen. Want je hoofd maakt andere connecties met die taal. Ik heb bijvoorbeeld andere boeken _gelezen_ in het Engels dan het Nederlands.
+
+Hoewel al mijn andere fictie vanaf nu Engels wordt, wil ik dit project dus in eerste instantie Nederlands houden. Om die diversiteit qua taal, ideeën, schrijfstijl, etcetera te behouden en te blijven ontwikkelen.
+
+Zoals gezegd kan dit veranderen. Misschien blijkt het over vijf jaar waanzin om eerst Nederlands te doen. We zullen zien---eerst moeten de Engelse vertalingen de Nederlandse verhalen nog bijhalen (zelfs nu lopen ze tien verhalen achter).
 
 ## Conclusie
 
