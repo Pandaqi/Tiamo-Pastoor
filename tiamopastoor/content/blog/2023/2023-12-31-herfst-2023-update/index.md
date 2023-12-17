@@ -130,7 +130,7 @@ Maar als je alles even op een rijtje zet, heb ik ...
 * 5 boeken geschreven (Wildebyte)
 * Meer dan 15 cursussen voor Pandaqi Tutorials geschreven, en de website in het algemeen flink geüpdatet met extra tools, interactieve onderdelen, etcetera.
 * Een hele nieuwe website gelanceerd en mijn blog ernaartoe overgezet. (Eigenlijk hebben al mijn websites grote updates gekregen, vooral ook achter de schermen.)
-* 12 bordspellen uitgebracht (nog 5 extra gemaakt)
+* 12 bordspellen uitgebracht (nog eens 12+ extra gemaakt)
 
 Best prima. Had sneller gekund, maar ach, ik moest perse een paar rustweken nemen :p
 
@@ -138,9 +138,9 @@ Wat verwacht ik van volgend jaar?
 
 Ten eerste denk ik dat mijn bordspellen echt héél goed worden inmiddels. Volgend jaar zal bomvol staan met enorm professionele en mooie spellen die gave dingen mogelijk maken. Er is de kleine hoop dat dit ergens opvalt of indruk maakt, en ik misschien spellen traditioneel kan gaan uitgeven. Zelfs als dat niet zo is, verwacht ik een heel sterk portfolio te hebben met geweldige ervaringen voor ieder die het zoekt.
 
-Ten tweede hoop ik dat Wildebyte mijn doorbraak wordt. Dat is (realistisch gezien) wederom een kleine hoop, maar dat is het plan. Ik heb daar alle pijlen op gezet. Het is een goed idee, mijn kennis is uniek geschikt om dat zo goed mogelijk uit te werken, het is modern en spreekt kinderen aan, en het zijn korte boeken met steeds een ander spel dus ik heb niet eens genoeg tijd om uitgekeken te raken op het schrijven van het boek.
+Ten tweede hoop ik dat Wildebyte mijn doorbraak wordt. Dat is (realistisch gezien) wederom een kleine hoop, maar dat is het plan. Ik heb daar alle pijlen op gezet. Het is een goed idee, mijn kennis is uniek geschikt om dat zo goed mogelijk uit te werken, het is modern en spreekt kinderen aan, en het zijn korte boeken met steeds een ander spel. Oftewel, mijn hyperactieve hoofd heeft niet genoeg tijd om uitgekeken te raken op het schrijven van elk boek.
 
-Ten derde hoop ik volgend jaar meer ruimte te houden voor iets geks of iets nieuws doen. Zo komt er regelmatig nieuws van een grote ontwikkeling in de wereld van programmeren, of spellen, of verhalen. Maar ik blijf lekker mijn ding doen ... terwijl ik eigenlijk even wil kijken wat het is en er misschien veel van leren. Nu zit ik een beetje in het patroon van redelijk op het bewandelde pad blijven, want er vanaf stappen betekent dat ik twee keer langer over het project ga doen, en daarvoor heb ik het geduld niet!
+Ten derde hoop ik volgend jaar meer ruimte te houden voor iets geks of iets nieuws doen. Zo komt er regelmatig nieuws van een grote ontwikkeling in de wereld van programmeren, of spellen, of verhalen. Maar ik blijf lekker mijn ding doen ... terwijl ik eigenlijk even wil kijken wat het is en er misschien van wil leren. Nu zit ik een beetje in het patroon van redelijk op het bewandelde pad blijven, want er vanaf stappen betekent dat ik twee keer langer over het project ga doen, en daarvoor heb ik het geduld niet!
 
 Als laatste is er nog steeds veel te verbeteren aan mijn websites achter de schermen. Dus ik zal waarschijnlijk weer één gigantische update doen waarin ze allemaal naar een hoger niveau worden getild. 
 
@@ -214,22 +214,24 @@ Ach ja, als dat plotseling goede spellen oplevert in een recordtijd, dan accepte
 16. 1,200
 17. 1,500
 18. 2,200
-19. 1300
-20. 1500 (_mijn snuggere hoofd had mijn blaadje met woordenaantallen van vorige week al weggegooid, dus deze getallen zijn een ruwe schatting_)
-21. 3105
-22. 2712
+19. 1,300
+20. 1,500 (_mijn snuggere hoofd had mijn blaadje met woordenaantallen van vorige week al weggegooid, dus deze getallen zijn een ruwe schatting_)
+21. 3,105
+22. 2,712
 23. X
 24. X
-25. 2051
-26. 4500
+25. 2,051
+26. 4,500
 27. 512
-28. 2567
+28. 2,567
 29. X
 30. 400
 
 Dat zijn 46,382 woorden. Minder dan normaal, maar nog steeds prima.
 
-Mijn hoofd was nog steeds moe van verhalen, en mijn computer nog steeds kapot. Dus ik bleef bordspellen maken in een record tempo. (Ik heb nu eindelijk het geld voor een nieuwe computer, maar voor mij is dat dus een investering voor de komende 10 jaar aan werk, dus ik wil niet overhaast eentje aanschaffen.)
+Mijn hoofd was nog steeds moe van verhalen, en mijn computer nog steeds kapot. Dus ik bleef bordspellen maken in een record tempo. 
+
+(Ik heb nu eindelijk het geld voor een nieuwe computer, maar voor mij is dat dus een investering voor de komende 10 jaar aan werk, dus ik wil niet overhaast eentje aanschaffen. En rond deze periode gooit men altijd de prijzen een paar weken van tevoren flink omhoog, zodat ze daarna bij Black Friday kunnen doen alsof ze flinke kortingen geven. Het is zo opzichtig en zo dom en zoveel mensen trappen erin.)
 
 De meeste woorden deze maand komen van het bijhouden van een dagboek voor zo'n spel. Of de paar artikelen die ik voor mijn blog schreef, voornamelijk recensies.
 
@@ -237,13 +239,72 @@ Zoals altijd: spellen ontwikkelen is makkelijk, spellen _afmaken_ (marketingteks
 
 ### December
 
-1. 3355
+1. 3,355
 2. 500
 3. X
-4. ?
-5. ?
-6. ?
+4. 2,343
+5. X
+6. 3,600
+7. 3,000
+8. 3,220
+9. 10,428 (_je ziet het moment waarop ik weer volledig op schrijfwerk moest gaan focussen_)
+10. 3,120
+11. X
+12. 4,423
+13. 2,784
+14. 3,000
+15. 2,230
+16. 3,123
+17. X
+18. ?
+19. ?
+20. ?
+21. ?
+22. ?
+23. ?
+24. ?
+25. ?
+26. ?
+27. ?
+28. ?
+29. ?
+30. ?
+31. ?
 
 Ik moest er toch echt aan geloven en een paar verhalen definitief afmaken en klaarzetten voor publicatie. Het is nu zo erg dat ik al bordspellen inplan voor 2025 ... maar nauwelijks een gepland boek/verhaal voor 2024 af heb.
 
-@TODO
+Sinds halverwege December heb ik ook werkelijk alles openbaar staan (mijn websites, gepubliceerde computerspellen, etcetera). Dus je kan zelfs checken waar ik over praat door die broncode te bekijken en te zien dat er al 10+ bordspellen, volledig afgewerkt, staan te wachten.
+
+_Waarom doe je dat, Tiamo?_ Omdat ik met alles wat ik doe probeer mee te werken aan een wereld die gebouwd is op delen, transparantie, eerlijkheid, elkaar helpen. Een wereld waarin men niet vanwege geld een klootzak wordt en/of alle zin uit het leven zuigt. Ik doe vrijwel alles openbaar en gratis, dit was slechts een volgende stap.
+
+{{% remark %}}
+Grappig genoeg zien andere mensen dat nooit zo. Als ik emails krijg dan spreken ze me aan alsof ik een of andere groot persoon ben. "Oh als je tijd hebt, misschien, het hoeft niet hoor,je bent vast druk, zou je misschien deze vraag willen beantwoorden / dit voor me willen doen? Het zou veel betekenen van zo'n autoriteit als jij." 
+
+Nou, nee, ik ben allesbehalve groot, bekend of winstgevend. Ik heb geen idee wat ik aan het doen ben! Maar blijkbaar komt het niet zo over.
+
+De hele reden van deze actie was dan ook iemand die mij vroeg of hij/zij de broncode van twee oude spellen mocht hebben. Diegene wilde er zelfs voor betalen! Diegene was blij verrast toen ik een paar dagen later zo'n beetje al mijn oude spellen openbaar gooide.
+{{% /remark %}}
+
+Ik had het lang uitgesteld omdat ik dacht dat het veel moeite zou kosten. Dat was niet zo. Ik heb altijd alles open en minimalistisch gedaan, dus het kostte slechts een paar uur om al die projecten te controleren op eventuele problemen en vervolgens publiekelijk op GitHub te zetten. 
+
+De enige "problemen" waren privébestanden die zomaar her en der door (slecht gestructureerde) projecten slingeren. Als je een mobiel spel bouwt, bijvoorbeeld, moet je deze versleutelen met een bepaalde naam en wachtwoord. Als ik die ook zomaar online zet, kunnen anderen zich gaan voordoen en spellen insturen _alsof ze van mij komen_, en dat vindt Google écht niet leuk. (Ik geef er zoals altijd geen fuck om, maar ja, als Google eenmaal boos op je is merk je plots hoe ze het hele internet beheren.)
+
+Het is grappig. Een paar jaar geleden werk ik aan zo'n spel en ben super geheimzinnig. Niks per ongeluk publiceren! Niet het idee verklappen, straks gaat iemand anders ermee aan de haal! 
+
+Nu gooi ik zonder problemen alle plaatjes, code, ideeën, etcetera online. Inmiddels ben ik vergeten hoeveel moeite dat toen kostte, terwijl ik kan zien---met de ervaring van nu---hoe amateuristisch en meh het spel is. 
+
+In mijn ervaring is het zinloos om vast te houden aan ideeën of werk, dus toon alles gewoon aan de wereld. De kans dat het wordt gestolen voordat het af is, is minimaal---_niemand_ gelooft in jouw idee _totdat je het hebt gemaakt_. Helemaal _niemand_. 
+
+En zelfs al wordt het gestolen is het geen probleem. Want jij hebt daadwerkelijk de ervaring en skill om ter plekke nieuwe ideeën te genereren en maken. Als iemand een liedje van mij jat, heb ik morgen drie nieuwe geschreven. (Ik weet zeker dat her en der, in die oude projecten, op rare plekken liedjesideeën van mij rondzweven :p)
+
+Het doet me altijd denken aan een schrijfadvies van een bekende schrijfster dat ik ooit online las. Ik parafraseer: "Don't save your cool shit for later. Write cool stuff now, cool stuff next chapter, cool stuff every time. Don't hold back---you know you can always generate more."
+
+Er zijn talloze goede ideeën waarvan ik weet dat _ik_ ze (waarschijnlijk) niet ga afmaken of uitwerken. Het past niet bij mijn skillset. Of het kost te veel tijd, of lijkt te veel op iets dat ik afgelopen half jaar al heb gedaan, of er zijn onzekerheden die _ik_ niet kan oplossen. Beter om het dan met iedereen te delen, dan koppig vast te houden.
+
+Oh, het zijn ook goede backups natuurlijk. Voor het geval er iets mis gaat en/of ik morgen ineens dood neer val. Dan heb ik tenminste bijna alles wat ik ooit heb gedaan vrij toegankelijk en gedeeld met de wereld.
+
+Hoe dan ook, ik kreeg het voor elkaar om in ieder geval de Wildebyte en Levenssaga verhalen voor het komende seizoen alvast af te krijgen. Ik wil heel graag ook één of twee op zichzelf staande verhalen doen volgend jaar, dus daarmee wissel ik af. Het gevolg is vooral dat er nu zo'n vijf boeken zijn met tien hoofdstukken _all over the place_ :p
+
+Daarna nam ik toch een soort van Kerstvakantie, want ik was _moe_.
+
+Tot volgend jaar.
