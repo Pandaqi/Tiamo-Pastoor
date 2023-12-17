@@ -2,10 +2,10 @@
 title: Rulebreaker Recipes
 author: tiamopastoor
 date: 2023-08-10
-dateReleased: 2024-05-12
+dateReleased: 2024-03-12
 thumb: "wildebyte_rulebreaker_recipes"
 
-progress: 10
+progress: 50
 phase: "revisions" # preparation, first draft, revisions, finished
 
 booktype: "fiction"

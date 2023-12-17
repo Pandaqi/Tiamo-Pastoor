@@ -2,10 +2,10 @@
 title: Secrets of Sweettooth
 author: tiamopastoor
 date: 2023-08-13
-dateReleased: 2024-08-12
+dateReleased: 2024-10-12
 thumb: "wildebyte_secrets_of_sweettooth"
 
-progress: 50
+progress: 75
 phase: "preparation" # preparation, first draft, revisions, finished
 
 booktype: "fiction"

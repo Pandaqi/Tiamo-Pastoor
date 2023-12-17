@@ -2,11 +2,11 @@
 title: Ghost Code
 author: tiamopastoor
 date: 2023-08-11
-dateReleased: 2024-03-12
+dateReleased: 2024-05-12
 thumb: "wildebyte_ghost_code"
 
-progress: 95
-phase: "first draft" # preparation, first draft, revisions, finished
+progress: 20
+phase: "revisions" # preparation, first draft, revisions, finished
 
 booktype: "fiction"
 series: "Wildebyte Arcades"

@@ -2,10 +2,10 @@
 title: Uptopia Falls
 author: tiamopastoor
 date: 2023-08-12
-dateReleased: 2024-03-12
+dateReleased: 2024-08-12
 thumb: "wildebyte_uptopia_falls"
 
-progress: 5
+progress: 10
 phase: "first draft" # preparation, first draft, revisions, finished
 
 booktype: "fiction"

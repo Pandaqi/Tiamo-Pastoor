@@ -154,22 +154,96 @@ Dat was het weer. Een gelukkig nieuwjaar, neem die rustweek, eet ongezond eten n
 
 ### Oktober
 
-1. 5562
-2. 3212
+1. 5,562
+2. 3,212
 3. X
-4. 2259
-5. 5237
+4. 2,259
+5. 5,237
 6. 512
 7. X
 8. X
+9. 9,574
+10. X
+11. 5,962
+12. 2,867
+13. 2,500
+14. 9,890
+15. 5,590 _(beetje gek twee verhalen door elkaar heen geschreven)_
+16. X
+17. X
+18. 3,100
+19. 700
+20. 2,852
+21. X
+22. X (_een week alleen maar spellenwerk_)
+23. 3,501
+24. X
+25. 2,809
+26. X
+27. X
+28. 3,006
+29. 3,008 (_blijkbaar ben ik extreem consistent in hoe lang mijn hoofdstukken zijn :p_)
+30. 1,895
+31. 1,668
 
-@TODO
+Begin van de maand zomaar wat korte verhalen geschreven. Daarna was mijn hoofd een beetje moe van alle verhalen, dus toen viel dat volledig stil. 
+
+In de tussentijd ging ik maar wat spellen afmaken (en nieuwe spellen opzetten ... en afmaken), terwijl mijn hoofd langzaam weer wat schrijfinspiratie aanvult.
+
+Zo had ik een paar dagen voor Halloween plots een spelidee ... voor Halloween. Dus, tja, je kent mij, in twee dagen dat hele idee uit de grond gestampt en afgewerkt. Het is nog een behoorlijk goed en mooi spel ook. Maar ja, dan ligt dus wel al het andere werk even stil terwijl ik weer als een puppy mijn eigen staart achterna ren.
+
+Ach ja, als dat plotseling goede spellen oplevert in een recordtijd, dan accepteer ik dit soort uitstapjes.
 
 ### November
 
-@TODO
+1. 3,441
+2. 3,714
+3. 2,000
+4. X
+5. X
+6. 1,200
+7. 4,008
+8. 1,468
+9. 3,900
+10. 700
+11. 5,109
+12. X
+13. X
+14. X
+15. 400
+16. 1,200
+17. 1,500
+18. 2,200
+19. 1300
+20. 1500 (_mijn snuggere hoofd had mijn blaadje met woordenaantallen van vorige week al weggegooid, dus deze getallen zijn een ruwe schatting_)
+21. 3105
+22. 2712
+23. X
+24. X
+25. 2051
+26. 4500
+27. 512
+28. 2567
+29. X
+30. 400
+
+Dat zijn 46,382 woorden. Minder dan normaal, maar nog steeds prima.
+
+Mijn hoofd was nog steeds moe van verhalen, en mijn computer nog steeds kapot. Dus ik bleef bordspellen maken in een record tempo. (Ik heb nu eindelijk het geld voor een nieuwe computer, maar voor mij is dat dus een investering voor de komende 10 jaar aan werk, dus ik wil niet overhaast eentje aanschaffen.)
+
+De meeste woorden deze maand komen van het bijhouden van een dagboek voor zo'n spel. Of de paar artikelen die ik voor mijn blog schreef, voornamelijk recensies.
+
+Zoals altijd: spellen ontwikkelen is makkelijk, spellen _afmaken_ (marketingteksten schrijven, mooie header plaatjes, blabla) vind ik vaak een kandidaat voor _uitstellen_ :p
 
 ### December
 
-@TODO
+1. 3355
+2. 500
+3. X
+4. ?
+5. ?
+6. ?
 
+Ik moest er toch echt aan geloven en een paar verhalen definitief afmaken en klaarzetten voor publicatie. Het is nu zo erg dat ik al bordspellen inplan voor 2025 ... maar nauwelijks een gepland boek/verhaal voor 2024 af heb.
+
+@TODO
