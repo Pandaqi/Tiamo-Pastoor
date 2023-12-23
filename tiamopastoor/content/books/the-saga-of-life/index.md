@@ -6,8 +6,8 @@ dateReleased: 2022-11-01
 ongoing: true
 thumb: levenssaga_portrait_logo
 
-progress: 100
-phase: "cycle 2" # ongoing projects are more specific; for Saga of Life, we indicate which cycle we're on
+progress: 25
+phase: "cycle 3" # ongoing projects are more specific; for Saga of Life, we indicate which cycle we're on
 
 booktype: "fiction"
 series: "The Saga of Life"
@@ -36,7 +36,7 @@ logline: |
   A frame story of legends for all ages, about the birth of life on earth and human history until now (and beyond). A free website designed for fun reading!
 
 blurb: |
-  An series of short stories within the same universe. It tells modern fairy tales that---with more magic, tension and fun characters---explain how life on earth came to be.
+  A series of short stories within the same universe. It tells modern fairy tales that---with more magic, tension and fun characters---explain how life on earth came to be.
 
   There's no need to read everything, or in order, because it's a "frame story"! All stories are standalone, but they reference and follow up on each other. If you read everything, though, you will find a great world full of ... life.
 

@@ -5,7 +5,7 @@ date: 2023-08-10
 dateReleased: 2024-03-12
 thumb: "wildebyte_rulebreaker_recipes"
 
-progress: 50
+progress: 75
 phase: "revisions" # preparation, first draft, revisions, finished
 
 booktype: "fiction"

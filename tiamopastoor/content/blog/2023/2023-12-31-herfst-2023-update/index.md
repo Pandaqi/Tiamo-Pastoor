@@ -256,13 +256,13 @@ Zoals altijd: spellen ontwikkelen is makkelijk, spellen _afmaken_ (marketingteks
 15. 2,230
 16. 3,123
 17. X
-18. ?
-19. ?
-20. ?
-21. ?
-22. ?
-23. ?
-24. ?
+18. 15,233 (_ongelofelijk veel vertaalwerk voor Levenssaga_)
+19. 5,211
+20. 4,999
+21. 5,678
+22. X
+23. 720
+24. X
 25. ?
 26. ?
 27. ?
@@ -270,6 +270,9 @@ Zoals altijd: spellen ontwikkelen is makkelijk, spellen _afmaken_ (marketingteks
 29. ?
 30. ?
 31. ?
+
+
+Dat zijn @TODO woorden in totaal.
 
 Ik moest er toch echt aan geloven en een paar verhalen definitief afmaken en klaarzetten voor publicatie. Het is nu zo erg dat ik al bordspellen inplan voor 2025 ... maar nauwelijks een gepland boek/verhaal voor 2024 af heb.
 

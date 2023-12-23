@@ -20,7 +20,7 @@ Ik geef de serie **6 uit 10 sterren**, met enige pijn in mijn hart. (Het was eer
 
 {{% review-blurb %}}
 Een serie die veel goed doet, zoals de visuele effecten en grote delen van de adaptatie. Maar het allerbelangrijkste is toch echt het plot en wat er specifiek gebeurt, en dat is ongelofelijk traag, onbevredigend en stuurloos.
-{{% review-blurb %}}
+{{% /review-blurb %}}
 
 In dit artikel laat ik kort weten wat ik ervan vond. Ook bekijk ik, zoals altijd, het verhaal door een schrijversbril en probeer dingen te vinden waarvan ik kan leren voor mijn eigen werk.
 

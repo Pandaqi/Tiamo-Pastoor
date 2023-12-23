@@ -68,7 +68,7 @@ Bij de originele website moest ik _zelf, handmatig_ elk artikel typen en coderen
 
 Als ik bijvoorbeeld een stukje voorbeeldcode wilde laten zien, moest ik in het artikel zelf alle _tags_ typen die daarvoor nodig zijn. (En mocht er iets veranderen, moest ik dit dus _door de hele database_ handmatig veranderen.)
 
-Nu hoef ik alleen te zeggen "{{< highlight >}}" en daarna de code te plakken. Ergens anders zeg ik (eenmalig) precies _hoe_ code moet worden _gehighlight_. En we zijn klaar!
+Nu hoef ik alleen te zeggen "{{/*< highlight >*/}}" en daarna de code te plakken. Ergens anders zeg ik (eenmalig) precies _hoe_ code moet worden _gehighlight_. En we zijn klaar!
 
 Dus ja, het nieuwe systeem zal duizend keer sneller en beter zijn. Het zal ook zorgen dat ik in de toekomst veel makkelijker dingen kan toevoegen of veranderen. 
 
@@ -148,7 +148,7 @@ De conclusie?
 
   * De website heeft slechts een paar grote stijlonderdelen. Die worden overal hergebruikt. Het is meer consistent en tegelijkertijd sneller om te laden voor de browser. (De originele website was echt _gigantisch_ in dat opzicht.)
   * De website hangt niet meer af van externe onderdelen. Al die oude systemen hingen af van _andere_ bestanden of websites. (Zoals mijn code voor _hyphens_ toevoegen. Die moest de lijst---die zegt hoe je Engelse woorden opbreekt---ergens anders vandaan halen.)
-  * Ik kan alles bereiken met simpele tags in de Markdown. (Bijvoorbeeld, code+plaatje naast elkaar krijg ik door `{{< double-view >}}` te typen. Met eventueel wat argumenten daarna om dingen aan te passen.)
+  * Ik kan alles bereiken met simpele tags in de Markdown. (Bijvoorbeeld, code+plaatje naast elkaar krijg ik door `{{/*< double-view >*/}}` te typen. Met eventueel wat argumenten daarna om dingen aan te passen.)
   * De website is veel schoner, professioneler, strakker. Het maakt het een beetje "kaal", dat wel. Maar aan het einde van de dag zullen mensen die de tutorials zoeken vooral de _informatie_ willen, zo duidelijk en snel mogelijk. Dat zou ik nu willen, in ieder geval. Dat de website mooi en levendig is ... dat is een bijzaak.
 
 ![](/uploads/2022/11/pandaqi_double_view.webp) 
