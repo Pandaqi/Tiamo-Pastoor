@@ -21,7 +21,7 @@ Langzaam naderen we het moment dat mijn eerste Engelse fictie uitkomt die, hopel
 De eerste drie boeken waren al geschreven in het vorige kwartaal. Ze moesten alleen nog een laatste edit krijgen; iets dat ik vaak lang uitstel omdat ik het een van de saaiere en moeilijkere onderdelen van schrijven vind. Bovendien wilde ik kijken of ik ook echt de kleine spelletjes kon maken die in de boeken worden gespeeld, want ik hoopte dat het proces extra inspiratie zou geven en potentiële blunders zou voorkomen.
 
 {{% remark %}}
-Straks schrijf ik iets in het verhaal dat helemaal niet kán werken in het echte spel, praktisch gezien. Daar kom je alleen achter als je daadwerkelijk het spelletje even probeert te programmeren.
+Straks schrijf ik iets in het verhaal dat helemaal niet kán werken in het echte spel, praktisch gezien. Daar kom je alleen achter als je daadwerkelijk het spelletje even probeert te programmeren. Maaaaar toen werd ik herinnerd aan mijn laptop die oud en kapot is, dus buiten een beginsel aan een héél simpel spelletje voor boek 1 en 2 kan ik dit vooralsnog niet doen.
 {{% /remark %}}
 
 Maar daarnaast wilde ik iets meer voorsprong krijgen. De eerste ~5 boeken (nogmaals, dit zijn korte boeken) zie ik als de grondleggers die ik nodig heb om te bepalen hoe de wereld en de verhalen gaan lopen, dus die wilde ik eigenlijk allemaal afhebben voordat het eerste boek uitkwam.
@@ -30,7 +30,7 @@ Zo heb ik bijvoorbeeld dankzij het schrijven van boek _drie_ betere ideeën gekr
 
 Nou, goed, kan ik verder niet te veel over zeggen. Dat zouden namelijk spoilers zijn, en eventuele plaatjes/filmpjes zijn nog zwaar onderhevig aan verandering.
 
-De boeken zullen verschijnen, misschien de spelletjes die erbij horen ook, en dan praten we verder.
+De boeken zullen verschijnen, misschien de spelletjes die erbij horen ook (met zware vertraging, zoals het er nu naar uitziet), en dan praten we verder.
 
 Dit was in ieder geval een grote hoop schrijfwerk (en revisiewerk).
 
@@ -48,7 +48,7 @@ Ter herinnering, dit is de planning/structuur die ik nu hanteer. Hij werkt eigen
 
 Terwijl ik dit schrijf, bijvoorbeeld, heb ik alles tot Mei 2024 af, maar de planning loopt door tot Oktober 2024. De meest vroege deadline die nog _niet_ af is, is werk aan het volgende Wildebyte boek. Dus als ik morgenochtend wakker word, kies ik datgene om aan te werken.
 
-Misschien klinkt het simpel, of stom, of overduidelijk. (Wie houdt er nou z'n hele planning bij op één handgeschreven papiertje van een notitieblok!?) Maar mijn hoofd is chaotisch en dingen afmaken per definitie onmogelijk voor kunstenaars, dus ik ben blij dat ik een rare mix van elementen heb gevonden die lijkt te helpen.
+Misschien klinkt het simpel, of stom, of overduidelijk. (Wie houdt er nou z'n hele planning bij op één handgeschreven papiertje van een notitieblok!?) Maar mijn hoofd is chaotisch en dingen afmaken is per definitie onmogelijk voor kunstenaars, dus ik ben blij dat ik een rare mix van elementen heb gevonden die lijkt te helpen.
 
 ## Bordspellen
 
@@ -263,16 +263,15 @@ Zoals altijd: spellen ontwikkelen is makkelijk, spellen _afmaken_ (marketingteks
 22. X
 23. 720
 24. X
-25. ?
-26. ?
-27. ?
-28. ?
-29. ?
-30. ?
-31. ?
+25. 783
+26. 7,083
+27. 9,444
+28. X
+29. 3,088
+30. 2,957
+31. X
 
-
-Dat zijn @TODO woorden in totaal.
+Dat zijn 100,322 woorden in totaal.
 
 Ik moest er toch echt aan geloven en een paar verhalen definitief afmaken en klaarzetten voor publicatie. Het is nu zo erg dat ik al bordspellen inplan voor 2025 ... maar nauwelijks een gepland boek/verhaal voor 2024 af heb.
 

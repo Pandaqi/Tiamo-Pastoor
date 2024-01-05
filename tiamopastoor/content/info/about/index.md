@@ -116,3 +116,25 @@ Where do the tallies come from?
 * I also maintain lots of other projects that involve writing. (Such as [Pandaqi Blog](https://pandaqi.com/blog) with diaries about the development of my _games_.) Most of those are also added to the word total for a day.
 
 So ... does that answer your questions?
+
+## Do you use AI for your writing?
+
+No, I do not. This might change in the future, though I deem that unlikely right now.
+
+If you've seen my other work, you'll know I sometimes use generative image AI for graphics. Especially for my board games. It allows me to get an end result way more quickly than if I'd done it by hand. Complex illustration has always been my weak spot and the thing I usually enjoy the least in any project. If this AI didn't exist, however flawed or rudimentary at the moment, all those games of mine probably didn't exist either.
+
+I _experimented_ with using AI for writing. It is obviously a powerful tool that can help when you're stuck and provide great prose on the spot. But all in all, it was not _faster_ nor _more enjoyable_ than doing everything entirely on my own. 
+
+I also tried to use it to translate my Saga of Life stories from Dutch to English. The results were the same. The translation must be checked anyway, because it makes loads of errors and even completely changes facts or removes part of the story. And if we're doing that, we're now _slower_ and _less creative_ than if I'd translated manually.
+
+So why use it?
+
+This question is asked a lot. People really fear that AI will take over all jobs and make writing meaningless. This makes me sad. Not because they are wrong: AI _will_ take over most jobs and change the world. But because it's a consequence of people being taught that you should only do something if you can be _paid_ and _successful_ with it. 
+
+Yes, AI will lower the barrier of entry and flood the market even more (with novels of varying quality). That's not even a bad thing, considering the garbage Hollywood puts out each year. It will raise the bar for what's considered a sellable novel, with all its tools to improve your prose and plotting. 
+
+Why should that change how much you enjoy writing? Why should that stop you from writing that story you always wanted to tell?
+
+Learn to enjoy the process, not the end result. It's the key to pretty much everything in life.
+
+That's why I will only start using AI for writing if it provides substantial benefits in quality and speed, without destroying my ability to be creative and enjoy the process.
