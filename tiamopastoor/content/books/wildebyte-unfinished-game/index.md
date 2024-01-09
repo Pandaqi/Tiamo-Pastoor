@@ -22,7 +22,12 @@ price:
   - key: paperback
     value: 11.99
 
-links: ""
+links:
+  - key: Ebook / Paperback (Amazon)
+    value: https://www.amazon.co.uk/dp/B0CRRWH5BD
+  - key: Ebook / Paperback (Other major stores)
+    value: https://books2read.com/u/mV2vdM
+
 
 logline: |
   Wildebyte finds himself inside a dangerous video game with one clear message in his head: Break into the Data Vault.
