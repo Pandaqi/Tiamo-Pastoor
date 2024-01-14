@@ -1,7 +1,7 @@
 ---
 title: Unfinished Game
 author: tiamopastoor
-date: 2023-08-09
+date: 2023-11-09
 dateReleased: 2024-01-12
 thumb: "wildebyte_unfinished_game"
 
