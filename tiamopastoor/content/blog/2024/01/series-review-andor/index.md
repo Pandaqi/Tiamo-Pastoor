@@ -3,6 +3,7 @@ title: 'Review: Andor'
 author: tiamopastoor
 date: 2024-01-16
 language: en
+layout: "horizontal"
 thumb: andor_header.webp
 categories:
   - Reviews
