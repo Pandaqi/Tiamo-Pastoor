@@ -12,10 +12,10 @@ booktype: "fiction"
 series: "Wildebyte Arcades"
 age: ["kids", "young adult"] 
 genre: "science-fiction"
-diary: "/blog/diaries/diary-wildebyte-unfinished-game"
+diary: "/blog/diaries/wildebyte-arcades/handheld-disk/diary-unfinished-game"
 tags: ["game", "computer", "coding", "fantastical", "mystery", "technology", "adventure"]
 language: en
-pages: 250
+pages: 200
 price:
   - key: ebook
     value: 3.99

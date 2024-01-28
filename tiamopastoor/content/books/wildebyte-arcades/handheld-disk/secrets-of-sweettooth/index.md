@@ -15,7 +15,7 @@ genre: "science-fiction"
 diary: "/blog/diaries/diary-wildebyte-secrets-of-sweettooth"
 tags: ["game", "computer", "coding", "fantastical", "mystery", "technology", "adventure"]
 language: en
-pages: 250
+pages: 200
 price:
   - key: ebook
     value: 3.99
@@ -25,7 +25,7 @@ price:
 links: ""
 
 logline: |
-  After another failure, Wildebyte has nowhere else to go but Sugar Stomp: the game of Pirate Sweettooth. Searching for a way to become friends and jump between video games together, they discover something horrible and must choose between two options that are the opposite of sweet.
+  Hated by all the games, Wildebyte longs for safety in the game of Pirate Sweettooth. Fighting to become his friend, and find a way to Gamewalk together, they discover a horrible secret and must make a choice that's the opposite of sweet.
 
 blurb: |
   Hated by all the games, Wildebyte hatches a plan to force Sweettooth to become his friend. It would be amazing if they could travel through other video games together!

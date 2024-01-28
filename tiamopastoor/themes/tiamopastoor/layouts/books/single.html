@@ -8,7 +8,11 @@
 				<!-- Thumbnail -->
 				{{ partial "thumbnail.html" (dict "context" . "class" "left-side hide-caption" "addbox" true) }}
 
-				{{ $is_finished := eq .Params.phase "finished" }}
+				{{ $past_release_date := false }}
+				{{ if .Params.dateReleased }}
+					{{ $past_release_date = ge (sub now.Unix (time.AsTime .Params.dateReleased).Unix) 0 }}
+				{{ end }}
+				{{ $is_finished := and (eq .Params.phase "finished") $past_release_date }}
 				{{ $show_progress_bar := partial "func/should-show-progress-bar.html" . }}
 				{{ $is_ongoing := eq .Params.ongoing true }}
 				{{ $has_links := .Params.links }}
@@ -39,10 +43,10 @@
 							{{ $content = "This is an **ongoing project**. This means it has its own active website(s) with all updates, content, and purchase links." }}
 						{{ else if $is_finished }}
 							{{ $heading = "Buy the book!" }}
-							{{ $content = "This book has **not yet released** (see the progress bar up top). It is, however, already available for pre-order! Use the link(s) below." }}
+							{{ $content = "This book **has been released!** Use the link(s) below to purchase it." }}
 						{{ else if $has_links }}
 							{{ $heading = "Pre-Order" }}
-							{{ $content = "This book has **not yet released** (see the progress bar up top). It is, however, already available for pre-order! Use the link(s) below." }}
+							{{ $content = "This book has **not yet released**. (Check the progress bar up top.) It is, however, already available for **pre-order**! Use the link(s) below." }}
 						{{ end }}
 
 						<h2>{{ $heading }}</h2>
@@ -99,13 +103,16 @@
 						</div>
 					</section>
 
-					<!-- Extra info is just the content of the Markdown file -->
-					<article class="sketchy-box" lang="{{ $language }}">
-						<h2>Remarks & More</h2>
-						<div class="article-content" style="margin-top: 0.5em;">
-							{{ .Content }}
-						</div>
-					</article>
+					<!-- Extra info is just the content of the Markdown file (optional; left out if empty) -->
+					{{ $content := .Content }}
+					{{ with $content }}
+						<article class="sketchy-box" lang="{{ $language }}">
+							<h2>Remarks & More</h2>
+							<div class="article-content" style="margin-top: 0.5em;">
+								{{ . }}
+							</div>
+						</article>
+					{{ end }}
 				</div>
 			</div>
 		</div>

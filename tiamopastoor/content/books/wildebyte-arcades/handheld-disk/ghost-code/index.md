@@ -5,17 +5,17 @@ date: 2023-11-11
 dateReleased: 2024-05-12
 thumb: "wildebyte_ghost_code"
 
-progress: 20
+progress: 50
 phase: "revisions" # preparation, first draft, revisions, finished
 
 booktype: "fiction"
 series: "Wildebyte Arcades"
 age: ["kids", "young adult"] 
 genre: "science-fiction"
-diary: "/blog/diaries/diary-wildebyte-ghost-code"
+diary: "/blog/diaries/wildebyte-arcades/handheld-disk/diary-ghost-code/"
 tags: ["game", "computer", "coding", "fantastical", "mystery", "technology", "adventure"]
 language: en
-pages: 250
+pages: 200
 price:
   - key: ebook
     value: 3.99

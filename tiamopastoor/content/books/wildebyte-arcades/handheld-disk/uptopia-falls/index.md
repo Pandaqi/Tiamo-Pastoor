@@ -6,16 +6,16 @@ dateReleased: 2024-08-12
 thumb: "wildebyte_uptopia_falls"
 
 progress: 10
-phase: "first draft" # preparation, first draft, revisions, finished
+phase: "revisions" # preparation, first draft, revisions, finished
 
 booktype: "fiction"
 series: "Wildebyte Arcades"
 age: ["kids", "young adult"] 
 genre: "science-fiction"
-diary: "/blog/diaries/diary-wildebyte-uptopia-falls"
+diary: "/blog/diaries/diary-wildebyte-uptopia-falls/"
 tags: ["game", "computer", "coding", "fantastical", "mystery", "technology", "adventure"]
 language: en
-pages: 250
+pages: 200
 price:
   - key: ebook
     value: 3.99
@@ -25,7 +25,7 @@ price:
 links: ""
 
 logline: |
-  Wildebyte falls into a new game---literally. They must climb out by playing the game, jumping higher and higher, until they reach the top. But every level has new secrets, while a single fall means they have to start all over.
+  Wildebyte falls into a new game---literally. They must climb out by playing the game, jumping higher and higher, until they reach the top shrouded in mist. Every level holds new secrets, while a single fall means they have to start all over.
 
 blurb: |
   Wildebyte falls into a new game and hits rock bottom. They can only climb out by playing the game, jumping higher and higher, until they reach the top. 

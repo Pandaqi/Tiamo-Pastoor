@@ -3,7 +3,7 @@ title: "The Wildebyte Arcades have Started!"
 author: tiamopastoor
 date: 2024-01-15
 language: en
-thumb: /books/wildebyte-unfinished-game/wildebyte_unfinished_game.webp
+thumb: wildebyte_unfinished_game.webp
 layout: "horizontal"
 categories:
   - Updates
@@ -12,7 +12,7 @@ categories:
 
 Last year I repeatedly mentioned (in my update articles) that I was working towards my first English book series. Today, the first entry in that series was finally released!
 
-It's called [Unfinished Game](/books/wildebyte-unfinished-game/) and available both in digital and physical format. Click the link for the official page with purchase buttons (for major stores) or more information.
+It's called [Unfinished Game](/books/wildebyte-arcades/handheld-disk/unfinished-game/) and available both in digital and physical format. Click the link for the official page with purchase buttons (for major stores) or more information.
 
 The series is called **Wildebyte Arcades** and tells, as expected, about the adventures of the Wildebyte. This person lands in the world of video games! Each book shows how they end up in a new game where new problems must be solved. Such a setup delivers action and adventure in a unique world, but also subtle explanations about how games and computers work behind the scenes.
 
@@ -21,7 +21,7 @@ The series is **episodic**, which means each entry is standalone and you can rea
 They are **short books** (roughly half the size of a normal novel) containing a mix of genres: realistic, science-fiction and fantasy. Though mostly aimed at children and young adults, it was written for all audiences. That means the stories contain more complex elements and there is no "dumbing down".
 
 {{% remark %}}
-I _really_ tried to make this series about light-hearted, silly adventures. But to me, stories are simply at their strongest and most interesting when they are _about something_. A perfect story is a mix of tense action, emotions, and interesting ideas---which cover up the fact that they subconsciuosly make you wonder about topics like "what is freedom?"
+I _really_ tried to make this series about light-hearted, silly adventures. But to me, stories are simply at their strongest and most interesting when they are _about something_. A perfect story is a mix of tense action, emotions, and interesting ideas---which cover up the fact that they subconsciously make you wonder about topics like "what is freedom?"
 {{% /remark %}}
 
 This **first book** obviously provides the first introduction. What the world of Ludra is like, why Wildebyte is there, and---as the title implies---that they must finish some broken or empty game to complete a mission.
