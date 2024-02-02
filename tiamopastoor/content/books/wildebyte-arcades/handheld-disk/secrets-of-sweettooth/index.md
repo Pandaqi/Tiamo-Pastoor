@@ -12,7 +12,7 @@ booktype: "fiction"
 series: "Wildebyte Arcades"
 age: ["kids", "young adult"] 
 genre: "science-fiction"
-diary: "/blog/diaries/diary-wildebyte-secrets-of-sweettooth"
+diary: "/blog/diaries/diary-wildebyte-secrets-of-sweettooth/"
 tags: ["game", "computer", "coding", "fantastical", "mystery", "technology", "adventure"]
 language: en
 pages: 200
