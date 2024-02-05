@@ -1,5 +1,5 @@
 import FontLoader from "./fonts"
-import Navigation from "./Navigation"
+import Navigation from "./navigation"
 import TOC from "./toc"
 import ThemeSwitcher from "./themeSwitcher";
 import Images from "./images";
