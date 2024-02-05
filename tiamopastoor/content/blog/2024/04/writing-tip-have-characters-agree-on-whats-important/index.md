@@ -1,10 +1,9 @@
 ---
-title: 'Writing Tip: Have characters agree on what's important'
+title: "Writing Tip: Have characters agree on what's important"
 author: tiamopastoor
 date: 2024-04-28
 language: en
-categories:
-  - Miscellaneous
+categories: ["Miscellaneous"]
 ---
 
 One of the recurring issues when writing is the never-ending question about the quality of conflict. What is _good_ conflict? What is juicy conflict that sets the story on fire and keeps momentum until the end---and how do you identify conflict that's boring and peters out quickly?
