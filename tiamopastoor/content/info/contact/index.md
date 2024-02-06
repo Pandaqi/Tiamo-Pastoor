@@ -13,7 +13,7 @@ Want to get in touch? Well, how you do that depends a little on _why_ you want t
 Whenever in doubt, your best bet is to **mail me**! To keep things simple, I collect everything on my main work email:
 
 <p style="text-align: center; font-size: 1.5em;">
-    <a href="mailto:tiamo@rodepanda.com">tiamo@rodepanda.com</a>
+    <a href="mailto:tiamopastoor@gmail.com">tiamopastoor@gmail.com</a>
 </p>
 
 ## Feedback / Reviews

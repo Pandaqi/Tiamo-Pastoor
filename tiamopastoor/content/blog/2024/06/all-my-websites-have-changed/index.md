@@ -72,17 +72,27 @@ This meant that all my websites already had a well-organized GitHub repository u
 
 Now I realized I could host the websites for free!
 
-There are countless website hosts that provide a free plan, as long as your websites are small and you don't need special features. After some research, the best one (especially for my system, Hugo) seemed to be Netlify.
+There are countless website hosts that provide a free plan, as long as your websites are small and you don't need special features. 
+
+Such as Vercel, Github Pages, Netlify, Azure, CloudFlare Pages, Firebase, and so forth.
+
+I had never used any of these before. So I must admit I did only a few minutes of research until I found a good article that perfectly explained how to use Netlify with the specific system (Hugo) that I use.
+
+I am of the type "just try and see what happens", so I dropped whatever else I had planned that evening and jumped in.
+
+## Failed Attempt: Netlify
+
+At first, this seemed to work great.
 
 All I had to do was ...
 
 * Create an account (and connect it with my Pandaqi GitHub)
 * For each major website, 
-  * Add a `netlify.toml` file (that says how the website should be build)
+  * Add a `netlify.toml` file (that says how the website should be built)
   * Push this latest update to GitHub
   * Tell Netlify to use that as the source for deploying a new website
 
-Within 30 minutes, literally my entire online presence had found a perfect duplicate on Netlify. (Well, Pandaqi was giving trouble, but it was minor trouble due to an accidental bump in Hugo version.)
+Within 30 minutes, literally my entire online presence had found a perfect duplicate on Netlify.
 
 For now, they were all on obscure web addresses, like `pandaqi.netlify.app`
 
@@ -93,6 +103,51 @@ Even better, they now build on the spot. I don't even need to manually write tha
 {{% remark %}}
 This was another reminder about how old and broken my laptop is. My TiamoPastoor website, for example, takes about 60-90 seconds. Sometimes it takes so long that it crashes due to timeout on CSS transpilation. On Netlify? Yeah, 5 seconds tops.
 {{% /remark %}}
+
+Buuuut then I discovered two huge issues.
+
+* For some reason, Pandaqi failed miserably. Whatever I tried, it would build great on my own computer, then fail for obscure reasons on Netlify. 
+* Their free tier isn't a hard cap. When you use up your available bandwidth/builds ... it just rolls over into the next tier, and you have to pay for that.
+
+The first reason was annoying, but I don't give up easily and surely would have figured something out.
+
+The second reason was a dealbreaker. I specifically left my old hosting to not worry about sudden, unexpected invoices coming in because one of my websites suddenly got popular for a few days. 
+
+Even though I never _expected_ to exceed these limits---I've always worked hard to keep my websites minimal and fast---I just don't want to have to _worry_ about it at all.
+
+## Better Attempt: CloudFlare Pages
+
+This was a bit of a lucky break. 
+
+For years, like many, I've already routed all my websites through CloudFlare. For free, you can just
+
+* Add your website
+* Change some DNS servers to point to CloudFlare
+* And now it intercepts any requests to your website, so it can prevent against attacks, or serve a cached version (saving bandwidth), or do any number of great stuff.
+
+This meant, however, that all my websites were _already_ registered as a valid CloudFlare "apex domain" (or domain zone, whatever they call it).
+
+Then I learned they had their own "Pages" system, which ...
+
+* Has no limit on the bandwidth, website size, or most things
+* Does have a hard cap on number of builds per month (500 at the moment)
+* And integrates nicely with their other systems (which I already used)
+
+I created a new project for each website and connected it to the exact same Git repository, with the exact same command I used for Netlify.
+
+Its builds are slightly lower than those of Netlify, but not by much. I still had a perfect copy of all my websites within 30 minutes. (At a similar obscure address, in this case something like `tiamopastoor.pages.dev`)
+
+Then, for each website, I could just _connect_ it to the domain I had already validated. This means that any request to `tiamopastoor.com`---which it already intercepted anyway---is now rerouted to `tiamopastoor.pages.dev`
+
+Within an hour, I could completely turn off my hosting and it all worked. All my websites were suddenly hosted for free, and they were faster and better secured for it.
+
+I had cut off the hosting that cost 100+ euros per year entirely, and replaced it with something better that was free. 
+
+{{% remark %}}
+When I joined, all those years ago, it was waaaay cheaper. But this is how it always goes. As something grows in number of clients and power, they stop giving away extra cheap offers, and can get away with asking more and more of people who are hesitant to leave at this point. Meh.
+{{% /remark %}}
+
+I was scratching my head, wondering why I never even attempted this before. As expected, they weren't going to refund me for more than 12 months of unused hosting now. Glad I left.
 
 ## What else needed to change?
 
@@ -115,6 +170,10 @@ Previously, each website of mine had a custom email address. For example,
 
 Now that I didn't actually have hosting, I also didn't have a server to receive and store emails. 
 
+{{% remark %}}
+Though, surprisingly, this kept working for a good while, despite literally turning off hosting and switching everything to redirect to CloudFlare.
+{{% /remark %}}
+
 Now, there are three things you could do here.
 * Pick up a dedicated email service. (These are not free, but cheap, as they ONLY do email.)
 * Use an email forwarder. This essentially fakes the email address and just sends them to another one---your real one.(These are free if you have only a few addresses/don't need 100 mails a day.)
@@ -127,6 +186,10 @@ Additionally, my main email has always been extremely easy to guess (literally m
 As such, I spent a day updating _all_ locations with my email to point to `tiamopastoor@gmail.com` or `schoolofpanda@gmail.com` (for games work). Those are the only two I kept, everything else was removed.
 
 To reduce the whiplash, however, I did use the email forwarder to keep the other addresses running for a little longer. At some point, though, I'll ditch those too.
+
+{{% remark %}}
+Let's be honest here. The number of emails I get on those custom addresses is NOT high enough to warrant a paid subscription to keep those email addresses alive. As you see, it's not even high enough to make me keep the address in the first place :p
+{{% /remark %}}
 
 ### Be more mindful about updates!
 
