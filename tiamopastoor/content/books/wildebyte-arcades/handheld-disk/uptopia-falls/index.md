@@ -12,7 +12,7 @@ booktype: "fiction"
 series: "Wildebyte Arcades"
 age: ["kids", "young adult"] 
 genre: "science-fiction"
-diary: "/blog/diaries/diary-wildebyte-uptopia-falls/"
+diary: "/blog/diaries/wildebyte-arcades/handheld-disk/diary-uptopia-falls/"
 tags: ["game", "computer", "coding", "fantastical", "mystery", "technology", "adventure"]
 language: en
 pages: 200

@@ -5,14 +5,14 @@ date: 2023-11-13
 dateReleased: 2024-10-12
 thumb: "wildebyte_secrets_of_sweettooth"
 
-progress: 75
-phase: "preparation" # preparation, first draft, revisions, finished
+progress: 5
+phase: "first draft" # preparation, first draft, revisions, finished
 
 booktype: "fiction"
 series: "Wildebyte Arcades"
 age: ["kids", "young adult"] 
 genre: "science-fiction"
-diary: "/blog/diaries/diary-wildebyte-secrets-of-sweettooth/"
+diary: "/blog/diaries/wildebyte-arcades/handheld-disk/diary-secrets-of-sweettooth/"
 tags: ["game", "computer", "coding", "fantastical", "mystery", "technology", "adventure"]
 language: en
 pages: 200

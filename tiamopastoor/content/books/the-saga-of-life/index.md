@@ -6,7 +6,7 @@ dateReleased: 2022-11-01
 ongoing: true
 thumb: levenssaga_portrait_logo
 
-progress: 25
+progress: 50
 phase: "cycle 3" # ongoing projects are more specific; for Saga of Life, we indicate which cycle we're on
 
 booktype: "fiction"
@@ -14,12 +14,14 @@ series: "The Saga of Life"
 age: ["kids", "young adult", "adult"]
 genre: "fantasy"
 diary: 
-  - key: Cycle 0; project beginnings
-    value: /blog/diaries/dagboek-levenssaga-cyclus-0/
-  - key: Cycle 1
-    value: /blog/diaries/dagboek-levenssaga-cyclus-1/
-  - key: Cycle 2
-    value: /blog/diaries/dagboek-levenssaga-cyclus-2/
+  - key: Cycle 0; project beginnings (Dutch)
+    value: /blog/diaries/the-saga-of-life/diary-cycle-0/
+  - key: Cycle 1 (Dutch)
+    value: /blog/diaries/the-saga-of-life/diary-cycle-1/
+  - key: Cycle 2 (Dutch)
+    value: /blog/diaries/the-saga-of-life/diary-cycle-2/
+  - key: Cycle 3 (English from now on)
+    value: /blog/diaries/the-saga-of-life/diary-cycle-3/
 
 tags: ["short story", "anthology", "education", "science", "history", "folklore", "ongoing", "digital"]
 language: ["nl", "en"]
@@ -28,9 +30,9 @@ price: ""
 
 links:
   - key: Website (Saga of Life)
-    value: https://thesagaoflife.com
-  - key: Website (Dutch version)
-    value: https://delevenssaga.nl
+    value: https://thesagaoflife.com/en/
+  - key: Website (Levenssaga; Dutch)
+    value: https://thesagaoflife.com/nl/
 
 logline: |
   A frame story of legends for all ages, about the birth of life on earth and human history until now (and beyond). A free website designed for fun reading!
