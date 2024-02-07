@@ -7,6 +7,8 @@ export default class TOC
         if(!toc) { return; }
 
         const tocContent = document.getElementById("toc-content");
+        if(!tocContent) { return; }
+        
         toc.remove();
 
         const firstHeader = document.getElementsByTagName("h2")[0];

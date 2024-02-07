@@ -1,5 +1,8 @@
 export default class ThemeSwitcher
 {
+    localStorageKey: string;
+    currentValue: boolean;
+
     constructor()
     {
         this.localStorageKey = "tiamoPastoorDarkMode";
@@ -18,7 +21,7 @@ export default class ThemeSwitcher
     toggleMode()
     {
         this.currentValue = !this.currentValue;
-        window.localStorage.setItem(this.localStorageKey, this.currentValue);
+        window.localStorage.setItem(this.localStorageKey, this.currentValue + "");
     }
 
     readMode()

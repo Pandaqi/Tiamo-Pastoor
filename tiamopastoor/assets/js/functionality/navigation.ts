@@ -2,13 +2,19 @@
 /* the three dynamic buttons: go to top, go to bottom, go to random */
 export default class Navigation
 {
+    bottomBtns: HTMLButtonElement[];
+    topBtns: HTMLButtonElement[];
+    footer: HTMLElement;
+    header: HTMLElement;
+    randBtn: HTMLElement;
+
     constructor()
     {
-        this.bottomBtns = document.getElementsByClassName('gotoBottomButton');
+        this.bottomBtns = Array.from(document.getElementsByClassName('gotoBottomButton'));
         this.footer = document.getElementsByTagName("footer")[0];
         this.setupBottomButton();
 
-        this.topBtns = document.getElementsByClassName('gotoTopButton');
+        this.topBtns = Array.from(document.getElementsByClassName('gotoTopButton'));
         this.header = document.getElementsByTagName("header")[0];
         this.setupTopButton();
 
@@ -51,8 +57,9 @@ export default class Navigation
         if(!this.randBtn) { return; }
         this.randBtn.addEventListener('click', (ev) => {
             const metadataNode = document.getElementById("hidden-hugo-metadata");
+            if(!metadataNode || !metadataNode.dataset.pages) { return false; }
+            
             const projectList = metadataNode.dataset.pages.split(",");
-
             const randIdx = Math.floor(Math.random() * projectList.length);
             const randURL = projectList[randIdx];
             window.location.href = randURL;

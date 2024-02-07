@@ -20,7 +20,7 @@
 {{- $list := delimit $list "," }}
 <span style="display:none;" id="hidden-hugo-metadata" data-pages="{{ $list }}"></span>
 
-{{ $res := resources.Get "js/functionality/main.js" | js.Build "js/lib-functionality.js" | minify }}
+{{ $res := resources.Get "js/functionality/main.ts" | js.Build "js/lib-functionality.js" | minify }}
 <script async defer src="{{ $res.RelPermalink }}"></script>
 
 <div id="overlay-image" style="display: none;">

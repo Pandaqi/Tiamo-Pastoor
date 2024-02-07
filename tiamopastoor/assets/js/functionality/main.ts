@@ -12,6 +12,7 @@ const toc = new TOC();
 const themeSwitcher = new ThemeSwitcher();
 const images = new Images();
 
+// @ts-ignore
 window.TIAMO_TOOLS = {
     fonts: fonts,
     navigation: navigation,
