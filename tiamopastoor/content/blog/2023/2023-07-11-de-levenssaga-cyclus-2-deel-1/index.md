@@ -39,4 +39,4 @@ En als je deze keten blijft volgen, stapje voor stapje, kom je bij het allerlaat
 
 _Stay tuned_ voor de laatste helft van deze cyclus!
 
- [1]: https://delevenssaga.nl
+ [1]: https://thesagaoflife.com/nl/

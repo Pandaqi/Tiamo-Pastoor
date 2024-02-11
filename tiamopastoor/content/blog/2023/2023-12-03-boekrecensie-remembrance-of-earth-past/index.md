@@ -219,7 +219,7 @@ Daarin slaagt het redelijk, vandaar de voldoende en dat ik de reeks heb uitgelez
 
 Maar het is verre van perfect. 
 
-Ook wordt het hele verhaal direct een stuk minder als je, zoals ik, al behoorlijk veel _weet_ van de wetenschap en theorieën erachter. Ik ben de schrijver van [De Levenssaga](https://delevenssaga.nl) en een afgestudeerd wetenschapper, dus ik wist allang meer dan de helft van de "onthullingen" of "schokkende ideeën" die het verhaal boeiend moeten maken. Dus bij grote delen van het boek wist ik al wat ging komen of was mijn eerste gedachte "tja, eh, dat is gewoon hoe wetenschap werkt, waarom doen ze hier zo raar over?"
+Ook wordt het hele verhaal direct een stuk minder als je, zoals ik, al behoorlijk veel _weet_ van de wetenschap en theorieën erachter. Ik ben de schrijver van [De Levenssaga](https://thesagaoflife.com/nl/) en een afgestudeerd wetenschapper, dus ik wist allang meer dan de helft van de "onthullingen" of "schokkende ideeën" die het verhaal boeiend moeten maken. Dus bij grote delen van het boek wist ik al wat ging komen of was mijn eerste gedachte "tja, eh, dat is gewoon hoe wetenschap werkt, waarom doen ze hier zo raar over?"
 
 En uiteindelijk moet ik concluderen dat dit soort "semi-educatieve" verhalen simpelweg niet de beste insteek zijn. Veel dingen zijn beter uit te leggen met een plaatje, of een filmpje, of een spelletje, of _iets anders dan lange lappen geschreven tekst_.
 

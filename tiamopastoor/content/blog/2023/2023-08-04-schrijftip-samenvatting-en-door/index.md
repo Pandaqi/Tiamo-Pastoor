@@ -77,4 +77,4 @@ Schrijf een korte, concrete samenvatting van je wat je zou _willen_ dat hier was
 
 Flow is heel belangrijk bij creatief werk. Alles dat blokkades wegneemt is meegenomen.
 
- [1]: https://delevenssaga.nl
+ [1]: https://thesagaoflife.com/nl/

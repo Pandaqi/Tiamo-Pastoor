@@ -11,7 +11,7 @@ Ik heb inmiddels behoorlijk veel geschreven in het Nederlands. Maar weet je wat 
 
 Maar ik wilde kijken of ik mijn Nederlandse verhalen kon _laten_ vertalen door AI. Dit deed ik in eerste instantie als grappig experiment, een half uurtje voor het naar bed gaan, maar veranderde langzaam in iets dat serieus _haalbaar was._
 
-Ik heb (sinds vorig jaar) [De Levenssaga](https://delevenssaga.nl) online staan. Korte verhalen, opgedeeld in 10 hoofdstukken elk van 1,000-1,500 woorden, geschreven in het Nederlands maar voor alle doelgroepen/leeftijden. Het systeem erachter heeft hele goede ondersteuning voor _meertaligheid_.
+Ik heb (sinds vorig jaar) [De Levenssaga](https://thesagaoflife.com/nl/) online staan. Korte verhalen, opgedeeld in 10 hoofdstukken elk van 1,000-1,500 woorden, geschreven in het Nederlands maar voor alle doelgroepen/leeftijden. Het systeem erachter heeft hele goede ondersteuning voor _meertaligheid_.
 
 Dus dit was het idee:
 

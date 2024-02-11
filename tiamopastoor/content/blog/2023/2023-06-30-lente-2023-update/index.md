@@ -296,4 +296,4 @@ De woordenaantallen zijn op sommige dagen belachelijk hoog. Dat komt weer door d
 Ik heb vrij weinig daadwerkelijke nieuwe boeken geschreven, want ik liep een beetje vast en wist niet wat het beste project was om hierna te kiezen. Ja, die _Trilogie van Nooitoud_ stond op de planning ... maar ik heb eerlijk gezegd op dit moment even geen zin om die te schrijven. Het is een sterk idee, maar ik heb nog niet de beste vorm gevonden om het in te gieten (zodat het écht meeslepend wordt).
 
  [1]: /books/the-saga-of-life/
- [2]: https://delevenssaga.nl
+ [2]: https://thesagaoflife.com/nl/

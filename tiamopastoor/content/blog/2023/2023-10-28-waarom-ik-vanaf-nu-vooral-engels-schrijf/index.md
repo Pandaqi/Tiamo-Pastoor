@@ -101,4 +101,4 @@ Hopelijk legt dit de gedachtegang uit en helpt het jou misschien met zelf de keu
  [1]: https://pandaqi.com/blog
  [2]: https://pandaqi.com/tutorials
  [3]: https://tiamopastoor.com/blog
- [4]: https://delevenssaga.nl
+ [4]: https://thesagaoflife.com/nl/

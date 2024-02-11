@@ -154,6 +154,6 @@ Ik heb vooral héél hard gewerkt. Dus ik ga weer proberen om in December alleen
 
 Over een maand hoor je in hoeverre dat is gelukt.
 
- [1]: https://delevenssaga.nl
+ [1]: https://thesagaoflife.com/nl/
  [2]: https://pandaqi.com/blog
  [3]: https://pandaqi.com/tutorials

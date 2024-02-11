@@ -253,4 +253,4 @@ Waarschijnlijk zal ik in de toekomst veel boeken aanbieden als _paperback_ (of _
 Tot zover mijn gedachten hierover.
 
  [1]: https://www.eboundcanada.org/resources/whats-in-an-epub-the-opf-file/
- [2]: https://delevenssaga.nl
+ [2]: https://thesagaoflife.com/nl/

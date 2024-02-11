@@ -40,4 +40,4 @@ Ik twijfel vooral over welke verhalen _eerst_ moeten komen. Over wat _prioriteit
 
 Dat was al het Levenssaga nieuws voor dit jaar! Tot de volgende cyclus.
 
- [1]: https://delevenssaga.nl
+ [1]: https://thesagaoflife.com/nl/

@@ -119,4 +119,4 @@ Maar ik weet nu dat dit vooral negatieve gevolgen heeft, zeker op de lange termi
 Tot zover mijn gedachten over _content_.
 
  [1]: https://pandaqi.com
- [2]: https://delevenssaga.nl
+ [2]: https://thesagaoflife.com/nl/

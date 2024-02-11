@@ -22,4 +22,4 @@ Bezoek de website! Lees een verhaal of twee. Laat me weten als je iets goed of j
 
 _Dit artikel is slechts mijn "officiële aankondiging" van de Levenssaga._ _Over tijd zal er veel meer informatie en inhoud verschijnen._
 
- [1]: https://delevenssaga.nl
+ [1]: https://thesagaoflife.com/nl/

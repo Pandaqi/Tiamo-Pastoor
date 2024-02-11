@@ -92,4 +92,4 @@ _Zeker de helft van die dingen heeft nog geen oplossing_. Ik houd heel netjes id
 Dit waren mijn gedachten over "mystery boxes". Op zichzelf zijn ze een achterlijk idee. Maar als je de vaardigheid verfijnt, en leert mysteries goed afronden of aan elkaar knopen, is het heel praktisch en nuttig. De heer J.J. Abrams heeft niet voor niets een hele succesvolle carrière gehad. Ik haat _Lost_ met een passie, maar ik heb het wel afgekeken, en het heeft hem enorm rijk gemaakt.
 
  [1]: https://www.ted.com/talks/j_j_abrams_the_mystery_box
- [2]: https://delevenssaga.nl
+ [2]: https://thesagaoflife.com/nl/

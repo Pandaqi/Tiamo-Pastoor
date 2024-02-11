@@ -322,4 +322,4 @@ Dat was nou juist het idee van de levenssaga: een _levend_ project, een _website
 
 Maar je moet ergens beginnen. En dit zijn de keuzes die ik heb gemaakt voor het uiterlijk en gevoel rondom de levenssaga!
 
- [1]: https://delevenssaga.nl
+ [1]: https://thesagaoflife.com/nl/

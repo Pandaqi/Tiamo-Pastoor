@@ -145,4 +145,4 @@ Nu ben ik steeds meer in staat om hele stukken eruit te trekken en te vervangen 
 
 Ik zou elke schrijver aanraden om deze vaardigheid ook te oefenen!
 
- [1]: https://delevenssaga.nl
+ [1]: https://thesagaoflife.com/nl/

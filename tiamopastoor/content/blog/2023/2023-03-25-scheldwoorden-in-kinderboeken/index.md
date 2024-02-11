@@ -81,4 +81,4 @@ En de meeste van mijn (zelf uitgegeven) boeken hebben hetzelfde patroon. Waar no
 
 Tot zover mijn gedachten hierover.
 
- [1]: https://delevenssaga.nl
+ [1]: https://thesagaoflife.com/nl/

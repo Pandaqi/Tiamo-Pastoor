@@ -131,4 +131,4 @@ Hopelijk was dit interessant of leerzaam om te lezen! Hopelijk gaf mijn voorbeel
 
 Zo, dit waren (waarschijnlijk) mijn artikelen over de Levenssaga voor dit jaar. De tweede cyclus is helemaal af, de derde cyclus "voorbereid" (met dit soort regels of structuren voor mezelf). Tot dan!
 
- [1]: https://delevenssaga.nl
+ [1]: https://thesagaoflife.com/nl/

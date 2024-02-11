@@ -548,6 +548,6 @@ Hopelijk vindt iemand dit project, raakt geïnspireerd, en bouwt een nog beter "
 
 Geniet van de levenssaga. Tot het volgende experimentele project!
 
- [1]: https://delevenssaga.nl/
+ [1]: https://thesagaoflife.com/nl//
  [2]: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Border-image_generator
  [3]: https://shop-eu.kurzgesagt.org/products/evolution-poster?variant=37879773757629
