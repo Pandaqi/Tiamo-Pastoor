@@ -1,8 +1,8 @@
 ---
 title: Wolverenes Waiting
 author: tiamopastoor
-date: 2024-01-15
-dateReleased: 2025-05-12
+date: 2026-03-12
+dateReleased: 2026-09-12
 thumb: "wildebyte_wolverenes_waiting"
 
 progress: 0
@@ -25,10 +25,10 @@ price:
 links: ""
 
 logline: |
-  Cows & Plows seemed a harmless farming game, until the werewolves attacked. Wildebyte needs to escape an endless cycle of rampaging, but the gameplay has odd effects the real world, and messing with it in any way might cause tragedy for a real person.
+  _Cows & Plows_ seemed a harmless farming game, until the werewolves attacked. Wildebyte needs to escape an endless cycle of rampaging, but the gameplay has odd effects the real world, and messing with it in any way might cause tragedy for a real person.
 
 blurb: |
-  Cows & Plows seemed a harmless farming game, until the werewolves attacked. Wildebyte needs to escape an endless cycle of rampaging or get stuck forever. But they can't do it alone, and the rest of the device hates them. 
+  _Cows & Plows_ seemed a harmless farming game, until the werewolves attacked. Wildebyte needs to escape an endless cycle of rampaging or get stuck forever. But they can't do it alone, and the rest of the device hates them. 
   
   As they learn how to fortify the town instead, they also learn the game's effect on players in the real world. And that saving everyone in-game might mean losing a living, breathing human being.
 

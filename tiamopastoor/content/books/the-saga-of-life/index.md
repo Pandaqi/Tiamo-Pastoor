@@ -1,12 +1,12 @@
 ---
 title: The Saga of Life
 author: tiamopastoor
-date: 2022-07-23T17:40:37+00:00
+date: 2022-07-23
 dateReleased: 2022-11-01
 ongoing: true
 thumb: levenssaga_portrait_logo
 
-progress: 50
+progress: 60
 phase: "cycle 3" # ongoing projects are more specific; for Saga of Life, we indicate which cycle we're on
 
 booktype: "fiction"

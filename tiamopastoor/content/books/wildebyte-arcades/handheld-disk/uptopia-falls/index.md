@@ -5,7 +5,7 @@ date: 2023-11-12
 dateReleased: 2024-08-12
 thumb: "wildebyte_uptopia_falls"
 
-progress: 10
+progress: 20
 phase: "revisions" # preparation, first draft, revisions, finished
 
 booktype: "fiction"

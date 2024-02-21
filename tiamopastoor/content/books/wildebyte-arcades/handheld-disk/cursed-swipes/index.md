@@ -2,10 +2,10 @@
 title: Cursed Swipes
 author: tiamopastoor
 date: 2024-01-16
-dateReleased: 2025-08-12
+dateReleased: 2025-02-12
 thumb: "wildebyte_cursed_swipes"
 
-progress: 0
+progress: 75
 phase: "preparation" # preparation, first draft, revisions, finished
 
 booktype: "fiction"

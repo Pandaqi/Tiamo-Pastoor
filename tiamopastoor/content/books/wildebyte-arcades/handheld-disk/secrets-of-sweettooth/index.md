@@ -5,8 +5,8 @@ date: 2023-11-13
 dateReleased: 2024-10-12
 thumb: "wildebyte_secrets_of_sweettooth"
 
-progress: 5
-phase: "first draft" # preparation, first draft, revisions, finished
+progress: 10
+phase: "revisions" # preparation, first draft, revisions, finished
 
 booktype: "fiction"
 series: "Wildebyte Arcades"

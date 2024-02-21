@@ -1,8 +1,8 @@
 ---
 title: Highway of Score
 author: tiamopastoor
-date: 2024-01-14
-dateReleased: 2025-02-12
+date: 2025-10-12
+dateReleased: 2026-05-12
 thumb: "wildebyte_highway_of_score"
 
 progress: 0
