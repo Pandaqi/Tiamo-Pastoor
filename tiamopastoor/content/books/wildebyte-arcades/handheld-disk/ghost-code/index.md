@@ -25,10 +25,10 @@ price:
 links: ""
 
 logline: |
-  The game Lumbrjax is constantly updated. One such updates endangers all the characters. Trapped in a dark forest, Wildebyte must uncover its secrets and repair the game, as a fairy tale quickly turns into a ghost story.
+  The game Lumbrjax is constantly updated. One such update endangers all the characters. Trapped in a dark forest, Wildebyte must uncover its secrets and repair the game, as a fairy tale quickly turns into a ghost story.
 
 blurb: |
-  The game Lumbrjax is constantly updated. One such updates endangers the lives of all the characters. Trapped in a dark forest, Wildebyte must uncover the secret behind a ghost story and repair the game, in exchange for another Lost Memory.
+  The game Lumbrjax is constantly updated. One such update endangers the lives of all the characters. Trapped in a dark forest, Wildebyte must uncover the secret behind a ghost story and repair the game, in exchange for another Lost Memory.
 
 ---
 

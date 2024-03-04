@@ -30,7 +30,7 @@ logline: |
 blurb: |
   Hated by all the games, Wildebyte hatches a plan to force Sweettooth to become his friend. It would be amazing if they could travel through other video games together!
   
-  But as they play his game---Sugar Stomp---they discover something horrible. A choice must be made, between himself and his overwhelming loneliness, and something that could change Ludra forever. 
+  But as they play his game---Pirate Pound---they discover something horrible. A choice must be made, between himself and his overwhelming loneliness, and something that could change Ludra forever. 
 
 ---
 

@@ -25,7 +25,7 @@ price:
 links: ""
 
 logline: |
-  Wildebyte returns to a familiar game, but finds it broken. It's empty, bad, barely fun. They discover a mystery and a special Ludramagic that might fix the game's flaws. As his nightmare becomes truth, however, they might be forced to use this magic no matter the cost.
+  Wildebyte returns to a familiar game, but finds it broken. It's empty, bad, barely fun. They discover a mystery and  special Ludramagic to fix the game's flaws. As their nightmare becomes truth, however, they are forced to use this magic no matter the personal cost.
 
 blurb: |
   The game Frustrated Pigeons is not how Wildebyte remembers it. It's worse. It's barely played. As they investigate the reason, they stumble upon a special type of Ludramagic that comes at a great cost. Mastery means enormous power, failure means a devastating curse. 
