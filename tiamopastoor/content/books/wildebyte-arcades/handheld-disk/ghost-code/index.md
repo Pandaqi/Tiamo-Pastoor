@@ -22,7 +22,11 @@ price:
   - key: paperback
     value: 11.99
 
-links: ""
+links:
+  - key: Ebook / Paperback (Amazon)
+    value: https://www.amazon.com/dp/B0CW174QK1/
+  - key: Ebook / Paperback (Other major stores)
+    value: https://books2read.com/u/merv1Y
 
 logline: |
   The game Lumbrjax is constantly updated. One such update endangers all the characters. Trapped in a dark forest, Wildebyte must uncover its secrets and repair the game, as a fairy tale quickly turns into a ghost story.
