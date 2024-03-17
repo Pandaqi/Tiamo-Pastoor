@@ -6,7 +6,7 @@ dateReleased: 2022-11-01
 ongoing: true
 thumb: levenssaga_portrait_logo
 
-progress: 60
+progress: 80
 phase: "cycle 3" # ongoing projects are more specific; for Saga of Life, we indicate which cycle we're on
 
 booktype: "fiction"

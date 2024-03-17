@@ -60,9 +60,9 @@ Amazon has an easy system for proof copies, which is cheap and fast. The quality
 
 If you have the money, buy a proper computer :p It's quite literally impossible to create strong designs if you cannot trust anything your screen does. Of course, the issue for me here is the _have money_ part ...
 
-![Picture of the print proof from Amazon (Wildebyte book #2)](amazon_print_proof_1.webp)
+![Picture of the print proof from Amazon; cover (Wildebyte book #2)](amazon_print_proof_1.webp)
 
-![Picture of the print proof from Amazon (Wildebyte book #2)](amazon_print_proof_2.webp)
+![Picture of the print proof from Amazon; interior (Wildebyte book #2)](amazon_print_proof_2.webp)
 
 ### Ease of creating multiple versions
 
@@ -133,15 +133,29 @@ They promised it would take 5 days for the books to be delivered.
 * Where I needed to pay a 7 euros import fee.
 * After which it took 3 weeks for the package to finally arrive at my house. (Admittedly, our post service is swamped and also lazy because they have a monopoly.)
 
-@TODO: About quality of print books from D2D
+As you can see in the pictures below, the colors of the cover are _completely different_ at this printer. They're more ... flat and bleak. Which is actually more true to how my laptop displays the cover, but this is exaggerated. As if their printer wanted to absolutely use the _least_ color possible and still recreate the image faithfully :p
 
-![Picture of the print proof from D2D (Wildebyte book #2)](d2d_print_proof_1.webp)
+The same is true for the interior. The few images inside these books are much _lighter_ inside this proof copy than Amazon's. Otherwise, the interior is identical. Which is great, because that is the most important part.
 
-![Picture of the print proof from D2D (Wildebyte book #2)](d2d_print_proof_2.webp)
+D2D's paper is also less _thick_. This makes the entire book smaller, which wrongly offset my cover and is the reason why the text at the front isn't centered but shifted to the right.
+
+![Picture of the print proof from D2D; cover (Wildebyte book #2)](d2d_print_proof_1.webp)
+
+![Picture of the print proof from D2D; interior (Wildebyte book #2)](d2d_print_proof_2.webp)
+
+![Picture of the print proof from D2D; back (Wildebyte book #2)](d2d_print_proof_3.webp)
 
 The price of printing is a bit _higher_ at D2D, about 0.5 to 1 euro. That's quite a lot, if you ask me, on a small and cheap book. In fact, if they decide to raise their prices in the future, I might be forced to push the Wildebyte books to a higher price if I want to make any profit :p
 
 The transport costs were similar to Amazon's. (But don't forget the extra fees if shipping to Europe. Yes, I ended up paying more _extra fees_ than actual printing costs for the books.)
+
+In the end, however, a _middle ground_ between the two covers would be ideal. More color and contrast than D2D's printer, but less dark than Amazon's. This obviously can't be achieved with one and the same cover, so I decided to do something else. 
+
+I wrote a piece of code that can _generate_ the cover on the fly. That way, I can input the exact numbers that each individual printer uses (like "base size + number of pages * page thickness"), and the specific data and files for this book (such as the installment number). After a second or two, the computer spits out a cover image with the perfect size and placement for everything. 
+
+This way I can easily hand _different_ covers to the different printers. And besides matching size, I can add filters or change colors to get the printed book covers as consistent as possible. (For Amazon, it applies a filter to slightly lighten the cover. For D2D, it applies a filter to slightly saturate and increase contrast.)
+
+I recognize this is far outside of the realm of possibilities for most writers. You need to know a lot about programming, web design, graphic design, etcetera. But I see no other way: the different printers are just way _too_ different, so using the same cover for both will just make it look wrong on both.
 
 ### Ease of creating multiple versions
 
