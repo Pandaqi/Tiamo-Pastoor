@@ -5,8 +5,8 @@ date: 2024-01-16
 dateReleased: 2025-02-12
 thumb: "wildebyte_cursed_swipes"
 
-progress: 60
-phase: "first draft" # preparation, first draft, revisions, finished
+progress: 10
+phase: "revisions" # preparation, first draft, revisions, finished
 
 booktype: "fiction"
 series: "Wildebyte Arcades"
