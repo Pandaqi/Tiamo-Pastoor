@@ -1,5 +1,8 @@
-$body-font: 'Alegreya', Georgia, serif;
-$header-font: 'Truculenta', Arial, sans-serif;
+$body-font-raw: 'Alegreya';
+$header-font-raw: 'Truculenta';
+
+$body-font: $body-font-raw, Georgia, serif;
+$header-font: $header-font-raw, Arial, sans-serif;
 //$spice-font: 'Pacifico', 'Segoe Script', cursive;
 $code-font: 'Inconsolata', Courier, monospace;
 
@@ -151,4 +154,37 @@ $themes: (
 
 @function t($key) {
   @return map-get($theme-map, $key);
+}
+
+
+@font-face {
+  font-family: $body-font-raw;
+  src: url('fonts/Alegreya-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: $body-font-raw;
+  src: url('fonts/Alegreya-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: $body-font-raw;
+  src: url('fonts/Alegreya-Italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: $body-header-raw;
+  src: url('fonts/Truculenta-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
 }
