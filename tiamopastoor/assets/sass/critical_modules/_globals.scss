@@ -5,6 +5,7 @@ $body-font: $body-font-raw, Georgia, serif;
 $header-font: $header-font-raw, Arial, sans-serif;
 //$spice-font: 'Pacifico', 'Segoe Script', cursive;
 $code-font: 'Inconsolata', Courier, monospace;
+$base-fonts: "fonts/";
 
 $breakpoint-largest: 1340px;
 $breakpoint-medium: 960px;
@@ -80,7 +81,6 @@ $themes: (
         color-links-footer-hover: #beaaff,       
     ),
 
-    // @TODO
     dark: (
         img-bg-pattern: url(background_pattern_opaque_inverted.webp),
         img-sketchybox: url(border_image_inverted.png),
@@ -124,7 +124,8 @@ $themes: (
     ),
 );
 
-@mixin themed-same-level {
+@mixin themed-same-level 
+{
     @each $theme, $map in $themes {
         &.theme-#{$theme} {
           $theme-map: () !global;
@@ -138,7 +139,8 @@ $themes: (
       } 
 }
 
-@mixin themed() {
+@mixin themed() 
+{
   @each $theme, $map in $themes {
     .theme-#{$theme} & {
       $theme-map: () !global;
@@ -152,14 +154,15 @@ $themes: (
   }
 }
 
-@function t($key) {
+@function t($key) 
+{
   @return map-get($theme-map, $key);
 }
 
 
 @font-face {
   font-family: $body-font-raw;
-  src: url('fonts/Alegreya-Regular.woff2') format('woff2');
+  src: url($base-fonts + 'Alegreya-Regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -167,7 +170,7 @@ $themes: (
 
 @font-face {
   font-family: $body-font-raw;
-  src: url('fonts/Alegreya-Black.woff2') format('woff2');
+  src: url($base-fonts + 'Alegreya-Black.woff2') format('woff2');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -175,15 +178,15 @@ $themes: (
 
 @font-face {
   font-family: $body-font-raw;
-  src: url('fonts/Alegreya-Italic.woff2') format('woff2');
+  src: url($base-fonts + 'Alegreya-Italic.woff2') format('woff2');
   font-weight: normal;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: $body-header-raw;
-  src: url('fonts/Truculenta-Medium.woff2') format('woff2');
+  font-family: $header-font-raw;
+  src: url($base-fonts + 'Truculenta-Medium.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
