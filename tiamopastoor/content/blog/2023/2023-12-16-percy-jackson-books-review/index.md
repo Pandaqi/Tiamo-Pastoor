@@ -4,6 +4,7 @@ author: tiamopastoor
 date: 2023-12-16
 language: en
 categories: ["Reviews", "Book Reviews"]
+layout: "horizontal"
 thumb: percy_jackson_header.webp
 ---
 

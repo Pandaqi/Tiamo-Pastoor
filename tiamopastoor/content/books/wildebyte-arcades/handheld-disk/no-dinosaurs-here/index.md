@@ -5,8 +5,8 @@ date: 2024-01-30
 dateReleased: 2025-05-12
 thumb: "wildebyte_no_dinosaurs_here"
 
-progress: 75
-phase: "preparation" # preparation, first draft, revisions, finished
+progress: 65
+phase: "first draft" # preparation, first draft, revisions, finished
 
 booktype: "fiction"
 series: "Wildebyte Arcades"

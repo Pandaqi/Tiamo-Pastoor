@@ -4,9 +4,8 @@ author: tiamopastoor
 date: 2023-12-03T15:00:00+00:00
 language: nl
 thumb: three_body_problem_header.webp
-categories:
-  - Reviews
-  - Book Reviews
+layout: "vertical"
+categories: ["Reviews", "Book Reviews"]
 ---
 
 Deze reeks stond al lange tijd op mijn leeslijst, maar niet bepaald bovenaan. Ik heb eigenlijk nooit eerder pure sciencefiction gelezen en had een hoop andere fantasyreeksen hoger op die lijst gezet.

@@ -3,17 +3,17 @@ title: Het bol.com recensiesysteem
 author: tiamopastoor
 date: 2018-12-18T16:00:56+00:00
 language: nl
-categories:
-  - Anecdotes
+categories: ["Anecdotes"]
 
 ---
+
 Ik ben al jaren gefascineerd door het recensiesysteem van Bol.com. Ik vind het een van de beste systemen die ik ooit heb gezien, maar tegelijkertijd ook een van de grappigste in zijn fouten.
 
 ## Positieve punten
 
 Ten eerste vind ik het fijn dat Bol.com altijd eerlijk is. Er zijn webwinkels waarbij werkelijk elk product 4 of 5 sterren krijgt. Alle recensies lezen alsof ze van robots afkomen, of alsof ze overdreven "afgekocht" zijn ("laat een recensie achter en maak kans op een iPhone!"), en je hebt er niks aan. Bij Bol.com zijn er genoeg producten met 1 ster die gewoon lekker op de website blijven staan. Dat vind ik tof. Zo tof, dat ik deze recensies zelfs gebruik als ik iets niet bij Bol wil bestellen. Op die manier ben ik er weleens achtergekomen dat een product heel slecht is, vlak voordat ik het wilde kopen bij een andere winkel.
 
-Ten tweede is het overzichtelijk en geeft precies de juiste informatie. Je krijgt een totaalscore _(hoeveel_ _sterren_)_,_ daaronder een samenvatting (_pluspunten en minpunten_), en dan alle individuele recensies. Dat duidelijke onderscheid is belangrijk. Stel je bent op zoek naar een computer die je onder andere wilt gebruiken voor games. Dan ga je veel computers tegenkomen met een hoge rating (4 of 5 sterren) ... om er vervolgens achter te komen dat ze niet bedoeld zijn voor games. Ze missen de juiste grafische kaart, of processor, of wat dan ook. Zoiets kom je liever te weten uit de samenvatting van plus- en minpunten, dan als je de computer al hebt besteld en in huis hebt :p
+Ten tweede is het overzichtelijk en geeft precies de juiste informatie. Je krijgt een totaalscore _(hoeveel sterren)_, daaronder een samenvatting (_pluspunten en minpunten_), en dan alle individuele recensies. Dat duidelijke onderscheid is belangrijk. Stel je bent op zoek naar een computer die je onder andere wilt gebruiken voor games. Dan ga je veel computers tegenkomen met een hoge rating (4 of 5 sterren) ... om er vervolgens achter te komen dat ze niet bedoeld zijn voor games. Ze missen de juiste grafische kaart, of processor, of wat dan ook. Zoiets kom je liever te weten uit de samenvatting van plus- en minpunten, dan als je de computer al hebt besteld en in huis hebt :p
 
 ## Bijzondere punten
 
@@ -54,19 +54,19 @@ En als je het dan moeilijker wilt maken, kun je een serieuze recensie schrijven,
 
 **+** Product lijkt op een Pokémon
 
-**+ **Als je het product van twee verdiepingen hoog gooit, raakt er niemand gewond
+**+** Als je het product van twee verdiepingen hoog gooit, raakt er niemand gewond
 
 **+** Als je het product aan je vrienden laat zien, zeggen ze alleen maar positieve dingen
 
-**---**Product is geen Pokémon
+**---** Product is geen Pokémon
 
-**---**Als je het product van drie verdiepingen hoog gooit, heb je wel degelijk kans op hersenletsel. Belachelijk!
+**---** Als je het product van drie verdiepingen hoog gooit, heb je wel degelijk kans op hersenletsel. Belachelijk!
 
 **---** Als je het product niet aan vrienden laat zien, geloven ze niet dat je het hebt.
 
-**---**Product schijnt niet inwisselbaar voor eten bij de supermarkt. Ook niet voor zegeltjes.
+**---** Product schijnt niet inwisselbaar voor eten bij de supermarkt. Ook niet voor zegeltjes.
 
-**---**Als je het product ondersteboven neerzet, ziet hij er heel anders uit.
+**---** Als je het product ondersteboven neerzet, ziet hij er heel anders uit.
 
 ## Mensen, mensen, mensen
 

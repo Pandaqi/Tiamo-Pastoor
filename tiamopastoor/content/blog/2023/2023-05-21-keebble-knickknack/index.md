@@ -36,4 +36,4 @@ Als je houdt van Scrabble of taalspelletjes, raad ik mijn Keebble spellen zeker 
 Maar dat zal wel de laatste zijn. Tot dan!
 
  [1]: /blog/2023/2023-03-22-keebble
- [2]: https://pandaqi.com/keebble-knickknack
+ [2]: https://pandaqi.com/keebble-games/spell/keebble-knickknack

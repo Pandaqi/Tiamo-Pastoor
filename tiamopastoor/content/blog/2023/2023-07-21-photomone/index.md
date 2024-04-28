@@ -48,5 +48,5 @@ Om het allemaal af te maken, probeer ik steeds meer _interactief_ te worden met 
 
 Over niet-al-te-veel-tijd verschijnen een paar spin-offs op dit idee :p
 
- [1]: https://pandaqi.com/photomone
+ [1]: https://pandaqi.com/photomone-games/draw/photomone/
  [2]: https://github.com/pandaqi/pq-words

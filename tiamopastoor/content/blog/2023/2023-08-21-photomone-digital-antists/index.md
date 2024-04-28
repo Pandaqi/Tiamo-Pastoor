@@ -37,4 +37,4 @@ En dat, eh, _deed ik_ in iets meer dan een halve week.
 Natuurlijk geen spectaculair spel als gevolg. Maar iedereen kan dit zo opstarten op z'n smartphone en spelen met diens kinderen, familie, vrienden, whatever. Het is zelfs simpel genoeg dat het mijn "kan je het spelen met vreemdelingen in de trein"-test waarschijnlijk doorstaat :p
 
  [1]: /gewoon-een-gedachte/photomone
- [2]: https://pandaqi.com/photomone-digital-antists
+ [2]: https://pandaqi.com/photomone-games/draw/photomone-digital-antists/

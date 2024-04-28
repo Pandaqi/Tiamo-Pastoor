@@ -33,4 +33,4 @@ En nu kan ik eindelijk door naar de iets grotere spelideeën die nu al een half 
 
  [1]: /blog/2023/2023-03-22-keebble
  [2]: /blog/2023/2023-05-21-keebble-knickknack
- [3]: https://pandaqi.com/keebble-domino
+ [3]: https://pandaqi.com/keebble-games/spell/keebble-domino

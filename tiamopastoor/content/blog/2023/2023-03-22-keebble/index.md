@@ -107,4 +107,4 @@ Die interactieve regels zijn ook de toekomst, in mijn ogen. Het enige nadeel is 
 
 Verwacht de komende tijd dus nog meer (taal/woord) spellen!
 
- [1]: https://pandaqi.com/keebble
+ [1]: https://pandaqi.com/keebble-games/spell/keebble/

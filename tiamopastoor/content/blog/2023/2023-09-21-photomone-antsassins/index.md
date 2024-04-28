@@ -68,4 +68,4 @@ Mijn enige twijfelpunt zijn de tegels. Vanwege de willekeurigheid kan het té la
 Dat waren al mijn spin-offs voor Photomone.
 
  [1]: /gewoon-een-gedachte/photomone
- [2]: https://pandaqi.com/photomone-antsassins
+ [2]: https://pandaqi.com/photomone-games/draw/photomone-antsassins/
