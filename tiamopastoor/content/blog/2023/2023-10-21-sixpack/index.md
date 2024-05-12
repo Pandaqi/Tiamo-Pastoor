@@ -54,4 +54,4 @@ Tijdens het testen maakten we wat grappen over de naam. (Hoe heet je volgende sp
 
 Ik heb voor nu geen concrete ideeën of plannen. Maar wie weet zie je over een half jaar _Eightbarrel_ verschijnen, het vervolg op de hit _Sixpack_ :p
 
- [1]: https://pandaqi.com/sixpack
+ [1]: https://pandaqi.com/the-outnumbered-series/count-to/sixpack/

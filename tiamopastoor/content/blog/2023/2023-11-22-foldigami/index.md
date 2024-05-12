@@ -36,4 +36,4 @@ Het is vooral enorm makkelijk om te printen en meteen te spelen. Waar je ook ben
 
 Inmiddels heb ik al wat betere ideeën voor échte One Paper Games, die waarschijnlijk nog beter passen. Die zie je vanzelf verschijnen.
 
- [1]: https://pandaqi.com/foldigami
+ [1]: https://pandaqi.com/waitless-games/play/foldigami/

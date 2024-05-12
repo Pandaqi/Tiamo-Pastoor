@@ -217,5 +217,5 @@ Al met al is _Sixpack_ een heel mooi en goed spel geworden, en dat allemaal dank
 Ik heb dus twee uur gedaan over de regels ... en een hele week over de ontwerpen van de kaarten. Maar dan heb je ook wat!
 {{% /remark %}}
 
- [1]: https://pandaqi.com/sixpack
- [2]: https://pandaqi.com/blog/boardgames/sixpack
+ [1]: https://pandaqi.com/the-outnumbered-series/count-to/sixpack/
+ [2]: https://pandaqi.com/blog/boardgames/the-outnumbered-series/sixpack/

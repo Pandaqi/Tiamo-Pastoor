@@ -8,7 +8,7 @@ categories:
   - Games
 
 ---
-Het jaar is bijna voorbij. Dus het is tijd voor het allerlaatste bordspel van dit jaar: [Kingseat](https://pandaqi.com/kingseat).
+Het jaar is bijna voorbij. Dus het is tijd voor het allerlaatste bordspel van dit jaar: [Kingseat](https://pandaqi.com/throneless-games/conquer/kingseat/).
 
 Het is een spel dat je staand kan spelen (zonder tafel), zolang je maar ongeveer in een cirkel kunt staan (en eventueel een broekzak hebt voor afgelegde kaarten). Het ondersteunt zo'n beetje alle spelersaantallen, maar straalt naarmate je meer spelers hebt.
 
