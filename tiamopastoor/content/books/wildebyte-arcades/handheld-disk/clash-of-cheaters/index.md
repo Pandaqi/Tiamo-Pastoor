@@ -5,8 +5,8 @@ date: 2024-02-15
 dateReleased: 2025-08-12
 thumb: "wildebyte_clash_of_cheaters"
 
-progress: 10
-phase: "preparation" # preparation, first draft, revisions, finished
+progress: 55
+phase: "first draft" # preparation, first draft, revisions, finished
 
 booktype: "fiction"
 series: "Wildebyte Arcades"
