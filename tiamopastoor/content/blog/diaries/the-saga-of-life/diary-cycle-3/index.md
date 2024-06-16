@@ -570,22 +570,250 @@ This is still quite vague. I'll need to figure out the details of the powers, th
 
 At least we have a strong start. Writing that in more detail usually reveals the other details.
 
+
 ### Let's write that
-@TODO
+Okay, so, I mostly just followed the outline. Not much to say there :p
 
+The story did become too long, though. And that's even before some major edits I'd still like to make.
 
+For example,
+* The Ottoman arts/architecture doesn't get enough time now. The story is very much about the importance of art in a big culture/empire, so this seems needed.
+* I want to rewrite the boy's time at Devsirme to actually include one or two _named friends_, because now it seems as if he---in _hundreds of years of working together_---never became friends or even learned their name. This would also allow a tie-in to story #4 and a better explanation for how easily the revolution succeeds in the end.
+* The lesson "no power without powerless" is almost completely forgotten. It just didn't match with the story in the end. (The much better lesson is "no empire without downfall" which this entire story barrels towards all the time.)
+
+So yes, it will need one major rewrite and then maybe an exception to my max word count for Saga of Life stories :p Other than that, I think it turned out quite well on the first go.
 
 ## The Tea Colony
-Ah, we had to do one about America / American Revolution. This stretches the time period a little, but I'm fine with that, as the event is close enough (in time and theme) to the others in the Second Conflict.
+Ah, we had to do one about America / American Revolution. (Not the Civil War that comes after.) This stretches the time period a little, but I'm fine with that, as the event is close enough (in time and theme) to the others in the Second Conflict.
 
-@TODO
+We also can't do _one_ story to cover the whole thing, of course.
 
+To hit on the major highlights of what happened and why, we'll need at least 2 stories, maybe 3. This story will be the _first one_. (We already did a few stories about empires or events _ending_ in this cycle, so I don't want to do another one.)
+
+Also because this allows linking it to many other elements already discussed. For example, the entire reason America was colonized by multiple countries was because it was _discovered_ by Colombus, as mentioned in the previous story.
+
+But how do we turn it into a story? How do we mostly _start_ a storyline, without making this particular story feel unfinished and unsatisfying? I had no idea, because this "idea" document had no plan whatsoever. It only had a few notes.
+
+* Structure the story around Prisoner's Dilemmas.
+* We're following the rebellion, but there's not much actual fighting. (They rebel mostly by _boycotting_ or _farmers refusing to work_ and such.)
+* The leader of the rebellion is way too strict and controlling. (I want the quote "I don't trust any rebellion where love is not allowed" to be part of the story somehow.)
+
+### More research
+I already had quite a solid understanding of the timeline and events here, thanks to previous research for Saga of Life. Still, it works better to re-do the research and write all your notes down, than to try and concoct a story from knowledge in your head.
+
+And in doing so, I found a few interesting tidbits.
+
+* Both sides (America and Britain) employed Native Americans and their slaves while fighting. However, because the American army actually _depended_ on these people (because they lived on the same land), they were less inclined to set slaves free or treat them well. (There's a big "what if" here about whether all these people would've been treated better if Britain won.)
+* For that same reason, the American army had to be much more careful about picking its military targets. Because they were fighting on _their_ soil. This was obviously much harder in a time without telephone and internet.
+* The USA had to _declare_ its own existence/independence. The war itself was far from over at that point, because the Brits obviously didn't agree with their colonies doing that. As such, this seems like a strong _ending_ for this story without actually ending the thread about the war of independence.
+* One of the most unique parts in all of this is just _how many characters are involved_. Other empires were created by one leader, or maybe one powerful family. The urge for power or selfish gain almost always won. But the creation of the USA was the end result of _loads_ of really powerful people deciding to work together from start to finish.
+
+There are seven "founding fathers", and loads of left-out characters that are often mentioned as _also_ belonging to that group, but that's just too much for one story. Additionally, some of them really only become important _after_ the war.
+
+That's why I limited to just: John Adams, Benjamin Franklin, Thomas Jefferson, George Washington and John Jay.
+
+* **Washington** used to fight for Britain, then switched sides. He was instrumental in starting the original war that led to the war of independence, so the story starts and ends with him.
+* **Jay** rose to prominence due to his actions fighting against Britain's shenanigans. That's the meat of this story, so he's the guy to spearhead it.
+* **Jefferson** actually wrote the entire Declaration of Independence.
+* **John Adams** was the leader and key figure throughout _all of this_. So key that I'm surprised I barely heard his name in all the years before. (Most of the famous names come into play _after_ the war for independence, when trying to establish a functional state and then handle a civil war.)
+* **Benjamin Franklin** was just the most interesting person ever, being an inventor as well. He was also sent to France to convince them to join the war, which seems important.
+
+### How do we wrangle that into a structure?
+
+So, with all that research and all my experience writing short stories in my head, I wrote this outline.
+
+* **Chapter 1**: Washington is intercepted when going to France territory to tell them to stop. They say no, but treat him really well and send him back. Later, his regiment accidentally meets one from France and an important commander carrying a diplomatic message (Jumonville) is shot. Later, when Washington must surrender he _accidentally_ signs off on "yes I killed Jumonville". This kicks off the 7 years war, which Britain wins.
+	* Incorporate his getting intel from Native Americans. That's how he brings one of theirs to their group?
+	* The reason this meeting goes so _wrong_ (and Jumonville is killed) is a Prisoner's Dilemma. Both sides are asked to pick peace of war, knowing the best solution is if they both pick _peace_, but if only one picks peace and the other doesn't ... well this happens.
+* **Chapter 2**: Britain declares broke and starts taxing and mistreating.
+	* Boycots, Committees of Correspondence
+	* In areas where it's possible, British loyalists are bullied
+	* Washington switches sides, but everyone is suspicious.
+* **Chapter 3**: Boston Massacre, Boston Tea Party, Britain takes complete control
+	* Our "Sons of Liberty" is formed, with a few characters being involved with the actual missions, while others watch from above and strategize.
+* **Chapter 4**: Benedict Arnold on his way to conquer Fort Ticonderoga, meets Sons of Liberty, disputes about leadership.
+* **Chapter 5**: The attack on the fort, which breaks into the Prisoner's Dilemma when some are captured.
+	* They start getting secret aid from France and Spain (though that is a mystery now)
+	* The Brits get even angrier and lash out even more.
+* **Chapter 6**: continuation Prisoner's Dilemma.
+* **Chapter 7**: Thomas Jefferson starts writing Declaration of Independence. The others start thinking about a way to reclaim Boston and win.
+* **Chapter 8**: They butcher his declaration, Knox uses Ticonderoga to reinforce Boston
+* **Chapter 9**: Fight for Boston, win, Independence declared!
+	* Most importantly, however, this is another Prisoner's Dilemma. Multiple people get the same ultimatum at the same time, and cannot communicate/stall/whatever, so they need to accurately predict or trust what the other will do.
+* **Chapter 10**: hints about how it continues
+
+When writing the little "marketing blurb" for this story, I added that they had to rely on an unpredictable myth/wonder. It just fit right and sounded cool. I already knew this would be added metaphorically (they have to rely on cooperation and trust on a large scale between the states), but how do we add it more obviously?
+
+In previous stories, the "Demigod of Luck" has been mentioned several times. This feels like the time to actually introduce them. (Because the Americans WERE lucky a lot during their war, such as French/Spanish aid arriving when they were completely out of weapons/ammo.)
+
+So here they actually appear. In the final climax, they can't fight their way out, and have to trust on this demigod being who he says he is and working his magic one more time.
+
+Finally, this outline is a bit sparse. Filling an entire chapter with "Jefferson starts writing the Declaration" obviously won't work---that's only _part_ of a chapter at most. 
+
+This is on purpose. The true focus, as always, should be on the characters and their struggles or relationships. With the Saga of Life, I can actually make history personal, specific, immediate, instead of being forced to stay abstract and at a high level.
+
+As such, all those gaps are filled with the general conflict of ...
+* Two lovers who are forbidden from being in love by their strict rebellion leader. (Which slowly leads to people considering a mutiny against their own leader, because they wouldn't want _them_ to become boss too.)
+* Distrust between people from different backgrounds (a Native American, a slave, an American). How some of them bond, some of them just become more and more aggressive. Which comes to a head in the Prisoner's Dilemma where you must come clean about your actual feeling of trust.
+* The general hypocrisy / self-denial of people fighting for freedom while keeping slaves and treating them as such. (And how the Brits constantly try to lure slaves away by promising them freedom.)
+
+That sounded like a plan. So I wrote that. (I was still very sick at this time. I don't know what it was, but I had a high fever and non-functioning lungs for almost a month. Which is why I kept working at a muuuuch slower pace.)
+
+{{% remark %}}
+Also, yes, this means we introduce the 7 years war that started it all ... and then completely jump over it. Not what I'd usually do, or what most writing advice would recommend, which is EXACTLY why we're going to try it.
+{{% /remark %}}
+
+### How did that go?
+I'm not sure, actually. Because this is a solid plan, based on real historic events, writing it was quite easy. I knew what was supposed to happen in each chapter and I knew exactly what major points to hit.
+
+At the same time, this turned the story into more of a ... history book? It's less and less a story with _character_ and _tension_, and more just a dramatized summary of events (from the first half of the War for Independence).
+
+I probably won't change that for this particular story. It's fine. It's an experiment, this is not the average kind of story, and it still flows quite well. (At least, after some revisions that reinforce themes and prolong some tense scenes.)
+
+But in the future, any story that tries to tell _so much_ about a historic event, should not try to include so many things. Reading the story, you feel like you can't catch your breath as you tumble into a new event, a new event, a new reveal, and so forth. There's barely time for introspection or character moments. Because of this, the big fight for Boston at the end also isn't as tense and grandiose as I would've liked it to be.
+
+As I said, revisions should alleviate _some_ of those issues, but it won't change the core structure of the story. It was simply set up as a pretty quick adventure through the highlights of a specific historic war. And that's truly what it became.
 
 ## The Supernatural Sloths
-@TODO
+The original idea for this story was simply a fun "snack story".
+
+The sloths have built this paradise for themselves with slides, levers, tracks, bridges, etcetera. It felt like a fun place to visit. It also fits the animal, as all this machinery and all these inventions allow them to be _lazy_ and still move around.
+
+As the cycle continued, however, this story grew more and more serious. This is mostly because of the _Flamefeaster_, which has the power to burn _relationships_ over time. I picked this story as the perfect moment to actually use and explore this further.
+
+The Sloths have this object. In fact, their entire empire is built around it and connected to it. Which means ...
+
+* If you interact with another sloth, after some time ... your relationship burns out and you simply forget each other. That's why the sloths are very individual and very hesitant to play together or meet up.
+* Humans _have_ found this place before, but have always stayed too long and forgotten it before they could tell other humans. That's why, to their eyes, this is "unexplored territory" when the story starts.
+
+That's a nice emotional core, but how does it turn into a _story_?
+
+### A general plan
+At a very high level, the plan seems to be ...
+
+* **Chapters 1-4**: a human discovers this land, tries to understand it and open it up to other humans, ends up _forgetting_ it by the time they leave. Though they are suspicious, this human is _good_ and works with them to perhaps find a cure for the curse. (This human is more afraid of _them_, as they've also forgotten what it means to live in the wilderness.)
+* **Chapters 5-10**: a new human enters, but this one is smarter and immediately becomes aggressive. They intent to cut all the trees and mow down this sloth paradise. The sloths make the mistake of trusting this one too, while this one is _not good_.
+	* In the climax, they basically have to repurpose their machinery to protect the paradise, while trying to get the humans to touch the curse too.
+
+The story is kind of split into two chunks. The first time the human _barely_ fails to make something happen. The second time actually succeeds and requires a big fight to overcome.
+
+Crucially, our Goddess of Time (Ismaraldah) helps in both cases.
+
+* The first time is very "early" and she is alone. She carefully researches why their relationships seem to "burn out" and manages to get out of there without suffering the same infliction.
+* The second time she comes back with Didrik, her lover. She is not alone anymore ... but during the fight they now both get touched by this curse.
+	* Her final chapters end with deciding to _execute_ on their plan to "stay together forever", which they alluded to numerous times. (So far, Didrik can't travel with her to times outside his own lifetime, and even then it makes him sick.)
+
+Through all of this, our protagonist is a very _restless_ sloth. They have these big dreams and wishes (or "desires"), they feel restless and uncomfortable in their body, but they don't know what to do with it. In sloth culture, there's this huge taboo on feeling "tired" or being "out of breath" :p
+
+This ensures the story still has momentum and pace, _even though it's all about lazy sloths_. It also allows revealing the central lesson of the story: "no rest without work". The only way to really feel at ease and sleep well, is if you spent the day working and playing until you're exhausted. As they learn this lesson by the end, they finally activate the sloths (during the final fight), and then _sleep well_.
+
+(I love the fact that the Saga of Life can end stories with "and then the animals slept well" and it feels fitting.)
+
+To bring it all together, I wanted to add one more idea. (Now we have just a very vague overview, which isn't enough to actually turn it into 15,000 words of story.) 
+
+I mentioned "desires" before. I introduced this idea earlier in the cycle, such as with Buddhism that says all suffering comes from desire. So let's double down on it here.
+
+* The desire of the first human to help is what eventually causes her to burn out too quickly. (I think we can make this _Mindy_, to have her come back from her earlier story.)
+* The second human(s) have employed a special device/being that can _grant desires_ (like granting wishes). People come to them to explain their desire, and it comes true!
+* It turns out, however, that this isn't the case. Instead, when you visit them, your real desire is _removed_ and replaced with a fake one. Namely, one that suits this company and their goals. So "I want to become a great musician!" is just replaced by "I want to own 100 products from company X!" and, sure, they make it come true :p
+
+The main thread connecting it all, therefore, is their search for this "wish granter".
+
+### A little more specific now
+I was tempted to just start writing with _that_ vague plan, but I've learned it helps to already reorganize the thoughts into some order. It removes writer's block later and helps make decisions more easily.
+
+* **Chapter 1:** introduction sloth paradise and protagonist, new human arrives, tension
+* **Chapter 2:** as she researches them, they try to get her to touch the Flamefeaster and be gone. Only our protagonist trusts her and they make a plan to find this "wish granter" together
+* **Chapter 3:** they search through paradise, talking a bit more and explaining a bit more, but only stumble upon Ismaraldah. Meanwhile, the other sloths have overcome their struggles to _meet up_ and decide what to do with this human. They decide they don't trust her and she has to go.
+* **Chapter 4:** Ismaraldah helps them with more information about wish granter. The human claims that she has realized the reason for their curse _and_ a possible _cure_! She eagerly starts to work on it, with the sloths trying to help, but they come too late and she walks away forgetful.
+* **Chapter 5:** A new human arrives. This time, they all trust her immediately, and start explaining their paradise and keeping her away from the curse. Until the human _does_ get into trouble ... and it's revealed that they have their own protection against it.
+* **Chapter 6:** The protagonist calls upon Ismaraldah. They spy on the new humans and discover their secret plans to destroy the whole thing AND their access to the wish granter. They get found out, and in the resulting scuffle/fight Ismaraldah and Didrik both get caught in the curse.
+* **Chapter 7:** They rapidly go through ways to solve it, while trying to gain access to the wish granter. The humans make progress on their plans, destroying the first few trees. The other sloths still refuse to do anything or even talk with the protagonist, for fear of burning out their relationship.
+* **Chapter 8:** They find and use the wish granter. But it reveals itself to be the fake I explained before.
+* **Chapter 9:** big climax as the humans destroy the trees, the protagonist tries to rally everyone and have them _do_ something about it, and Ismaraldah+Didrik help but also try to fix themselves before they forget each other.
+* **Chapter 10:** in the end, many sloths (and humans) _have_ forgotten each other, but the paradise is saved. One instance of that "protection" the humans had against the curse is saved and given to the protagonist. (They decide to keep the Flamefeaster as protection for themselves?) Ismaraldah + Didrik flee to execute their plan. Many sloths still decide to tell their wish to the fake wish granter, because getting rid of it still makes them happier. ("Desire is the cause of all suffering.")
+
+Yeaaaah something like that. This is more than enough planning ahead, let's write this.
+
+### The end result
+
+Oops, I forgot to write this part of the diary just as I finished writing the story. So I'll have to write about this part from memory.
+
+For the most part, I followed the outline. A few events shifted around (one chapter later or earlier), but that always happens. 
+
+Some events changed entirely. For example, one instance of the protection against the Flamefeaster is _not_ given to the protagonist, but belongs to another character I invented as I went and which needed a nicer conclusion to their arc. (At least, that's how I felt.)
+
+The biggest challenge here was simple _expanding_ on this very concise, vague outline. It's easy to say "oh, for two chapters, the humans and sloths fight it out over their territory". But then you actually have to write the chapters, and it's incredibly boring or pointless to just describe some blow-by-blow action. 
+
+Instead---I think I also wrote a blog article about this back then---most of the action is summarized or happens off-screen. The chapters try to be more creative than that, focus on clever actions or important revelations, as that makes it more meaningful and unique.
+
+My biggest worry was the fact that the buildup is perhaps _slightly_ slow. But on rereading, it's absolutely fine. We have this very odd civilization (with sloths not wanting to meet their best friend and such), and a new human arriving (always interesting and curious), which creates enough mystery and open questions to have forward momentum.
+
+During revisions, I mostly removed some paragraphs of meaningless action and _really_ tried to focus on the odd culture and machinery of Slumberland. 
 
 ## The Dwellers of Holed
-@TODO
+This is the "brainteaser" or "philosophical" story of this cycle. (I usually do one or two. Often the hardest to write, but end up being my favorite.)
+
+It's based on a very simple idea.
+
+* We start on a new planet, with a tiny tribe of cavemen. They live in slightly harsh conditions, but it's doable. More interestingly, they find all these objects lying around that they don't understand. Until another one falls from the sky that warrants closer inspection: a huge lightbulb that never goes out.
+* As they research this lightbulb, they discover the thing contains memories and an energy source. They also discover the other "alien objects" have similar attributes.
+* Until they discover that these things aren't alien---they're theirs. They crash landed on this planet long ago, which sent them back to cavemen times.
+* Slowly they discover more and more (why they fled, what their life was like before), until the final conclusion: this cycle has happened many times before. (I want to make the reader think about the possibility of humans not actually being from Earth, for example.) They keep building civilizations and life, only for something to destroy it and for them to have to do it all over again.
+* The main protagonist has struggled with this fear the whole story. What's the point of any of it? Why keep doing anything if every empire has a downfall? Until they finally find the strength to do it all the same, which prompts the narrator to call them "an absurd hero", which closes the story.
+
+In a way, the entire story is just a thought experiment. Could Earth have had other civilizations before. Could humans have appeared because we crash landed here, instead of evolving here? Could this be true for other planets?
+
+The falling down of the light bulb is mostly there to create actual _story_. 
+
+* It comes from the Goddess of the Moon (from story #7). She has made tons of these lightbulbs, saving her happiest memories (e.g. with her lover, Goddess of the Sun), which can run for so long that they basically "never go out".
+* These memories and pictures help unravel the mystery ...
+* But they also help reach the final conclusion, because these memories are just so _happy_ and _uplifting_, that they decide to keep trying and keep living their lives every day.
+
+### A more specific outline
+As before, we need a little more specificity than that. How does this turn into story?
+
+* **Chapter 1:** explanation life and weird mysteries, protagonist feels unhappy and wonders what's the point, then lightbulb falls down.
+	* Perhaps the best mystery would be a _message_ scribbled into some cave wall. Something they don't understand. Something of which they don't know the author.
+	* The protagonist has a few stories in his head which he keeps telling his kids. They love to hear it, but they do wonder "how do you KNOW all that, dad?"
+* **Chapter 2:** examination lightbulb, we meet our second protagonist: she is unhappy with her current marriage and doesn't even know _why_ their culture has this marriage law.
+* **Chapter 3:** they get the lightbulb to play a memory, they discover its apparatus matches the weird objects, our second protagonist pines for _someone else_ but stops herself because she has to stay with her husband.
+* **Chapter 4:** another lightbulb falls down (maybe 2), and they play the memories. The second protagonist feels really happy with that _other person_, but keeps stopping herself to stay with her husband.
+* **Chapter 5:** a _spaceship_ crashes into the planet. (This is the entire scene: they notice the danger, try to understand it, flee from it, then barely survive the crash.) The spaceship itself does NOT survive the crash at all => this is to mark the fact that crash landing so hard on a planet might make you lose _a lot_.
+	* Also, they find no body and assume the pilot got out.
+* **Chapter 6:** so they search for that pilot, stumbling upon even more lightbulbs, more memories and more information about the past.
+* **Chapter 7:** our first protagonist gives up, too demotivated to even get up anymore. The second protagonist finally decides to tell her husband she wants to end it, but then chickens out at the last moment.
+	* All this time, there's this "tension" about this escaped pilot that might attack them at any time.
+* **Chapter 8:** they arrange all the lightbulbs to light up the cave. They use them to hold a nice party together, which both protagonists _miss_ because of their woes. 
+	* They also, with trouble, realize the spaceship was unpiloted. As that's a thing those "machines" can do, apparently.
+* **Chapter 9:** until those lights reveal _other spaceship parts_ in some corners they could never visit. This helps them connect the dots about their own arrival: some of the memories they saw, of people being unhappy and a spaceship crashing, that was about _them_. This also helps them finally decode the scribblings on the wall.
+* **Chapter 10:** it reveals their last decades were _horrible_ and their life here is actually quite nice.
+	* Which convinces our first protagonist to get up again and play with his kids
+	* And our second protagonist to finally tell the truth and end her marriage.because the main lesson of this story is "no new beginnings without endings".
+	* In general, those lightbulbs are used by kids for games and seen as wondrous, while our protagonist is annoyed by them and studies them too seriously. (Maybe even breaking one, causing the light to go out.)
+
+I feel like we need a little more action or climax here. 
+
+Maybe there _is_ an escaped pilot that comes back in the end, threatening them all, and our protagonist comes back to defend everyone. (They launched themselves as their vehicle started to crash. They still have their laser gun. Would still need to find a reason as to why they'd attack the others on sight though. The simplest reason is: they're a different species and a carnivore, so they just want to eat the humans and that's that.)
+
+But for the most part, this is fine to start with.
+
+### Let's write that
+
+Well, the final story deviated _a lot_ from this outline. But that's absolutely fine, because I wrote the whole thing in two days, and it happened more effortlessly than it ever did.
+
+* That crashed spaceship happens in chapter 2, so the tense arc of "oh it had a pilot -> find the pilot -> be attacked by the pilot" is spread across the entire story.
+* I realized a neat way to combine the two main threads => the main protagonist has a son who's acting mysteriously and leaving his life, while the other protagonist is unhappy with her current husband and wants to leave him. Well ... she wants to leave her man _for the other character's son_! Streamlines all of it, done.
+* I realized _why_ they were actually chased, driven away, crashed here. This neatly filled in what those "memories" inside the lightbulbs had to show, which helped a lot in structuring every chapter.
+* The protagonist already "gives up" at the beginning (and there are hints he's been this way all his life), so that the rest of the story can just _make it even worse_. He picks himself up again, then some _other_ terrible thing happens, so he gives up _even more_. This is far stronger than a character who is okay at the start and only gives up at the end, because we just don't have the time for such a transition in a short story.
+
+This is why I love adding such specific "overall structures" to stories. If I know that almost every chapter _has_ to have a lightbulb that reveals an important memory, it is far easier to write the whole thing. Because it's easier to make decisions, and you can spread your mystery across 5 or 6 "steps" to take.
+
+The details can still be creatively filled in, even invented on the spot, as I write the story. But the overarching structure makes it easy to approach the blank page and lock down what the next chapter should do.
+
+And yes, it was always the plan that those lightbulbs were left behind as "memories" of important events. Only while creating the outline, I realized I could obviously connect this to story #7, with the gods of the Sun and Moon. Then, as I wrote the story, I decided this was cool enough to use and explain right now (instead of leaving it for some later cycle). So that's how Jassia received her pet bear who helps her, and that's how a lightbulb falls down that _never goes out_ and means something special to that bear, who is later revealed to be a (very old) Enra.
+
+All in all, these ideas just meshed together really well, which helped write the story so quickly. It was also _just_ the right _number_ of ideas for a story of this length (15,000 words). That's the thing I struggle with the most now: having too many or too few ideas for a story, which makes it impossible to meet the word count.
 
 ## To the next cycle and beyond!
 Whenever I end a cycle---and often far earlier---I already try to make the next cycle specific enough to immediately get started next year.
@@ -602,7 +830,7 @@ When I invented the Saga of Life, I ordered cycles based on the best metric I ha
 
 Some cycles already had 7 or 8 time periods filled in, others only 1 or 2. It made sense to me to simply rank them from high to low, starting with the cycles that were least empty or "risky".
 
-After writing this cycle, however, I realized most of the upcoming cycles are all about the same thing: empires, wars, great leaders, the traditional "highlights" of human history.
+After writing this cycle, however, I realized most of the upcoming cycles are all about the same thing: empires, wars, great leaders, the traditional "highlights" of human history. (Those quotation marks doing some heavy lifting here.)
 
 That doesn't feel great. It's repetitive, it ignores many other interesting things the Saga of Life should mention, it didn't make me "excited" to write even more stories in roughly the same setting.
 
@@ -643,12 +871,16 @@ I hope the cycles get better and better each time. The Saga of Life is already f
 
 ### Changes to the website
 As always, when I push a new cycle, I try to fix some minor annoyances or add new functionality to the website.
+
 * **Print**: you can now click a button and it loads the _entire_ story as one file, so you can print it yourself and read it physically if you want.
 * **Bookshelf:** the old bookshelf system required manual updating, which meant that both Dutch and English bookshelves didn't have all books (and the English one was slightly bugged). I wrote a much smarter system that auto-loads all books available on the website and works in all languages.
 * **Outlines are gone:** when I started, I wrote a summary/outline of each story and added it with the notes at the end. I thought this would prove invaluable over time, to easily check what I'd already claimed (or didn't claim) in earlier stories. I was wrong. I've never used one of those outlines. They are a pain to write / translate for each story and they don't add anything, so they're all gone now.
 	* If I really need to know something from a previous story, I can just search through the entire folder (in my text/code editor) for keywords, or read back the actual related paragraphs. Much faster and easier.
 	* If I really need a summary, I can throw the chapter into one of those AIs and it can instantly summarize it---and probably better than I could.
 * **Small fixes to old stories:** fixing some typos, adding a line here or there to better reference another story, etcetera. I do this all the time and it's a major advantage of having all stories easily accessible in website/digital format.
+* **Dutch domain is gone:** it's just `thesagaoflife.com` now, which houses both Dutch and English versions. (You can easily switch with a button at the top/bottom.) 
+  * The Dutch domain stopped making sense now, paying for a duplicate version of my website that also threw off Google big time. 
+  * This _also_ allowed me to connect the project to an auto-builder, which means any time I make an update it automatically builds and updates the live website. I can never forget to do this manually myself ever again!
 
 
 ## Conclusion
@@ -662,13 +894,13 @@ This time I experimented with the following approach.
 
 This meant there's no "huge round of revisions" at the end of the cycle, which is a big plus. (And also why that section is missing from this diary. I revised the stories in batches of 2, while translating, on random weekends.)
 
-This is a good pace both myself and readers can keep up with. It means the translations do not lag behind, and I truly believe I catch way more errors or improvements due to revising this way.
+This is a good pace both myself and readers can keep up with. It means the translations do not lag behind, and I truly believe I catch way more errors or improvements due to revising this way. (After translating to English, I usually have a loooong file of all the changes to "propagate back" to the Dutch version. It usually means removing entire sentences or paragraphs which I realize are redundant, or otherwise restructuring a sentence to be far more clear.)
 
 This cycle is better than the previous two, if you ask me, but came about much more easily thanks to this approach.
 
 The only _downside_ is that there is no ... _downtime_ between cycles. By spreading the stories this thin, across an entire year, I basically have to start cycle 4 immediately after finishing cycle 3. (The first two stories were released early February, and the last two stories late November!)
 
-That's why, for next year, I'll probably try batches of 3 and a huge _break_ between the cycles.
+That's why, for next year, I'll probably try even more improvements to this approach. Perhaps batches of 3 and a huge _break_ between the cycles. Perhaps I started working _ahead_ more than I already do, finishing Cycle 4 entirely before its first story even releases.
 
 Until then, keep reading,
 

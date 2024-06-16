@@ -8,8 +8,6 @@ categories: ["Updates"]
 
 Welcome to my update article for Spring 2024. It is an overview of the work I've done, projects I finished, and any other interesting developments during the months of April, May and June 2024. Let's see how it went!
 
-@TODO: This is mostly speculation now, revise the update before it goes live.
-
 ## Writing work
 
 ### Saga of Life
@@ -35,13 +33,27 @@ As these books are already planned to release throughout the year, I have clear 
 
 This season I aimed for book 10, but was fine with landing anywhere before that. These books aren't planned to release for a looong time.
 
-@TODO
+**Where did we end up?** Book 9 finished, mostly. I had some slight trouble with book 7, because I approached the story in a _completely_ different way, and this also made the book too long. But it wasn't too bad, just a few days of delay.
+
+I also revised until book 5 and made those available for pre-order, which means all Wildebyte books for _this year_ are completely done and ready to launch.
+
+I guess the biggest victory here was planning ahead. With each book I write, I get a better sense of how to approach Wildebyte stories, and where the series could be headed next. I regularly spend an hour on a Sunday just adding notes, moving around notes, shuffling the order of future reveals and ideas.
+
+When 2024 started, I had written book 1 and 2, a vague outline until book 5, and after that it was just "let's hope we figure this out".
+
+Now we have books 1--9 and a strong progression for every single book that comes after it (in the Handheld Disk). Some have a detailed plot idea already, while others only have a few lines that say "the story is based on game X and themed around Y". But all of that is nicely structured and has overarching threads that give me more direction when writing. 
+
+For example, I've divided the Handheld Disk into four "chunks". Each chunk has 5+ books that are all about different games and completely different stories, as usual. But the chunk has one overarching theme or story, one ending it's working towards. This means that whenever I'm in doubt, or the current chapter of the current book feels a bit boring to me, I _always_ have this overarching idea to progress. 
+
+{{% example %}}
+The first chunk is mostly "Wildebyte is alone and figuring out how all of this works", while the second chunk is "Wildebyte now has a sidekick and we focus a lot on them". I don't know how to write the next chapter? Let's write it from the perspective of the sidekick instead and see what happens!
+{{% /example %}}
 
 ## Games work
 
 I'm gearing up to finally buy a new, functional computer. I know what I need know (in terms of components/specifications) to optimize my current and future work, I've decided to build the thing myself (cheaper and teaches a skill I find useful), and my current laptop has slowly surpassed that threshold of "this is too broken even for Tiamo to work with".
 
-For example, it can randomly restart. It takes about 15 minutes before it's booted. My graphics design software simply decides _not_ to boot half the time. Etcetera. 
+For example, it can randomly restart. It takes about 15+ minutes before it's booted. My graphics design software simply decides _not_ to boot half the time. Etcetera. 
 
 {{% remark %}}
 Hence why I write novels and create simple board games, as more than that is pretty impossible. I mean, my novels are literally written as plain text files, one per chapter, as opening Microsoft Word was already out of the question a few years ago.
@@ -51,14 +63,64 @@ Once I have a new computer, I can finally resume video game development. I have 
 
 But until then ... it's still only board games!
 
-Because I had so much writing (and translating) work to do, the progress here is quite light.
+Because I had so much writing (and translating) work to do, I had expected the progress here to be quite light. But looking back, I still made a lot of new board games this season.
 
 * I finished that 4th game prototype I mentioned in the previous update.
-* I moved those 5 Easter games of mine to a polished/finished state as much as possible.
+* Then I started on the next batch of my "smallest, simplest games" ... and finished 5 of those too! (At this point, it might be more than a year before these officially release.)
+* I moved those 5 Easter games of mine to their final, finished state!
 * I continued the Naivigation project by adding the next few vehicles.
-* I started on the next batch of my "smallest, simplest games", but nothing definitive yet.
 
-@TODO
+I _am_ growing kind of annoyed at making my "smallest" game every time, because it means potentially better or more interesting ideas keep being pushed to the back of the line. On the other hand, each of those "tiny board game ideas" has turned out to be bigger and more interesting after all, _every single time_.
+
+So I suppressed the urge to deviate from that list of ideas and just made sure it was ordered correctly. Some new ideas came in, some others revealed themselves to be more problematic, and so the ideas shuffle around a bit.
+
+As it stands, I have about 7 board game ideas in the "easiest" category, before all of those have been made and we move to the "slightly bigger" category. (Which has 20+ ideas.)
+
+## Surprise Video Games!
+
+I don't have a new computer yet, but I've researched what I need and what I could pay, so it will probably happen soon. 
+
+My _screen_ also died some weeks ago, so I do have an external monitor now. 
+
+{{% remark %}}
+Which, by the way, is such a massive improvement that I wished I'd invested in it earlier. Finally I don't have to look _down_ at my laptop screen all day! I can actually judge colors and don't just see pixels!
+{{% /remark %}}
+
+BUT I have found a temporary workaround that allows me to create really tiny web games on a _tablet_ (plugged into my monitor and a separate keyboard, it doesn't matter that it's a small tablet).
+
+My schedule, however, is already full until at least halfway 2025. I don't have the time to make any big games or set any deadlines on that, as it feels ludicrous to plan some tiny game for June of 2026 or something.
+
+Instead, I'm just making these really small web games whenever I am done with my "main work" for the day. Sometimes I make multiple a week, sometimes I lack the time to do any of it, and that's all _fine_.
+
+I'm trying out some new game engines, some new approaches to coding, some ideas I would normally have disregarded as being "too simplistic" or "won't sell". There is a _lot_ of freedom to realizing you don't have to be creative on a schedule or commercially. 
+
+Because they don't represent my income or my entire career, I can allow these web games to suck or never be finished. So I can just _play around_ and _have fun trying some new algorithm_. 
+
+Of course, my brain has been trained since I was born---like everyone else---that everything should lead to career, or money, or success. But I consciously shut that down, any time my thoughts move towards "oh this game idea actually works very well, maybe I can build it into a full release and then sell it blablabla"
+
+I think I've realized that making big video games, on your own, is just not for me.
+
+I am a very simple person. I like tiny games that you can play with a friend on the same device, and that's basically all I ever played. I like coding crazy ideas and working on game mechanics, but I'm not that interested in _graphics_ or _polish_ or whatever. I am just not _interested_ in having a big game under my name, or one with amazing graphics, and I rarely play any of that myself.
+
+That's why this current habit works so well, I think.
+
+* I have a simple idea for a tiny web game.
+* One evening, I just try to make it. (Because it's a web game, I merely have to open a text editor and then a browser, and we're off to the races. Even my terrible hardware can somewhat keep up with that, as long as the games themselves stay simple too.)
+* If it's fun, I can spend another evening to finish it (add graphics, music, main menu, etcetera) and call it done.
+* If not, forget about it---try the next idea on the list.
+
+Whereas with my books (and board games, to a lesser extent), I have deadlines, and I have to finish anything I start, and they have to be somewhat good. That adds some healthy pressure and productivity, but it also makes you risk averse and feel more like a factory worker.
+
+With these web games, I'm surprised by how some "very simplistic ideas" created really fun gameplay within 30 minutes, and some ideas I thought were "really really good" just didn't work at all.
+
+In any case, I'll probably drop the best 20 of them or something on the Pandaqi website at some point. Once I have a new computer, and my schedule is clear of books+board games, I'll have to reevaluate. Should I even continue? Should I continue making digital games _for money_ or _as a job_?
+
+I am a game developer, yes. I can and want to make video games, and I have some great ideas that I hope to give a "major release" some time in my future. But I guess my original approach and habits were just detrimental. I worked too hard, worked on the wrong things, had the wrong mindset, and tried to bite off more than I could chew. 
+
+Thinking back to how I coded some of those huge games (that are 90% done), I shiver at the thought of opening them and fixing all their bugs :p What was I thinking!? Well, I probably wasn't thinking, as my hyperactive brain was just "go go go!"
+
+When I come back to full-on game dev, it will probably be in an entirely different shape or form than before. I will probably make tiny web games with no expectation and no goal, even allowing them to be unfinished or very niche, and one "larger main game" (not-web) that actually has a deadline and clear purpose to it. But we'll see.
+
 
 ## Big Fat Website Update
 
@@ -71,6 +133,7 @@ In this case,
 * I discovered I forgot to minify my CSS. At some point, I turned that off or just glossed over it, I don't know. Now I turned it on again, creating smaller webpages literally _everywhere_.
 * I removed the final external dependency: Google Fonts. Over the years, I already started switching by simply downloading the fonts and hosting them myself on the website. Now I also switched the core fonts of all websites and any older projects that still required this.
   * _Why?_ I don't want to depend on Google Fonts staying exactly the same, and online, forever. This makes my pages faster and smaller, and the only reason they'd ever go down is if _I_ make a mistake.
+  * I also need the font files anyway to implement in the actual games or the graphics. So I'm downloading and/or hosting them anyway, so why even connect with Google Fonts at that point?
 
 ### Pandaqi Studio
 
@@ -88,7 +151,11 @@ I wrote a few new tutorials, some of which were already halfway done as I had an
 
 I already fixed some bugs and added some (better) interactive tools. Those are the things that actually make the tutorials worthwhile, as playing and interactivity are actually how people _learn_, so I try my best on those.
 
-@TODO
+HOWEVER, this is the one that got away :p In all the work, planning, circumstances that came up, this always clearly had the lowest priority. Until the season was over, the Big Fat Website Update coming, and I had barely looked at Pandaqi Tutorials.
+
+I already write so much now. Writing even more tutorials, especially when AI exists that can just scrape it and produce better summaries tailored to what people _specifically_ want, it feels _meh_.
+
+Next year, I guess.
 
 ### The other websites
 

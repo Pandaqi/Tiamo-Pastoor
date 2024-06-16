@@ -5,7 +5,7 @@ date: 2024-03-30
 dateReleased: 2025-09-26
 thumb: "wildebyte_burglars_of_bohim"
 
-progress: 0
+progress: 75
 phase: "preparation" # preparation, first draft, revisions, finished
 
 booktype: "fiction"

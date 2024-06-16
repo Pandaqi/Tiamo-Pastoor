@@ -5,8 +5,8 @@ date: 2024-02-15
 dateReleased: 2025-08-12
 thumb: "wildebyte_clash_of_cheaters"
 
-progress: 55
-phase: "first draft" # preparation, first draft, revisions, finished
+progress: 10
+phase: "revisions" # preparation, first draft, revisions, finished
 
 booktype: "fiction"
 series: "Wildebyte Arcades"
@@ -25,12 +25,10 @@ price:
 links: ""
 
 logline: |
-  Wildebyte enters a game of unconventional warfare between interesting tribes. But not everyone is playing by the rules, and the imbalance tempts them to throw away the script and destroy real lives---all for a chance to finally speak to their parents again.
+  Wildebyte enters a game of unconventional warfare between interesting tribes. But not everyone is playing by the rules, performing unfair attacks that shouldn't be possible, which threatens to destroy the game and real lives.
 
 blurb: |
-  The Taceheart Tribe is stomping all over their opponents. Wildebyte must infiltrate the right enemy tribe and stay alive, or they'll miss their chance to talk to their parents again. 
-  
-  But when they discover that not everyone has been following the rules, they are tempted to break their own promises and risk the life of another Outsider to see their parents again.
+  The Taceheart Tribe destroys all their opponents and the game, doing things that shouldn't be possible. Elephants are used as cannonballs, candy canes as spears, and buildings teleported. When Wildebyte lands in the middle of it, they must figure out their tricks and defend against them before it's too late, all while mysterious beings are trying to catch Wildebyte specifically.
 
 ---
 
