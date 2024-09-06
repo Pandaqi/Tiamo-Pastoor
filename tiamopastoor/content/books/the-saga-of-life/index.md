@@ -114,7 +114,7 @@ So I left the project alone for many years. Until I'd written multiple _complete
 
 And then I realized the true situation: this project was near impossible to sell.
 
-At the time, I had _eight_ time periods. And if I bundled all of them ... I'd get a book with nearly 500 pages! An absolute _tomb_ that even 99% of the adults wouldn't dare buy.
+At the time, I had _eight_ time periods. And if I bundled all of them ... I'd get a book with nearly 500 pages! An absolute _tome_ that even 99% of the adults wouldn't dare buy.
 
 The stories were a unique mix between different styles and purposes. Fun action with educational content. Light-hearted scenes mixed with heavy scenes about some of history's most terrible events.
 
