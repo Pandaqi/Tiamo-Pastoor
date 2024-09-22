@@ -1,5 +1,5 @@
 ---
-title: '[Diary] Wildebyte (Book 1)'
+title: 'Unfinished Game (Wildebyte Arcades Diary)'
 author: tiamopastoor
 date: 2023-08-07T18:48:57+00:00
 language: en

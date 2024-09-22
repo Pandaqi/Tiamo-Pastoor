@@ -1,5 +1,5 @@
 ---
-title: '[Diary] Wildebyte (Rulebreaker Recipes)'
+title: 'Rulebreaker Recipes (Wildebyte Arcades Diary)'
 author: tiamopastoor
 date: 2024-03-12
 language: en

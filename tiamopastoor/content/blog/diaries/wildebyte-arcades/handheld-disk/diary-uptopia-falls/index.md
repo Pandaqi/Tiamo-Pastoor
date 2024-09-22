@@ -1,5 +1,5 @@
 ---
-title: '[Diary] Uptopia Falls (Wildebyte)'
+title: 'Uptopia Falls (Wildebyte Arcades Diary)'
 author: tiamopastoor
 date: 2024-08-12
 language: en

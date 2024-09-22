@@ -1,5 +1,5 @@
 ---
-title: '[Diary] Wildebyte (Ghost Code)'
+title: 'Ghost Code (Wildebyte Arcades Diary)'
 author: tiamopastoor
 date: 2024-05-12
 language: en

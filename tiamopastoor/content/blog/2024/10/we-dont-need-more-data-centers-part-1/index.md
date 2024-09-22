@@ -140,7 +140,7 @@ But now, risking your surprise and shaking of the head, let's go _one_ step fort
 
 ## Tip #7
 
-Though we don't want to accept this, everything we do in our life will be outdated at some point. Everything moves forward. Once an idea is executed, others can _build_ on that idea and "supercede" it. At some point, you have 5 projects that do something much better than the original idea from 20 years ago.
+Though we don't want to accept this, everything we do in our life will be outdated at some point. Everything moves forward. Once an idea is executed, others can _build_ on that idea and "supersede" it. At some point, you have 5 projects that do something much better than the original idea from 20 years ago.
 
 At which point you can ask the question: is it worth keeping that old project around anymore?
 
@@ -152,7 +152,7 @@ In other words, I don't see a reason anyone would ever play my first attempt. It
 
 These terrible first attempts are still online, but with a warning that they're "deprecated". At some point, I will just find all deprecated projects and ... remove them.
 
-**Tip number #7: accept that newer work supercedes older work. All work has a limited lifespan, and it's better to kill things when you should, then let them linger.**
+**Tip number #7: accept that newer work supersedes older work. All work has a limited lifespan, and it's better to kill things when you should, then let them linger.**
 
 Those old projects that I would never play, and I wouldn't recommend anyone else play, are still taking up valuable storage space and internet bandwidth. Whenever I do a major update to my website, or clean up my system again, I have to check if those projects didn't break and my eyes have to scan over that dead folder all the time.
 
@@ -166,7 +166,7 @@ Perhaps it's a better metaphor to say I "put the projects to sleep". Though that
 
 Given enough time, I think anyone will stop thinking of every project as "their baby". Given enough time, I think anyone will come to this realization.
 
-When I made that first One Paper Game, it obviously took me many hours, lots of energy, and a big spoonful of optimism and hope that this would be "an amazing masterpiece". Now, many years later, I'm fine with deleting that first attempt because it's been superceded and surpassed in every way by dozens of other projects.
+When I made that first One Paper Game, it obviously took me many hours, lots of energy, and a big spoonful of optimism and hope that this would be "an amazing masterpiece". Now, many years later, I'm fine with deleting that first attempt because it's been superseded and surpassed in every way by dozens of other projects.
 
 All of this to say: deprecate outdated and surpassed work. Keeping it around forever will waste precious storage space and energy, at no practical or tangible benefit. 
 
