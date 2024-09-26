@@ -5,7 +5,7 @@ date: 2024-08-18
 language: en
 categories: ["Reviews", "Book Reviews"]
 thumb: green_bone_saga.webp
-layout: "vertical"
+layout: "horizontal"
 ---
 
 My process for finding books to read is a combination of "let's find something obscure and new" and "let's see what others are currently raving about". This trilogy appeared on my radar for the latter reason. For a year or so, the "Green Bone Saga" popped up _everywhere_, until I just couldn't ignore it and decided to give it a shot. 

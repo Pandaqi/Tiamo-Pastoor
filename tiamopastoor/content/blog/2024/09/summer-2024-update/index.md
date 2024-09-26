@@ -89,7 +89,7 @@ It's just never going to happen with my health issues, that's the reality of it.
 
 Similarly, my general style is more aimed at acoustic songs, singer-songwriter stuff. With those EPs, I increasingly tried to make them _band songs_. To add a full arrangement, to make them bigger or fuller or whatever. Listening back to them now, two years later, I feel both good and bad about it.
 
-* Good because everything I put it _sounds fine_. Not professional, not great, but also not as terrible as I _thought_ it was at the time.
+* Good because everything I put out _sounds fine_. Not amazing, but also not as terrible as I _thought_ it was at the time.
 * Bad because it was just a waste of time approaching my songs in that way, and I actively made things _worse_ by going against my natural voice, style, workflow, etcetera.
 
 Instead, I did what I should have done at the start. 
@@ -118,7 +118,7 @@ Also, remember what I said in a previous article. Running your own business will
 
 So, my parents are renovating the house. 
 
-They have been doing so for years now. Why? Because my parents refuse to tell the builders to actually do their job or keep their promises. You can guess my opinion on the matter, but that's irrelevant, as it's not my home, nor my money, nor my project. Long story short: we have no clue when they arrive, if they will even do anything, and lots of things are simply not done according to plan. It might be another year until they finish, and all that time I life in uncertainty, in a situation similar to camping.
+They have been doing so for years now. Why? Because my parents refuse to tell the builders to actually do their job or keep their promises. You can guess my opinion on the matter, but that's irrelevant, as it's not my home, nor my money, nor my project. Long story short: we have no clue when they arrive, if they will even do anything, and lots of things are simply not done according to plan. It might be another year (or 5) until they finish, and all that time I live in uncertainty, in a situation similar to camping.
 
 I am regularly moved to a different space, if you can call it "space" at all. My stuff is similarly moved around or just kicked aside, always at risk of damage. I often sleep badly because I am woken up by the noise, or dust falling on my head from the ceiling.
 
@@ -148,6 +148,37 @@ I had a pull-up bar for years, which I used daily and was _great_ for my back st
 There are always very simple things you can add to your environment to greatly aid your mental and physical health. No need for expensive stuff, no need for big changes, just small good habits. Unfortunately, the current situation made all of those impossible. If it was just a few months, fine. But it's been years now and I am getting fat and slow :p
 {{% /example %}}
 
+## An update within an update
+
+I wrote most of this update during the summer (as I actually did these things), and "finished" it a few weeks before the actual end of the summer. Because I expected all of it to still be true and that I'd just slowly take a break and finish the final projects. 
+
+{{% remark %}}
+Please remember that "summer" means the period of July, August and September. My summer update ends when October arrives.
+{{% /remark %}}
+
+Everything in this update article is still true, that's not the problem.
+
+Buuuut nothing is as surprising as my brain, apparently, with my complete disregard for anything close to structure or planning. 
+
+What did I do? The final weeks of summer, without planning for it or having it on the schedule in any way, I ...
+
+* **Participated in 7 game jams.** (Those are "contests" where you have to make a video game around a theme or restriction, usually within just 2 or 3 days.) Yes, this means I made 8 tiny video games in a very short timespan. Learned a lot, a bit stressful, some of them turned out quite good.
+* **Wrote that standalone novel.** It wasn't actually the novel I'd _planned_ to write. It was another idea that just kind of happened, and, as always, grew longer than anticipated, until it was solid enough for an entire novel and proper release. You'll see this released around November, probably.
+* **Created an entire extra series of board games.** I just had a really, really good idea for a core mechanic. Which means it could be used in many different ways, spawning 7 unique games (within the same "collection", so to speak). I decided to just make them all. After all this time, my Pandaqi system for generating the material is really solid and easy to use, and I feel that after 50+ games I can rely on experience to get to a working game quickly.
+* **Recording music still isn't really working.** I set the bar low; it still couldn't be met during the messy renovations. Too much noise, too little space, I don't even have enough space to place a chair let alone place a mic and hold a guitar. Nor do I have a _door_. Fine, fine, the time will come.
+
+Yes, this also means I didn't fully meet some of the other deadlines. But I'm so far ahead of schedule that I can just move stuff back by a month, or two, or six, and it's fine.
+
+I also think this was some of the best work I ever did. So that's a general sign that it's good to just follow your flow/gut/"what motivates me today" sometimes, even if it flies in the face of general wisdom about what's good planning, structure or productivity practice.
+
+I realized a few more things about how I want to approach my (video) games in the future. As I hinted at during that section, I've basically conceded that I'm not a typical developer or gamer. I will probably never be able to earn an income from making video games, because the types of games I'd want to make are hard to sell and have a small market in general. And trying to _force_ the issue only made all my games worse and made me demotivated to even work on them anymore.
+
+There's a good chance I'll make a lot more tiny video games. But they'll be tiny, local multiplayer fun for parties or families, probably free, and never intended to be anything else.
+
+{{% remark %}}
+For more information about all my games work, I have loads more articles and material on [Pandaqi Blog](https://pandaqi.com/blog/).
+{{% /remark %}}
+
 ## Conclusion
 
 As expected, Summer is the slowest period of all. I took a little break, I reevaluated my habits and daily routines, and I slowly did _some things_.
@@ -159,3 +190,7 @@ I mostly succeeded there. It's hard to break habits and form new ones, especiall
 I guess that's the very _positive_ way to look at all this: my circumstances _force_ me to be flexible and change all the time. It's easier to break habits and try new routines if you literally have to break your routine and move around to new rooms every few weeks. Other writers usually have their favorite spot, favorite time of day, favorite software, favorite sitting position, etcetera. I can't even fix _one_ variable, let alone all of them, which makes it easier to jump around and try different tasks.
 
 Hopefully, we can now get back to regular programming. In a more healthy, well-rested way. (This probably means already starting on the next cycle of Saga, the next 5 Wildebyte books, and some standalone diverse projects.)
+
+Until the next update,
+
+Tiamo
