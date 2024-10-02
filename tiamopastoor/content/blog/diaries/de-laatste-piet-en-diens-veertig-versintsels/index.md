@@ -1,7 +1,9 @@
 ---
 title: '[Dagboek] De Laatste Piet en diens 40 VerSintsels'
 author: tiamopastoor
-date: 2024-10-26
+date: 2024-11-05
+thumb: "de_laatste_piet_header"
+layout: "horizontal"
 language: nl
 categories: ["Diary"]
 ---
@@ -36,7 +38,7 @@ Totdat de zomervakantie begon en de deadline voor die "schrijfwedstrijd" naderde
 En zo begon ik, op een snikhete dag, zonder enige verwachtingen of plan, definitief aan de bundel.
 
 ## Hoe geven we dit vorm?
-Het is leuk om te vrijheid te hebben. Het is ook ongelofelijk lastig om dan consistent creatief te zijn elke dag.
+Het is leuk om vrijheid te hebben. Het is ook ongelofelijk lastig om dan consistent creatief te zijn elke dag.
 
 Als je 's ochtends opstaat en je ziet een _lege pagina_ ... en je weet alleen "oh hier moet een Sinterklaasverhaal komen van 2500 woorden" ... waar ga je beginnen? Wat is de eerste zin? Hoe krijg je ineens een verhaal op gang?
 
