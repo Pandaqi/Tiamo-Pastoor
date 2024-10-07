@@ -25,7 +25,7 @@ price:
 links: ""
 
 logline: |
-  Wildebye enters _Guns Drawn_ and is instantly arrested. As they fight for their life against the strict Pencil Police, they realize a magical way _around_ all the rules and try to abuse it to get out. But removing all moderation from a game opened the door wide for even worse entities to come in and wreak havoc.
+  Wildebye enters Guns Drawn and is instantly arrested. As they fight against the strict Pencil Police, they realize a magical way around all the rules and abuse it to get out. But removing all moderation from a game opened the door wide for even worse entities to come in and wreak havoc.
 
 blurb: |
   Wildebyte barely set a foot inside _Guns Drawn_ or they're arrested. A very strict police names hundreds of laws they broke and thus sentences them to death. 

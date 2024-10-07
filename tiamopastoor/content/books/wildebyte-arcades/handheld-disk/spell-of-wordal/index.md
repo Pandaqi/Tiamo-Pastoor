@@ -1,8 +1,8 @@
 ---
 title: "Spell of Wordal"
 author: tiamopastoor
-date: 2026-06-12
-dateReleased: 2026-11-12
+date: 2025-09-12
+dateReleased: 2026-03-12
 thumb: "wildebyte_spell_of_wordal"
 
 progress: 0
@@ -25,10 +25,10 @@ price:
 links: ""
 
 logline: |
-  @TODO
+  In Wordbound, talking quickly proves cursed and even fatal. Wildebyte and Sweettooth must silently cooperate to find the secret password to their Lost Memory. Preferably before the evil Librarian steals their ability to speak forever.
 
 blurb: |
-  @TODO
+  In the game of Wordbound, talking quickly proves cursed. The evil Librarian uses it to control the entities or steal their ability to speak forever. Wildebyte and Sweettooth must cooperate to find the secret password that accesses their Lost Memory---and they must do so without uttering the wrong word, or their last.
 
 ---
 

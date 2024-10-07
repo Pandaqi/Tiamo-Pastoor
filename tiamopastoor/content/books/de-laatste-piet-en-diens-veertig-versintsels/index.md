@@ -23,7 +23,7 @@ price:
     value: 16.99
 
 links:
-  - key: Ebook / Paperback (Amazon)
+  - key: Ebook / Paperback / Hardcover (Amazon)
     value: https://www.amazon.nl/dp/B0DJCJX5SH
   - key: Ebook / Paperback (Andere boekwinkels)
     value: https://books2read.com/u/3LB8Mw
