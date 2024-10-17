@@ -1,5 +1,9 @@
 ---
 title: "How I created TiamoPastoor.com"
+author: tiamopastoor
+date: 2024-11-12
+language: en
+categories: ["Updates"]
 ---
 
 Welcome to this "diary" or "devlog" about how I created this website. Why would this be interesting? Because I didn't create this website from scratch.
@@ -27,6 +31,10 @@ And that's how this whole project started. Below, I will explain
 
 * How I transferred my WordPress website to a Hugo website.
 * And how I built that website into something better, including problems I faced and design decisions I made.
+
+{{% update %}}
+I completely forgot to actually publish this article! Stupid me finished writing it, launched the website, then just completely forgot this article. So here it is, one year too late. Which does allow me to give some interesting "in hindsight" comments at the end.
+{{% /update %}}
 
 ## Wordpress -> Hugo
 
@@ -394,7 +402,7 @@ Again, duplicate "diary", but that's fine. Especially because the older diaries 
 
 With that done, the website was **finally, completely, transferred**. It used a clean structure that's easy to maintain and follow. All images, post content, etcetera has been converted to simple Markdown.
 
-Where possible, I even did quick improvements.
+Where possible, I even made quick improvements.
 
 * If I came across some badly written paragraph or weird structure in an old article, I'd quickly update it.
 * Some reviews had no picture, so I quickly downloaded the cover/poster for the thing I was reviewing and added it.
@@ -402,4 +410,38 @@ Where possible, I even did quick improvements.
 
 ## What now?
 
-@TODO
+Now we launch the website!
+
+And we make a time skip, to one year later, where I suddenly rediscover this diary and realize I never published it. 
+
+{{% remark %}}
+That's hyperactivity for ya. You actually do piles of work in a short timespan ... then completely forget about it forever because you were distracted by a fly or something.
+{{% /remark %}}
+
+The website has now been online and in use for over a year. What are the results? Has anything changed?
+
+* Because my old (Dutch) blog is still up, Google still chooses that as the "main source" for many articles. Despite me telling it _not_ to do that and pick TiamoPastoor instead. This means the new website misses out on a lot of traffic, but that's fine, the old website is gone soon.
+  * In general, the new website hasn't changed anything in terms of SEO/discovery/outreach. The same handful of articles that were most visited before, are still the only ones often displayed and clicked on. You'll discover my books faster when simply browsing Amazon (or whatever web shop) than landing on my website.
+  * Can this change? Should this change? I don't know. I'll just wait until the old blog is gone and I have a bit of a larger bookshelf to promote. 
+* Adding new articles (and books/diaries) to this website is _much easier_. I've been able to write more than before, with less hassle, and the website still looks far cleaner/better than the old blog to me.
+  * Even better, I've been able to write articles _wherever_: on a tablet, on my phone, it doesn't matter. They're just plain text files (in Markdown), and as soon as I get to my laptop again, I copy-paste them and we're done.
+* Similarly, I've been able to keep the _word counts_ and _open projects_ updated the entire year. I was afraid I might forget this or it might lag behind, but that hasn't really happened. It's just a habit now to write my word counts into this data file at the end of the week, which is also the moment I can quickly update the counters on current projects. At worst, we lag 2 weeks behind because I wasn't able to access my laptop during the weekend to do this.
+* I updated the folder structure to go by **month** too. In other words, all articles from November 2024 are in `2024/11/`, instead of just `2024`. This required no change in the code; Hugo automatically picks this up by changing the folder structure. I simply realized I was still writing too many articles to have them all in a single folder, unstructured.
+
+In general, this update has simply been great and effortless. The website is much faster and cleaner now, more professional, more filled with content and updated _at the worst_ once every two weeks. I can confidently point to this as my "writing home" for all my books and writing projects.
+
+Normally, around the summer each year, I do a "big fat website update". I go through the long to-do list per website to fix bugs and add much-needed features. My Pandaqi website is so big and dynamic that I often spend weeks updating behind-the-scenes code per year.
+
+But this website? The only update was to remove my dependency on Google Fonts and just load all the fonts myself (directly from the server). A change made in all my websites in a single day. Nothing else needs changing, as far as I can see, and I don't have anything on the to-do list either.
+
+It's all about displaying blog articles, writing diaries, and all my actual books in the best way possible. For that I designed the website well, and it will continue to do so.
+
+I just checked the front page. The number of _pages_ to navigate (displayed at the bottom) is currently 96. When 2025 rolls around, I suspect it will be exactly 100. That's 1000 articles in total. _One thousand articles_. Most of them pretty long and in-depth. Never just some short throwaway content to, I don't know, fill the space or show more ads, because I don't show ads and aren't interested in meaningless drivel. 
+
+That just shows the power of doing a little bit every day. I started the blog in 2016 telling myself "don't hesitate, make no plan, just write something each day". I stopped doing that after only 1.5 months, because it wasn't needed. I noticed I would reliably come up with things to talk about, or announcements to make, or interesting thoughts to share (hopefully) every week or so. Since then, there has been absolutely no plan, schedule, rules or guidelines to my blog. I never force myself to do anything with it. I don't have any targets to hit and the blog might well accidentally fall silent for a full year, and I don't mind.
+
+But now we've reached 1000 articles, and I'm pretty proud of most of them.
+
+Until the next diary, which I hopefully don't forget to publish,
+
+Tiamo
