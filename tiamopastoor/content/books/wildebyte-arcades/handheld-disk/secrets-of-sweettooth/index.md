@@ -2,7 +2,7 @@
 title: Secrets of Sweettooth
 author: tiamopastoor
 date: 2023-11-13
-dateReleased: 2024-10-12
+dateReleased: 2024-10-26
 thumb: "wildebyte_secrets_of_sweettooth"
 
 progress: 100
