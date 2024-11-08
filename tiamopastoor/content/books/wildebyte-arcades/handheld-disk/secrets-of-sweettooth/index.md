@@ -24,7 +24,7 @@ price:
 
 links: 
   - key: Ebook / Paperback (Amazon)
-    value: https://www.amazon.nl/dp/B0DHC78ZWB
+    value: https://www.amazon.com/dp/B0DHC78ZWB
   - key: Ebook / Paperback (Other major stores)
     value: https://books2read.com/u/m2alp7
 
