@@ -1,12 +1,12 @@
 ---
 title: "One Stroke Wonders"
 author: tiamopastoor
-date: 2025-05-15
+date: 2025-03-15
 dateReleased: 2025-11-12
 thumb: "wildebyte_one_stroke_wonders"
 
-progress: 0
-phase: "preparation" # preparation, first draft, revisions, finished
+progress: 10
+phase: "revisions" # preparation, first draft, revisions, finished
 
 booktype: "fiction"
 series: "Wildebyte Arcades"

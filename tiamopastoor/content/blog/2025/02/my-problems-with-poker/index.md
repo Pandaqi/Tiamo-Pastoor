@@ -12,6 +12,12 @@ I am a game developer and someone with the attitude to "make the best out of eve
 
 And yet, this article explains why I struggle to enjoy any part of poker. Why I struggle to call it a good game, and what I believe actually made it as big and well-known as it is. More specifically, I'll be using the most common version of it: _Texas Hold'Em_.
 
+{{% update %}}
+Well, what do you know? Shut Up & Sit Down (one of the largest board game channels) published a video a few weeks after I wrote this article: [Review: The Gang](https://www.youtube.com/watch?v=sTf9Vi95yiM). 
+
+That game is COOPERATIVE POKER. It's brilliant! The video basically draws the same conclusions as I do about Poker (though summarized, without the argumentation I'll give). Then it explains that game (The Gang) and why it's suitable for any group. Finally, it ends with some GREAT remarks about board gaming and introducing people to new games through "well-known existing games".
+{{% /update %}}
+
 ## How Poker Works
 
 Here's a short rules refresher. (Missing some details, those will come later.)
