@@ -1,14 +1,14 @@
 ---
 title: "The Wise Man Changes Opinions"
 author: tiamopastoor
-date: 2025-03-10
+date: 2025-04-10
 language: en
 categories: ["Miscellaneous"]
 ---
 
 To my utter surprise, this world sees it as a _good thing_ to be steadfast and never waver in your resolve. A leader is seen as _strong_ when they hold onto their opinions no matter what happens. A president is elected because of how confidently they can repeat the same lies, refusing to listen or change. Most people _know_ something is wrong but can't change now, because it would mean "losing face".
 
-Yes, it is hard to admit you were wrong. It takes a bit more effort to actually listen or do research, then update your views. It's also absolutely what you should do and what we need in this world. History has been an endless cycle of people in power refusing to update their views, until people used violence and force to get them out. Only for the new people in charge to refuse changing their opinions again. It's useless, it's slow progress, it's stupid.
+Yes, it is hard to admit you were wrong. It takes a bit more effort to actually listen or do research, then update your views. It's also absolutely what you should do and what we need in this world. History has been an endless cycle of people in power refusing to update their views, until people used violence/force to remove them. Only for the new people in charge to refuse changing their opinions again. It's useless, it's slow progress, it's stupid.
 
 And so I wanted to write this article to say: **I was wrong about something.**
 
