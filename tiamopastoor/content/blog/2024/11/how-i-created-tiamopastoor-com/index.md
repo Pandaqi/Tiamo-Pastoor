@@ -1,7 +1,7 @@
 ---
 title: "How I created TiamoPastoor.com"
 author: tiamopastoor
-date: 2024-11-12
+date: 2024-11-01
 language: en
 categories: ["Updates"]
 ---
@@ -33,7 +33,7 @@ And that's how this whole project started. Below, I will explain
 * And how I built that website into something better, including problems I faced and design decisions I made.
 
 {{% update %}}
-I completely forgot to actually publish this article! Stupid me finished writing it, launched the website, then just completely forgot this article. So here it is, one year too late. Which does allow me to give some interesting "in hindsight" comments at the end.
+I completely forgot to actually publish this article! Stupid me finished writing it, launched the website, then just completely forgot this article. So here it is, one year too late. I also lost the screenshots of intermediate progress, unfortunately, so this article is just ... a lot of text. It does allow me to give some interesting "in hindsight" comments at the end, though.
 {{% /update %}}
 
 ## Wordpress -> Hugo
@@ -155,7 +155,7 @@ In Hugo, we'd use a shortcode for this. As such, I needed some _Regular Expressi
 
 This is what I'd SEARCH for.
 
-{{< highlight >}}
+{{< highlight html >}}
 <p class="example">
   (.+)
 </p>
@@ -163,13 +163,11 @@ This is what I'd SEARCH for.
 
 This is what it'd be REPLACED with. (The $1 refers to the content we captured in the regex using the parentheses. The extra spacing in the search is just because the export added that and I don't want it.)
 
-{{< highlight >}}
+{{< highlight go >}}
 {{%/* example */%}}
 $1
 {{%/* /example */%}}
 {{< /highlight >}}
-
-@TODO: Give this regular expression I used
 
 ### Incorrect links
 
@@ -177,16 +175,10 @@ Finally, I needed to make sure the **links were correct**. Many links are _absol
 
 I searched and found a _tool_ that automatically checks if all links are valid. (Which I, obviously, decided to run as well on all my other websites. Should've done that way sooner!)
 
-@TODO: tool + how to use it and results
-
 With this done, at least the _bulk_ of the conversion was taken care of. I'd still prefer images to be in the same folder as their markdown. I'll surely still have broken articles or unconverted pieces. But for now, I just wanted to make sure that ...
 
 * All the pages (which were my BOOKS) were completely converted and correct.
 * All the posts _existed_ and the recent ones were correct. Older ones can be removed or updated later.
-
-## Creating the rest of the website
-
-@TODO
 
 ### Improving my styling
 
@@ -229,8 +221,6 @@ Similarly, the links for buying the book and the metadata are frontmatter proper
 
 The extra remarks is the actual content of the book's Markdown file. It's where I can actually freely write some interesting remarks or relevant ideas to the current book.
 
-@TODO: IMAGE of this
-
 ### Giving it faster
 
 The old design had quite a spacious _header_. Not too bad, but also certainly not small. This meant that the actual content (of the post/book) would often be off the page, requiring you to scroll before reading it. (Unless you were on a phone with a tiny screen.)
@@ -252,8 +242,6 @@ This saves space (because I don't have to put _all_ pages on the header at _all_
 
 On mobile, all of this collapses into the logo and a simple button to scroll to the footer. (Which, like with all my websites, contains most of the actual navigation. Hopefully you understand the reasoning now: a big or complicated header simply makes _every page visit_ slower and more annoying, as readers need to go past it. Moving all the navigation to the bottom is much more useful, as long as you provide a quick way to _get_ to the bottom.)
 
-@TODO: IMAGE of this
-
 ### What I learned about thumbnails
 
 Creating many websites over the years, I've learned the Aspect Ratio Dilemma of Thumbnails ;)
@@ -266,8 +254,6 @@ What to do? Support both. Most of my websites use a simple "double view" layout 
 But the result is that I can display both summaries (such as on the front page) and the actual posts in a much prettier and more space-efficient way. 
 
 Obviously, book covers are _always_ portrait. So for books, it defaults to that layout. For posts, it defaults to landscape, but I can just change that with a simple frontmatter property.
-
-@TODO: IMAGE of this
 
 ### In fact, even more thumbnails
 
@@ -283,8 +269,6 @@ What do we do? I decided to create some "default images".
 
 Whenever an entry has no thumbnail, it picks a suitable one at random and uses that. As long as I provide enough variety---and enough posts that _do_ have a unique image---this shouldn't look repetitive.
 
-@TODO: IMAGE of this
-
 ### Dark mode? Themes?
 
 For this website, I don't necessarily needed dark mode. But I was planning to incorporate it in other projects and saw this as a testing ground.
@@ -298,8 +282,6 @@ What I'd _really_ like, is to be able to pick a custom theme (per book) that fit
 Additionally, the old design used color a bit haphazardly. Again, it's _fine_. But when I do such an update, I really want to do it _well_. To clean up, minimize and perfect what came before. So I wanted to reduce the number of colors used to a pretty strict color scheme.
 
 As a step towards all that, I implemented dark mode.
-
-@TODO: IMAGE of this
 
 ### New Categories
 
@@ -323,10 +305,6 @@ This left me with the following set of categories.
 * Anecdotes
 * Cartoons (mostly a leftover that really doesn't fit anywhere else)
 * Miscellaneous (whatever is left)
-
-## Icon
-
-@TODO: Write about the design and idea behind the icon?
 
 ## Images all around
 
