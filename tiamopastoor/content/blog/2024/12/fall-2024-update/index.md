@@ -1,7 +1,7 @@
 ---
 title: "Fall 2024 Update!"
 author: tiamopastoor
-date: 2024-12-30
+date: 2024-12-27
 language: en
 categories: ["Updates"]
 ---
