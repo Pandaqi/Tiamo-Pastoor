@@ -191,6 +191,10 @@ To reduce the whiplash, however, I did use the email forwarder to keep the other
 Let's be honest here. The number of emails I get on those custom addresses is NOT high enough to warrant a paid subscription to keep those email addresses alive. As you see, it's not even high enough to make me keep the address in the first place :p
 {{% /remark %}}
 
+{{% update %}}
+THIS IS TIAMO FROM THE FUTURE (2025). After even more changes, I've found a way to get my custom email addresses back, while forwarding them all to a single unified endpoint. I simply discovered some new (free/simpler) methods to do this + I started paying for another service that could support this as an unexpected bonus. In the end, having a custom email address _does_ radiate more professionalism, and is sometimes even required for something like an e-commerce system. FUTURE TIAMO OUT.
+{{% /update %}}
+
 ### Be more mindful about updates!
 
 In the past, I updated the websites a bit willy-nilly. Because they only needed to be "correct" when I actually, manually, built and updated them.

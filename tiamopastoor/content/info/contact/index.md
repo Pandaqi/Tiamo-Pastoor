@@ -10,10 +10,10 @@ Want to get in touch? Well, how you do that depends a little on _why_ you want t
 
 ## Email
 
-Whenever in doubt, your best bet is to **mail me**! To keep things simple, I collect everything on my main work email:
+Whenever in doubt, your best bet is to **mail me**! All my websites have a custom email address called "harmonize". Because calling it "tiamopastoor@tiamopastoor.com" felt quite silly, and calling it "contact" is bland, and I like singing (together).
 
 <p style="text-align: center; font-size: 1.5em;">
-    <a href="mailto:tiamopastoor@gmail.com">tiamopastoor@gmail.com</a>
+    <a href="mailto:harmonize@tiamopastoor.com">harmonize@tiamopastoor.com</a>
 </p>
 
 ## Feedback / Reviews

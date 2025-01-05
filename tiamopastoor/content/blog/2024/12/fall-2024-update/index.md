@@ -12,7 +12,7 @@ Welcome to my update article for Fall 2024. It is an overview of the work I've d
 
 After having made the decision that writing will be my "main job", at least in the coming future, it's a bit easier to prioritize things and plan further ahead.
 
-* I would like to write **10 Wildebyte books per year**. To reach that, I "only" needed to finish part of book this year. (It's somewhat of an arbitrary number. But I release 5 of them each year, so writing 10 just felt like a nice way to create a buffer and work ahead each year.)
+* I would like to write **10 Wildebyte books per year**. To reach that, I "only" needed to finish one part of one book this year. (It's somewhat of an arbitrary number. But I release 5 of them each year, so writing 10 just felt like a nice way to create a buffer and work ahead each year.)
 * Completely finish **Saga of Life (Cycle #3)**. Just a few final translations to go.
 * Do a second edit on a **standalone novel** I somewhat accidentally wrote, to be released near the holidays.
 
@@ -48,15 +48,15 @@ While doing so, I realized that if I created 3 more board games ... I'd have fin
 
 No, it just felt like a nice timing to finish all 2025 board games when 2024 finishes. Also, those 3 final ideas were rather simple and short, and I just knew they would be great fun to try with the family during the holidays. So I needed them done before then.
 
-This excludes one big board game project, though. But I don't consider that part of my regular board games. That's it's own, large project that deserves its own time. 
+This excludes one big board game project, though. But I don't consider that part of my regular board games. It's a huge standalone project that deserves its own time. 
 
 {{% remark %}} 
 I will probably talk about it a lot in the update when it releases. I already briefly talked about it before, I think, but I can't find it now so I must not have mentioned it by its working title.
 {{% /remark %}}
 
-Besides that I have nothing special to mention. My Pandaqi website is extremely solid now and makes creating + showing new board games very easy. I also didn't do any crazy experimental stuff, like inventing new genres of board games, so yeah.
+Besides that I have nothing special to mention. My Pandaqi website is extremely solid now and makes creating + showing new board games very easy. I also didn't do any crazy experimental stuff, like inventing new genres of board games.
 
-I also didn't make a lot of topical games this year, such as a game made specifically for Christmas or Easter. Which removes another potential topic of interest to mention here :p
+I also didn't make a lot of topical games this season, such as a game made specifically for Christmas or Easter. Which removes another potential topic of interest to mention here :p
 
 As usual, for all the updates on my games and that website, go to [Pandaqi Blog](https://pandaqi.com/blog/).
 
@@ -94,7 +94,7 @@ Here are some small things I did just before Christmas.
 
 * I wrote half of a "cozy crime" novel I intend to submit to a writing competition.
 * I wrote half of a Christmas novel for kids. (I had a good idea for that years ago. But that was supposed to be picture book. Knowing how expensive those are to make and self-publish, after creating a few myself, I can't afford to create another one right now. And so, instead, I repurposed the idea to a general written novel.)
-* I actually got quite far with the one "huge" board game release planned for 2025. The only one I hadn't finished yet, and I "thought" needed more time than December had left.
+* I actually got quite far with the one "huge" board game release planned for 2025. You know, the only one I hadn't finished yet, and which I "thought" needed more time than December had left.
 
 Most of all, I created 3 printable "escape rooms" themed around Christmas and New Year's Eve. (That is, a set of ~10 puzzles for the others to solve around the holiday theme, where each one gets progressively harder and requires them to really think out of the box---or out of the paper, I guess, in this case.)
 
@@ -138,7 +138,7 @@ I still _hate_ running, but at least I'm doing it daily now.
 
 I wake up, I run for a bit, and then my day starts. 
 
-The first two times was a bit uncomfortable. I hadn't (intensively) exercised for months at that point, and I was _so incredibly bored_. I completed a 5 kilometer run, but took one or two short (30 second) walking breaks.
+The first two times were a bit uncomfortable. I hadn't (intensively) exercised for months at that point, and I was _so incredibly bored_. I completed a 5 kilometer run, but took one or two short (30 second) walking breaks.
 
 Several of my siblings already got into the habit of running a year earlier, and they were also quite instrumental in finally convincing me to start doing it too. But they did so by following one of those famous "running schedules". The ones that tell you when to run (usually 2 days a week), and exactly how long, and when to take a five minute break. The one where, after a year, you can finally run a bit longer.
 
