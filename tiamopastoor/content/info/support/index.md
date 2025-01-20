@@ -20,6 +20,16 @@ Most people won't buy a book unless it has enough reviews. And even when a proje
 
 Giving me your honest thoughts, giving me some word-of-mouth or extra marketing, is worth its weight in gold.
 
+## Online Store / Webshop
+
+After much deliberation I reluctantly launched my own [Dutch webshop](https://nietdathetuitmaakt.nl). 
+
+It contains all sorts of merchandise with new, cute, interesting or cool designs. (Such as cute little dinosaurs on a mug, wall art posing moral dilemmas, or t-shirts doubling as a game.) 
+
+About 2/3 of the designs are Dutch only, the others English or language-independent. It's a proper, verified webshop following all the strict (European) rules and protocols. It already contains over 100 products stretched over 6 different "brands".
+
+In the future, though, a much larger and international store will be launched. The Dutch webshop is, in a way, a "testing ground" to get experience and learn how to run a proper ecommerce store (well). It uses pre-existing systems (such as WordPress) to get up and running quickly, but I wanted to create a much faster, better, custom-built website myself for that future international store.
+
 ## Patreon
 
 After a few messy years, I settled on Patreon as my main **donation source** and my **"newsletter"**. 
