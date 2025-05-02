@@ -193,6 +193,27 @@ That's the most succinct way in which I can explain my disappointment (and sligh
 
 Again, I know the author was going for a general "vibe" of unfortunate events, sadness, things going wrong, etcetera. A sort of gothic, noir, grim children's story. But you can do that perfectly well _while resolving (most) mysteries too_. In fact, that's what most stories do! Many mysterious backstories are revealed to contain sad events, unfortunate accidents, fights, etcetera. Actually giving that specific information doesn't take away the mystery or "grimness"---it adds understanding, empathy and interest for readers/viewers.
 
+### Repetitive Journeys
+
+There are several books where a "tough" or "dangerous" journey is central to the plot. Think of climbing the elevator shaft in _The Ersatz Elevator_, or the slope (covered in ice/snow) in _The Slippery Slope_, or the underwater journey to the abandoned research station in _The Grim Grotto_.
+
+There is some repetitiveness here in general, but as stated, I don't really mind that. Stories all use similar frameworks anyway, and journeys/traveling quests are some of the oldest and most common types of stories. Because they work, if done well.
+
+The issue, however, is that what could be an interesting and diverse journey is constantly reduced to nothing. 
+
+"Oh no, such a slippery slope, it will be really hard to climb it! We might die!" Then they climb it, and it's really easy and not that interesting to read. Then they go up and down the slippery slope another three or four times, and now it's just a single sentence, because the journey is _so_ easy and uneventful. 
+
+It feels as if the author realized that a certain character needed to be somewhere else for the next scene to happen. So they just had them make the perilous journey again ... and again ... and again ... to end up where they needed to be in that moment. Saying the journey was long and hard doesn't mean anything if it's not shown---and if the only things you get (as a reader) make it seem like the journey was super easy, barely an inconvenience.
+
+For example, they climb up and down the elevator shaft several times in one night. Not only does this not make sense with how long it's supposed to take (as stated by the author, and how tall the building is), it's absolutely impossible for young children to be able to perform that climb even _once_ before their muscles give out :p And I get that the stories are somewhat absurd on purpose. But in cases like these, I am reading this and thinking "why on earth are we making the same boring unrealistic journey again and again in the space of a few pages? At least make it funny or meaningful or something."
+
+In my view, the author used a weird middle ground where picking one extreme would've been best.
+
+* Either do the journey once (_maybe_ twice), but give it time, and detail, and enough realism to make it mean something.
+* Or do the journey over and over, but don't set it up to be "hard" or "dangerous", and don't waste more than a sentence on having it happen each time.
+
+I don't think many people, especially children, read books just to see main characters travel the same boring path over and over :p
+
 ### "Smarter Than You Think"
 
 For years, I have been dumbfounded by how most adults think kids are too stupid to do or understand anything. Children's stories (especially movies/shows nowadays) need to be dumbed down to the point they have no substance at all. Some of my old writing work has been rejected by publishers for literally using a word or two they thought kids wouldn't know, or for trying to introduce any sort of emotional/serious theme at all.
@@ -228,6 +249,8 @@ It's as if they can't help themselves! As if there's this lesson taught at writi
 {{% remark %}}
 Bonus points if you're "different" and instead involve some unfair harsh punishment, a tomb, and a resurrection.
 {{% /remark %}}
+
+It even has a _remote island_ in the ending, like _LOST_! And of course (very minor/vague spoilers), LOST's eventual "resolution" is almost entirely based on another story from the Old Testament. As I said: writers just can't help themselves!
 
 I guess it's an attempt to add some more depth to something, perhaps an origin story or a more philosophical note. The book _tries_ to say some things about "schisms": about how, eventually, any group would split in two. Good vs Evil, or simply "I want this" and "I want that". As if this is an explanation for the schism within the secret organization that caused a massive streak of killing and fires. 
 
