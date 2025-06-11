@@ -1,3 +1,3 @@
 {{ $options := (dict "targetPath" "css/style.css" "outputStyle" "compressed" "transpiler" "dartsass") }}
-{{ $style := resources.Get "sass/style.scss" | resources.ToCSS $options | minify }}
+{{ $style := resources.Get "sass/style.scss" | css.Sass $options | minify }}
 {{ return $style }}

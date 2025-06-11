@@ -17,7 +17,7 @@
 					{{ partial "metadata.html" (dict "context" $context "nolink" true "notags" true) }}
 				</div>
 				<div>
-					{{ $content }}
+					{{ $content | plainify }}
 				</div>
 				<div class="banner-link-small-container">
 					{{ partial "book-info-list.html" (dict "context" $context "label" $tag_string "nolink" true) }}

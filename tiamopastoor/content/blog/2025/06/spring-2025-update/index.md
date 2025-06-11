@@ -1,7 +1,7 @@
 ---
 title: "Spring 2025 Update!"
 author: tiamopastoor
-date: 2025-06-31
+date: 2025-06-30
 language: en
 categories: ["Updates"]
 ---

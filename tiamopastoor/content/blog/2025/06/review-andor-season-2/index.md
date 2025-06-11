@@ -4,7 +4,7 @@ author: tiamopastoor
 date: 2025-06-08
 language: en
 layout: "horizontal"
-thumb: andor-season-2.webp
+thumb: "andor-season-2.webp"
 categories: ["Reviews", "Series Reviews"]
 ---
 

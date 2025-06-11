@@ -14,15 +14,17 @@
 {{ range $k, $v := $val }}
     <!-- if this value is a map, rewrite it to a list of strings to display -->
     {{ $print_val := $v }}
+    {{ $url_val := $v }}
     {{ $is_map := reflect.IsMap $print_val }}
     {{ if $is_map }}
         {{ $print_val = printf "%s (%s)" ($print_val.value | string) $print_val.key }}
+        {{ $url_val = $url_val.key }}
     {{ end }}
 
     {{ if not $print_val }}{{ continue }}{{ end }}
 
     <!-- build URL from original label, show string from list we build as text-->
-    {{ $url := printf "/%s/%s" ($label | urlize) ($v | urlize) }}
+    {{ $url := printf "/%s/%s" ($label | urlize) ($url_val | urlize) }}
     {{ if $create_links }}
         <a class="{{ $class }}" href="{{ $url }}">{{ $print_val }}</a>
     {{ else }}

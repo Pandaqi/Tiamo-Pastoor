@@ -4,7 +4,9 @@ title = 'Tiamo Pastoor | Books'
 
 theme = "tiamopastoor"
 summaryLength = 30
-paginate = 10
+
+[pagination]
+  pagerSize = 10
 
 [taxonomies]
 categories = "categories"
