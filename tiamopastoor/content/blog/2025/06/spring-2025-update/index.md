@@ -58,6 +58,10 @@ Lesson learned: next time, take this final step _sooner_, preferably the same we
 To be specific, that list contained 33 products. Not ideas, or files, or whatever, _full completed products_. Each of time needs a file on the website with its title, description, metadata, etcetera. All of it has to be correct and enticing, of course. And then I need to take screenshots or convert images to get them the right size/format and put them on the same page too. Ugh. This is why I prefer just making something and then haphazardly throwing it onto the interwebs for free!
 {{% /remark %}}
 
+{{% update %}}
+Just wanted to confirm that it eventually took me 4 days to transfer it all to the online store. Thursday evening I could finally start working on what I'd planned for Tuesday morning. There was another reason for this, though. I made some massive structural improvements to the store, and I decided that having 1 marketing image for many products just would not do, so I had to go back through ALL products made so far and make them look better and more consistent.
+{{% /update %}}
+
 In any case, I made a lot of progress. Not as much as I had planned or hoped for. I'm digressing a lot and sticking with the same topic too long. Of those 33 products, only 7 were planned when I switched to my tablet. But at least the store is slowly starting to look like a professional venture that offers whatever you need.
 
 It will surely **not** launch this Summer, though. I could only do ~50% of Level 1 in about half a year. This means I need half a year for the other 50%, so the new launch date for the online store is January 2026.
@@ -116,7 +120,7 @@ There aren't _that_ many places like this. Surely none of them sell the things I
 I've seen "prompt cards" where somebody just pasted Google images of random animals onto a page---some with WATERMARK STILL ON THEM---and told you to cut them out, using a font I can only describe as the Drunk Gremlin Tongue. They sold that for ~15 euros, and it had a "bestseller" status on this massive credible website, and good reviews. I can actually design and illustrate something much better, usable in more ways, more professional, consistent in style, with a READABLE FONT, and (maybe) sell it for less.
 {{% /remark %}} 
 
-And that's why I believe that _if_ the online store manages to be found, it will be my ticket to a stable income. I'm making good stuff, because I have the experience and the drive to tear down schooling systems worldwide.
+And that's why I believe that _if_ the online store manages to be found, it will be my ticket to a stable income. I'm making good stuff, because I have the experience and the drive to tear down schooling systems worldwide. I have _really good stuff_ planned once I get to Level 2. Experiences, games, ideas that have never been done in education before, but feel like the best next step to me. I am tempted to work ahead whenever I get one of those "great ideas for the future", but I try to stay disciplined and do things in a sensible order.
 
 We'll need to wait another 6 months to find out which of the two possible futures will come true.
 

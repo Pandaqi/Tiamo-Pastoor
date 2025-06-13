@@ -6,8 +6,8 @@ dateReleased: 2022-11-01
 ongoing: true
 thumb: levenssaga_portrait_logo
 
-progress: 100
-phase: "cycle 3" # ongoing projects are more specific; for Saga of Life, we indicate which cycle we're on
+progress: 50
+phase: "cycle 4" # ongoing projects are more specific; for Saga of Life, we indicate which cycle we're on
 
 booktype: "fiction"
 series: "The Saga of Life"
@@ -22,6 +22,8 @@ diary:
     value: /blog/diaries/the-saga-of-life/diary-cycle-2/
   - key: Cycle 3 (English from now on)
     value: /blog/diaries/the-saga-of-life/diary-cycle-3/
+  - key: Cycle 4
+    value: /blog/diaries/the-saga-of-life/diary-cycle-4/
 
 tags: ["short story", "anthology", "education", "science", "history", "folklore", "ongoing", "digital"]
 language: ["nl", "en"]
