@@ -38,7 +38,11 @@ It's also very, very useful. I only have to make sure I invent interesting quest
 
 I intend to do the same thing for the _other_ categories of my webshop. Create a powerful and unique _system_ that can easily take everything I make (within that category) to a higher level, making it both more automatic and more customizable. But because this is a lot of work, I only create one such system a year. My "trivia" system was simply the first one I chose, because I had already started with it years prior.
 
-Anyway, this allowed me to really get good at _creating the content of the quiz_. Because everything else (presentation, executing it, getting a PDF, etcetera) was taken care of, forever. This article is only about all the lessons I learned about how to **come up with better questions and make the quiz more exciting**. It is _not_ about how to use PowerPoint (which most providers of pub quizzes do, and I hate it), or how to crop an image, or technical presentation details like that.
+Anyway, this allowed me to really get good at _creating the content of the quiz_. Because everything else (presentation, executing it, getting a PDF, etcetera) was taken care of, forever. 
+
+This article is only about all the lessons I learned about how to **come up with better questions and make the quiz more exciting**. 
+
+It is _not_ about how to use PowerPoint (which most providers of pub quizzes do, and I hate it), or how to crop an image, or technical presentation details like that. Though there's a lot to say about that, too. With my terrible laptop, I have to jump through quite some hoops to cut audio/video and such. An article for another day!
 
 {{% update %}}
 Anyone with a bit of computer knowledge can now use my [PQ-Trivia](https://github.com/Pandaqi/pq-trivia/) system, for free, however you like. If you don't understand or run into issues creating your own quiz with it, don't hesitate to contact me! I intend to release all other systems I create for the webshop for free, too, in the future.
