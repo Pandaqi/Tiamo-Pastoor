@@ -8,7 +8,7 @@ thumb: sunrise-on-the-reaping.webp
 categories: ["Reviews", "Book Reviews"]
 ---
 
-Through the announcement of a movie adaptation, I discovered that a new book had been released in the _Hunger Games_ universe. One that showed the origin of an important character in the original trilogy, _Haymitch Abernathy_, and the Hunger Games in which he participated. 
+Because of the announcement of a movie adaptation I discovered that a new book had been released in the _Hunger Games_ universe. One that showed the origin of an important character in the original trilogy, _Haymitch Abernathy_, and the Hunger Games in which he participated. 
 
 I happened to finish my current book that same night, and I thought the previous works by this author had been very good, so I decided to go for it and quickly read this one too. Like a little side-dish before jumping into a bigger book that's on my actual reading list. This is, therefore, not really a review, but more a brief moment to collect my thoughts and share them with you.
 
