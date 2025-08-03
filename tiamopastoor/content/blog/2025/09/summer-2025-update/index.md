@@ -21,8 +21,8 @@ Well, the summary for this update is quite simple.
 
 * Still working really hard on that online store 99% of the time.
 * The renovation somehow became even _more_ disastrous.
-* I caught up with some of that overdue work.
-* @TODO: see what happens with that book and details on when it launches blabla
+* I caught up with some of that overdue work---not as much as I'd hoped though.
+* I received the intended publishing date for my book and it's end of next year, so not much happening on that for a while.
 
 ## The Online Store
 
@@ -34,9 +34,9 @@ Even with my productivity and discipline, I still have to _pick and choose_ what
 
 Besides that, I usually "go along with the seasons". So, as it is summer now, I wanted to take a few weeks to make "summer-related products", instead of following my educational approach. This means activity books to take with you on holiday, board games to play on a camping, some fun fairy tales around summer/holiday, etcetera. 
 
-I'm very sensitive to the weather, the world around me, the season, and so forth. I can't help it. I really really can't make such products---and make them well, without feeling weird---when it is _not_ summer. 
+I'm very sensitive to the weather, the world around me, the season, and so forth. I can't help it. I really really can't make such products---and make them well, without feeling weird---when it is _not_ summer. Thus, I made an effort to actually create some summer games and activity books _while it was still summer_.
 
-@TODO: more specifics once the season is actually over and I know what I've done
+I can't share more specifics here because the store hasn't launched yet. But once it launches, you should be able to find that range of productsin the Summer category.
 
 ## The Overdue Work
 
@@ -52,7 +52,7 @@ But that obviously takes time and energy. I only have so much of that in a day :
 
 And now the year is almost over. And I've fallen hopelessly behind on my old schedule for these two projects. It's not a lack of want or effort, it's just a lack of time.
 
-The Wildebyte Arcades earns me barely enough to buy food for a day. Saga of Life earns me no money at all. Writing + editing + releasing for both took at least a few months of full-time work the past few years. And that was _without_ the distraction of "the online store" and "better ideas".
+The _Wildebyte Arcades_ earns me barely enough to buy food for a day. _Saga of Life_ earns me no money at all. Writing + editing + releasing for both took at least a few months of full-time work the past few years. And that was _without_ the distraction of "the online store" and "better ideas".
 
 And so, I decided to keep it realistic. To scale it back.
 
@@ -64,11 +64,30 @@ And so I decided to _finish this Saga of Life cycle completely_. I kept the stor
 
 This left very little time for Wildebyte Arcades. Luckily, I had written ahead quite a bit. But starting next year, the speed of book releases in that series will simply take a huge hit. I will likely "only" release 2 Wildebyte Arcades books next year.
 
+## The Big Fat Website Update
+
+I do one large website update per year, usually around the summer. This time, the update was far larger than it ever was before. It ended up taking many weeks ... and will take several more weeks next season.
+
+Why?
+
+* I really want my other websites to be polished and "done". I have to direct all my time and attention to the online store, so I can't have a list of small bugs, small unfinished sections, small "would be nice to have"s for all my websites that caused me to start "the big fat website update" in the first place.
+* I really want the other websites to become "marketing" for the online store. They should be so polished and offer so much that people trust my store and want to try/check out its products. The biggest part in that machine is [Pandaqi Games](https://pandaqi.com), which was a downright mess until I spent _weeks_ rewriting the entire code and updating all games to be part of the new system.
+
+This was, honestly, terrible. It was a huge pile of boring routine work, but it still had to be done. Even so, I had to completely remove several games from Pandaqi because they were just too old and badly coded to take them with me to the new system. (It _could_ be done, but it would take one or two entire days _per game_, which is just too much.)
+
+After getting the bulk of the Pandaqi work done in 2 weeks, I decided to take a break again before going insane. The last bit of work---probably another full week---will be done some time later. But at least before the online store launches. Because the redesign of Pandaqi is _much much much better_ in all possible ways, and it would make the website a true testament to the quality of games I can make.
+
+Hopefully, hopefully, I can now stop doing these big updates. All my major websites have clean code and structure now, everything works as intended, and adding something later should not take a lot of time or cause issues. 
+
+{{% remark %}}
+Because I will, of course, still be adding _content_ to those websites. My portfolio still needs a new entry for the online store once it has launched, for example.
+{{% /remark %}}
+
 ## Anything Else?
 
-I'm not sure how much I'm allowed to say about the renovation. There are huge legal battles happening now, it's mostly out of our hands. But the short version is that our home is basically unliveable, and has been for a while. No heating (or air conditioning) at all for years. Wouldn't make much sense too, because we literally have huge holes in our house where windows should've been placed. No space. No certainty of electricity, wi-fi, water, etcetera. Only a single place for _all_ utilities, in a home of 8 people, which is a small box standing in our backyard.
+I'm not sure how much I'm allowed to say about the renovation. There are legal battles happening now; it's mostly out of our hands. But the short version is that our home is basically unliveable, and has been for a while. No heating (or air conditioning) at all for years. Wouldn't make much sense too, because we literally have huge holes in our house where windows should've been placed. No space. No certainty of electricity, wi-fi, water, etcetera. Only a single place for _all_ utilities, in a home of 8 people, which is a small box standing in our backyard.
 
-And all of that because the builder who took up the project lied to us, never showed up, never did (proper) work, and then, after extracting as much as he could from my parents, literally disappeared and filed for bankruptcy.
+And all of that because the builder who took up the project lied to us, never showed up, never did (proper) work, and then, after extracting as much as he could from my parents, literally disappeared and pretended to be out of money.
 
 So, yeah, not great. Another reason why I'm all in on the online shop. It's a thing I can still make, even in these circumstances, and I really need to start earning solid money to either get out of the house or help my parents pay to fix our house.
 
@@ -80,7 +99,7 @@ And so I will quickly make the usual statements!
 
 Really, after all those years, I'm used to it. Like everyone else here. We shrug, we buckle down, we continue working hard.
 
-The final update of this year likely won't say anything different. I will have finally finished all my "level 1" products for the online store. I will hopefully take a bit of a break around the holidays. And if lucky, my book will be published and maybe generate some sales/popularity.
+The final update of this year likely won't say anything different. I will have finally finished all my "level 1" products for the online store. I will hopefully take a bit of a break around the holidays.
 
 And then, next year, you can all finally gaze in wonder at the beauty of an online store I launched ;)
 
