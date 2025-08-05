@@ -22,7 +22,7 @@ With all my previous board games, I could adopt a mind-set of imperfection. I kn
 
 Now I've made over a hundred board games. The quality has gone up, the size has gone up, and the amount of work per game has become _massive_. I've moved from amateur to professional, from "maybe this is fun I dunno" to "this is a good-looking solid game you will enjoy", and it has taken years to make all that. And still ... my situation hasn't changed compared to ~5 years ago.
 
-I still don't earn a single penny on all that work, not even indirectly (such "name recognition" or fans buying other works of mine). The only reason I'm not bleeding money is because I've always been extremely minimalist and smart about how I run these websites/projects. This obviously isn't sustainable and removes any possible external motivation.
+I still don't earn a single penny on all that work, not even indirectly (such as "name recognition" or fans buying other works of mine). The only reason I'm not bleeding money is because I've always been extremely minimalist and smart about how I run these websites/projects. This obviously isn't sustainable and removes any possible external motivation.
 
 I still have terrible hardware and working conditions, mostly as a result of the previous point mentioned. I _can't_ draw any illustrations with a high resolution or lots of detail, for my computer would crash. I _can't_ hire other people because I lack the money. I _can't_ even showcase my games or get anyone to publish them, as that requires impossible investments too.
 
@@ -88,12 +88,12 @@ _How can you "decide" to make worse games that look more ugly? Don't you care ab
 
 In the ideal world, of course, I would work on whatever idea for as long as needed to make it some perfect masterpiece. In practice, however, the choice is really between "make something imperfect" and "not make anything at all ever again". 
 
-I was about to give up the entire Naivigation project. Despite having _tested_ several of them already (a rarity!) and _knowing_ they are a lot of fun. Despite having spend 100 hours on it already. Because, well, I felt no joy from making it through all those hours, and I knew I had equally long still to go. The _only_ reason I ended up properly finishing it, was because I could tell myself: "Just make it look good enough to play. Just 100% expect all of this to be redone if the games are every published commercially. Just get it out there---who knows, in three years time, my situation is better and I can easily _update_ it to something much better."
+I was about to give up the entire Naivigation project. Despite having _tested_ several of them already (a rarity!) and _knowing_ they are a lot of fun. Despite having spent 100 hours on it already. Because, well, I felt no joy from making it through all those hours, and I knew I had equally long still to go. The _only_ reason I ended up properly finishing it, was because I could tell myself: "Just make it look good enough to play. Just 100% expect all of this to be redone if the games are every published commercially. Just get it out there---who knows, in three years time, my situation is better and I can easily _update_ it to something much better."
 
 I think that final sentence is the key thing to remember all the time, especially when you do creative work. You can't edit a blank page. You can't fix the issues in a non-existent ruleset. The Naivigation games might look a bit wonky or have large untested sections when they "come out". But if there is ever a point in the future when they get popular, or someone wants to publish them, or I wake up with the strong desire to improve them, then I have _fully finished projects waiting for me_. Improving them would be just a few days' work. The opposite of diminishing returns---"magnifying returns"?
 
 Yes, for 10--15 years now, I've been building stuff while waiting for magnifying returns. It hasn't happened yet. I've done a _lot_ of really good work, it's all finished and there for me to revise in the future, but currently it's the best I can do. So I need to scale down my effort in this area, change my approach to lose less time and energy here, to actually keep this option open.
 
-Here's to hoping I can finally feel joy again in 2025, and if not, that others can get a lot of joy from the Naivigation games (and my other projects),
+Here's to hoping I can finally feel joy again in 2026, and if not, that others can get a lot of joy from the Naivigation games (and my other projects),
 
 Pandaqi
