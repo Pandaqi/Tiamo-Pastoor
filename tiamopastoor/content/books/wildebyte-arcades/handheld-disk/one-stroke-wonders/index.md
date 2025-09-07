@@ -1,8 +1,8 @@
 ---
 title: "One Stroke Wonders"
 author: tiamopastoor
-date: 2025-03-15
-dateReleased: 2025-11-12
+date: 2026-09-12
+dateReleased: 2027-03-12
 thumb: "wildebyte_one_stroke_wonders"
 
 progress: 10

@@ -22,7 +22,7 @@ Well, the summary for this update is quite simple.
 * Still working really hard on that online store 99% of the time.
 * The renovation somehow became even _more_ disastrous.
 * I caught up with some of that overdue work---not as much as I'd hoped though.
-* I received the intended publishing date for my book and it's end of next year, so not much happening on that for a while.
+* I received the intended publishing date for my book and it's far into the future, so not much happening on that for a while.
 
 ## The Online Store
 
@@ -46,23 +46,30 @@ When those are my main projects, that's very doable.
 
 But now that the online store takes up all my time, I was falling behind. I kept telling myself "okay, next month I will have finished this next big pile of work for the webshop, and I will take a few weeks to write the next books/stories". I mean, I already have a plan for them, I know it can be done in a few weeks, and it would put me back on track.
 
-But it just never happened. Because the online store became bigger and more ambitious each time. And every time it happened, I actually started _believing_ in the plan more. What started as "shit I need to earn money somehow" has become "I'm making really, really good products for this online store". I keep finding new clever ideas to put games and fun into education. I keep finding better approaches, completely new ideas that nobody has done before, and I _can_ and _will_ make all of that.
+But it just never happened. 
 
-But that obviously takes time and energy. I only have so much of that in a day :p
+Because the online store became bigger and more ambitious each time. And every time it happened, I actually started _believing_ in the plan more. What started as "shit I need to earn money somehow" has become "I'm making really, really good products for this online store". I keep finding new clever ideas to put games and fun into education. I keep finding better approaches, completely new ideas that nobody has done before, and I _can_ and _will_ make all of that.
+
+That obviously takes time and energy. I only have so much of that in a day :p
 
 And now the year is almost over. And I've fallen hopelessly behind on my old schedule for these two projects. It's not a lack of want or effort, it's just a lack of time.
 
-The _Wildebyte Arcades_ earns me barely enough to buy food for a day. _Saga of Life_ earns me no money at all. Writing + editing + releasing for both took at least a few months of full-time work the past few years. And that was _without_ the distraction of "the online store" and "better ideas".
+For _six months_ I planned to edit and release the next Wildebyte book _next week_ ... and I just never found the time to even get _started_ on it. At some point, you just have to accept that the speed/schedule you wanted isn't feasible.
+
+The _Wildebyte Arcades_ earns me barely enough in a year to buy food for a day. _Saga of Life_ earns me no money at all. Writing + editing + releasing for both took at least a few months of full-time work the past few years. And that was _without_ the distraction of "the online store" and "better ideas".
 
 And so, I decided to keep it realistic. To scale it back.
 
 I always planned to keep doing 1 "cycle" for Saga of Life per year until the 5th cycle. (I already predicted the project would be big enough then to slow down to "just" half a cycle, or 5 stories, a year.)
 
-The Wildebyte Arcades have no reason to stick to their schedule at all. I simply picked something that worked and ran with it, but _most_ book series obviously only release 1 book a year.
+The Wildebyte Arcades have no reason to stick to their schedule at all. I simply picked something that worked and ran with it, but _most_ book series obviously only release 1 book a year. (Usually it's closer to 1 book every 2--3 years.)
 
-And so I decided to _finish this Saga of Life cycle completely_. I kept the stories shorter, more focused, easier to finish and edit. But I wanted the full cycle done this year because of the reason stated above.
+And so I decided ..
 
-This left very little time for Wildebyte Arcades. Luckily, I had written ahead quite a bit. But starting next year, the speed of book releases in that series will simply take a huge hit. I will likely "only" release 2 Wildebyte Arcades books next year.
+* **No more Wildebyte Arcades books this year.** I released 2. The other 3 have already been fully written. But, as explained, I lack the time to even edit them, and I surely don't want to ruin the books by publishing them without any more edits or a proper cover.
+* **I will finish this Saga of Life cycle**. Because the Saga of Life has become the "core" of my shared universe of stories. It's too important, it has too much momentum, and I don't want to slow it down. I kept the stories shorter, more focused, easier to finish and edit. But I wanted the full cycle done this year because of the reason stated above.
+
+In summary: **the webshop is simply top priority right now**. I need an income. We're at a point where we've crossed the line and I just can't keep writing books that don't earn me (enough) money. As stated, the Wildebyte Arcades already has many more finished books and a solid plan, so I fully intent to keep it going. But for now, priority has to be given to the webshop, which means putting basically all other work on hold for the foreseeable future.
 
 ## The Big Fat Website Update
 
@@ -100,6 +107,13 @@ And so I will quickly make the usual statements!
 Really, after all those years, I'm used to it. Like everyone else here. We shrug, we buckle down, we continue working hard.
 
 The final update of this year likely won't say anything different. I will have finally finished all my "level 1" products for the online store. I will hopefully take a bit of a break around the holidays.
+
+As it stands, the plan for next season is ...
+
+* Create the final 2 "math" topics in Level1 (moving towards finally using numbers and addition and such) + several "Social" and "Physical" topics such as exploring emotion for young kids. This "finishes" Level 1 in the sense that every single topic exists and has its core products, but there are certainly more ideas to be made here.
+* Finish the _Big Fat Website Update_ so all my other websites are ready to support the online store.
+* At least keep _Saga of Life_ updated and on pace. As explained, other non-webshop projects are optional.
+* I see I had written down some small writing contests and themed ideas (such as for Christmas) during this time, but those are _very_ optional.
 
 And then, next year, you can all finally gaze in wonder at the beauty of an online store I launched ;)
 

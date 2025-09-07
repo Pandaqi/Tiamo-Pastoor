@@ -1,8 +1,8 @@
 ---
 title: Questionable Quarrying
 author: tiamopastoor
-date: 2026-05-12
-dateReleased: 2027-03-12
+date: 2029-09-12
+dateReleased: 2029-12-12
 thumb: "wildebyte_questionable_quarrying"
 
 progress: 0

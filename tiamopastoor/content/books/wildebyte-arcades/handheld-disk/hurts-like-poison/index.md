@@ -1,8 +1,8 @@
 ---
 title: Hurts Like Poison
 author: tiamopastoor
-date: 2026-09-12
-dateReleased: 2027-08-12
+date: 2030-03-12
+dateReleased: 2030-06-12
 thumb: "wildebyte_hurts_like_poison"
 
 progress: 0

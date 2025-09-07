@@ -61,7 +61,7 @@ In any creative pursuit, you have "architects" and "gardeners". After 20 years o
 * First invent a general structure for the quiz. For example: one round about famous soccer players, one round about famous matches, one round about the rules of soccer.
 * Then, they purposely look for information for each round. So you look up a list of "unbelievable soccer matches". You look up a summary of the rules of soccer.
 
-**Gardeners** like to just collect as many divergent ideas as possible, then add structure and keep only the best ideas later. Start big, then cut stuff. So, you would ...
+**Gardeners** like to just collect as many divergent ideas as possible, then add structure and keep only the best ideas later. Plant a seed, let it grow wild, then cut stuff later. So, you would ...
 
 * Go wild writing down any idea you have. Read articles about soccer. Watch parts of random matches. Whenever you see something about soccer in the news, cut out the article.
 * Then, you look at what you have and start noticing patterns. Hey, we have 10 questions about refereeing. Hey, those 6 questions are all about our national team's recent achievements.
@@ -73,7 +73,7 @@ As stated, both are valid. Architects can be great at inventing an overall "them
 {{% example %}}
 Every quiz I made has had at least one round that I would've never added if I had "planned" it beforehand. But it was a theme that simply appeared in the research I'd done.
 
-My quiz for Mother's Day has one round I called "Animal King-mom". It contains questions about how long certain animals are pregnant and/or how many children they get. I certainly didn't see that at first. It simply appeared when I read a list of facts about mothers and one of them was about elephants being pregnant for a looong while. 
+My quiz for Mother's Day has one round I called "Animal King-mom". It contains questions about how long certain animals are pregnant and/or how many children they get. I certainly didn't see that at first. It simply appeared when I read a list of facts about mothers and one of them was about elephants being pregnant for a looooong time. 
 
 In the end, this round had the most engagement and surprise when testing the quiz (on Mother's Day). The cute animal pictures might've helped here, too.
 {{% /example %}}
@@ -86,7 +86,7 @@ This has been my process for most of the quizzes.
 * Look up **publicly available quizzes** or "fun facts" about the topic. If the topic is common enough, there will be one or two available. (I never buy a paid pub quiz and use any of its content. I even actively avoid it, to prevent copying their work or unintentionally leading myself down the same path.)
 * Then, **chase down leads**. Like that old Wikipedia game. Research something about the topic, click a link and research that, click a reference and read that, and so forth. This is how you build a web of associations with the theme/topic, and end up at unexpected but fun places. 
 
-I usually start chasing leads when my other methods have yielded maybe 20 to 30 possible questions. Chasing leads can easily bump it to 100 possible questions over time. I _know_ that not all of those questions are good. I often write down a bit of information, while saying to myself "most likely won't use this". But it's better to write it down anyway, and just as often it becomes the first step to finding something you _can_ use.
+I usually start chasing leads when my other methods have yielded maybe 20 to 30 possible questions. Chasing leads can easily bump it to 100 possible questions over time. I _know_ that not all of those questions are good. I often write down a bit of information, while saying to myself "most likely won't use this". But it's better to write it down anyway. Just as often it becomes the first step to finding something you _can_ use.
 
 I think you must change your mind-set from "finding questions" to "finding interesting information". If you want to find ready-made questions and answers, you're going to find nothing, or you're just copying someone else's finished work. Instead, look for information that people might know or might be interested in knowing. **Find the extraordinary.**
 
@@ -95,10 +95,10 @@ I'll talk about turning those into _questions_ later.
 **Is AI that bad?** So I've been trying for a year, with multiple AIs, but it's just not good at coming up with quiz questions (of a quality that I deem sufficient). 
 
 * Half the time, it is just _wrong_. It's hallucinating. Which is a very bad thing in a quiz. 
-* Its questions are either too easy or too hard. I've had results like "Who is the main character in Harry Potter?" 
+* Its questions are either too easy or too hard. I've had results like "Who is the main character in Harry Potter?" or "The Caribbean islands are located in the ___ sea (_Caribbean_)"
 * And telling it to rate the difficulty, or come up with fun gimmicks, rarely makes sense. It will never suggest a question that needs a video fragment, for example, because it can't assume that you'd be able to find that or include that. (How could it? How could it know what humans find a difficult question?)
 
-It's more work to check the AI's work, than to do it yourself. But what AI can do _really well_ is summarize the most common things out of its wealth of data. So if I ask for fun rounds for a "Soccer Quiz", it will give a good list of the general sub-topics inside it. It gives me a first starting point, a first Wikipedia article to check for information.
+It's more work to check the AI's work than to do it yourself. But what AI can do _really well_ is summarize the most common things out of its wealth of data. So if I ask for fun rounds for a "Soccer Quiz", it will give a good list of the general sub-topics inside it. It gives me a first starting point, a first Wikipedia article to check for information.
 
 ## Lesson #3: Patterns, Patterns, Patterns
 
@@ -123,7 +123,7 @@ But you can also add patterns that are _not communicated_. (Or more vaguely comm
 * All multiple choice answers are either the first or the last option.
 * Etcetera
 
-Again, the idea here is to make the quiz more than a random pile of standalone questions. To make _every_ question mean _more_, because it has connections to the other questions. If you never see the pattern, no biggie. If you had communicated it, then the quiz would probably be slightly too easy (and people would spend too much time looking for it). But if you just say "There's a pattern to the quiz that can help finding certain answers.", and include a fun gimmick like that, some people will notice and really enjoy that.
+Again, the idea here is to make the quiz more than a random pile of standalone questions. To make _every_ question mean _more_, because it has connections to the other questions. If you never see the pattern, no biggie. If you had communicated it, then the quiz would probably be slightly too easy (and people would spend too much time looking for it). But if you just say "There's a pattern to the quiz that can help find certain answers.", and include a fun gimmick like that, some people will notice and really enjoy that.
 
 ## Lesson #4: Turning Bad Questions into Good Questions
 
@@ -139,7 +139,7 @@ Let me give an example.
 A perfectly reasonable question. Also very boring and unlikely to score anyone points, unless you're from around there. 
 
 {{% remark %}}
-We're from the Netherlands. We certainly have more knowledge about Scandinavia than, say, an American. But still not enough to know this.
+We're from the Netherlands. We certainly have more knowledge about Scandinavia than, say, an American. But still not enough to know this very specific fact.
 {{% /remark %}}
 
 How might we improve this? **Step 1: Give hints/more details in the question itself.**
@@ -197,10 +197,10 @@ By rearranging the information this way, you can find the best question to ask. 
 
 You can also find the format that fits the _theme_ or _pattern_ of your quiz the best.
 
-* Is your quiz about Father's Day? Focus on that aspect. Ask if he was a father or how many children he had.
-* Is your quiz about Evolution? Focus on that aspect. Maybe simply ask "Who came up with the Theory of Evolution?"
-* Is your quiz about Biology? Focus on his _impact_ on biology. Asking if Charles Darwin had a lot of kids is not really relevant. It might "feel" relevant, because Darwin has such a tight connection to biology. But a more logical question would perhaps be "How did most biologists believe different species were created, before Darwin described Evolution?"
-* Is your quiz about the Age of Exploration? Focus on his travels with the Beagle. Maybe show an image and ask the name of the ship. From a multiple choice? I think a good percentage of people will recognize the name "Beagle".
+* **Is your quiz about Father's Day?** Focus on that aspect. Ask if he was a father or how many children he had.
+* **Is your quiz about Evolution?** Focus on that aspect. Maybe simply ask "Who came up with the Theory of Evolution?"
+* **Is your quiz about Biology?** Focus on his _impact_ on biology. Asking if Charles Darwin had a lot of kids is not really relevant. It might "feel" relevant, because Darwin has such a tight connection to biology. But a more logical question would perhaps be "How did most biologists believe different species were created, before Darwin described Evolution?"
+* **Is your quiz about the Age of Exploration?** Focus on his travels with the Beagle. Maybe show an image and ask the name of the ship. From a multiple choice? I think a good percentage of people will at least _recognize_ the name "Beagle".
 
 There is no formula for this. At least, I haven't found it. Nothing like "Well if your info looks like X, then it MUST be a question Y, it's always the best!"
 
@@ -208,7 +208,7 @@ But I hope this put you on the right track. It's not interesting to ask raw fact
 
 If you need a one-liner to remember this, **make questions as much about "figuring it out" as "raw knowledge you just happen to have"**. 
 
-Rewrite questions to unlock buried knowledge and associations. Rewrite them to find the right difficulty and keep them hyperfocused on the overall theme of the qui.
+Rewrite questions to unlock buried knowledge and associations. Rewrite them to find the right difficulty and keep them hyperfocused on the overall theme of the quiz.
 
 ### Some More Examples (To Help You Remember)
 
@@ -221,8 +221,8 @@ What's the issue here?
 
 * What does "personality archetype" mean? It would just be a guess for most.
 * Including the game (The Sims 2) is irrelevant---this is a recurring family that stays the same---so it's noise that could be removed.
-* Asking 2 questions in 1 question isn't great.
-* But giving 1 point for 4 bits of information is terrible.
+* Asking 2 questions in 1 question isn't great ...
+* ... but giving 1 point for 4 bits of information is downright terrible.
 
 A rewrite might be something like,
 
@@ -264,9 +264,9 @@ Also, no one solution will work for an entire quiz. **Variety is the spice of li
 
 This is just a general lesson whenever you're working with text. It's really easy to write rambling run-on sentences that cram everything together. Especially when you believe the sentence must be a _question_.
 
-For example, my first version of a question was something like: "When the Roman Emperor Tiberius was approached by a good friend and grieving father (Apronius) about a possible crime, he did something special (and surprisingly) modern. What did he do?"
+For example, my first version of a question was something like: "When the Roman Emperor Tiberius was approached by a good friend and grieving father (Apronius) about a possible crime, he did something special (and surprisingly modern). What did he do?"
 
-I had only just learned this information and tried to write it down. But this is a long-ass sentence if I've ever seen one. I had no time to rewrite before testing the quiz, and, well, my participants had to read it five times too.
+I had only just learned this information and tried to _write it down_. But this is a long-ass sentence if I've ever seen one. I had no time to rewrite before testing the quiz, and, well, my participants had to read it five times too.
 
 **Find a way to rephrase questions. Find a way that cuts words, but keeps the important bits together.**
 
@@ -358,7 +358,8 @@ So let me give some useful tips for avoiding the wrong approach.
 * In general, just **be kind to the player**. Every time I thought "oh no this would make the quiz TOO EASY", I was _wrong_. For example, whenever I ask about a specific movie/book/show, I usually include a blurred or edited image of its cover now. Even a little bit of blur is enough to make the title unreadable, but the general look still visible, which can really help out certain players.
   * In a way, it's always easier to make things _harder_ later, than to make them _easier_. If you notice a question is too easy ... you can just remove that helpful (maybe blurred) image. You can make it open instead of multiple choice. Easy! But if you notice a question is too hard ... well, this entire 6,000 word article talks about how hard it is to simplify that.
 * **You can either set a clear timer on questions, or you can be loosey-goosey.** No dabbling in-between. 
-  * It's no use telling people to "hurry up" while they're thinking about their answer; it's just annoying. It's no fun rushing through a quiz, never _really_ taking time to see if you know the answer, because others are harrassing you for being slow. Either say something like "This quiz takes an hour, you get a minute for every question, no exceptions", or be very flexible about giving people time, going back to an older question, repeating questions, etcetera. 
+  * It's no use telling people to "hurry up" while they're thinking about their answer; it's just annoying. It's no fun rushing through a quiz, never _really_ taking time to see if you know the answer, because others are harrassing you for being slow. 
+  * Either say something like "This quiz takes an hour, you get a minute for every question, no exceptions", or be very flexible about giving people time, going back to an older question, repeating questions, etcetera. 
   * Some middle ground will just annoy everyone and achieve neither!
 * Encourage everyone to **actively participate**. It saddens me how many people will just say "Oh music round? I know nothing about music." So they'll get up and leave, or just sit there in silence writing down nothing. You can still talk. You can still make jokes about the questions. You can still write down funny answers for others to find when grading your answers. And, in doing so, you'll usually discover you know a bit more than you do. I would be very much against allowing people to just leave willy-nilly, or to be so frightened of cheating that everyone is silent and protective of their answers.
 

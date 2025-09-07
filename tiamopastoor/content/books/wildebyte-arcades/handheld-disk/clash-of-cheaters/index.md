@@ -1,11 +1,11 @@
 ---
 title: Clash of Cheaters
 author: tiamopastoor
-date: 2024-02-15
-dateReleased: 2025-08-12
+date: 2025-09-12
+dateReleased: 2026-03-12
 thumb: "wildebyte_clash_of_cheaters"
 
-progress: 10
+progress: 25
 phase: "revisions" # preparation, first draft, revisions, finished
 
 booktype: "fiction"

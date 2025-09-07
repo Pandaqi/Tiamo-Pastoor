@@ -1,8 +1,8 @@
 ---
 title: "It's Raining Ropes"
 author: tiamopastoor
-date: 2025-09-12
-dateReleased: 2026-03-12
+date: 2027-09-12
+dateReleased: 2028-03-12
 thumb: "wildebyte_its_raining_ropes"
 
 progress: 0

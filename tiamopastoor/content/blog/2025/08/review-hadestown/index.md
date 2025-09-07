@@ -32,7 +32,7 @@ I mean, hearing my father _try_ to sing the same high notes in the car afterward
 
 My Hades was Edwin Jonker. The others had another Hades the first time and said he was fine, but that Edwin just has more of a ... presence. I agree. His large stature, his voice, his acting, it all fits the role perfectly. You really feel like he could be some powerful god of the underworld. He actually towers over Orpheus in their scenes together. I thought he was great.
 
-Eurydice and Perspehone were the same in both performances: Sarah and Joy. They were also great. Especially Joy has an amazing voice that can seemingly do anything at any time. Sarah is a bit less noticeable, I guess, because I can't really think of anything to say about her performance. She was good, not outstanding, I'm tempted to say. But that might also just be the nature of the role she plays.
+Eurydice and Perspehone were the same in both performances: Sara and Joy. They were also great. Especially Joy has an amazing voice that can seemingly do anything at any time. Sara is a bit less noticeable, I guess, because I can't really think of anything to say about her performance. She was good, not outstanding, I'm tempted to say. But that might also just be the nature of the role she plays.
 
 The staging was very (very) true to the original. That's a good thing, I believe. All the elements (the rotating circle, the hole, the playfulness with lights) just fit really well and I see no reason to change that for Carré. 
 

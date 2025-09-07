@@ -1,8 +1,8 @@
 ---
 title: "Spell of Wordal"
 author: tiamopastoor
-date: 2026-01-12
-dateReleased: 2026-08-12
+date: 2028-09-12
+dateReleased: 2029-03-12
 thumb: "wildebyte_spell_of_wordal"
 
 progress: 0

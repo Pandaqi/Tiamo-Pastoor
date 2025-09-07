@@ -1,8 +1,8 @@
 ---
 title: "Burglars of Bohim"
 author: tiamopastoor
-date: 2024-03-30
-dateReleased: 2025-09-26
+date: 2026-03-12
+dateReleased: 2026-09-12
 thumb: "wildebyte_burglars_of_bohim"
 
 progress: 25
