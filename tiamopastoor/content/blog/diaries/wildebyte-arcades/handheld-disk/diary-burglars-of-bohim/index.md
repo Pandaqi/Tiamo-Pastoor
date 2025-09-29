@@ -1,7 +1,7 @@
 ---
 title: 'Burglars of Bohim (Wildebyte Diary)'
 author: tiamopastoor
-date: 2025-09-26
+date: 2026-12-26
 language: en
 layout: horizontal
 thumb: "wildebyte_burglars_of_bohim" 

@@ -1,7 +1,7 @@
 ---
 title: 'Clash of Cheaters (Wildebyte Diary)'
 author: tiamopastoor
-date: 2025-08-12
+date: 2026-05-12
 language: en
 layout: horizontal
 thumb: "wildebyte_clash_of_cheaters" 

@@ -92,7 +92,7 @@ Because I will, of course, still be adding _content_ to those websites. My portf
 
 ## Anything Else?
 
-I'm not sure how much I'm allowed to say about the renovation. There are legal battles happening now; it's mostly out of our hands. But the short version is that our home is basically unliveable, and has been for a while. No heating (or air conditioning) at all for years. Wouldn't make much sense too, because we literally have huge holes in our house where windows should've been placed. No space. No certainty of electricity, wi-fi, water, etcetera. Only a single place for _all_ utilities, in a home of 8 people, which is a small box standing in our backyard.
+I'm not sure how much I'm allowed to say about the renovation. There are legal battles happening now; it's mostly out of our hands. But the short version is that our home is basically unlivable, and has been for a while. No heating (or air conditioning) at all for years. Wouldn't make much sense too, because we literally have huge holes in our house where windows should've been placed. No space. No certainty of electricity, wi-fi, water, etcetera. Only a single place for _all_ utilities, in a home of 8 people, which is a small box standing in our backyard.
 
 And all of that because the builder who took up the project lied to us, never showed up, never did (proper) work, and then, after extracting as much as he could from my parents, literally disappeared and pretended to be out of money.
 
@@ -100,7 +100,7 @@ So, yeah, not great. Another reason why I'm all in on the online shop. It's a th
 
 And so I will quickly make the usual statements!
 
-* Recording music is not possible now.
+* Recording music is not possible now. (Though I am talking with friends about using _their_ space once in a while.)
 * More technologically intense projects (such as creating video games again, editing videos, etcetera) are not possible now.
 * Basically anything else I might want to do is not possible now.
 
