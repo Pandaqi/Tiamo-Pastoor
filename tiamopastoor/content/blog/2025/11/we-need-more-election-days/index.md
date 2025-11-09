@@ -44,4 +44,4 @@ I have to add that I am not really politically active. I guess I'm just average,
 I _do_ have very strong ideas on politics and society that absolutely no party in our system represents whatsoever. You'll know this if you've read some of my more serious articles. But I decided to move some of those ideas and remarks to a [different article](/blog/2025/11/is-democracy-the-best-system/), to make this one short and to the point.
 
 And I did vote, this year. I voted as soon as I was eligible, then I didn't vote a few times, but now I'm back again. Not because I have any more trust in politicians or stand by any party. But because I want to be part of our nice national holiday masquerading as an election. And because I saw what happened in the USA and thought it would be nice to vote while we are still allowed to do so.
-{{% /remark }}
+{{% /remark %}}
