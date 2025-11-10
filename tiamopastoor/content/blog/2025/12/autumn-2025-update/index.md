@@ -31,12 +31,32 @@ I had hoped to finish Level 1 in its entirety, but gradually had to let go of th
 * The amount of ideas and "parts of the curriculum" to finish ballooned to something that just can't be finished in time.
 * I have no clue what people will buy or what will be my most important target audience. As such, it felt wiser to spread my bets. Also create a few things for later levels, a few things that are not positioned as "educational", etcetera.
 
-As it stands, 
+That's why I made a simple "rule" for myself these past few months, to help decide what to make now and what to leave for later. 
 
-* _Most_ of Level 1 is done.
-* A few "themed" topics (such as a large batch of summer products).
+The store is made of 7 "Factions" (or categories) which are basically a path towards _games as education_ (the final Faction). The "rule" is that I give priority (for now) to the _first 3 Factions_. These align most closely to traditional education, they are easiest to make, and they usually only have _one_ product per topic. Whereas the games Faction, for example, can have 5 games that are all about "counting". 
+
+In practice, this means every topic receives _stories/fairy tales_ (to be read to/with young children), _teaching material_ (to be used in class or when homeschooling), and _quizzes_ (to have fun testing current knowledge). By focusing on those things only, I was able to get all Level 1 topics "done" in time for launch. All products from later factions (puzzles, games, etc) will have to be made later. 
+
+It is what it is. It's fine, really, because now I have this safe foundation for each topic. Those Factions will likely never need to be changed or updated again (for that topic), while I have _loads_ of puzzle and game ideas to add to each topic in the future. (And that list seemingly grows each day.)
+
+{{% remark %}}
+It took me several tries to find language and stories simple enough for this age range. I kept making it too long or too complicated, trying to insert more meaning and information than a typical 4 year old will understand from a story. And so, over time, with each fairy tale bundle I wrote, my language became even simpler and my chapters even shorter. Some chapters barely have a sentence over 6 words in the end.
+
+I've written _so many stories_ now for Level 1, that I was honestly a bit burned out on the simplistic language. I want longer sentences again! I want to be able to use words like "discern" and "deceive"! Near the start of December, I was finally done with all those "simplistic" stories. And then I decided that my next book would be something for (young) adults again. Just to make sure I don't lose the ability :p And enjoy the fact I can be more varied and poetic in my writing again.
+{{% /remark %}}
+
+And so, as it stands, 
+
+* _Most_ of Level 1 is done. Particularly the first three Factions for each topic, sometimes more.
+* A few "themed" topics. (Such as a large batch of summer products, Halloween, Christmas, etc.)
 * A handful of things for Level 2 and Level 3. (Mostly accidental. I made something, realized it needed players who could _count_ or _read_, and had to move it to a later spot :p)
 * An exact plan for what's left in Level 1, and a semi-exact plan for the upcoming Level 2.
+
+{{% remark %}}
+Also, I developed and improved my own "systems" for many of the things I want to do over the year. My systems for quizzes is very big and professional now, which is why I used it the most. But I also have a strong start on a digital system for escape rooms, for example, which I hope to actually use in practice next year. 
+
+All these big custom systems are very nice and important to my work. They will also be completely free and open source once I hit version 1.0, so that other people can use them too.
+{{% /remark %}}
 
 For the reasons stated above, I will likely be making Level 2 and some themed stuff next year, instead of 100% finishing Level 1. In a way, each level is never "done".
 
@@ -54,7 +74,7 @@ I have faith that I can at least make the store itself profitable. With the numb
 
 We'll see. Next year.
 
-## Anything Else?
+## It Always Comes Back To Music
 
 It has become clear to me that there's really only one thing that I've always done, even with no promise of money or reward, even when my health is failing, and that is _writing/making music_. I stopped recording anything a few years ago (after releasing 5 EPs in quick succession), and looking back, honestly, it was for silly reasons. I _thought_ I wasn't attached to success or money, but the moment I realized that I can't create "professional-sounding hits" in my current situation, I kind of stopped completely?
 
@@ -69,6 +89,8 @@ But even without recording music, my brain has kept coming up with song ideas. I
 And, so, I went against my stupid brain and decided to just start recording shit again. It won't sound great. It will probably just be me with a guitar and a single microphone, in some semi-sound-proof room somewhere. Very minimal editing or mixing, because both me and my failing laptop can't be bothered. It's about the _songs_. The melodies, the lyrics, I _know_ they're good and I just want to _make sure they exist_. I'll throw them online for others to enjoy, and because I'm paying a small yearly sum for that service anyway, but that's it.
 
 I've talked before about how I basically lost all the will to life when I was forced to go to university. Slowly, piece by piece, I've been trying to get some of it back. Actually enjoy something one day, instead of working really hard through sheer discipline and willpower alone.
+
+## Looking Back On 2025
 
 So, looking back on the past year,
 
@@ -88,9 +110,9 @@ Why do I have this feeling?
 * I have ideas and educational content for 50 years, that's never been an issue. 
 * There are obviously other stores that sell educational content, as there is a high demand for it (by teachers, homeschooling parents, etc). But they are very different from mine. They only do "classic" teaching materials, perhaps with a puzzle here or there but that's it. They also look very ugly, unfocused, busy, and sometimes downright insulting to the intelligence of kids or teachers. I feel like my work can really find its place in the market and outshine the competition where needed.
 
-**Point 3:** I have increasingly been able to put certain projects/creative areas into a group called "not for money but for myself". Video games? I have some amazing ideas I'll make some day, but not for success or money. Music? As stated, I'll record all my ideas, but expect nothing from it and put no pressure on it. Books? They've been my biggest income generator for years now, but most stories I write now are for the webshop. Any other story will just be "for me", because _I_ believe it must be told, and I don't care if anyone buys it.
+**Point 3:** I have increasingly been able to put certain projects/creative areas into a group called "not for money but for myself". Video games? I have some amazing ideas I'll make someday, but not for success or money. Music? As stated, I'll record all my ideas, but expect nothing from it and put no pressure on it. Books? They've been my biggest income generator for years now, but most stories I write now are for the webshop. Any other story will just be "for me", because _I_ believe it must be told, and I don't care if anyone buys it.
 
-Of course, one can only have this mind-set if your income comes from somewhere else. I've worked hard to make the online store that source of income. I'm fine with telling myself "no, today you're gonna have to work 8 hours on the next webshop product". Because I've chosen that as my "work for money", and I know that, because of that, I'll be able to record a song tomorrow without caring if it's any good.
+Of course, one can only have this mind-set if you have a source of income that's _something else_. I've worked hard to make the online store that source of income. I'm fine with telling myself "no, today you're gonna have to work 8 hours on the next webshop product". Because I've chosen that as my "work for money", and I know that, because of that, I'll be able to record a song tomorrow without caring if it's any good.
 
 **Point 4:** The typical avenues and suggestions for improving my mental/physical health have pretty much been exhausted. I honestly don't see them working, or see myself trying any of it, again. I've _tried_ to go to a therapist again, but just the complicated steps to get an appointment in the far future and prove you really need it, made me back off completely. 
 
@@ -107,6 +129,8 @@ Heck, as it happens, just today I received an email that one of my short stories
 
 If you put in the work, if you keep putting yourself out there, things will come of it. Basically all my income and successes have come from these random projects I did without expecting anything. That doesn't mean, of course, that it doesn't take energy and time. At this point, I feel I need to still spend that energy on "putting in the work", as opposed to trying dating or the same old therapy and magically hoping that will fix this massive health issue.
 {{% /remark %}}
+
+## Conclusion
 
 Has it been a good year? I don't know. What will next year look like? I don't know.
 
