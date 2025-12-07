@@ -24,6 +24,8 @@ The summary for this update is straightforward.
 
 ## The Online Store
 
+### Finishing Level 1, kind of
+
 We're nearing its launch at the start of next year. 
 
 I had hoped to finish Level 1 in its entirety, but gradually had to let go of that plan.
@@ -35,7 +37,7 @@ That's why I made a simple "rule" for myself these past few months, to help deci
 
 The store is made of 7 "Factions" (or categories) which are basically a path towards _games as education_ (the final Faction). The "rule" is that I give priority (for now) to the _first 3 Factions_. These align most closely to traditional education, they are easiest to make, and they usually only have _one_ product per topic. Whereas the games Faction, for example, can have 5 games that are all about "counting". 
 
-In practice, this means every topic receives _stories/fairy tales_ (to be read to/with young children), _teaching material_ (to be used in class or when homeschooling), and _quizzes_ (to have fun testing current knowledge). By focusing on those things only, I was able to get all Level 1 topics "done" in time for launch. All products from later factions (puzzles, games, etc) will have to be made later. 
+In practice, this means every topic receives _stories/fairy tales_ (to be read to/with young children), _teaching material_ (to be used in class or when homeschooling), and _quizzes_ (to have fun testing current knowledge). By focusing on those things only, I was able to get almost all Level 1 topics "done" in time for launch. All products from later factions (puzzles, games, etc) will have to be made later. 
 
 It is what it is. It's fine, really, because now I have this safe foundation for each topic. Those Factions will likely never need to be changed or updated again (for that topic), while I have _loads_ of puzzle and game ideas to add to each topic in the future. (And that list seemingly grows each day.)
 
@@ -48,21 +50,17 @@ I've written _so many stories_ now for Level 1, that I was honestly a bit burned
 And so, as it stands, 
 
 * _Most_ of Level 1 is done. Particularly the first three Factions for each topic, sometimes more.
-* A few "themed" topics. (Such as a large batch of summer products, Halloween, Christmas, etc.)
-* A handful of things for Level 2 and Level 3. (Mostly accidental. I made something, realized it needed players who could _count_ or _read_, and had to move it to a later spot :p)
+* A few "themed" topics. (Such as a large batch of summer products, Halloween, Christmas, Sinterklaas here in the Netherlands, etc.)
+* A handful of things for Level 2 and Level 3. (Mostly accidentally. I made something, realized it needed players who could _count_ or _read_, and had to move it to a later spot :p)
 * An exact plan for what's left in Level 1, and a semi-exact plan for the upcoming Level 2.
 
-{{% remark %}}
-Also, I developed and improved my own "systems" for many of the things I want to do over the year. My systems for quizzes is very big and professional now, which is why I used it the most. But I also have a strong start on a digital system for escape rooms, for example, which I hope to actually use in practice next year. 
-
-All these big custom systems are very nice and important to my work. They will also be completely free and open source once I hit version 1.0, so that other people can use them too.
-{{% /remark %}}
+### Level 2 Next Year?
 
 For the reasons stated above, I will likely be making Level 2 and some themed stuff next year, instead of 100% finishing Level 1. In a way, each level is never "done".
 
 The biggest question mark, of course, is **how will the store do?** 
 
-Previous updates have repeatedly mentioned that I am desperately in search of money by now. This project is basically the culmination of 10 years of learning loads of creative skills and making loads of projects (for free). It's where it was always heading, and now I had the skill (and ... pressure) to make it.
+Previous updates have repeatedly mentioned that I am desperately in search of money by now. This project is basically the culmination of 10 years of learning loads of creative skills and making loads of projects (for free). It's where it was always heading, in hindsight, and now I had the skill (and ... pressure) to make it.
 
 Despite my general lack of joy or belief in life, I _do_ believe that I made many worthwhile "products" for this thing. It's a sort of confidence through skill and experience. The type of confidence you have after researching how education could be so much better for 20 years, and putting it into practice in a way that seems obviously better to you.
 
@@ -94,13 +92,17 @@ I've talked before about how I basically lost all the will to life when I was fo
 
 So, looking back on the past year,
 
-**Point 1:** I feel I've made great strides in allowing myself to relax. I'll allow myself to play a game, or watch a movie, or just go to bed early more. I'm tempted to say that this has made me less productive, but objectively, I work fewer hours but am more rested and focused, so it all evens out. I'm surprised now about how my tasks are already done in 4 hours, instead of very slowly forcing my way through them for an entire day while my mind is tired.
+### Point 1: Relaxation / Mind-set
+
+I feel I've made great strides in allowing myself to relax. I'll allow myself to play a game, or watch a movie, or just go to bed early more. I'm tempted to say that this has made me less productive, but objectively, I work fewer hours but am more rested and focused, so it all evens out. I'm surprised now about how my tasks are already done in 4 hours, instead of very slowly forcing my way through them for an entire day while my mind is tired.
 
 {{% remark %}}
-On a completely unrelated note, I am now quite good at Rocket League. Even with Wi-Fi cutting out twenty times a game, I'm hitting Champ in multiple playlists. Most of all, my teammates don't hate me anymore when I disconnect for 5 seconds again and let it a silly goal, because I usually score 2 goals right back.
+On a completely unrelated note, I am now quite good at Rocket League. Even with Wi-Fi cutting out twenty times a game, I'm hitting Champ in multiple playlists. Most of all, my teammates don't hate me anymore when I disconnect for 5 seconds again and let in a silly goal, because I usually score 2 goals right back.
 {{% /remark %}}
 
-**Point 2:** I feel the online store and how I designed it is absolutely the way to go for me. It has at least given me purpose and a clear way to decide what project/idea to pick next, but I also clearly hope it will be a generator of stable income. If not soon, then at least within a year or two.
+### Point 2: Online Store Optimism
+
+I feel the online store and how I designed it is absolutely the way to go for me. It has at least given me purpose and a clear way to decide what project/idea to pick next, but I also clearly hope it will be a generator of stable income. If not soon, then at least within a year or two.
 
 Why do I have this feeling?
 
@@ -110,11 +112,51 @@ Why do I have this feeling?
 * I have ideas and educational content for 50 years, that's never been an issue. 
 * There are obviously other stores that sell educational content, as there is a high demand for it (by teachers, homeschooling parents, etc). But they are very different from mine. They only do "classic" teaching materials, perhaps with a puzzle here or there but that's it. They also look very ugly, unfocused, busy, and sometimes downright insulting to the intelligence of kids or teachers. I feel like my work can really find its place in the market and outshine the competition where needed.
 
-**Point 3:** I have increasingly been able to put certain projects/creative areas into a group called "not for money but for myself". Video games? I have some amazing ideas I'll make someday, but not for success or money. Music? As stated, I'll record all my ideas, but expect nothing from it and put no pressure on it. Books? They've been my biggest income generator for years now, but most stories I write now are for the webshop. Any other story will just be "for me", because _I_ believe it must be told, and I don't care if anyone buys it.
+### Point 3: Not For Profit
+
+I have increasingly been able to put certain projects/creative areas into a group called "not for money but for myself". Video games? I have some amazing ideas I'll make someday, but not for success or money. Music? As stated, I'll record all my ideas, but expect nothing from it and put no pressure on it. Books? They've been my biggest income generator for years now, but most stories I write now are for the webshop. Any other story will just be "for me", because _I_ believe it must be told, and I don't care if anyone buys it.
 
 Of course, one can only have this mind-set if you have a source of income that's _something else_. I've worked hard to make the online store that source of income. I'm fine with telling myself "no, today you're gonna have to work 8 hours on the next webshop product". Because I've chosen that as my "work for money", and I know that, because of that, I'll be able to record a song tomorrow without caring if it's any good.
 
-**Point 4:** The typical avenues and suggestions for improving my mental/physical health have pretty much been exhausted. I honestly don't see them working, or see myself trying any of it, again. I've _tried_ to go to a therapist again, but just the complicated steps to get an appointment in the far future and prove you really need it, made me back off completely. 
+### Point 4: More Professional Development
+
+All year long, I developed and improved my own "systems" for many of the things I want to do over the year. 
+
+* My system for **quizzes** is very big and professional now, which is why I used it the most. 
+* My system for **generating board games** has been copied over from Pandaqi and heavily improved/cleaned-up. I've already put the first products in the online store where you can also generate your own material (custom to your specific desires in the classroom, for example) with this generator.
+* I have a strong start on a digital system for **escape rooms**, for example, which I hope to actually 100% finish and use in practice next year. 
+* My system for **generating/playing (logic) puzzles** is about 50% done too.
+* My system for **one button games** is also quite big and professional now, which is why I already used it in 3 small video games I will sell on the store. (_What are those?_ I'll explain more below.)
+
+Ten or five years ago, I would never have made it this far. I would not have been motivated to create a proper "framework" to make my work much easier in the long run. I would not have seen the point---I would not have known how to do it.
+
+But now I have all these frameworks at my fingertips. 
+
+The quiz framework, for example, allows me to create a fully interactive (digital + physical) quiz within half a day. I can focus on just _crafting questions and answers_ (and creating/collecting the media to go with them). Once done, I throw that into the system, and it turns it into a full-fledged quiz. One more powerful and flexible than _any_ other quizzes you can buy online.
+
+I focused on the quiz system this year because it was already furthest along. I made it originally for casual use, at home, for the new year's eve pub quiz me and my sister do sometimes. And so, the quiz system is as good as done.
+
+Next year I'll move one or two of the other frameworks to "done" as well. I have proof now that this makes work much faster and easier, as well as being able to provide experiences that are simply better and more fully featured than people can buy anywhere else.
+
+**Those systems will also be completely free and open source once I hit version 1.0, so that other people can use them too.** My main principles remain based on sharing and transparency, on helping, on building on each other's work. I _want_ people to make their own cool family quizzes using my system. Its entire structure was designed such that someone with barely any computer knowledge can still use it perfectly fine.
+
+Perhaps the most interesting development here is **localization**. Five years ago, I would have said "meh, enough people understand English, or they'll just have to learn if they want to use my thing". Supporting multiple languages takes work, some easy (just time-consuming) and some pretty involved. I _never_ made anything that was multilanguage until only two years ago.
+
+And now ... all my systems support multiple languages. I create everything in English and Dutch myself. 
+
+{{% remark %}}
+I am looking at machine translations for filling out other languages in the future, but the quality is just not there yet it seems.
+
+It's absolutely fine for single words or short snippets. That's why my One Button Games support many AI-translated languages, because all it needs to translate are words like "Play" and "Quit". But for quizzes, with intricate question and answer phrasing, where preciseness of information is key ... I don't dare yet.
+{{% /remark %}}
+
+All quizzes made after September are available in both languages, fully supported, everything automatically translated (including interface). In fact, you can _switch language while playing_, that's how flexible the system is :p (Not sure why you'd ever do that, but you _can_!)
+
+Presenting my products in multiple languages just feels more professional now. It feels like I should've always done that. It feels like this is the missing link that will reach more people and actually sell.
+
+### Point 5: I'll Have To Do It On My Own
+
+The typical avenues and suggestions for improving my mental/physical health have pretty much been exhausted. I honestly don't see them working, or see myself trying any of it, again. I've _tried_ to go to a therapist again, but just the complicated steps to get an appointment in the far future and prove you really need it, made me back off completely. 
 
 I've been to therapists before; they all say I'm doing all the right things and "just in a bit of a slump" and decide to end it there. That's not helpful. This is both mental and physical therapists, by the way. Oh, the number of physicians that have said "well you look like a very fit and healthy young man, I'm sure it's nothing" ...
 
@@ -122,17 +164,45 @@ Similarly, topics like dating come up. Or topics like moving out of the house on
 
 And sure, I'd love to have a girlfriend. Just as I'd love to have the health and the motivation to get out more, or to work a part-time job and still create other things on the side. I've tried for a long time and it's just not happening. The entire concept of being motivated for or caring about anything, of living for even a single second without immense pain, is foreign to me. At some point, you just have to accept the body/brain that you ended up with after a disastrous youth. And that combination---aka _me_---can only fill his days with working hard and maybe, once in a while, doing something else that might even be slightly fun, if all the planets align and Jupiter is in retrograde and what not.
 
-If the online store leads to income, and income leads to better living space and less pressure, who knows what it might lead to. I can't predict the future; I know, more so than many, how systems change and how the slightest tweak can completely turn humans and dynamics around. But it's unlikely that I'll take any big actions here, such as trying to pick up online dating again, or going on a tour again past all sports clubs in the neighborhood to do a free "trial lesson" :p I've tried it all, it doesn't work for me personally. The only thing I haven't tried yet is actually _having money_, and _not_ feeling money or time pressure when doing my other creative work.
+If the online store leads to income, and income leads to better living space and less pressure, who knows what it might lead to. I can't predict the future; I know, more so than many, how systems change and how the slightest tweak can completely turn humans and dynamics around. But it's unlikely that I'll take any big actions here, such as trying to pick up online dating again. Or going on a tour past all sports clubs in the neighborhood again to do a free "trial lesson" :p I've tried it all, it doesn't work for me personally. The only thing I haven't tried yet is actually _having money_, and _not_ feeling monetary pressure or time pressure at all times.
 
 {{% remark %}}
 Heck, as it happens, just today I received an email that one of my short stories was going to be included in a bundle. This was a short story ... that I wrote more than a year ago ... and I had no clue they actually kept it as a backup to publish later. I had no idea! But now I should soon get a physical book in the mail that contains a story of mine.
 
-If you put in the work, if you keep putting yourself out there, things will come of it. Basically all my income and successes have come from these random projects I did without expecting anything. That doesn't mean, of course, that it doesn't take energy and time. At this point, I feel I need to still spend that energy on "putting in the work", as opposed to trying dating or the same old therapy and magically hoping that will fix this massive health issue.
+If you put in the work, if you keep putting yourself out there, things will come of it. Basically all my income and successes have come from these random projects I did without expecting anything. Usually, that "success" appeared only years later, seemingly at random, like my story above.
+
+That doesn't mean, of course, that it doesn't take energy and time. At this point, I feel I need to still spend that energy on "putting in the work", as opposed to trying dating or the same old therapy and magically hoping that will fix this massive health issue.
 {{% /remark %}}
+
+## New Year's Resolutions
+
+Okay, yes, sure, we all know that resolutions are just empty promises you're unlikely to keep. That _today_ is the best time to improve your health or habits, no need to wait until the next year.
+
+But the new year _is_ a very nice cut-off point, because it's a special time of year. You have some free time thanks to the holidays, so you actually have the ability to change habits or try something new. With all this significance placed on the new year, I guess, it _feels_ significant. 
+
+And, so, I still wanted to write down some New Year's Resolutions. More as a kind of "look into the future". 
+
+In 2026,
+
+* **I want to make more One Button Games.** I've finally found a way to create the exact kind of video game I want. I created the framework for it that takes 50% of the work out of my hands. I've found a way to connect them to the educational aspect of my store. And so, hopefully, next year I can create an "OBG" every month.
+  * In short: OBGs mean that every player gets only _one button_.
+  * This makes the game very accessible to all kinds of players. That restriction also makes _my_ life easier, because I can't overcomplicate anything and the project can't take too long.
+  * To get meaningful gameplay from that, you always need to play _with multiple players_. With your friends, with the family, with the whole classroom. They are often cooperative party games where everyone can join/leave whenever they want and just _have fun_. I've already made 2 of them for _Sinterklaas_, which only took me a week, and they were _great_. 
+  * Video games are simply the most attractive and sellable thing of all that I make. Such an easy way to get everyone playing together, to bring joy, to use in a classroom. You get moving images and sounds and everything that tricks our mind into liking something enough to buy it. You can easily do stuff, educationally too, that you just _can't_ do with board games.
+* **I want to finish the most important part of the curriculum: Alphabet & Numbers**. Those topics are "Level 2". They are, in my eyes, the only good thing about our system of education. These skills are core to _everything_ you will do later in life. As such, next year, I will spend 50% of the time finishing Level 1, and 50% of the time creating the best possible products for these two skills in Level 2.
+* **I want to waste less time in bed.** This is an obvious one. Due to a shuffling of bedrooms (if you can still call them bedrooms) in our home, I lost a lot of my good habits regarding sleep. My phone is now right next to me, for example, which makes it too tempting to grab it in the morning. My bed is now below a slanted part of the roof, which makes it impossible to do the stretches I used to do before bed. 
+  * All of this means it takes much longer for me to fall asleep ... and when I wake up, I waste a lot of time before I get up. Sleep lost, time lost, and I don't actually feel better or more relaxed or anything.
+  * And so, for 2026, I will put my phone far away and will find a way to get back those good habits _before_ going to bad.
+* **I want to stop LOSING money, thanks to the online store.** I have to pay for my websites and hosting. I have to pay a bill for food, rent, and health insurance. I want the online store to earn enough, at least, to cover all that. Because now I've been steadily losing money for _years_, which is the worst way to do finances. I think this is an achievable, necessary goal (as opposed to "going for X profit or bust").
+* **I want to record at least one album**. This can be a general singer-songwriter album with English or Dutch songs. It can also be one of the _musicals_ that my head seems to write subconsciously all the time. They're _good_---like, really good. I am absolutely certain that my strongest ideas for musical shows could be massive hits and well-received. But because music usually does not earn any money, and certainly not right away, I could never prioritize actually making any of this. If the store were to give me an income, I'd have the freedom to pursue one such musical album.
 
 ## Conclusion
 
-Has it been a good year? I don't know. What will next year look like? I don't know.
+Has it been a good year? I don't know. Made a lot of good stuff, including professional frameworks to make the future even easier.
+
+What will next year look like? I don't know. I hope for some things, I am sure of some things (such as finally becoming a published author), and everything else depends on the success of that online store.
+
+Will the online store be any good? I don't know. It's launching anyway, right at the start of January. I have 2 years to make it stop operating at a loss.
 
 Those were my thoughts about 2025, until next year,
 
