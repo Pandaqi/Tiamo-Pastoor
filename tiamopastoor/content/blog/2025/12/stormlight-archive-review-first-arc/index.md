@@ -4,6 +4,7 @@ author: tiamopastoor
 date: 2025-12-05
 layout: "horizontal"
 language: en
+thumb: "stormlight-archive-header.webp"
 categories: ["Reviews", "Book Reviews"]
 ---
 

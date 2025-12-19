@@ -3,6 +3,8 @@ title: "The Mysterious Benedict Society (Review)"
 author: tiamopastoor
 date: 2026-01-25
 language: en
+layout: "horizontal"
+thumb: mysterious-benedict-society-cover.webp
 categories: ["Reviews", "Book Reviews"]
 ---
 
