@@ -21,6 +21,8 @@ price:
     value: 17.95
 
 links:
+  - key: Ebook + Originele Bestanden (The Wayward Melody)
+    value: https://thewaywardmelody.com/sneakpeeks/books/piraat-raadselbaard/
   - key: Bruna
     value: https://www.bruna.nl/boeken/piraat-raadselbaard-9789403674223
   - key: MijnBestseller

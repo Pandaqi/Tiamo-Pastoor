@@ -23,6 +23,8 @@ price:
     value: 21.45
 
 links:
+  - key: The Wayward Melody (ebook + originele bestanden)
+    value: https://thewaywardmelody.com/sneakpeeks/books/als-dit-huis-straks-overstroomt/
   - key: MijnBestseller (paperback)
     value: https://www.mijnbestseller.nl/books/302216
   - key: MijnBestseller (ebook)

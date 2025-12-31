@@ -35,5 +35,3 @@ My other areas of expertise are **programming** (mostly games and websites), **m
 I am present on several other (social) channels, which usually support leaving a comment or sending a direct message. I will read those, but it might take a while, and it's not my favorite method.
 
 When it comes to writing, for example, one of the main websites for discussion and reviews is [GoodReads](https://goodreads.com).
-
-Similarly, my old Dutch blog is still online at [Niet Dat Het Uitmaakt](https://nietdathetuitmaakt.nl). It runs on WordPress, which means you can leave comments and I'll get notified!

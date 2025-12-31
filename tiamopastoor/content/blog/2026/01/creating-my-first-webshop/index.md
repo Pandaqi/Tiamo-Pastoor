@@ -164,7 +164,7 @@ And there we have it! After years of sketching webshop plans, once in a blue moo
 
 There are many reputable "print-on-demand" merchandise providers. This means there is no upfront cost for me, while I can get experience selling things online and running that sort of business. It means I can slowly try out what looks good, what works, how to create proper merchandise, without much risk.
 
-As such, **step 1**: create a good collection of merchandise and try to make it work. I gave myself a "runway" of about 6 months for this. I realized I still had my [old Dutch domain](https://nietdathetuitmaakt.nl) (that used to host this blog years ago), so I repurposed it quickly into a "test webshop". Or, rather, a playground where I could learn all about how to sell merchandise and run an online store with no strings attached.
+As such, **step 1**: create a good collection of merchandise and try to make it work. I gave myself a "runway" of about 6 months for this. I realized I still had my old Dutch domain (`nietdathetuitmaakt.nl`) (that used to host this blog years ago), so I repurposed it quickly into a "test webshop". Or, rather, a playground where I could learn all about how to sell merchandise and run an online store with no strings attached.
 
 I simply used existing free systems for this, which allowed me to get it running in a day or two. Behind the scenes, I tried a handful of different POD platforms, dropping the ones that seemed least suitable or trustworthy in the end. More articles about _this_ specific adventure will appear in the near future.
 

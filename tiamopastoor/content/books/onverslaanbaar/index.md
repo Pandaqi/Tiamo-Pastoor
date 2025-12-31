@@ -23,6 +23,8 @@ price:
     value: 7.99
 
 links: 
+  - key: Ebook + Originele Bestanden (The Wayward Melody)
+    value: https://thewaywardmelody.com/sneakpeeks/books/onverslaanbaar/
   - key: "Overview Page"
     value: https://books2read.com/u/bMVPE5
 

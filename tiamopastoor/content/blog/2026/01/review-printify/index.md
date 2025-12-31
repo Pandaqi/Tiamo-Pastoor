@@ -7,7 +7,7 @@ thumb: "printify-review-header.webp"
 categories: ["Reviews"]
 ---
 
-This article will discuss my experiences using [Printify](https://printify.com). I used this service on two different online stores---[my small Dutch webshop](https://nietdathetuitmaakt.nl) and my [larger international webshop](https://thewaywardmelody.com)---to provide automatic fulfilment of merchandise (or "physical goods" in general).
+This article will discuss my experiences using [Printify](https://printify.com). I used this service on two different online stores---my small Dutch webshop (now gone) and my [larger international webshop](https://thewaywardmelody.com)---to provide automatic fulfilment of merchandise (or "physical goods" in general).
 
 This article is not sponsored, there are no affiliate links, I have no bias, nothing of the sort. I _reluctantly_ created online stores because I needed some way to earn money as an artist and creative person.
 

@@ -23,6 +23,8 @@ price:
     value: 16.99
 
 links:
+  - key: Ebook + Originele Bestanden (The Wayward Melody)
+    value: https://thewaywardmelody.com/sneakpeeks/books/de-laatste-piet-en-diens-veertig-versintsels/
   - key: Ebook / Paperback / Hardcover (Amazon)
     value: https://www.amazon.nl/dp/B0DJCJX5SH
   - key: Ebook / Paperback (Andere boekwinkels)

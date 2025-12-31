@@ -21,6 +21,8 @@ price:
     value: 15.95
 
 links:
+  - key: Ebook + Originele Bestanden (The Wayward Melody)
+    value: https://thewaywardmelody.com/sneakpeeks/books/rijk-van-wondersteboven/
   - key: MijnBestseller
     value: https://www.mijnbestseller.nl/shop/index.php/catalog/product/view/id/572185/s/het-rijk-van-wondersteboven-het-allereerste-pixelprentenboek-263522-www-mijnbestseller-nl/
   - key: Bol.com

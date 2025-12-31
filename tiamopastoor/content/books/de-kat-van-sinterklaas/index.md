@@ -21,6 +21,8 @@ price:
     value: 20.56
 
 links:
+  - key: The Wayward Melody (ebook + originele bestanden)
+    value: https://thewaywardmelody.com/sneakpeeks/books/de-kat-van-sinterklaas/
   - key: Brave New Books
     value: https://www.bravenewbooks.nl/books/144364
   - key: Bol.com

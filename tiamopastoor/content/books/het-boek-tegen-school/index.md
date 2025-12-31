@@ -21,6 +21,8 @@ price:
     value: 14.95
 
 links:
+  - key: Ebook + Originele Bestanden (The Wayward Melody)
+    value: https://thewaywardmelody.com/sneakpeeks/books/het-boek-tegen-school/
   - key: MijnBestseller
     value: https://www.mijnbestseller.nl/shop/index.php/catalog/product/view/id/586394/s/het-boek-tegen-school-tien-tips-voor-iedereen-die-school-wil-negeren-en-daadwerkelijk-iets-leren-248422-www-mijnbestseller-nl/
   - key: Bol.com

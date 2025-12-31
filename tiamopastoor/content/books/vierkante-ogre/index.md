@@ -22,6 +22,8 @@ price:
     value: 19.95
 
 links:
+  - key: Ebook + Originele Bestanden (The Wayward Melody)
+    value: https://thewaywardmelody.com/sneakpeeks/books/vierkante-ogre/
   - key: "MijnBestseller"
     value: "https://www.mijnbestseller.nl/shop/index.php/catalog/product/view/id/553069/s/vierkante-ogre-wilde-de-wereld-zien-254475-www-mijnbestseller-nl/"
   - key: Bol.com

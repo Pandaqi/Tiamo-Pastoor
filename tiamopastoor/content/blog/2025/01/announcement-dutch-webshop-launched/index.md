@@ -6,7 +6,11 @@ language: en
 categories: ["Updates"]
 ---
 
-It has finally happened. I have officially sold my soul! You can buy pieces of it at my [new webshop](https://nietdathetuitmaakt.nl).
+It has finally happened. I have officially sold my soul! You can buy pieces of it at my new webshop. 
+
+{{% update %}}
+The shop used to reside at `nietdathetuitmaakt.nl`, my old blog domain. It's gone now as it has been moved over to my bigger international online store at [The Wayward Melody](https://thewaywardmelody.com)!
+{{% /update %}}
 
 Yes, this article is my "marketing plug" for the new web store. Check it out. Maybe buy something you like, or not, I don't know.
 
@@ -162,7 +166,7 @@ Obviously, I don't INTEND to make mistakes. I try to be wise about the money and
 
 ## Conclusion
 
-Anyway, [the Dutch webshop is online and fully functional](https://nietdathetuitmaakt.nl). It has a bunch of products. I manually designed all of them, pouring my _soul_ into them, vowing to experiment _instead_ of focusing only on output and "how can I make the most (expensive) products as quickly as possible?" 
+Anyway, the Dutch webshop is online and fully functional (at `nietdathetuitmaakt.nl`). It has a bunch of products. I manually designed all of them, pouring my _soul_ into them, vowing to experiment _instead_ of focusing only on output and "how can I make the most (expensive) products as quickly as possible?" 
 
 {{% remark %}}
 An approach that, these days, mostly means connecting an AI to some script that automatically spits out random pretty images and places them on hundreds of shirts ...

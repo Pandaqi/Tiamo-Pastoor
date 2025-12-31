@@ -10,7 +10,7 @@ Welcome to my update article for Winter 2025. It is an overview of the work I've
 
 ## Webshop(s)
 
-At the start of January, to the surprise of many including myself, I launched a [small Dutch webshop](https://nietdathetuitmaakt.nl). I repurposed my oldest domain to set up a kind of "test store" for me to learn how all this works. To play around, make some merchandise, and make all big mistakes _before_ they can actually cost me. (That oldest domain contained my Dutch blog, before it moved to this new website, and was originally set to expire in a few months.)
+At the start of January, to the surprise of many including myself, I launched a small Dutch webshop (at `nietdathetuitmaakt.nl`). I repurposed my oldest domain to set up a kind of "test store" for me to learn how all this works. To play around, make some merchandise, and make all big mistakes _before_ they can actually cost me. (That oldest domain contained my Dutch blog, before it moved to this new website, and was originally set to expire in a few months.)
 
 I'll admit this was a bit of an improvisation. When I decide something, I really _go for it_, and I had that Dutch webshop up and running (completely verified, 50+ unique products/designs, tested, etcetera) within a week or two.
 

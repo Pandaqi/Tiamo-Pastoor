@@ -22,13 +22,11 @@ Giving me your honest thoughts, giving me some word-of-mouth or extra marketing,
 
 ## Online Store / Webshop
 
-After much deliberation I reluctantly launched my own [Dutch webshop](https://nietdathetuitmaakt.nl). 
+After much deliberation I reluctantly launched my own [online store](https://thewaywardmelody.com). 
 
-It contains all sorts of merchandise with new, cute, interesting or cool designs. (Such as cute little dinosaurs on a mug, wall art posing moral dilemmas, or t-shirts doubling as a game.) 
+It contains all projects I ever made, including source files and bonus stuff now. It contains a lot of _new_ things I made, mostly in the educational space, such as puzzles, games and quizzes to be used educationally. In the future, it will also contain all sorts of merchandise based on my creative works.
 
-About 2/3 of the designs are Dutch only, the others English or language-independent. It's a proper, verified webshop following all the strict (European) rules and protocols. It already contains over 100 products stretched over 6 different "brands".
-
-In the future, though, a much larger and international store will be launched. The Dutch webshop is, in a way, a "testing ground" to get experience and learn how to run a proper ecommerce store (well). It uses pre-existing systems (such as WordPress) to get up and running quickly, but I wanted to create a much faster, better, custom-built website myself for that future international store.
+It's a proper, verified web shop following all the strict (European) rules and protocols. It already contains over 200 products stretched over 7 different "categories", some available in multiple languages, and represents absolutely the best work I ever did.
 
 ## Patreon
 

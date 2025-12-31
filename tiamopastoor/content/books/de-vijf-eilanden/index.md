@@ -21,6 +21,8 @@ price:
     value: 22.50
 
 links:
+  - key: Ebook + Originele Bestanden (The Wayward Melody)
+    value: https://thewaywardmelody.com/sneakpeeks/books/de-vijf-eilanden/
   - key: Bruna
     value: https://www.bruna.nl/boeken/de-vijf-eilanden-en-andere-rekenfouten-9789403692418
   - key: Bol.com

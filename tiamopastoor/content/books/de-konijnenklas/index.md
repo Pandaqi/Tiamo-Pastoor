@@ -21,6 +21,8 @@ price:
     value: 13.45
 
 links:
+  - key: The Wayward Melody (ebook + originele bestanden)
+    value: https://thewaywardmelody.com/sneakpeeks/books/de-konijnenklas/
   - key: Bol.com
     value: https://www.bol.com/nl/p/de-konijnenklas/9300000021610761/
   - key: MijnBestseller

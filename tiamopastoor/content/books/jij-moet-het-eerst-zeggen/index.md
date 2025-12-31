@@ -23,6 +23,8 @@ price:
     value: 11.99
 
 links:
+  - key: Ebook + Originele Bestanden (The Wayward Melody)
+    value: https://thewaywardmelody.com/sneakpeeks/books/jij-moet-het-eerst-zeggen/
   - key: Overzichtspagina van uitgeverij (alles)
     value: https://books2read.com/u/4AAaEe
   - key: Amazon; Kindle
