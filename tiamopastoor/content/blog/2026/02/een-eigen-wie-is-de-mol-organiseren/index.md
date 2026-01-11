@@ -1,7 +1,7 @@
 ---
 title: "Een eigen Wie is de Mol organiseren"
 author: tiamopastoor
-date: 2026-01-10
+date: 2026-02-18
 language: nl
 categories: ["Miscellaneous"]
 ---
@@ -10,9 +10,11 @@ Afgelopen oud en nieuw organiseerden mijn broertje en ik een (kleine) "Wie is de
 
 Daarom wilde ik dit artikel schrijven met die geleerde lessen en wat dan beter kan, om anderen te helpen en om het zelf niet te vergeten ;)
 
+Ook ben ik van plan om in de toekomst allerlei hulpmiddelen en _Wie is de Mol?_-feestpakketten aan te bieden in mijn [internationale webshop](https://thewaywardmelody.com). Maar dat is voor nu slechts een plan. En ik weet ook nog niet of ik dat dan gratis zou weggeven of betaald zou maken. Dus ik wilde op z'n minst dit lange gratis artikel schrijven met alle wijsheid, tips, en voorbeelden om je te helpen!
+
 ## Wat _is_ een WIDM activiteit?
 
-Het programma _Wie is de Mol?_ is heel erg simpel.
+Het programma _Wie is de Mol?_ is in de kern heel erg simpel.
 
 * Alle spelers doen opdrachten om geld te verdienen voor de pot.
 * Eén speler is stiekem de mol en wil juist dat die opdrachten mislukken en er zo min mogelijk geld wordt verdiend.
@@ -21,7 +23,7 @@ Het programma _Wie is de Mol?_ is heel erg simpel.
 De reden dat sommige zeggen dat het programma "moeilijk" of "complex" is, komt eigenlijk vooral door de inhoud. De opdrachten zijn steeds anders en moeten zodanig ontworpen dat er een _kans_ is om te mollen ... maar dat het niet te _makkelijk of overduidelijk_ is. Dat vereist soms wat extra regels of opzet. 
 
 {{% remark %}}
-Ook heeft de mol volledige vrijheid in hoe ze het aanpakken, wat dus zorgt voor veel dingen die "mis kunnen gaan" tijdens opdrachten en alles ingewikkelder maken.
+Ook heeft de mol volledige vrijheid in hoe ze het aanpakken. Dat zorgt ervoor dat veel dingen "mis kunnen gaan" tijdens opdrachten en alles ingewikkelder maken.
 {{% /remark %}}
 
 Een WIDM (kinder)feest of activiteit betekent simpelweg dat je een korte, simpelere versie van het programma naspeelt.
@@ -31,8 +33,7 @@ Een WIDM (kinder)feest of activiteit betekent simpelweg dat je een korte, simpel
 * Je voert die opdrachten uit.
 * Je houdt een "test" die bepaalt wie er wint ( = meeste juiste antwoorden over mol)
 
-Je kan het natuurlijk zo ingewikkeld maken als je wilt. Je kan jokers en vrijstellingen toevoegen, je kan meerdere tests doen, je kan speciale testen houden (ipv gewoon vragen aanklikken/beantwoorden), etcetera. Maar dat is allemaal optioneel. In de kern is het niet meer dan wat ik net beschreef.
-
+Je kan het natuurlijk zo ingewikkeld maken als je wilt. Je kan jokers en vrijstellingen toevoegen, je kan meerdere tests doen, je kan speciale testen houden (ipv gewoon vragen aanklikken/beantwoorden), je kan opdrachten buiten en binnen doen, etcetera. Maar dat is allemaal optioneel. In de kern is het niet meer dan wat ik net beschreef.
 
 ## Waarom een WIDM feest/activiteit?
 
@@ -40,25 +41,29 @@ _Je kan dit overslaan als je alleen de tips wilt, maar het is denk ik heel nutti
 
 Jaren geleden, toen ik nog op de middelbare school zat, heb ik geholpen met vele WIDM kinderfeestjes voor mijn zusjes. We stonden er op een gegeven moment een beetje om bekend, en later hoorde ik ook dat klasgenoten het idee overnamen.
 
-Maar ja, ik ga naar de universiteit, zusjes worden groot, mensen raken uitgekeken op dingen, en dus zijn we ergens ermee gestopt. Sindsdien heb ik eigenlijk 10+ jaar niks meer met Wie is de Mol gemaakt of georganiseerd. Ik heb al die tijd wel het programma gekeken met de rest, maar ook niet serieus gespeeld of Moltalk gekeken. En, om eerlijk te zijn, als kortstondig de herinnering aan die WIDM feestjes langskwam was mijn gedachte meteen "dat was echt veel werk en gaat ons nu niet meer lukken".
+Maar ja, ik ga naar de universiteit, zusjes worden groot, mensen raken uitgekeken op dingen, en dus zijn we een keer ermee gestopt. Sindsdien heb ik eigenlijk 10+ jaar niks meer met _Wie is de Mol?_ gemaakt of georganiseerd. Ik heb al die tijd wel het programma gekeken met de rest, maar ook niet serieus gespeeld of bijv. Moltalk gekeken. En, om eerlijk te zijn, als kortstondig de herinnering aan die WIDM feestjes langskwam was mijn gedachte meteen "dat was echt veel werk en gaat ons nu niet meer lukken".
 
 En dat is eigenlijk jammer, want die WIDM activiteiten waren dus een groot succes.
 
-* Het brengt een soort extra spanning en mysterie rondom de _hele activiteit_. Je bent niet gewoon spelletjes aan het doen, nee, er is een mol, en er gebeuren stiekeme dingen, en jij probeert te achterhalen wie er liegt.
-* Je hebt automatisch variatie, want elke opdracht is anders, en ze worden afgewisseld met bijvoorbeeld test/executie of mensen overhoren.
-* Het bestaan van de mol maakt opdrachten bedenken heel makkelijk, en maakt zelfs "saaie" opdrachten automatisch interessanter. (Hierover dadelijk meer.)
-* Je hebt een duidelijk beloning aan het einde voor één persoon. Een beloning die je ook nog eens kan beïnvloeden en die je als winnaar echt hebt "verdiend".
-* Het is iets héél anders dan het typische (kinder)feestje. Ik weet nog dat die jonge kinderen echt een beetje naar me opkeken alsof ze in het echte programma zaten en alsof elke opdracht extreem professioneel was. Ze wisten niet dat het achter de schermen _chaos was_ en dat ik aan het bidden was dat mijn zelf geprogrammeerde testprogramma niet crashte op een crucial moment.
+* Het brengt een soort **extra spanning en mysterie** rondom de _hele activiteit_. Je bent niet gewoon spelletjes aan het doen, nee, er is een mol, en er gebeuren stiekeme dingen, en jij probeert te achterhalen wie er liegt.
+* Je hebt sowieso **variatie**. Elke opdracht is anders en ze worden afgewisseld met bijvoorbeeld test/executie of mensen overhoren.
+* Het bestaan van de mol maakt **opdrachten bedenken heel makkelijk**, en maakt zelfs **"saaie" opdrachten automatisch interessanter**. (Hier ga ik uitgebreid op in gedurende dit artikel.)
+* Je hebt een **duidelijk beloning aan het einde voor één persoon**. Een beloning die je ook nog eens kan beïnvloeden en die je als winnaar echt hebt "verdiend".
+* Het is iets **héél anders dan het typische (kinder)feestje**. Ik weet nog dat die jonge kinderen echt een beetje naar me opkeken alsof ze in het echte programma zaten en alsof elke opdracht extreem professioneel was. Ze wisten niet dat het achter de schermen _chaos was_ en dat ik aan het bidden was dat mijn zelf geprogrammeerde testprogramma niet crashte op een crucial moment.
 
 En zo gebeurde het dus dat mijn broertje voorstelde om er eentje te doen. Een maand eerder hadden andere familieleden een speurtocht georganiseerd (rond Sinterklaas), door het hele dorp, voor een grote groep, en dat was eigenlijk best een succes. Misschien gaf dat de moed en zelfverzekerdheid om dan een WIDM avond aan te pakken. 
 
-Dat is immers de reden dat mijn eerste gedachte zo negatief was: het is _ongelofelijk lastig_ om een grote groep mensen serieus aan de slag te krijgen met zo'n spel. Mensen raken afgeleid, sommige spelen niet echt, misschien geeft de mol zichzelf al bij opdracht 1 weg, je verliest de aandacht en daardoor horen een paar mensen niet de cruciale regel dat je _niet_ mag praten in dit spel, etcetera. Het zorgt gewoon snel voor chaos, voor gebrek aan overzicht, voor opdrachten die allemaal in het water vallen omdat je niet alles tegelijkertijd in de smiezen kunt houden, enzovoort. 
+Dat is immers de reden dat mijn eerste gedachte zo negatief was: het is _ongelofelijk lastig_ om een grote groep mensen serieus aan de slag te krijgen met zo'n spel. Mensen raken afgeleid, sommige spelen niet echt, misschien geeft de mol zichzelf al bij opdracht 1 weg, je verliest de aandacht en daardoor horen een paar mensen niet de cruciale regel dat je _niet_ mag praten in dit spel, etcetera. Het zorgt gewoon snel voor chaos. Voor gebrek aan overzicht en voor opdrachten die allemaal in het water vallen omdat je niet alles tegelijkertijd in de smiezen kunt houden. 
 
-Toen mijn broertje dit opperde zei ik dus dat ik mee zou doen met organiseren. 
+Toen mijn broertje dit opperde zei ik dus dat ik mee zou doen met _organiseren_. 
 
-Je wilt echt niet in je eentje voor zo'n klus staan. Je wil één iemand die de opdracht uitlegt terwijl de ander alvast klaarzet, bijvoorbeeld. Je wil één iemand die een gekke opdracht bedenkt ... en de ander die een dag later met frisse blik kijkt en je fouten eruit haalt. 
+Je wilt echt niet in je eentje voor zo'n klus staan. Je wil één iemand die de opdracht uitlegt terwijl de ander alvast klaarzet, bijvoorbeeld. Je wil één iemand die een gekke opdracht bedenkt ... en de ander die een dag later met frisse blik kijkt en je grove fouten eruit haalt. 
 
-Daarnaast is mijn broertje, net als ik en mijn hele gezin, zo hyperactief als wat. Ik probeer al 10 jaar een professionele spelontwerper te zijn, dus ik hoopte te kunnen helpen met shit gedaan krijgen en netjes alles bijhouden en regelen. (Je kan mijn [webshop](https://thewaywardmelody.com) bekijken om te zien wat ik allemaal maak, en vooral dat ik consistent véél maak en productief probeer te blijven.)
+Daarnaast is mijn broertje, net als ik en mijn hele gezin, zo hyperactief als wat. Ik probeer al 10 jaar een professionele spelontwerper te zijn, dus ik hoopte te kunnen helpen met shit gedaan krijgen en netjes alles bijhouden en regelen. 
+
+{{% remark %}}
+Je kan mijn [webshop](https://thewaywardmelody.com) bekijken om te zien wat ik allemaal maak. En vooral om te zien dat ik consistent véél maak, productief probeer te blijven, en sinds ~5 jaar geleden daadwerkelijk alles afmaak waaraan ik begin.
+{{% /remark %}}
 
 Dus dat was het plan. We hadden een ander dingetje voor Kerstavond dat we eerst moesten doen, dus we konden niet echt eerder beginnen. Tussen kerst en oud en nieuw hadden mijn broertje en ik dus ~6 dagen om een Wie is de Mol activiteit te regelen.
 
@@ -70,7 +75,7 @@ Dit is optioneel, maar ik denk dat dit een groot gemis was in onze versie. We ha
 
 Het hebben van zo'n algemeen thema maakt het véél makkelijk voor spelers om in de stemming te komen en te weten wat hen te wachten staat. Het zorgt dat opdrachten makkelijker te begrijpen zijn en makkelijker in elkaar overvloeien. Het maakt het allemaal meer uniek en memorabel, terwijl onze versie nu toch een beetje voelde als 5 mini escape rooms na elkaar.
 
-Als ik zeg thema, dan kun je denken aan bijvoorbeeld een WIDM die afspeelt in een bepaald _land_, net zoals het programma. Dat je al jouw opdrachten, illustraties, teksten, alles ontwerpt alsof de kandidaten naar Spanje of Zuid-Afrika zijn gegaan.
+Als ik zeg "thema", dan kun je denken aan bijvoorbeeld een WIDM die afspeelt in een bepaald _land_, net zoals het programma. Dat je al jouw opdrachten, illustraties, teksten, alles ontwerpt alsof de kandidaten naar Spanje of Zuid-Afrika zijn gegaan.
 
 Je kan ook denken aan een thema dat de spelers leuk vinden. Misschien heb je een groep met veel muzikanten, of veel sporters, of kijk je allemaal samen een bepaalde TV serie.
 
@@ -78,7 +83,7 @@ Ik weet uit ervaring hoeveel makkelijker het is om dingen te bedenken als je zo'
 
 Een thema zal voornamelijk zijn voor het visuele aspect (hoe zien alle onderdelen eruit?) en de storytelling (wat voor soort opdrachten en waarom?) Voor de opdrachten zelf zou ik ook een algemene "twist" kiezen. Oftewel, één verrassende of interessante regel die door alle opdrachten heen zit. Eén "nieuw dingetje" dat deze zoektocht naar de mol weer net ietsje anders maakt.
 
-Het programma doet dit ook, al vinden wij dat ze dit véél meer mogen doen. Ze hebben bijvoorbeeld al een keer de mol gekozen ná aflevering 1. Maar wij wachten nog steeds op het seizoen met _twee_ mollen, of een ander soort finale dan de standaard, of een nieuw soort troef (de zwarte vrijstelling is ook al lang geleden en tevens een tijd niet meer gezien).
+Het programma doet dit ook, al vinden wij dat ze dit véél meer mogen doen. Ze hebben bijvoorbeeld al een keer de mol gekozen ná aflevering 1. Maar wij wachten nog steeds op het seizoen met _twee_ mollen, of een ander soort finale dan de standaard, of een nieuw soort troef. (De zwarte vrijstelling is ook al lang geleden en tevens een tijd niet meer gezien.)
 
 Dit moet zeker niet al te groots zijn. Dat maakt het juist weer ingewikkeld en zwaar. Het gaat vooral om een "slimme" truc die alles net wat anders maakt. 
 
@@ -88,7 +93,7 @@ Een recent seizoen van De Mol (België) had een _molkoffer_. Daarin kon de mol a
 Dit is een heel goed en haalbaar idee! De mol heeft veel meer houvast en kan veel meer mollen. Tegelijkertijd heb je een interessante opdracht én bij elke opdracht heb je die onzekerheid over wat voor slims de mol misschien uit die koffer heeft gehaald. En het enige dat je nodig hebt is één koffer/tas en een korte uitleg van deze twist.
 {{% /example %}}
 
-Je hoeft dit ook niet per se aan het begin te kiezen. Het werkt beter als je eerst al je ideeën voor opdrachten een beetje op papier hebt, zodat je _daarna_ ziet wat er mogelijk is. Je kan pas connecties tussen ideeën zien als je ze eerst even allemaal op een rijtje zet.
+Je hoeft dit ook niet per se aan het begin van je denkproces te kiezen. Het werkt beter als je eerst al je ideeën voor opdrachten een beetje op papier hebt, zodat je _daarna_ ziet wat er mogelijk is. Je kan pas connecties of gedeelde thema's tussen ideeën zien als je ze eerst even allemaal op een rijtje zet.
 
 ## Stap 1: Een draaiboek
 
@@ -109,6 +114,7 @@ Dus mijn broertje typte allerlei creatieve ideeën en dan ging ik later over die
   * Opzet => wat je moet vertellen/klaarzetten voordat je begint.
   * Spel => de specifieke regels van deze opdracht. Wat kandidaten wel/niet mogen of moeten doen en wat ze zo in het algemeen proberen te bereiken.
   * Afronding => wanneer het eindigt, en hoe dan de pot/resultaten worden verdeeld en afgehandeld.
+  * (Notities voor de organisatie => herinneringen aan cruciale dingen die je niet mag vergeten bij deze opdracht, zo nodig.)
 
 Ik hanteer graag regels zoals "elke opdracht maximaal één pagina". Niet omdat ik denk dat opdrachten die meer tekst nodig hebben automatisch fout zijn of niet bestaan, maar omdat het een goed streven is dat je opdrachten **simpel houdt**. Als je twee pagina's nodig hebt om de opdrachten aan jezelf uit te leggen, is hij waarschijnlijk te moeilijk of langdradig voor willekeurige spelers die van niks weten.
 
@@ -493,6 +499,26 @@ Dus, bedenk van te voren wat mogelijke verrassingen, wat "aanbiedingen van de mo
 
 Het is geweldig voor het enthousiasme en de moraal als zelfs een compleet mislukte opdracht ook maar een _beetje_ kan worden gered. ("Oké jullie hebben nul euro verdiend ... maar dat kan 200 euro worden als jullie alsnog het kistje met de sleutel kunnen aanwijzen") Andersom is het geweldig voor de spanning en de intrige als een opdracht die een zekerheid lijkt toch mislukt. (De laatste speler heeft de sleutel, hij loopt naar de kamer waar het kistje moet staan ... maar dankzij jullie hulp heeft de mol dat kistje weten om te wisselen en dus blijkt hij leeg.)
 
+### "Plausible Deniability"
+
+Het is erg lastig om van te voren in te schatten of een opdracht precies moeilijk genoeg is. De tip hierboven ("twist van de mol") helpt al enorm hierbij, omdat je dus gaandeweg de opdracht kan balanceren. Maar je moet dit niet té veel doen natuurlijk, en het kan niet altijd, dus ik wilde deze tweede tip ook nog geven.
+
+Je wilt eigenlijk opdrachten waarbij zowel kandidaten als mol "plausible deniability" hebben. Je wilt opdrachten die net een tandje té uitdagend zijn, zodat mensen fouten kunnen maken, maar de medespelers het ook wel weer "begrijpen" dat je die fout maakt. 
+
+Sterker nog, het hoeven niet eens "fouten" te zijn. **Je kan opdrachten zo bedenken dat spelers _zelf_ de moeilijkheidsgraad reguleren.** Spelers mogen zelf inschatten wat ze aankunnen of hoe groot hun kans van slagen is. Op die manier kan een opdracht die veel te moeilijk is alsnog perfect uitpakken. Want de spelers regelen de moeilijkheidsgraad zelf!
+
+{{% example %}}
+In eerste instantie was ons idee voor opdracht 3 ("woorden uitbeelden in de tuin") ietsje anders dan ik heb uitgelegd. We waren van plan om 10 bordjes in de tuin te plaatsen, en 7 daarvan zouden een rood kruis hebben (NIET GOED), en 3 een groen vinkje (WEL GOED). Je moest dus, als jij aan de beurt was, één bord met een vinkje vinden en die uitbeelden.
+
+Maar toen ging ik de woorden bedenken ... en dan merk je dat verschillende woorden natuurlijk lastiger zijn uit te beelden. Zoiets als "vuurwerk afsteken" of "afvallen" is van een andere orde dan "fietsen". Het voelde onmogelijk om 10 woorden te vinden die exact even makkelijk/moeilijk waren. Dus ...
+
+Toen hebben we verschillende geldbedragen aan woorden geplakt! Alle woorden zijn "goed", maar de moeilijkere leveren meer geld op. En zo wordt het dus een KEUZE om dat hele lastige ding uit te beelden voor 1000 euro, of dat hele makkelijke ding voor maar 50 euro. De mol heeft "plausible deniability" over weinig geld opleveren door een foute inschatting; een kandidaat heeft hetzelfde.
+{{% /example %}}
+
+Dit is lastig, zal ik toegeven, zeker als je normaal gesproken geen spellen/opdrachten bedenkt. Want je moet dus een slim, uniek trucje _per opdracht_ bedenken zodat spelers _zelf de opdracht balanceren_. Geen makkelijke taak! Maar wel een hele waardevolle taak. Ik leerde deze les jaren geleden (na het maken van 10+ spellen) en heb het sindsdien bij al mijn projecten geprobeerd toe te passen.
+
+Je kan nou eenmaal niet een opdracht perfect balanceren voor elke groep spelers, op elk moment, en zo de toekomst perfect voorspellen. Dus in mijn ogen kan je het beste een opdracht flink moeilijk maken (om perfect te doen), maar de spelers zelf keuzes geven om het makkelijker te maken. Laat ze de finishlijn dichterbij leggen voor 500 euro minder. Laat ze foute antwoorden op quizvragen wegspelen ten koste van 100 euro. Laat ze zelf kiezen of ze het 5-letterwoord of het 10-letterwoord willen raden.
+
 ### Houd rekening met de specifieke spelers
 
 Deze tip gaat zowel over de limitaties van je spelers als ook hun krachten.
@@ -523,6 +549,18 @@ Als ze niet groen gebruiken, dan gebruiken ze beige/bruin. Dus een heel lichtbru
 Maak je tekst **groot**! Het is eigenlijk niet goed in te schatten op een scherm hoe tekst over zal komen op een geprint kaartje, tijdens een opdracht, in de haast, misschien dubbelgevouwen. Dus maak het iets groter dan je denkt. Kies voor korte zinnen, simpele woorden, goed contrast, lekker duidelijk. (Het is belangrijker dat kandidaten de tekst kunnen lezen dan dat je hele fancy achtergronden en lettertypes hebt gebruikt.)
 
 Check of **kaarten doorschijnend zijn**. Je wilt niet dat opdrachten worden verpest doordat iemand gewoon door andermans papiertje heen kijkt, of even een ding tegen het licht houdt. Meestal betekent dit dat je ook achterkanten maakt (het liefst diepzwart of met een druk patroontje) en die erop plakt. Dubbelzijdig, met twee andere kanten, is het meestal onmogelijk te zien. (Je wilt al helemáál niet dat iemand z'n envelop opent met "Jij bent de MOL" en dat de persoon aan de overkant van de tafel dat dan gewoon ziet.)
+
+### Vragenlijsten
+
+Dit is optioneel, maar ik zou het wel aanraden. Zodra je zeker weet wie er allemaal meespeelt (en wanneer/wat je gaat doen) kan je al die mensen een korte vragenlijst sturen die ze over zichzelf mogen invullen en terugsturen. Dit is vaak een mengsel van standaardvragen (leeftijd, geslacht, woonplaats) en specifieke/rare vragen (wat is je grootste angst? wat is je favoriete kledingstuk?).
+
+Enerzijds werkt dit goed om mensen warm te maken en alvast over de activiteit te laten nadenken. Nu hebben ze, voordat het begint, al wat keuzes gemaakt en moeite gedaan. Dat helpt altijd.
+
+Anderzijds kan je nu deze antwoorden gebruiken in je opdrachten en test(en). Dit kan vrij direct zijn ( = letterlijk de vraag laten terugkomen in de eindtest), of veel subtieler ( = je kan een puzzelopdracht alleen oplossen als je beseft dat de antwoorden allemaal bij één kandidaat horen).
+
+Bij onze oudjaars-WIDM gebruikten we dit ook om dus de mol te kiezen. Iedereen mocht invullen wat hun "ideale mol" zou doen bij de eerste opdracht. Degene die het beste voldeed aan die verwachtingen hebben we toen na opdracht 1 gekozen. (Nou ja, er waren twee mensen die allebei precies even goed voldeden, maar een daarvan leek die eerste opdracht al niet te volgen/te moeilijk te vinden, dus kozen we de andere speler :p Achteraf de juiste keuze denk ik zo.)
+
+Daarnaast vind ik dit zelf ook gewoon heel grappig. Ik vul altijd leuke dingen in op vragenlijsten, en het is net zo leuk om als organisator lijsten terug te krijgen van anderen met wat grappige of onverwachte antwoorden.
 
 ### Een knallend begin
 
