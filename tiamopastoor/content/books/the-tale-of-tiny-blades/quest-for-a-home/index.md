@@ -26,7 +26,7 @@ links:
   - key: Ebook / Paperback / Hardcover (Amazon)
     value: "@TODO"
   - key: Ebook / Paperback (Other major stores)
-    value: "@TODO"
+    value: https://books2read.com/u/3n0qNP
 
 logline: |
   When the Romans suddenly leave Britain, three different kings believe the island is theirs now. A boy named Arthur, and his wizard father Merlin, get caught in the middle of their neverending battles. Follow him as he learns magical lessons about honor, swordfighting, nature, love, and what it means to stand up against evil. Experience the surprising start of King Arthur's journey!

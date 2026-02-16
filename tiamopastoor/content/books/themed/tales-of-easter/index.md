@@ -26,7 +26,7 @@ links:
   - key: Ebook / Paperback / Hardcover (Amazon)
     value: "@TODO"
   - key: Ebook / Paperback (Other major stores)
-    value: "@TODO"
+    value: https://books2read.com/u/31pBVM
 
 logline: |
   A bundle of Easter-related stories with a fantastical twist, containing the 10 most important Gospylls about the origins of the Spring holiday.

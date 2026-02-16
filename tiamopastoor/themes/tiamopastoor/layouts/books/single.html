@@ -8,7 +8,7 @@
 				<!-- Thumbnail -->
 				{{ partial "thumbnail.html" (dict "context" . "class" "left-side hide-caption" "addbox" true) }}
 
-				{{ $past_release_date := false }}
+				{{ $past_release_date := true }}
 				{{ if .Params.dateReleased }}
 					{{ $past_release_date = ge (sub now.Unix (time.AsTime .Params.dateReleased).Unix) 0 }}
 				{{ end }}

@@ -1,7 +1,7 @@
 ---
 title: "Een eigen Wie is de Mol organiseren"
 author: tiamopastoor
-date: 2026-02-18
+date: 2026-02-16
 language: nl
 categories: ["Miscellaneous"]
 ---
@@ -11,6 +11,10 @@ Afgelopen oud en nieuw organiseerden mijn broertje en ik een (kleine) "Wie is de
 Daarom wilde ik dit artikel schrijven met die geleerde lessen en wat dan beter kan, om anderen te helpen en om het zelf niet te vergeten ;)
 
 Ook ben ik van plan om in de toekomst allerlei hulpmiddelen en _Wie is de Mol?_-feestpakketten aan te bieden in mijn [internationale webshop](https://thewaywardmelody.com). Maar dat is voor nu slechts een plan. En ik weet ook nog niet of ik dat dan gratis zou weggeven of betaald zou maken. Dus ik wilde op z'n minst dit lange gratis artikel schrijven met alle wijsheid, tips, en voorbeelden om je te helpen!
+
+{{% update %}}
+Inmiddels heb ik drie van die feestpakketten gemaakt! Voor verschillende groepen en doeleinden, met verschillende thema's en ideeën. Ik heb bijvoorbeeld [De Zwarte Plaag](https://thewaywardmelody.com/teachers/themed/de-trol-ontwaakt/de-zwarte-plaag/) waarin de Trol stiekem achter de schermen spelers besmet. Of [De Papierproef](https://thewaywardmelody.com/teachers/themed/de-trol-ontwaakt/de-papierproef/) die zonder tekst of getallen is en daardoor speelbaar met jonge kinderen of spelers die het programma totaal niet kennen.
+{{% /update %}}
 
 ## Wat _is_ een WIDM activiteit?
 

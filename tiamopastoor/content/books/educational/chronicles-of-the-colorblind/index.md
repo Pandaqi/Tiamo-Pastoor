@@ -26,7 +26,7 @@ links:
   - key: Ebook / Paperback / Hardcover (Amazon)
     value: "@TODO"
   - key: Ebook / Paperback (Other major stores)
-    value: "@TODO"
+    value: https://books2read.com/u/3n0qj8
 
 logline: |
   Explore a world where emotions paint the world specific colors and heroes must use that try to fight Endless Blackness.
