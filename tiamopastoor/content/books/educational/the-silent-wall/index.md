@@ -23,10 +23,6 @@ price:
 links: 
   - key: Ebook / PDF (The Wayward Melody)
     value: https://thewaywardmelody.com/explorers/level-1/language/the-silent-wall/
-  - key: Ebook / Paperback / Hardcover (Amazon)
-    value: "@TODO"
-  - key: Ebook / Paperback (Other major stores)
-    value: "@TODO"
 
 logline: |
   Two worlds separated by a mysterious wall. One brave girl wants to discover the linguistic secrets behind it all.

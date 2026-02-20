@@ -26,7 +26,7 @@ links:
   - key: Ebook / Paperback / Hardcover (Amazon)
     value: "@TODO"
   - key: Ebook / Paperback (Other major stores)
-    value: "@TODO"
+    value: https://books2read.com/u/mVEnGl
 
 logline: |
   A bundle of scary stories for (young) kids, all of which happened in the spooky Tinglespine Town. A bundle of 'first horror stories' for kids; ideal for Halloween.

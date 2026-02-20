@@ -26,7 +26,7 @@ links:
   - key: Ebook / Paperback / Hardcover (Amazon)
     value: "@TODO"
   - key: Ebook / Paperback (Other major stores)
-    value: "@TODO"
+    value: https://books2read.com/u/mlVyRZ
 
 logline: |
   Follow some terrible pirates on a magical ship that can only turn in one direction. Until someone discovers how to unlock another direction, so they can finally look for their treasure ... but at a cost.

@@ -26,7 +26,7 @@ links:
   - key: Ebook / Paperback / Hardcover (Amazon)
     value: "@TODO"
   - key: Ebook / Paperback (Other major stores)
-    value: "@TODO"
+    value: https://books2read.com/u/4jkM0X
 
 logline: |
   Follow a young Astra Buni as she discovers her paintbrush is magic and learns which exact lines, scribbles and doodles create which exact spells.

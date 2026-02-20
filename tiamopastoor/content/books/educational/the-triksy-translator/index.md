@@ -26,7 +26,7 @@ links:
   - key: Ebook / Paperback / Hardcover (Amazon)
     value: "@TODO"
   - key: Ebook / Paperback (Other major stores)
-    value: "@TODO"
+    value: https://books2read.com/u/bxLPPv
 
 logline: |
   Aliens land in the animal forest and speak a different language. One person appears who claims he can translate for them, but after every translation the aliens seem to like him more and more, and everyone else less and less ...

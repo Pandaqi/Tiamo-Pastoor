@@ -26,7 +26,7 @@ links:
   - key: Ebook / Paperback / Hardcover (Amazon)
     value: "@TODO"
   - key: Ebook / Paperback (Other major stores)
-    value: "@TODO"
+    value: https://books2read.com/u/b5yRpl
 
 logline: |
   A story fully written in rhyme, about two kingdoms who always copied each other, though they made small mistakes. One of them has had enough and tries to figure out how the other side always knows what they're up to.

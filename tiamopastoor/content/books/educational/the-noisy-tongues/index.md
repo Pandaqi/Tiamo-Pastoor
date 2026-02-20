@@ -26,7 +26,7 @@ links:
   - key: Ebook / Paperback / Hardcover (Amazon)
     value: "@TODO"
   - key: Ebook / Paperback (Other major stores)
-    value: "@TODO"
+    value: https://books2read.com/u/3n0yy8
 
 logline: |
   A series of adventures with the mysterious Noisy Tongues to explore pre-reader language awareness.

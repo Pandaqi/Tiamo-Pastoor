@@ -66,7 +66,7 @@ Maar dat deed hij niet.
 
 Met groeiende verbazing las ik elke week hoe hard hij weigerde om zinnige politieke zetten te maken.
 
-Hij noemt iets als "de VVD heeft te veel zetels om ze te negeren"---maar ... GL-PVDA heeft slechts 2 zetels minder? D66, GL, CDA, dan krijg je een extra linkse partij echt wel mee en heb je aan het eind van de rit zelfs méér zetels. Onzin dus.
+Hij noemt iets als "de VVD heeft te veel zetels om ze te negeren"---maar ... GL-PVDA heeft slechts 2 zetels minder? D66, GL, CDA, dan krijg je een extra linkse partij echt wel mee en heb je aan het eind van de rit zelfs méér zetels. Bovendien heeft die meer progressieve samenstelling fors meer zetels in de Eerste Kamer. Onzin dus.
 
 Hij noemt iets als "tja, als minderheidskabinet hebben we altijd de steun nodig van de rechtse partijen"---maar dan had je die partijen dus gewoon in je kabinet moeten opnemen en een meerderheid moeten vormen. Maar dat doe je niet, want je weet dat de standpunten van D66 aan de andere kant van het heelal liggen ten opzichte van die van FvD of JA21.
 

@@ -26,7 +26,7 @@ links:
   - key: Ebook / Paperback / Hardcover (Amazon)
     value: "@TODO"
   - key: Ebook / Paperback (Other major stores)
-    value: "@TODO"
+    value: https://books2read.com/u/mZGgL5
 
 logline: |
   The evil King Triangle only wants Triangles to live in his kingdom. All the other shapes try to find a way to survive ... and use a special shape magic to defeat him.

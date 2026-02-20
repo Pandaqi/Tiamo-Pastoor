@@ -26,7 +26,7 @@ links:
   - key: Ebook / Paperback / Hardcover (Amazon)
     value: "@TODO"
   - key: Ebook / Paperback (Other major stores)
-    value: "@TODO"
+    value: https://books2read.com/u/4jkM9D
 
 logline: |
   Unlikely superheroes use dexterity magic---cutting, folding, pinching, and more---to save the world.

@@ -26,7 +26,7 @@ links:
   - key: Ebook / Paperback / Hardcover (Amazon)
     value: "@TODO"
   - key: Ebook / Paperback (Other major stores)
-    value: "@TODO"
+    value: https://books2read.com/u/mlVMYA
 
 logline: |
   A story about how and why we tell stories. About the Prestory family and the mysterious danger of the Spirits, and the Book Worm who has to save his life by telling stories that are interesting enough each night.

@@ -26,7 +26,7 @@ links:
   - key: Ebook / Paperback / Hardcover (Amazon)
     value: "@TODO"
   - key: Ebook / Paperback (Other major stores)
-    value: "@TODO"
+    value: https://books2read.com/u/3n0MnB
 
 logline: |
   A story about a stork trying to sort letters and packages, even though the Chaos Cat tries to make it impossible to deliver them (correctly).

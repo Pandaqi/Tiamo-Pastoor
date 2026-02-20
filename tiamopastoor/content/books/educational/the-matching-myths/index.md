@@ -26,7 +26,7 @@ links:
   - key: Ebook / Paperback / Hardcover (Amazon)
     value: "@TODO"
   - key: Ebook / Paperback (Other major stores)
-    value: "@TODO"
+    value: https://books2read.com/u/bOgllA
 
 logline: |
   Fairy Tales about matching, recognition, and (visual) discrimination from The Wayward Melody.
