@@ -1,7 +1,7 @@
 ---
 title: "Winter 2026 Update!"
 author: tiamopastoor
-date: 2025-03-31
+date: 2026-03-31
 language: en
 categories: ["Updates"]
 ---
@@ -69,7 +69,7 @@ Yes, I'm still figuring this out. For now, _most_ ideas and projects of mine can
 
 But I'm trying to hold off on some things, trying to keep a few "not-online-store" or "not-for-sale" hobbies in my life. I'll let you know how that went in the future :p
 
-## Anything Else?
+## Broken Record
 
 Ugh, I feel like a broken record. I keep saying I want to record all those great song ideas of mine, every darn update, yet I never find the space, time, or health for it. And the folder with song ideas only grows! I'm not exaggerating when I say there's probably 500 ideas for songs in there, of which I'd say 200 are pretty good, and 100 are really good and complete enough to record right now. 
 
@@ -87,4 +87,52 @@ I created a little "recording cave" with blankets/matresses myself years ago and
 Anyway, it's not helpful when every recording sounds unusable and unprofessional because of a terrible acoustic space. This is not in my head, I'm pretty sure, there is a massive audible difference here. You can't just place your microphone anywhere in a small, boxy, untreated bedroom and expect it to sound fine.
 {{% /remark %}}
 
-@TODO
+## Anything Else?
+
+I've mentioned for years now how I struggle to find joy in anything, and as a consequence struggle to find motivation (or "care") for anything at all. And when I say anything, I mean anything. Our amazing system of education basically sucked the will to life out of me, and ever since getting my degree (~5 years ago) I've been trying to undo that damage.
+
+I also mentioned in the last update that I did not expect many changes in this journey. I've tried a lot, none of it worked. The only thing left was medication, which I opposed heavily for years. And I think that was mostly the right thing to do, because a lot of things can be improved---and sustainably so---by improving your lifestyle and habits. This made me exercise enough, eat healthier, completely get off social media and my phone, and all sorts of good things.
+
+But it's not enough.
+
+I'm not a teenager anymore. I don't have the time or boundless energy to run around and exercise for 5 hours a day, which I used to do for years. Exercise is often touted as the best way to "treat" ADHD or depressive symptoms, as it makes you feel better and more confident that you can take on the world, which in turn leads to motivation and getting stuff done. 
+
+{{% remark %}}
+Yes, many hours of exercise a day is excessive, I know! I only had to do that because I have a hyperactive body _and_ a chronic illness that needs to be kept at bay each day. I don't like it either. But skipping a few days means I can barely get myself out of bed anymore and everything hurts, so there's that.
+{{% /remark %}}
+
+As such, my exercise has been reduced to "only" running 5 kilometers every morning, my usual exercises (push-ups, stretching, etc), and sometimes cycling on my desk bike while working in the evening. This is much less than before---and it hurts. The chronic illness becomes worse, my ADHD returns in full force and makes it physically impossible to focus on anything or hold a single thought at all, and worst of all I can't eat whatever I want anymore because I'll get fat ;)
+
+Needless to say, this can quickly spiral into loss of productivity and good habits, and eventually everything becoming too hard and coming to a standstill. I noticed the signs and also noticed that I'm just not able to combat it myself anymore. After spiraling a bit further still, I eventually sought help again. There's a waiting list, of course, but I am set to get mental therapy on a deeper level than before (hoping to find a way to solve the lack of joy I've had for 15 years now), and to actually try medication.
+
+I did everything I could to improve my lifestyle. I literally designed my work and my webshop around the strengths of my brain and body, knowing I'll never be able to hold a usual job or, you know, change my genetics. I did all I could, it has not been enough so far, so I've finally decided to stop opposing medication and opposing looking for financial aid.
+
+Reading stories online, and then hearing stories from people around me, has shown me that this is basically the journey of everyone with ADHD. Our brain is a busy mess, we can't focus on anything the world says we _need_ to focus on, we're _always_ tired because we're _always_ busy ... and we've learned, all our life, to try and fix it. We wonder why everyone else can make decisions and we can't. We wonder why everyone else knows what they want in life, then does it, and has a stable income by the age of 25. And we think it's _our fault_ somehow, for not being able to focus and achieve and stick to a lane, which is why we don't often seek help or think about medication.
+
+And then, the stories all say, they tried medication and broke down crying. Because they suddenly realized what it was like to actually finish thoughts. To actually have a single calm voice in your head and being able to finish a task you started. They suddenly understood why everyone else got shit done and could _decide_ what to focus or work on---and why they never could because of literally their brain's core programming. 
+
+As for financial aid, I likely won't get it. But I have to try. I'm almost 30 now and always stressed about not actually earning a stable income. Stressed about not being able to do _anything_ because I am poor, and not being able to actually start living until I'm already old.
+
+Of course, I don't know how everything will play out. But I have to cling onto some sliver of hope that medication will get me over that first and biggest hurdle. Enable me to either work a job or focus long enough on projects to finish them, market them, and find success in that. Because after 15+ years I've realized I will likely _never_ earn money as long as my brain loses interest in a project/job after two days. That's just not enough time and focus to truly polish and market anything. To truly iterate and make it good enough to sell. To actually be known for something and consistently deliver that.
+
+And yes, that's how bad it is for hyperactive people. I can literally wake up and believe---deep in my core, with all my heart---that "today I want to learn how to make an online multiplayer game! I must do that! Let's focus on that!" And I will work tirelessly for three days, gaining this incredibly complicated skill, and then ... 
+
+... I wake up the next day with absolute complete disinterest in games at all. Just don't care. It's in the past now. I've moved on and all the discipline in the world can't bring me back to actually finish that game. My brain has found some new thing to focus on, or it tries to think about a hundred things at once, and so it goes. So it has always gone for nearly 30 years.
+
+So yes, in short, I am enrolled to start a course of treatment that can hopefully achieve two things. Allow my brain to calm down so I can hold a job or finish projects (properly), leading to income and productivity and career, leading to stability and less stress and being able to ... do stuff. And, at the same time, give me the feeling again that any of this matters and that I should expand my horizons beyond me working alone in my room. Or, at least, figure out how the heck I'm this contradictory person that is both completely disinterested in life and simultaneously the most fit and hard-working person you'll meet.
+
+## Conclusion
+
+Let's end the update more positively, as I always try to do.
+
+Despite all these issues I got _some_ things done the past three months. Not enough, not as much as I wanted, but _some things_. At the very least, I learned how to make online multiplayer games ;)
+
+It will take a while for treatment to start. Until then, all I can do is keep getting up each day and trying to do stuff at a pace I can manage. I'll probably finish some more things for the online store, go off on tangents half the time, and make a a half-hearted attempt to earn money from any of it. 
+
+I still _know_, rationally, that the online store is the best project for me. My plan for it is very solid, it fits how I think and work, it has endless potential for growth and new products, and it actually sells things instead of giving them away for free (as I did for years). I already did the hardest part and just need to grow and market it. It's just near impossible to convince my easily distracted brain to _also_ know this and be motivated to keep working on it. But who knows, maybe next month I'll suddenly truly believe this again and get lots of stuff done.
+
+Then again, as mentioned, I don't _want_ to be "more productive" or "working even more". I want to actually live a life, meet someone, be able to truly relax or play for the first time since forever. But unless I find some magical pot of gold, the route towards that freedom (and being able to take time off) is through earning money, so that's still the first priority.
+
+Until next update,
+
+Tiamo
