@@ -1,7 +1,7 @@
 ---
 title: "The Factory of Ideas Has Launched!"
 author: tiamopastoor
-date: 2026-04-05
+date: 2026-04-20
 language: en
 categories: ["Updates"]
 ---
