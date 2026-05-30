@@ -1,7 +1,7 @@
 ---
 title: "Spring 2026 Update!"
 author: tiamopastoor
-date: 2026-06-31
+date: 2026-06-30
 language: en
 categories: ["Updates"]
 ---
