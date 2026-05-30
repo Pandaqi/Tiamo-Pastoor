@@ -8,7 +8,7 @@ categories: ["Miscellaneous"]
 
 When this article launches, I _should_ have officially launched my big webshop project. A new website connecting _all_ my work, allowing you to buy escape rooms, quizzes, games, merchandise, and more. Hopefully a cozy home for the long-term future, which both gives me an outlet for everything I make _and_ allows me to earn an income.
 
-Launching such a large webshop obviously isn't a simple task. Multiple articles will release about the entire journey towards building it. Because _of course_ I had to pick a custom solution that I almost entirely _built from scratch_. Of course my hyperactive brain wanted to actually _know_ how all of it worked, and to code most of it myself, and to keep full freedom and ownershop over my store.
+Launching such a large webshop obviously isn't a simple task. Multiple articles will release about the entire journey towards building it. Because _of course_ I had to pick a custom solution that I almost entirely _built from scratch_. Of course my hyperactive brain wanted to actually _know_ how all of it worked, and to code most of it myself, and to keep full freedom and ownership over my store.
 
 I did research and created a plan for about a week, then I started actually building this new website. I had already learned that it was impractical to attach a small webshop to every existing website of mine. Because of the way my hosting is set up, I had also already "accepted" that I simply _could not_ use any pre-made webshop solutions.
 
@@ -46,6 +46,7 @@ Once the initial satisfaction wore off, I stoically continued my plan. Add more 
 ## First Issues
 
 **Snag #1:** WooCommerce _really_ wants you to use their integrated system for accepting payments and managing that. This is fine, of course, except for the fact that this is _not straightforward_.
+
 * You have to make an account ... and then another account (with Stripe) ... to do this.
 * If you stop halfway, it will stay in limbo forever and keep bugging you, unless you manually choose to "reset everything" (risking losing other progress).
 * It's not really clear on whether it costs money and/or how much of a cut it takes from your profits. 
@@ -143,17 +144,17 @@ As expected, when I actually started seriously designing and presenting products
 
 ### Lesson 1
 
-**Lesson 1: Prices are "from"**. This is most egregious on Printify, but applies to other platforms too. When showing an item, it shows the lowest cost and shipping fee it _could possibly have_. In practice, however, you are always higher than this. For example, a T-shirt only had such a low retail price if you _only added something to the front_. When I added some nice design at the back too, and a neck label, the retail price suddenly **doubled**.
+**Lesson 1: Prices are "from"**. This is most egregious on Printify, but applies to other platforms too. When showing an item, it shows the lowest cost and shipping fee it _could possibly have_. In practice, however, your price always ends up higher than this. For example, a T-shirt only had such a low retail price if you _only added something to the front_. When I added some nice design at the back too, and a neck label, the retail price suddenly **doubled**.
 
-This isn't terrible per se---it's quite understandable that printing more/doing more steps cost more. But this becomes horrible when it is _not mentioned anywhere_. I've read a _lot_ of articles and documentation from Printify when I wrote my own webshop, because I needed to connect to their API of course. And in all that time I read _nothing_ about prices working this way. If I didn't have a "scientist's mind-set" of trying all different T-shirt configurations and checking prices, I would have no clue. (As in, I edited the same T-shirt to have front+back, only front, only back, etcetera.) The exact "cost" of every step or change is also not listed anywhere.
+This isn't terrible per se---it's quite understandable that printing more/doing more steps cost more. But this becomes horrible when it is _not mentioned anywhere_. I've read a _lot_ of articles and documentation from Printify when I wrote my own webshop, because I needed to connect to their API. And in all that time I read _nothing_ about prices working this way. If I didn't have a "scientist's mind-set" of trying all different T-shirt configurations and checking prices, I would have no clue. (As in, I edited the same T-shirt to have front+back, only front, only back, etcetera.) The exact "cost" of every step or change is also not listed anywhere.
 
 Since I learned that, I got into the habit of very closely watching that original advertised price and seeing if it went up sneakily. I also become more parsimonous, I guess, with my designs. A T-shirt with front+back+label is just _way too expensive to sell_.
 
-The same is true for shipping fees of course. Printify just always shows the "absolute lowest", even though it knows my location and it's _not there_. Gelato, on the other hand, always gives the shipping fee for the Netherlands specifically, which is much more helpful and more fair. At first, I thought Gelato was a lot more expensive than the others, but once I realized these things, it turned out cheaper on several products.
+The same is true for shipping fees. Printify just always shows the "absolute lowest", even though it knows my location and it's _not there_. Gelato, on the other hand, always gives the shipping fee for the Netherlands specifically, which is much more helpful and more fair. At first, I thought Gelato was a lot more expensive than the others, but once I realized these things, it turned out to be the cheapest option on many products.
 
 ### Lesson 2
 
-**Lesson 2: One design, many variants.** Let's say positive and mention a _good_ thing now. All the platforms I tried (Printify, Printful, Gelato) allow you to upload a single design and then apply it to all the different variants automatically. For example, I only need to upload a single image and it can be used on T-shirts of all sizes and all colors I selected. (Obviously, one and the same design _can't_ look great on _all_ colors.)
+**Lesson 2: One design, many variants.** Let's stay positive and mention a _good_ thing now. All the platforms I tried (Printify, Printful, Gelato) allow you to upload a single design and then apply it to all the different variants automatically. For example, I only need to upload a single image and it can be used on T-shirts of all sizes and all colors I selected. (Obviously, one and the same design _can't_ look great on _all_ colors.)
 
 Similarly, when designing a phone case, you can just pick all the phones it should support and it will auto-scale to match. This is obviously a big deal, because there are hundreds of different phone dimensions out there, and you surely don't want to have to create each one manually.
 
@@ -165,7 +166,7 @@ I'll give the biggest differences/lessons per platform.
 
 * **Printify**: their mockups are great, but there are waaaay too many of them. I have to make sure to tone it down, otherwise my website is flooded with useless images wasting space. They have no way to set Categories or Tags from within the interface. Their default description is English only and pretty worthless. The only data they copy behind the scenes (at least for my website theme) is the _weight_ of the product. Their auto-add GSPR function is really nice, though. Also, _prices excluding VAT_.
 * **Printful**: their mockups are almost non-existent. They give me a nice list of details in the description ... but it's not actually a list, so I have to manually type it _as a list_ in WordPress anyway. They can read my installation and allow me to directly set a known Category, nice. Their auto-add GSPR is confusing and pretty worthless. Also, _prices including VAT_.
-* **Gelato**: just the right number of mockups. Default descriptions are Dutch too and I don't need to do a thing, nice. I can directly said Categories and Tags within _their_ interface. A bit more "extra info" is sent along. They don't even _mention_ the required GSPR information, though. Also, _prices excluding VAT_.
+* **Gelato**: just the right number of mockups. Default descriptions are Dutch too and I don't need to do a thing, nice. I can directly set Categories and Tags within _their_ interface. A bit more "extra info" is sent along. They don't even _mention_ the required GSPR information, though. Also, _prices excluding VAT_.
 
 Looking at it like this, Gelato---despite using their Legacy API with a workaround---is clearly the most friendly one to use. It sends the most (useful) data along and doesn't require me to do much manual tweaking.
 
@@ -222,9 +223,9 @@ I decided to stop using anything not located in Europe and switch to more local 
 At least, that's what I used for _this_ webshop. My bigger one will be English and international from the start, and my gained experience with these services will be very helpful then.
 {{% /remark %}}
 
-Additionally, my hyperactive brain had _completely_ overlooked checking possible payment methods. With print-on-demand, you get billed for the _cost_ of producing the item first, and then a few days later (or hopefully faster) you hopefully get the total money that the customer paid on your bank account. The difference between the two is obviously your _profit_.
+Additionally, my hyperactive brain had _completely_ overlooked checking possible payment methods. With print-on-demand, you get billed for the _cost_ of producing the item first, and then a few days later (or hopefully faster) you get the total money that the customer paid on your bank account. The difference between the two is obviously your _profit_.
 
-But they delay here, or rather "potential time difference", isn't great. It means that you need to have funds _in advance_ to pay for orders, which is especially risky if you just happen to have a really good day and get dozens of orders at once.
+But the guaranteed delay here isn't great. It means that you need to have funds _in advance_ to pay for orders, which is especially risky if you just happen to have a really good day and get dozens of orders at once.
 
 I had assumed all these services would support PayPal. Most of them did, but not Printify. That's another reason why I basically dropped them.
 
@@ -249,7 +250,7 @@ I absolutely despise things like "wallets" or "credits". Instead of charging you
 In reality, of course, this just leads to _you_ doing more work, putting _more_ money than needed into that wallet ("to be sure", "to save myself work"), while they charge a fee for taking it out again or whatever. And that's exactly what they're counting on. Ugh! One of the reasons I wanted to leave my old hosting provider, frankly.
 {{% /remark %}}
 
-Still, I wanted it all in one place, so I moved to platforms that supported PayPal and that's that. I've had a business bank account there for ages and use it for almost everything. This means I have all finances in one place, yes, but also that it most likely never runs out (because there's regularly money coming on _or_ me personally checking it).
+Still, I wanted it all in one place, so I moved to platforms that supported PayPal and that's that. I've had a business bank account there for ages and use it for almost everything. This means I have all finances in one place, yes, but also that it most likely never runs out (because there's regularly money coming in _or_ me personally checking it).
 
 The biggest downside is that every platform has its _own_ stupid process for proving that you're a business and such. The number of times I've had to resubmit the same details (business name, tax ID, vat ID, business ID, address, whatnot) ... But it's worth it, because it saves you so much money---and effort in the long run---to have all of this done through an official company.
 
@@ -420,9 +421,9 @@ Once I used a few platforms that DON'T generate and deliver lots of mockups auto
 After a few tries, however, I learned two ways to achieve mockup images myself.
 
 * Even if there is no "mockup generator", there are still example image of the product. I could often copy them, erase/cut out some part, then plaster my design on top.
-  * Sometimes this is really easy. Sometimes this is too much work, as there are so many tine parts to cut out. (For example, with a ringed notebook/calendar, it takes a lot of work to keep the rings but remove anything around it.)
+  * Sometimes this is really easy. Sometimes this is too much work, as there are so many tiny parts to cut out. (For example, with a ringed notebook/calendar, it takes a lot of work to keep the rings but remove anything around it.)
 * I could ... let AI generate some basic mockup backgrounds for me! As I expected, it's _really good_ at this, because its dataset is probably filled with the same types of mockup/product images.
-  * The prompt would be something like "A background for a product mockup image. It should show a wooden table from above top-down view, and perhaps some mugs, books or pencils for decoration."
+  * The prompt would be something like "A background for a product mockup image. It should show a wooden table from above, top-down view, and perhaps some mugs, books or pencils for decoration. Keep the space in the center empty so I can place the actual product there."
 
 I spend 30-60 minutes generating mockup backgrounds for all sorts of situations, which I imagine I'll be able to (re)use for almost all future products.
 
@@ -467,7 +468,7 @@ Initially, I defaulted to just keeping a file for each product (on my computer, 
 
 The entire setup of my webshop is "I don't care about money, but I have to earn a bit, so we're going to be completely transparent and honest about everything"!
 
-And so I updated my workflow to add this information _publically, to the product itself_. I had already learned where I could find different attributes/variations of the same product, and how to add more myself. So I decided to use that space.
+And so I updated my workflow to add this information _publicly, to the product itself_. I had already learned where I could find different attributes/variations of the same product, and how to add more myself. So I decided to use that space.
 
 * Platform = platform used for production
 * Production = country/method of production

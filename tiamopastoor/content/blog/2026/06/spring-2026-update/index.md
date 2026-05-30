@@ -202,3 +202,24 @@ After many weeks of doubt, discussions, visiting people for help, and more ... I
 Until the next update,
 
 Tiamo
+
+
+## UPDATE (June 30)!
+
+I stuck to this plan quite well and stand by everything I wrote. 
+
+I did however deviate at one point---as I always tend to do---precisely because I am in desperate need of more income.
+
+I decided to finally **release my first paid game** (on Steam, by far the biggest paid video game platform). I knew it would not be an outright success, so I set myself a hard deadline that only allowed ~4 weeks of work on it, and treated it as a big learning/practice game.
+
+And _learn_ I did :p I stumbled through all the different rules, requirements, steps, and more that come into play when you try to run an actual business and get a spot on the biggest video game platform. I learned a lot. It made the final game more professional and polished than it would have been otherwise. I also have a much clearer view of how next games should look and how to sell them better on Steam.
+
+The game I released is [Super Sub: World Cup](https://store.steampowered.com/app/4744020/Super_Sub_World_Cup/), a silly football game just in time for the football world cup. I'm of course a bit sad that it's not some amazing game and outright success---you keep secretly hoping for miracles I suppose!---but I'm proud of finishing and releasing that game and know next ones will be much better.
+
+Please note that when I say "4 weeks of work", I really mean "1.5 week of frantic full-time work" and then "working on the online store again as I try to find some motivation to 100% finish the game and prepare for release". That part never changes. I can only stay "somewhat interested" in a project for a week, maybe two, and then it's just complete disinterest forever. So I've learned to basically make entire projects in 2 weeks and then give myself some space to slowly, over time, at some point, do the final 20% and release it.
+
+Anyway, this had to be added to the update because it's obviously a big deal and a big step. At the same time, it doesn't change much going forward.
+
+As I expected, being present on Steam lends credibility to my games and makes me show up in a lot more places. I just hope it brings more eyes to my work and my online store, even if the Steam games themselves don't earn a lot. For example, even before releasing that first game, I'd already had way more visits and interaction on my work than ever before.
+
+I'm not going to "full-time develop for Steam", though, because the online store comes first _and_ working on this single game full-time for 2 weeks was _so hard_ that it nearly burned me out. I'll make more Steam games, for sure, but I'll do them in much smaller chunks and with a more reasonable deadline :p
