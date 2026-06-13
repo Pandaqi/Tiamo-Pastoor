@@ -8,7 +8,9 @@ categories: ["Updates"]
 
 I just released a new platform called [Factory of Ideas](https://factoryofideas.com)! 
 
-No, this is _not_ some new project. I'm fully committed to the online store. It's ... quite the _opposite_ in fact. This website is a database of **all my (old) ideas that I will never make**. Completely free, completely public, completely open. Any new ideas I have, which I think I'll probably never use myself, are added too. Basically all ideas that would distract me from the online store are released on this platform, shared so that I won't be tempted to make it myself.
+No, this is _not_ some new project. I'm fully committed to the online store and educational games. 
+
+It's ... quite the _opposite_ in fact. This website is a database of **all my (old) ideas that I will never make**. Completely free, completely public, completely open. Any new ideas I have, which I think I'll probably never use myself, are added too. Basically all ideas that would distract me from the online store are released on this platform, shared so that I won't be tempted to make it myself.
 
 ## Why?
 
