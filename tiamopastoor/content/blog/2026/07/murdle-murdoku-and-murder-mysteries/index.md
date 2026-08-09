@@ -18,7 +18,9 @@ So I write down the URLs to these sources and a few notes about them. I plan to 
 
 Fast forward to now. There are countless _Murdle_ books and they've been at the top of the bestselling list for ages. There are also several _Murdoku_ books now, translated to Dutch, and they're selling out faster than they can stock them in local stores.
 
-And I thought ... dang it :p Every single time I've had this gut feeling, I've been right. Every time I saw something and thought "so smart, that's gonna be big", it takes a few years but it ends up coming true. I've even had this with _athletes_. I don't even watch that much soccer, but I've had this same gut feeling with the exact players that end up becoming the biggest Dutch superstars many years later.
+And I thought ... dang it :p 
+
+Every single time I've had this gut feeling, I've been right. Every time I saw something and thought "so smart, that's gonna be big", it takes a few years but it ends up coming true. I've even had this with _athletes_. I don't even watch that much soccer, but I've had this same gut feeling with the exact players that end up becoming the biggest Dutch superstars many years later.
 
 I _should_ have jumped on the opportunity a year ago and made my own thing. Pick some logic puzzle or challenge and put a cozy crime/murder mystery spin on it. I could be selling a million books myself! I could be rich by now! ;)
 
@@ -38,6 +40,10 @@ As I considered the options, I mostly asked myself: _why?_ and _how?_.
 
 Why did these things become so popular? What can we learn from them?
 
+{{% update %}}
+Good news! Rejoice! I've actually found a great idea and made my own puzzle book since writing this article! It's called [Murderooms](/blog/2026/08/murderooms-a-new-crime-puzzle) and you should be able to buy it in most bookstores or from my [online store](https://thewaywardmelody.com) soon. It also has a free demo if you want to try it.
+{{% /update %}}
+
 ## Why They Blew Up
 
 The puzzles inside _Murdle_ are bog standard grid logic puzzles of the smallest variety. These things have existed for ages and there are countless books with 100 of them inside.
@@ -48,13 +54,13 @@ What's different?
 * It has **theme**. The murder mystery theme gives extra flavor and variety to the puzzles, which would otherwise be abstract number crunching. It makes it "intuitive" as to why they're solving things this way and what steps they need to take.
 * It has **humor**. Can never underestimate this. "Cozy Crime" has endless opportunities for silly crimes, funny characters, and other spicy remarks to liven things up. It baffles me how humor and playfulness is banished from almost everything aimed at adults.
 * It is **easy to grow**. You can let a computer generate the puzzles---it should take only a few days of programming and testing, and only a second to actually run. Then you, as the writer, simply assign _meaning_ to the result. You invent the characters, weapons, setting, etcetera as flavor.
-* It presents all this in a **clean, nice package that you can easily gift someone**. Most things can be acquired for free on the internet ... but humans are still physical beings who like to be lazy. In other words, physical things we can hold in our hands are just worth more to use than something on a screen, and we're not likely to scour the internet ourselves to create a collection of puzzles.
+* It presents all this in a **clean, nice package that you can easily gift someone**. Most things can be acquired for free on the internet ... but humans are still physical beings who like to be lazy. In other words, physical things we can hold in our hands are just worth more to us than something on a screen, and we're not likely to scour the internet ourselves to curate our own collection of puzzles.
 
 _Murdoku_ is a slightly different story. It actually **evolves** the genre. It looked at Sudoku and its variants, and came up with a really clever new twist that hadn't been done before. (It is for that reason that I would personally classify _Murdle_ as an "okay time waster", but _Murdoku_ as an actual "interesting puzzle challenge".)
 
 * It **simplifies Sudokus**. Only two of its rules remain (no two people in same row/column), the others are discarded. Simplification is always great for wide reach and accessibility.
 * It adds **theme (and visualization)**. Thanks to its rules, Murdokus can actually look good and varied. It's not just black numbers on a white grid, it's an actual place with objects and rooms to figure out. And, again, this helps anyone _understand_ what they're doing and why. They have a goal beyond just "filling this grid with numbers". Their goal is to catch a killer. This works wonders _even if_ the theme is pasted on very thinly.
-* It is **easy to grow**. Again, you can generate these sudokus forever with a computer. And then the creator can assign _meaning_: invent the different clues and names and theming of this one. Every Murdoku can be really different because all the clues and deducations you need to make are different. You need to be _creative_ instead of just "learning the trick".
+* It is **easy to grow**. Again, you can generate these sudokus forever with a computer. And then the creator can assign _meaning_: invent the different clues and names and theming of this one. Every Murdoku can be really different because all the clues and deductions you need to make are different. You need to be _creative_ instead of just "learning the trick".
 * It presents all this in a **clean, nice package that you can easily gift someone**.
 
 I also think we shouldn't underestimate the names and presentation. Murdle and Murdoku are great names. Memorable. Look good on a cover. Communicate what they intend to be/do very well. Their presentation is clean and professional. Detailed without overdoing it on said details. 
