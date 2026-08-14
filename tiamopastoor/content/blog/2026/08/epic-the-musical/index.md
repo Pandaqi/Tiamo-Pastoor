@@ -6,7 +6,7 @@ language: en
 categories: ["Miscellaneous"]
 ---
 
-I've known about the existence of EPIC for years. A musical about The Odyssey, made by some young guy and released in instalments, that's all I knew But whenever it popped up, I never had the time or attention to actually listen to it.
+I've known about the existence of EPIC for years. A musical about The Odyssey, made by some young guy and released in instalments, that's all I knew. But whenever it popped up, I never had the time or attention to actually listen to it.
 
 After seeing _The Odyssey_ (by Christopher Nolan), I thought it was the perfect time to actually listen to the full musical!
 

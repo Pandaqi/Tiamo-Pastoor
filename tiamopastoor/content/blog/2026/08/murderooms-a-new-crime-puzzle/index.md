@@ -1,7 +1,7 @@
 ---
 title: "Murderooms: A New Crime Puzzle"
 author: tiamopastoor
-date: 2026-08-11
+date: 2026-08-15
 language: en
 layout: horizontal
 thumb: murderooms-volume-1-cover.webp
@@ -78,6 +78,10 @@ Amazon has an automatic PDF checker. Among other things, it _requires_ that no t
 The idea is nice, the execution just sucks. In practice it means tweaking and re-uploading this big ass PDF file many times and checking if their system approves or not. Amazon's book services are _sloooow_. Sometimes they freeze entirely and you just have to wait and hope it's done by now. Bleh.
 
 In my case, the issue turned out to be _page numbers_. They were, as usual, at the bottom of the page, out of the way of the puzzle (to not attract attention). But, well, Amazon decided they were _too_ close to the bottom, so I had to update my Master Page and put all numbers in a weird spot that I personally don't like.
+
+THEN Amazon rejected my book (for the first time ever, none of my other books were ever delayed) for one silly reason: the text on the spine (the side of the physical book) was too close to the edges. The margins they wanted, however, were ... impossible. In fact, I calculated that _any_ book with less than ~250 pages would have a spine that's smaller than the margin wanted, so erm that must be a mistake right? And if it's not, why don't they just tell me "your spine can't have text below X pages"? 
+
+So I tried a second version of the wraparound cover with much smaller text and bigger margins/whitespace on the spine. Rejected again for the same reason. So I submitted a third version that, indeed, has _no_ text on the spine, which is stupid. (I used color + an icon to hopefully still let you recognize the book from the side, but that's not great.) Every time, Amazon takes 3+ days to "review" an incredibly minor change to a book cover, which in my opinion is not needed at all. I've designed loads of book covers; I know the amount of space I added to the text on the spine was enough to never run into legibility/printing/cutoff issues.
 
 But alright, I fixed all that and made sure to remember the lay-out restrictions for future puzzle books.
 
