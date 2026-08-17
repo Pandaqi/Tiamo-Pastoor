@@ -16,7 +16,7 @@ But, well, our brains work in mysterious ways. After moving on and starting my n
 
 I found several of them promising enough that I had to drop (or rather "pause") that story and try to make my own puzzle book.
 
-And now ... I've released [Murderooms (Volume 1)](@TODO)!
+And now ... I've released [Murderooms (Volume 1)](https://www.amazon.com/dp/B0HFK2LV72)!
 
 ## What is Murderooms?
 
