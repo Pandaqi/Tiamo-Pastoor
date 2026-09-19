@@ -31,19 +31,19 @@ And two things happened.
 * **The things I made became way better.** More polished, more error-free, more _professional_. I completely understand _why_ these processes exist, because they work. I've now seen the difference between my old work and the heavily revised, edited, professionally made work. It's the difference between something people will pay money for---and something for which they don't.
 * **My mental and physical health completely crashed.** When you have no will to do anything, and you get no reward or enjoyment out of anything, then working on the same thing and executing someone else's instructions for months and months is just too much. 
 
-After finishing work on my book (sold by a Dutch publisher), I could not do _anything_ for weeks. All the discipline and good habits in the world can't make up for a soul that feels crushed and drained. Ever since finishing the final edit on that book, I **haven't written a single thing again**. Normally I write one book a month, now I haven't written in half a year for the first time in forever.
+After finishing work on my book (sold by a Dutch publisher), I could not do _anything_ for weeks. All the discipline and good habits in the world can't make up for a soul that feels crushed and drained. Ever since finishing the final edit on that book, I **hadn't written a single thing until this season started**. Normally I write one book a month, now I haven't written in half a year for the first time in forever.
 
 After releasing my Steam game, I could not do _anything_ for weeks. I literally wandered around aimlessly for weeks because my body just wanted to die, but I know that's not good for you, so I tried to stay active and keep doing ... something. In practice, I watched a few episodes from different shows, tried to play video games without success, and otherwise just spend hours doing nothing and sitting alone with my thoughts. I have loads of great game ideas to put on Steam, but now I feel like **I never even want to touch a computer ever again**.
 
 ## "Just Keep Trying Things"
 
-The common advice to people with burn-out or depression is to "keep doing things". To not overwork yourself, of course, but also not to fall completely still. And so I did. I did that for 15 years.
+The common advice to people with burn-out, or depression, or ADHD, is to "keep doing things". To "keep doing what you're doing, one small step at a time". To not overwork yourself, of course, but also not to fall completely still. And so I did. I did that for 15 years.
 
-But these handful of experiences with putting a professional, paid product into the world showed me that it's just _not going to work_ as long as I'm still depressed. I'm not going to be able to work on projects for long enough if I don't get at least a spark of enjoyment back. I'm not going to be able to _sustainably_ do this if I have to recover for a month after each project. Nothing I make will ever be _good enough_ until I'm able to actually enjoy working on it for at least a few months. I've seen the proof now of what it takes---and the proof that you _can't_ earn an income on mediocre rushed projects that you hated to work on from the start.
+But these handful of experiences with putting a professional, paid product into the world showed me that it's just _not going to work_ as long as I'm still in this state. I'm not going to be able to work on projects for long enough if I don't get at least a spark of enjoyment back. I'm not going to be able to _sustainably_ do this if I have to recover for a month after each project. Nothing I make will ever be _good enough_ until I'm able to actually enjoy working on it for at least a few months. I've seen the proof now of what it takes---and the proof that you _can't_ earn an income on mediocre rushed projects that you hated to work on from the start.
 
 To be clear, this is not about "working too hard". Those book edits took one or two hours a week at most. When I worked on that Steam game, I gave myself twice the amount of time I thought I needed, and it allowed me to take days off and take lots of breaks. I know how to take care of my physical health, I know how to pace myself (and projects). In all possible ways you could define "working too hard", I don't think I did.
 
-It's about the fact that every single second I have to forcefully convince myself to do _anything_. I should feel proud or something about releasing a professional video game, I should feel happy that a publisher thought my work was good enough to publish the book, but I _don't_. Not even a single bit. Not secretly. I'm not humble or perfectionist, I just don't fucking care about anything and I haven't for almost 15 years.
+It's about the fact that every single second I have to forcefully convince myself to do _anything_. I should feel proud or something about releasing a professional video game, I should feel happy that a publisher thought my work was good enough to publish the book, but I _don't_. Not even a single bit. Not secretly. I'm not humble or perfectionist, I just don't fucking care about these things and I haven't for almost 15 years.
 
 And so, as the summer started, I wondered what to do. 
 
@@ -65,17 +65,17 @@ How the fuck can you look at someone who's created over one hundred books, and g
 
 My general practitioner keeps forgetting this fact too. Every conversation starts with him assuming I lie in bed all day and I should just "move out and get a job", and then I correct him, and then he's like "well, we don't know the cause of your problems, so just learn to live with it".
 
-Every single time he also assumes that it's _me_ who stops treatment or doesn't put any effort into it. Then I correct him by saying it has always been _the psychologist_ who broke off treatment while I was doing all they asked of me---which he can verify to know I'm speaking the truth---and then he just looks awkward and changes the subject.
+Every single time he also assumes that it's _me_ who stops treatment or doesn't put any effort into it. Then I correct him by saying it has always been _the other person_ who broke off treatment while I was doing all they asked of me---which he can verify to know I'm speaking the truth---and then he just looks awkward and changes the subject.
 
 Great. Great help. 
 
-I just don't know why people keep doing this. I'm a writer, an engineer of mathematics, and someone who long ago decided they were never going to lie again. I can communicate very clearly, in whatever way is required, and be almost obsessed with making sure I tell the objective truth (without subconscious embellishment or framing).
+I just don't know why people keep doing this. I'm a writer, an engineer of mathematics, and someone who long ago decided they were never going to lie again. I can communicate very clearly, in whatever way is required, and be almost obsessed with making sure I tell the objective truth (without subconscious embellishment or framing or making myself look better).
 
 And people just keep pretending I said the opposite of what I said, and assume their own reality about who I really am and what my problems really are. And then---surprise surprise---they treat me for their own assumed diagnosis and it doesn't work at all!
 
 It's honestly a bigger issue. I feel like you need to put on a show, like really _convince_ the hospital/general practitioner how sick you are and how much you are in pain, before they actually take you seriously.
 
-_Because_ I've always worked so hard, tried things, took care of my health as much as I could, I've just never been taken seriously by anyone. Not even my own parents. After 15 years of saying "every single second at university made me suicidal", my mother still regularly recommends that I just "go and study something else then". After 15 years of saying that I don't get enjoyment out of anything, every psychologist still writes in their report that I love to do creative stuff and should just do more of it to be happy. Most of all, everyone just says I "look like a fit young man that exercises enough", and decides that means there are no issues at all and they won't look into my case any more.
+_Because_ I've always worked so hard, tried things, took care of my health as much as I could, I've just never been taken seriously by anyone. Not even my own parents. After 15 years of saying "every single second at university made me suicidal", my mother still regularly recommends that I just "go and study something else that I like then". After 15 years of saying that I don't get enjoyment out of anything, every therapist still writes in their report that I love to do creative stuff and should just do more of it to be happy. Most of all, everyone just says I "look like a fit young man that exercises enough", and decides that means there are no issues at all and they won't look into my case any more.
 
 It's fucking baffling.
 
@@ -98,6 +98,12 @@ And I did that because creativity just happens automatically (so what I do is mo
 Maybe I should just get a random job, move somewhere else, become a ranger or something.
 
 Maybe I should invent random reasons to overthrow the repetitive daily programming and forcefully keep myself away from rushing through more creative projects.
+
+Maybe I should, indeed, just give up, stop doing my chores and paying my bills, moan about how everything hurts, and then I might finally be taken seriously and get some help.
+
+I don't know _what_ I should change or try, but I've lost the conviction that just working hard will lead to anything. Because, as I hopefully explained well enough, writing a book in two weeks while being completely demotivated is just _never_ going to amount to an amazing bestselling book. You need more time, more energy, more revisions, more belief in your work to make it "professional" and "successful". How can I convince others to buy something I made if I can't even honestly tell them I think it's worth buying?
+
+
 
 @TODO
 

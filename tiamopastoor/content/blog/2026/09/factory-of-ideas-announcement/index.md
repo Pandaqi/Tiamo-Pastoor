@@ -1,7 +1,7 @@
 ---
 title: "The Factory of Ideas Has Launched!"
 author: tiamopastoor
-date: 2026-09-20
+date: 2026-10-20
 language: en
 categories: ["Updates"]
 ---
@@ -103,7 +103,7 @@ This project allowed me to shrink my "possible next projects" down to a much mor
 
 I've already updated the website a few times with new ideas. I've grown a practical intuition for this decision now, or so it feels. I can distinguish between "I will make this idea myself" and "This is a nice idea, but for someone else". 
 
-For the most part, any ideas _clearly_ meant for my online store will _not_ be shared. Anything else is fair game. I mean, let me remind you, even after giving away hundreds of ideas for books ... I still have ~20 ideas I have not shared. Twenty book series, with tons of notes and sometimes even drawings and music, all of which I find good enough to keep with me and hope to make in the future.
+For the most part, any ideas _clearly_ meant for my online store will _not_ be shared. Anything else is fair game. I mean, let me remind you, even after giving away hundreds of ideas for books ... I still have ~20 ideas I have not shared. Twenty _book series_, with tons of notes and sometimes even _drawings_ and _music_, all of which I find good enough to keep with me and hope to make in the future. The online store (The Wayward Melody), a separate folder, has over one hundred educational stories that I think are valuable enough to write for it.
 
 I am not running out of ideas, ever. And now I have a nice space where I can immediately post 90% of my ideas because I know I'll never make them myself.
 
@@ -111,7 +111,7 @@ I am not running out of ideas, ever. And now I have a nice space where I can imm
 
 Nah. I never really understood that sentiment. _They_ put in the work and found success, why would _I_ think I deserve any of that? The idea means nothing, it's the execution that counts. The same idea will lead to a thousand different products in the end. 
 
-In fact, that's what already happens every day. A successful game launches, all game devs are inspired and copy that successful idea ... and a year later, a hundred completely different unique games launch. There is nothing new under the sun. If the is idea simple/barebones enough, it has been had a million times. But not by _you_, at _this time_, combined with _these other ideas_, that inspired you to make _this completely new thing_. 
+In fact, that's what already happens every day. A successful game launches, all game devs are inspired and copy that successful idea ... and a year later, a hundred completely different unique games launch. There is nothing new under the sun. If the idea is simple/barebones enough, it has been had a million times. But not by _you_, at _this time_, combined with _these other ideas_, that inspired you to make _this completely new thing_. 
 
 Look at it this way. I am terrible at marketing. I am terrible at making longer projects and seeing them through until the end. Not even "bad" or "I don't like marketing", I am actively _against_ all of that, which hurts my income and projects.
 
@@ -143,7 +143,7 @@ I actually **learned a lot** from this process.
 
 * I learned that I improved massively in the quality and specification of my ideas. All my ideas from the last ~5 years are much stronger, more specific, and written down more neatly (and in English!) compared to all that came before. It's nice to see this improvement and a good sign for the future.
 * I also learned that I should _make a lot more sketches/drawings/demos_. It takes 5 minutes to just quickly sketch the vision in my head, either in Paint or on physical paper, and it would clear up _so many questions_ I have about my own old ideas. It's a shame that I did not do it, and I need to get into the habit of adding visuals to all ideas from now on.
-* And it somehow opened my eyes _again_ just to how busy my brain has always been and how stupidly optimistic it was about how much work I could do in a day. There's nearly a thousand ideas on that website now. Did I _really_ believe I was going to make them all?? How did I fool myself for years that it was okay to get new ideas at ten times the rate I can actually execute/finish them? I'm quite certain now that this was a good move, and that my brain can be more realistic about all of it from now on.
+* And it somehow opened my eyes _again_ just to how busy my brain has always been and how stupidly optimistic it was about how much work I could do in a day. There's nearly a thousand ideas on that website now. Did I _really_ believe I was going to make them all!? How did I fool myself for years that it was okay to get new ideas at ten times the rate I can actually execute/finish them? I'm quite certain now that this was a good move, and that my brain can be more realistic about all of it from now on.
 
 Now I'll be returning to the scheduled programming :p With a hard drive that has "only" some hundred possible ideas to choose from. Honestly, I think I've been too conservative still, and I'll throw way more of those "most promising" ideas online in the future.
 
