@@ -14,7 +14,9 @@ A few months later I had a great idea and invented a new kind of puzzle in the s
 
 This was such a success that my brain kept inventing new puzzle ideas and eventually came up with another one: **CrossMurds**. A twist on crossword puzzles that's simpler, faster, more creative, and doesn't expect you to memorize all sorts of obscure words and facts. And you find the killer at the end ;)
 
-You can buy it on Amazon (and other places): [CrossMurds (Volume 1)](https://www.amazon.com/dp/B0HJXSWF9Q)!
+You can buy it on Amazon (and other places): [CrossMurds (Volume 1)](https://www.amazon.com/dp/B0HKFQFB5T)! 
+
+Or, if you're one of my Dutch readers, get it from Amazon NL to save shipping costs: [CrossMurds (Volume 1)](https://www.amazon.nl/dp/B0HKFQFB5T)
 
 ## What is CrossMurds?
 
