@@ -1,7 +1,7 @@
 ---
 title: "ChronoClue: A New Murder Mystery Puzzle"
 author: tiamopastoor
-date: 2026-10-04
+date: 2026-10-29
 language: en
 layout: horizontal
 thumb: chronoclue-volume-1-header.webp
