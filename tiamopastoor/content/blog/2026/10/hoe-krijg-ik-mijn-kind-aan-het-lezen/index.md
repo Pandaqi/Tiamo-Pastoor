@@ -7,11 +7,11 @@ layout: "vertical"
 categories: ["Miscellaneous"]
 ---
 
-Onlangs kwamen de resultaten naar buiten van het PISA-onderzoek naar (onder andere) leesvaardigheid. Nederland scoort keer op keer steeds slechter op deze lijst. Inmiddels kan slechts een uit drie vijftienjarigen een simpele tekst lezen.
+Onlangs kwamen de resultaten naar buiten van het PISA-onderzoek naar (onder andere) leesvaardigheid. Nederland scoort keer op keer slechter op deze lijst. Inmiddels kan slechts een uit drie vijftienjarigen een simpele tekst lezen.
 
-Dat terwijl onderzoek keer op keer aantoont hoe taalvaardigheid de basis is voor alle andere vaardigheden. ALs je kan lezen, kan je immers alles leren. Je kan informatieve teksten opzoeken. Je kan je gedachten opschrijven, verwoorden, kenbaar maken. Alles gaat makkelijker en de wereld ligt voor je open.
+Dat terwijl onderzoek keer op keer aantoont hoe taalvaardigheid de basis is voor alle andere vaardigheden. Als je kan lezen, kan je immers alles leren. Je kan informatieve teksten opzoeken. Je kan je gedachten opschrijven, verwoorden, kenbaar maken. Alles gaat makkelijker en de wereld ligt voor je open.
 
-Diezelfde onderzoeken bevestigen de eeuwenoude wijsheid bekent bij de meeste docenten: "lezen, lezen, lezen". Hoe meer je kind leest, hoe beter diens taalvaardigheid. Het maakt niet eens uit _wat_ ze lezen, of hoe snel, als ze het maar veel doen. Veel verschillende boeken, verschillende onderwerpen, verschillende schrijfstijlen. 
+Diezelfde onderzoeken bevestigen de eeuwenoude wijsheid bekend bij de meeste docenten: "lezen, lezen, lezen". Hoe meer je kind leest, hoe beter diens taalvaardigheid. Het maakt niet eens uit _wat_ ze lezen, of hoe snel, als ze het maar veel doen. Veel verschillende boeken, verschillende onderwerpen, verschillende schrijfstijlen. 
 
 {{% remark %}}
 Ikzelf heb jaren geleden mezelf leren lezen doordat ik lukraak boeken zoals Harry Potter en Narnia uit onze boekenkast pakte. Ik probeerde het zelf uit te vogelen. Ik _wilde_ de verhalen kunnen lezen. En zo leerde ik mezelf lezen, waardoor ik uiteindelijk een klas mocht overslaan, en inmiddels een schrijver ben met bijna honderd boeken.
@@ -23,7 +23,7 @@ Maar dan is de grote vraag natuurlijk: **"hoe krijg ik mijn kind zo veel aan het
 
 Mensen, maar zeker kinderen, zijn wezens van gemak. Het is makkelijker een boek op te pakken als hij letterlijk voor je op tafel ligt. Het is makkelijker een boek uit te kiezen als je in de bibliotheek staat (of een boekenwinkel), dan als je thuis achter een scherm zomaar iets moet kiezen.
 
-Denk aan mijn voorbeeld hierboven. Bij ons thuis stond een grote boekenkast waar je altijd uit mocht pakken. Dat maakte het zo makkelijk voor mij als klein jochie om gewoon wat te pakken en te proberen te begrijpen.
+Denk aan mijn voorbeeld hierboven. Bij ons thuis stond een grote boekenkast waar je altijd uit mocht pakken. Dat maakte het zo makkelijk voor mij als klein jochie om gewoon wat te pakken en de muur van tekst te proberen te begrijpen.
 
 Dit is ook waarom schermen zo verslavend zijn. Het is vaak _makkelijker_ om je telefoon te pakken en meteen filmpjes te kijken, dan om een boek te openen en te lezen. Het doel is dus om dat te _veranderen_ door je omgeving en gewoontes aan te passen!
 
