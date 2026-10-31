@@ -4,7 +4,7 @@ author: tiamopastoor
 date: 2026-10-03
 language: en
 layout: "horizontal"
-thumb: "muppet-christmas-carol.webp"
+thumb: muppet-christmas-carol.webp
 categories: ["Miscellaneous"]
 ---
 

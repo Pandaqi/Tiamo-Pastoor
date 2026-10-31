@@ -2,7 +2,7 @@
 title: '[Dagboek] De Laatste Piet en diens 40 VerSintsels'
 author: tiamopastoor
 date: 2024-11-05
-thumb: "de_laatste_piet_header"
+thumb: "de-laatste-piet-header"
 layout: "horizontal"
 language: nl
 categories: ["Diary"]
