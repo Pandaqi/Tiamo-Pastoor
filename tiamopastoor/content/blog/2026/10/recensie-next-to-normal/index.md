@@ -4,7 +4,7 @@ author: tiamopastoor
 date: 2026-10-29
 language: nl
 layout: "vertical"
-thumb: next-to-normal-poster.webp
+thumb: "next-to-normal-poster.webp"
 categories: ["Reviews"]
 ---
 
@@ -50,7 +50,7 @@ Gelukkig is dit vooral muziektheater (in plaats van een volledige musical)---een
 
 {{% remark %}}
 Laat ik het anders zeggen: 50 euro voor een kaartje is inderdaad bizar duur voor een bestaande show met 6 acteurs, 4 bandleden, en decor dat op het laatste moment uit het magazijn van de IKEA is gehaald :p Misschien is dat geld naar de vertaling gegaan, die was ook best goed.
-{{% /remar %}}
+{{% /remark %}}
 
 Dus, al met al, als ik toch een rating moet geven, dan 4 uit 5 sterren. 
 

@@ -4,7 +4,7 @@ author: tiamopastoor
 date: 2026-10-22
 language: nl
 layout: "horizontal"
-thumb: de-laatste-piet-header.webp
+thumb: "de-laatste-piet-header.webp"
 categories: ["Miscellaneous"]
 ---
 

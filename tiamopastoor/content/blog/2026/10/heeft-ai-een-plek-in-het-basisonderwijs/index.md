@@ -53,6 +53,12 @@ Dit is geen beschuldiging. Dit is de realiteit én volledig begrip vanuit mijn k
 
 Maar generatieve AI verbannen uit klaslokalen is niet alleen bizar en hypocriet, maar inmiddels ook gewoon praktisch onmogelijk. (Zoals veel reacties op het voorstel gelukkig ook aangeven.)
 
+{{% remark %}}
+Terwijl je dit stuk leest is het handig om wat dingen over mij in het achterhoofd te houden. Ik ben "old school". Ik ben nog van de jongere generatie, maar smartphones bestonden pas toen ik al naar de universiteit ging. Ik ben een fysiek persoon die liever alles fysiek doet, met de hand schrijft, analoog een boek leest, etcetera. Ik heb medelijden met alle kinderen die zijn opgegroeid met laptops en Chromebooks in de klas. Ik heb geen social media. Digitale dingen, kijken naar een scherm, het voelt voor mij niet "echt". 
+
+Ik heb het gevoel dat ik de enige programmeur op aarde ben die nog alles volledig 100% handmatig codeert---totdat ik onlangs moest toegeven hoe ver AI is gekomen en er niet meer omheen kon. Houd dit in het achterhoofd als je dit stuk leest waarin ik zowel positieve als negatieve dingen ga zeggen over AI en het gebruik ervan.
+{{% /remark %}}
+
 ## Realiteit 2: AI & Toekomst
 
 Het meest gehoorde argument tegen dit wetsvoorstel is dat AI de toekomst is. Dat het beter is om kinderen te leren dat het bestaat en hoe je ermee omgaat, dan om het weg te duwen totdat ze er plotseling professioneel mee moeten werken.
