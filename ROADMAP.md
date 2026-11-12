@@ -1,6 +1,12 @@
-# Tiamo Pastoor
+# Roadmap / To-Do
 
-## Optional To-Do
+I created the design of this website when I was a bit younger and more ... playful? Childish? 
+
+The design is _fine_, but I probably want something more minimalist, clean, professional nowadays after publishing hundreds of books and becoming a serious author.
+
+So a big design overhaul that strips away stuff that's not needed and standardizes more things is a good first step.
+
+## Improvements
 
 * Header maybe **DIFFERENT** between homepage and any other page.
 * IDEA (to improve the "Tiamo Pastoor" part): My name, but with letters replaced by typical writing icons (books, feather, pen, something fantasy)
